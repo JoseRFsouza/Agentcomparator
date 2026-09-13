@@ -1,0 +1,52 @@
+﻿timestamp,abordagem,pergunta,documentos_recuperados,resposta,tempo_segundos,precisao,completude,especificidade,rastreabilidade,confianca,score_final
+2026-09-12T19:26:15.736760,faiss,Quantos sistemas hidráulicos tem o Boeing 737?,51___084.PDF | 20___084.PDF | 53___084.PDF | 09___084.PDF | 08___084.PDF,"De acordo com o manual de manutenção do Boeing 737, não há uma informação específica sobre o número de sistemas hidráulicos do avião. No entanto, o manual de manutenção do Boeing 737-300/400/500, disponível no capítulo 51, menciona que o avião tem um sistema hidráulico principal e um sistema hidráulico de emergência.
+
+O sistema hidráulico principal é composto por dois tanques de óleo hidráulico, cada um com uma capacidade de 10,5 galões (39,7 litros), e é alimentado por um motor hidráulico. O sistema hidráulico de emergência é composto por um tanque de óleo hidráulico de emergência com uma capacidade de 2,5 galões (9,5 litros) e é alimentado por um motor hidráulico de emergência.
+
+Além disso, o manual de manutenção também menciona que o avião tem um sistema de pressurização hidráulica, que é responsável por manter a pressão hidráulica no sistema hidráulico principal e de emergência.
+
+Portanto, embora não seja possível determinar com certeza o número exato de sistemas hidráulicos do Boeing 737, é claro que o avião tem pelo menos dois sistemas hidráulicos principais e um sistema hidráulico de emergência.
+
+Referência:
+- Manual de manutenção do Boeing 737-300/400/500, capítulo 51.
+- Manual de manutenção do Boeing 737-300/400/500, capítulo 20.
+- Manual de manutenção do Boeing 737-300/400/500, capítulo 53.
+- Manual de manutenção do Boeing 737-300/400/500, cap",33.126,0.0,0.8035,1.0,0.6667,0.5,55.09
+2026-09-12T19:26:47.168113,faiss,Quantos Flight Control Computers (FCC) tem o Boeing 737?,09___084.PDF | 36___084.PDF | 76_C__084.PDF | 23___084.PDF | 51___084.PDF,"De acordo com o manual de manutenção do Boeing 737, especificamente no capítulo 51 - Estruturas, não há uma referência direta à quantidade de Flight Control Computers (FCC) do avião.
+
+No entanto, é possível encontrar informações sobre os sistemas de controle de voo do Boeing 737 no capítulo 23 - Comunicações, que menciona o sistema de controle de voo (Fly-By-Wire) e os componentes associados.
+
+No capítulo 76 - Controle do Motor (CFM56), há uma referência ao sistema de controle do motor, que inclui o computador de controle do motor (Engine Control Computer) e outros componentes.
+
+No entanto, não há uma referência explícita à quantidade de Flight Control Computers (FCC) no Boeing 737.
+
+Em resumo, não é possível determinar com certeza a quantidade de Flight Control Computers (FCC) do Boeing 737 com base nos manuais fornecidos.",31.423,0.0488,0.9066,0.3333,0.6667,0.0,40.8
+2026-09-12T19:27:21.575750,faiss,Como fazer a inspeção do trem de pouso principal?,49__B_084.PDF | 33___084.PDF | 11___084.PDF | 10___084.PDF | 71_C__084.PDF,"De acordo com o manual PJW 49, capítulo 49-00-00, Configuração 2, página 101, a inspeção do trem de pouso principal é realizada de acordo com o procedimento descrito abaixo:
+
+**Resposta Direta:**
+A inspeção do trem de pouso principal deve ser realizada após cada voo e a cada 100 horas de voo, ou a cada 12 meses, o que ocorrer primeiro. O procedimento de inspeção deve ser realizado por um técnico treinado e qualificado.
+
+**Detalhes Técnicos:**
+O procedimento de inspeção do trem de pouso principal inclui:
+
+* Verificar a pressão dos pneus do trem de pouso principal;
+* Verificar a condição dos freios do trem de pouso principal;
+* Verificar a condição das rodas do trem de pouso principal;
+* Verificar a condição das travas do trem de pouso principal;
+* Verificar a condição das linhas de aço do trem de pouso principal.
+
+**Referência à Fonte:**
+PJW 49, capítulo 49-00-00, Configuração 2, página 101.
+
+**Nota:**
+É importante lembrar que a inspeção do trem de pouso principal é uma tarefa crítica e deve ser realizada com cuidado e atenção para garantir a segurança do avião e de todos os passageiros e tripulantes.",34.399,0.0189,0.8111,0.6667,1.0,1.0,59.18
+2026-09-12T19:28:04.481685,faiss,Qual é a pressão normal de operação do sistema hidráulico A?,49__B_084.PDF | 26___084.PDF | 33___084.PDF | 34___084.PDF | 80_C__084.PDF,"De acordo com o manual de manutenção da aeronave Boeing 737, especificamente no capítulo 80 ""STARTING (CFM56 ENGINES (CFM56-3))"", não há informações diretas sobre a pressão normal de operação do sistema hidráulico A.
+
+No entanto, é possível encontrar informações sobre a pressão hidráulica no sistema hidráulico A no capítulo 26 ""FIRE PROTECTION"" do mesmo manual. De acordo com o capítulo 26, a pressão hidráulica normal para o sistema hidráulico A é de 3000 psi (pounds por polegada quadrada) e a pressão de trabalho é de 2500 psi.
+
+Além disso, é importante verificar as especificações do sistema hidráulico A no manual de manutenção da aeronave Boeing 737, pois as informações podem variar dependendo do modelo da aeronave e da configuração do sistema.
+
+Referência:
+- Capítulo 26 ""FIRE PROTECTION"" do manual de manutenção da aeronave Boeing 737.
+- Capítulo 80 ""STARTING (CFM56 ENGINES (CFM56-3))"" do manual de manutenção da aeronave Boeing 737.",42.897,0.0455,0.8773,1.0,0.6667,0.5,58.3
+2026-09-12T19:29:05.625337,faiss,O que acontece se houver falha no sistema hidráulico B?,76_C__084.PDF | 56___084.PDF | 28___084.PDF | 12___084.PDF | 30___084.PDF,[TIMEOUT] A API demorou mais de 60s.,61.138,0.0,0.342,0.0,0.0,1.0,18.55
