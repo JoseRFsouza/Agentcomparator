@@ -161,7 +161,7 @@ class LLMJudge:
     """Usa LLM como juiz para métricas semânticas."""
 
     def __init__(self, model: str = None):
-        self.model = model or config.LLM_MODEL
+        self.model = model or config.LLM_JUDGE
         self.url = config.NVIDIA_CHAT_URL
         self.headers = {
             "Authorization": f"Bearer {config.NVIDIA_API_KEY}",

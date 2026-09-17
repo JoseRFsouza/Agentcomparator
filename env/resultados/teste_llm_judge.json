@@ -1,0 +1,39 @@
+[
+  {
+    "modelo": "openai/gpt-oss-20b",
+    "funciona": false,
+    "testes": {
+      "resposta_basica": {
+        "ok": true,
+        "resposta": "OK"
+      },
+      "avaliacao_corretude": {
+        "ok": false,
+        "erro": "HTTPSConnectionPool(host='integrate.api.nvidia.com', port=443): Read timed out. (read timeout=60)"
+      },
+      "consistencia_numerica": {
+        "ok": false,
+        "erro": "'NoneType' object has no attribute 'strip'"
+      }
+    }
+  },
+  {
+    "modelo": "google/diffusiongemma-26b-a4b-it",
+    "funciona": true,
+    "testes": {
+      "resposta_basica": {
+        "ok": true,
+        "resposta": ""
+      },
+      "avaliacao_corretude": {
+        "ok": true,
+        "resposta": "1.0"
+      },
+      "consistencia_numerica": {
+        "ok": true,
+        "resposta": "0.0"
+      }
+    },
+    "so_numero": true
+  }
+]

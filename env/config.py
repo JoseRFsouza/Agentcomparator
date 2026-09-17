@@ -45,13 +45,13 @@ RESULTADOS_DIR.mkdir(exist_ok=True)
 # ----------------------------------------------------------------------------
 # CONFIGURAÇÃO NVIDIA API (LLM e embeddings)
 # ----------------------------------------------------------------------------
-NVIDIA_API_KEY = "XXXXXXXXXXXXXXXXXXXXXXXX"  # <-- preencher com a chave de API NVIDIA
+NVIDIA_API_KEY = "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"
 NVIDIA_CHAT_URL = "https://integrate.api.nvidia.com/v1/chat/completions"
 NVIDIA_EMBED_URL = "https://integrate.api.nvidia.com/v1/embeddings"
 
 # Modelo LLM usado em TODAS as abordagens (para comparação justa)
 LLM_MODEL = "meta/llama-3.2-11b-vision-instruct"
-
+LLM_JUDGE = "google/diffusiongemma-26b-a4b-it"  # modelo usado para avaliação semântica (testado e funcionando)
 # ----------------------------------------------------------------------------
 # PARÂMETROS DE RECUPERAÇÃO
 # ----------------------------------------------------------------------------

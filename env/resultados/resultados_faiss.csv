@@ -1,52 +1,25 @@
 ﻿timestamp,abordagem,pergunta,documentos_recuperados,resposta,tempo_segundos,precisao,completude,especificidade,rastreabilidade,confianca,score_final
-2026-09-14T01:02:27.785583,faiss,Quantos sistemas hidráulicos tem o Boeing 737?,51___084.PDF | 20___084.PDF | 53___084.PDF | 09___084.PDF | 08___084.PDF,"De acordo com o manual de manutenção do Boeing 737, não há uma resposta direta à pergunta sobre a quantidade de sistemas hidráulicos do avião. No entanto, podemos inferir que o Boeing 737 tem pelo menos um sistema hidráulico, pois o manual menciona tarefas de manutenção relacionadas à hidráulica, como a verificação da pressão hidráulica (por exemplo, 09-10-00-582-001201 RAMALL Towing TASK).
-
-No entanto, é possível que o Boeing 737 tenha mais de um sistema hidráulico, pois o manual menciona diferentes componentes hidráulicos, como bombas hidráulicas (por exemplo, 53-05-03 201 Mar25/2015) e válvulas hidráulicas (por exemplo, 51-00-51 201 Mar25/2015).
-
-Para obter uma resposta mais precisa, é necessário consultar o manual de manutenção específico do Boeing 737, que pode fornecer informações detalhadas sobre os sistemas hidráulicos do avião.
-
-Referência:
-- 09-10-00 201 RAMALL Towing TASK
-- 53-05-03 201 Mar25/2015
-- 51-00-51 201 Mar25/2015",7.884,0.1132,0.9,0.6667,0.6667,0.5,54.23
-2026-09-14T01:02:34.441591,faiss,Quantos Flight Control Computers (FCC) tem o Boeing 737?,09___084.PDF | 36___084.PDF | 76_C__084.PDF | 23___084.PDF | 51___084.PDF,"De acordo com o manual de manutenção do Boeing 737, especificamente no capítulo 51 - ESTRUTURAS, não há informações diretas sobre a quantidade de Flight Control Computers (FCC) no avião.
-
-No entanto, é possível encontrar informações sobre os sistemas de controle de voo do Boeing 737 no capítulo 23 - COMUNICAÇÕES, que menciona o sistema de controle de voo (Flight Control System) e seus componentes, incluindo os computadores de controle de voo (Flight Control Computers).
-
-No capítulo 23-11-01, página 2, é mencionado que o sistema de controle de voo do Boeing 737 utiliza dois computadores de controle de voo (FCC) para controlar o avião.
-
-Portanto, com base nas informações disponíveis, podemos concluir que o Boeing 737 utiliza dois Flight Control Computers (FCC) para controlar o avião.
-
-Referência: 
-- Capítulo 51 - ESTRUTURAS, página não especificada (não encontrado)
-- Capítulo 23 - COMUNICAÇÕES, página 2, capítulo 23-11-01",6.649,0.0,0.8783,0.6667,1.0,0.0,50.29
-2026-09-14T01:02:44.557069,faiss,Como fazer a inspeção do trem de pouso principal?,49__B_084.PDF | 33___084.PDF | 11___084.PDF | 10___084.PDF | 71_C__084.PDF,"De acordo com o manual de manutenção da aeronave Boeing 737, a inspeção do trem de pouso principal é descrita no capítulo 71, seção 71-00-00, subseção 71-00-00 201 a 71-00-00 220.
-
-A inspeção do trem de pouso principal inclui a verificação da condição geral do trem, incluindo a presença de danos ou desgaste excessivo nos componentes, como os pneus, os amortecedores e as molas. Além disso, a inspeção deve incluir a verificação da pressão dos pneus, que deve ser feita com um medidor de pressão de pneu adequado.
-
-A pressão dos pneus deve ser verificada em cada pneu do trem de pouso principal, e deve ser ajustada de acordo com as especificações do fabricante. A pressão recomendada para os pneus do trem de pouso principal da aeronave Boeing 737 é de 2,5 a 3,5 psi (pounds por polegada quadrada) para os pneus dianteiros e 3,5 a 4,5 psi para os pneus traseiros.
-
-Além disso, a inspeção do trem de pouso principal deve incluir a verificação da condição dos amortecedores e das molas, que devem ser inspecionados por meio de uma inspeção visual e por meio de um teste de compressão. A inspeção deve também incluir a verificação da condição dos componentes de segurança, como os freios de estacionamento e os dispositivos de segurança do trem de pouso principal.
-
-Referência: Capítulo 71, seção 71-00-00, subseção 71-00-00 201 a 71",10.111,0.0,0.8565,1.0,0.6667,1.0,61.41
-2026-09-14T01:02:53.813834,faiss,Qual é a pressão normal de operação do sistema hidráulico A?,49__B_084.PDF | 26___084.PDF | 33___084.PDF | 34___084.PDF | 80_C__084.PDF,"De acordo com o manual de manutenção da aeronave Boeing 737, especificamente no capítulo 80 ""STARTING (CFM56 ENGINES (CFM56-3))"", não há informações diretas sobre a pressão normal de operação do sistema hidráulico A.
-
-No entanto, é possível encontrar informações sobre a pressão hidráulica no sistema hidráulico A no capítulo 26 ""FIRE PROTECTION"" do mesmo manual. No parágrafo 26-10-01, é mencionado que a pressão hidráulica no sistema hidráulico A deve ser de 3000 psi (pounds por polegada quadrada) durante a operação normal.
-
-Além disso, no capítulo 49 ""AUXILIARY POWER UNIT (GTCP36-280 ENGINES)"" também há informações sobre a pressão hidráulica no sistema hidráulico A. No parágrafo 49-00-00, é mencionado que a pressão hidráulica no sistema hidráulico A deve ser de 3000 psi (pounds por polegada quadrada) durante a operação normal.
-
-Portanto, com base nas informações disponíveis nos capítulos 26 e 49 do manual de manutenção da aeronave Boeing 737, a pressão normal de operação do sistema hidráulico A é de 3000 psi (pounds por polegada quadrada).
-
-Referência:
-- Capítulo 26 ""FIRE PROTECTION"" do manual de manutenção da aeronave Boeing 737.
-- Capítulo 49 ""AUXILIARY POWER UNIT (GTCP36-280 ENGINES)"" do manual de manutenção da aeronave Boeing 737.",9.253,0.0889,0.8444,1.0,0.6667,0.5,58.78
-2026-09-14T01:03:06.068912,faiss,O que acontece se houver falha no sistema hidráulico B?,76_C__084.PDF | 56___084.PDF | 28___084.PDF | 12___084.PDF | 30___084.PDF,"Resposta direta:
-Se houver falha no sistema hidráulico B, o sistema de controle da aeronave pode ser afetado, pois o sistema hidráulico B fornece pressão hidráulica para os controles de voo, como o elevador, o aileron e o flap. Uma falha no sistema hidráulico B pode causar perda de pressão hidráulica, o que pode resultar em perda de controle da aeronave.
+2026-09-17T03:47:18.871954,faiss,Qual é a distância em polegadas entre a BBL (Body Buttock Line) e a BWL 208.10 (topo da viga principal do piso) na aeronave 737‑300/400/500?,06___084.PDF | 36___084.PDF | 07___084.PDF | 33___084.PDF | 55___084.PDF,"Resposta direta:
+A distância entre a BBL (Body Buttock Line) e a BWL 208.10 (topo da viga principal do piso) na aeronave 737-300/400/500 não é especificada nos manuais fornecidos. No entanto, é possível encontrar a distância entre a BBL e a BWL 208.10 na aeronave 737-300/400/500 no manual de manutenção da Boeing.
 
 Detalhes técnicos:
-De acordo com o manual de manutenção da aeronave Boeing 737, o sistema hidráulico B é responsável por fornecer pressão hidráulica para os controles de voo, incluindo o elevador, o aileron e o flap. O sistema hidráulico B é composto por um motor hidráulico, um reservatório de óleo hidráulico e um conjunto de tubos e conexões que distribuem a pressão hidráulica para os controles de voo. Se houver falha no sistema hidráulico B, o motor hidráulico pode não funcionar corretamente, o que pode causar perda de pressão hidráulica e perda de controle da aeronave.
+A BBL (Body Buttock Line) é uma linha que define a largura da fuselagem da aeronave, enquanto a BWL 208.10 é a altura da viga principal do piso. Para encontrar a distância entre essas duas linhas, é necessário consultar o manual de manutenção da Boeing ou o manual de projeto da aeronave.
 
 Referência à fonte:
-Conforme o manual de manutenção da aeronave Boeing 737, o sistema hidráulico B é descrito no capítulo 28, seção 10-00, subseção 201. Além disso, o manual também descreve as consequências de uma falha no sistema hidráulico B, incluindo a perda de controle da aeronave. (Fonte: Boeing 737, Manual de Manutenção, Capítulo 28, Seção 10-00, Subseção 201).
+Não é possível encontrar a distância entre a BBL e a BWL 208.10 na aeronave 737-300/400/500 nos manuais fornecidos. No entanto, é possível consultar o manual de manutenção da Boeing ou o manual de projeto da aeronave para obter essa informação.",7.787,0.0244,0.8359,1.0,0.6667,0.5,56.63
+2026-09-17T03:47:26.346906,faiss,Qual é a distância em polegadas entre o BSTA (ponto 130.00) e a BWL 208.10 (topo da viga principal do piso) na aeronave 737‑300/400/500?,33___084.PDF | 71_C__084.PDF | 06___084.PDF | 09___084.PDF | 10___084.PDF,"De acordo com o manual de manutenção da aeronave Boeing 737-300/400/500, especificamente no capítulo 06 - DIMENSÕES E ÁREAS, a distância entre o BSTA (ponto 130.00) e a BWL 208.10 (topo da viga principal do piso) pode ser encontrada na tabela de dimensões da aeronave.
 
-Nota",12.251,0.0182,0.8364,0.3333,1.0,1.0,53.12
+No capítulo 06, na seção 06-13-00 - PRINCIPAL DIMENSÕES E ÁREAS, há uma tabela que lista as dimensões da aeronave, incluindo a distância entre o BSTA e a BWL 208.10.
+
+Segundo a tabela, a distância entre o BSTA (ponto 130.00) e a BWL 208.10 (topo da viga principal do piso) é de 72,5 polegadas.
+
+Referência: 
+- Manual de manutenção da aeronave Boeing 737-300/400/500, capítulo 06 - DIMENSÕES E ÁREAS, seção 06-13-00 - PRINCIPAL DIMENSÕES E ÁREAS.",7.468,0.0385,0.8742,1.0,0.6667,1.0,63.01
+2026-09-17T03:47:34.434258,faiss,Qual é a distância em polegadas entre a BWL 0.00 e a superfície mais baixa do fuselagem (BWL 0.00 está 148.5 polegadas abaixo da superfície mais baixa)?,33___084.PDF | 71_C__084.PDF | 10___084.PDF | 21___084.PDF | 38___084.PDF,"Resposta direta:
+A distância entre a BWL 0.00 e a superfície mais baixa do fuselagem (BWL 0.00 está 148.5 polegadas abaixo da superfície mais baixa) não está disponível nos manuais fornecidos.
+
+Detalhes técnicos:
+Os manuais fornecidos não contêm informações sobre a distância entre a BWL 0.00 e a superfície mais baixa do fuselagem. No entanto, é possível que essa informação esteja disponível em outros manuais ou fontes de dados.
+
+Referência à fonte:
+Nenhum manual fornecido contém a informação solicitada.",8.082,0.0303,0.96,0.3333,0.6667,0.5,46.58

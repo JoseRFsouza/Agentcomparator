@@ -44,13 +44,22 @@ ABORDAGENS = {
 
 def carregar_perguntas_gt(amostra: int = None) -> list:
     """Carrega perguntas do ground_truth_amm_400.json."""
+    import random
+
     gt_path = config.BASE_DIR / "ground_truth_amm_400.json"
     with open(gt_path, "r", encoding="utf-8") as f:
         data = json.load(f)
 
     perguntas = [item["question"] for item in data]
+
+    # Se solicitar amostra, seleciona aleatoriamente
     if amostra:
-        perguntas = perguntas[:amostra]
+        if amostra >= len(perguntas):
+            print(f"⚠️  Solicitado {amostra} perguntas, mas apenas {len(perguntas)} disponíveis.")
+            amostra = len(perguntas)
+        # Seleciona aleatoriamente sem reposição
+        perguntas = random.sample(perguntas, amostra)
+
     return perguntas
 
 

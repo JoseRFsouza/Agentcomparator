@@ -30,7 +30,27 @@
       "rastreabilidade": 1.0,
       "confianca": 1.0
     },
-    "score_final": 69.32
+    "score_final": 69.32,
+    "ground_truth": "208.10 polegadas",
+    "ragas_metrics": {
+      "faithfulness": 0.0,
+      "answer_relevancy": 1.0,
+      "context_precision": 0.0,
+      "context_recall": 0.0,
+      "answer_correctness": 1.0,
+      "answer_similarity": 1.0,
+      "numeric_verified": true
+    },
+    "ragas_score": 0.5714,
+    "numeric_check": {
+      "gt_value": 208.1,
+      "answer_value": 208.1,
+      "gt_unit": "in",
+      "answer_unit": "in",
+      "gt_comparison": "=",
+      "numeric_match": true,
+      "unit_match": true
+    }
   },
   {
     "timestamp": "2026-09-17T03:46:05.964825",
@@ -63,7 +83,27 @@
       "rastreabilidade": 1.0,
       "confianca": 0.5
     },
-    "score_final": 62.02
+    "score_final": 62.02,
+    "ground_truth": "78.10 polegadas",
+    "ragas_metrics": {
+      "faithfulness": 1.0,
+      "answer_relevancy": 1.0,
+      "context_precision": 0.0,
+      "context_recall": 1.0,
+      "answer_correctness": 0.0,
+      "answer_similarity": 0.0,
+      "numeric_verified": false
+    },
+    "ragas_score": 0.4286,
+    "numeric_check": {
+      "gt_value": 78.1,
+      "answer_value": 130.0,
+      "gt_unit": "in",
+      "answer_unit": "in",
+      "gt_comparison": "=",
+      "numeric_match": false,
+      "unit_match": true
+    }
   },
   {
     "timestamp": "2026-09-17T03:46:09.853876",
@@ -96,6 +136,26 @@
       "rastreabilidade": 1.0,
       "confianca": 1.0
     },
-    "score_final": 64.83
+    "score_final": 64.83,
+    "ground_truth": "148.5 polegadas",
+    "ragas_metrics": {
+      "faithfulness": 0.0,
+      "answer_relevancy": 1.0,
+      "context_precision": 0.0,
+      "context_recall": 0.0,
+      "answer_correctness": 0.0,
+      "answer_similarity": 1.0,
+      "numeric_verified": false
+    },
+    "ragas_score": 0.2857,
+    "numeric_check": {
+      "gt_value": 148.5,
+      "answer_value": 0.0,
+      "gt_unit": "in",
+      "answer_unit": "in",
+      "gt_comparison": "=",
+      "numeric_match": false,
+      "unit_match": true
+    }
   }
 ]

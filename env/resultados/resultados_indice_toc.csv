@@ -1,59 +1,25 @@
 ﻿timestamp,abordagem,pergunta,documentos_recuperados,resposta,tempo_segundos,precisao,completude,especificidade,rastreabilidade,confianca,score_final
-2026-09-14T01:01:17.321417,indice_toc,Quantos sistemas hidráulicos tem o Boeing 737?,38___084.PDF (ATA 38 - TOILET DRAIN VALVE CONTROL CABLE - REMOVAL/INSTALL) | 47___084.PDF (ATA 47 - ) | 47___084.PDF (ATA 47 - 737-47-1008) | 47___084.PDF (ATA 47 - 737-47-1008) | 47___084.PDF (ATA 47 - 737-47-1008),"De acordo com o manual de manutenção da Boeing 737, o sistema hidráulico é composto por dois sistemas independentes: o sistema hidráulico principal e o sistema hidráulico secundário.
+2026-09-17T03:46:46.718982,indice_toc,Qual é a distância em polegadas entre a BBL (Body Buttock Line) e a BWL 208.10 (topo da viga principal do piso) na aeronave 737‑300/400/500?,28___084.PDF (ATA 28 - ) | 57___084.PDF (ATA 57 - ) | 06___084.PDF (ATA 06 - BODY STATION DIAGRAM - MAINTENANCE PRACTICES) | 27___084.PDF (ATA 27 - AILERON BODY QUADRANT - REMOVAL/INSTALLATION),"De acordo com o manual de manutenção da aeronave Boeing 737-300/400/500, específicamente no capítulo 06 - DIMENSÕES E ÁREAS, na seção 06-13-00 - PRINCIPAIS DIMENSÕES E ÁREAS, podemos encontrar a informação necessária.
 
-O sistema hidráulico principal é responsável por fornecer pressão hidráulica para os sistemas de controle da aeronave, incluindo os sistemas de flutuação, direção e freios. O sistema hidráulico secundário é uma reserva do sistema hidráulico principal e é usado em caso de falha do sistema principal.
+A distância entre a BBL (Body Buttock Line) e a BWL 208.10 (topo da viga principal do piso) na aeronave 737-300/400/500 é de 18,25 polegadas.
 
-Portanto, o Boeing 737 tem dois sistemas hidráulicos: o sistema hidráulico principal e o sistema hidráulico secundário.
+Fonte: Manual de manutenção da aeronave Boeing 737-300/400/500, capítulo 06 - DIMENSÕES E ÁREAS, seção 06-13-00 - PRINCIPAIS DIMENSÕES E ÁREAS, página 201.
+
+Referência: 06-13-00-222-001201 RAMALL.",5.489,0.1667,0.9385,1.0,1.0,1.0,73.46
+2026-09-17T03:46:56.239015,indice_toc,Qual é a distância em polegadas entre o BSTA (ponto 130.00) e a BWL 208.10 (topo da viga principal do piso) na aeronave 737‑300/400/500?,06___084.PDF (ATA 06 - PRINCIPAL DIMENSIONS AND AREAS - MAINTENANCE PRACT) | 05___084.PDF (ATA 05 - ZONE 400 - RIGHT WING - MAINTENANCE PRACTICES) | 05___084.PDF (ATA 05 - ZONE 500 - LEFT ENGINE - MAINTENANCE PRACTICES) | 51___084.PDF (ATA 51 - ),"De acordo com o manual ATA 29, na seção 06-42-00, está disponível a informação sobre as dimensões da aeronave 737-300/400/500. No entanto, não há uma referência específica para a distância entre o BSTA (ponto 130.00) e a BWL 208.10 (topo da viga principal do piso) na aeronave 737-300/400/500.
+
+No entanto, é possível encontrar a informação necessária na seção 06-42-00, que descreve as dimensões da aeronave. De acordo com essa seção, a distância entre o BSTA (ponto 130.00) e a BWL 208.10 (topo da viga principal do piso) é de aproximadamente 96,5 polegadas.
 
 Referência: 
-- Manual de Manutenção da Boeing 737, Capítulo 28, Seção 28-11-00, ""Sistema Hidráulico Principal"".
-- Manual de Manutenção da Boeing 737, Capítulo 28, Seção 28-11-21, ""Sistema Hidráulico Secundário"".",17.347,0.0,0.8361,0.6667,0.6667,1.0,54.24
-2026-09-14T01:01:24.485208,indice_toc,Quantos Flight Control Computers (FCC) tem o Boeing 737?,22___084.PDF (ATA 22 - ) | 27___084.PDF (ATA 27 - FLIGHT CONTROL CABLE GUARD - REMOVAL/INSTALLATION) | 27___084.PDF (ATA 27 - FLIGHT SPOILER CONTROL SYSTEM - ADJUSTMENT/TEST) | 22___084.PDF (ATA 22 - DIGITAL FLIGHT CONTROL SYSTEM - ADJUSTMENT/TEST) | 27___084.PDF (ATA 27 - FLIGHT CONTROL SHEAR RIVETS - MAINTENANCE PRACTICE),"De acordo com o manual ATA 29, o Boeing 737 possui dois Flight Control Computers (FCC), conhecidos como FCC 1 e FCC 2.
+- Manual ATA 29, seção 06-42-00, Boeing 737-300/400/500 Aircraft Maintenance Manual.",9.448,0.0968,0.926,1.0,0.6667,0.5,61.05
+2026-09-17T03:47:07.814433,indice_toc,Qual é a distância em polegadas entre a BWL 0.00 e a superfície mais baixa do fuselagem (BWL 0.00 está 148.5 polegadas abaixo da superfície mais baixa)?,05___084.PDF (ATA 05 - ZONE 100 - UPPER FUSELAGE - MAINTENANCES PRACTICES) | 51___084.PDF (ATA 51 - FUSELAGE DRAIN VALVE - REMOVAL/INSTALLATION) | 05___084.PDF (ATA 05 - CORROSION PREVENTION TASKS - FUSELAGE - INSPECTION) | 05___084.PDF (ATA 05 - ZONE 200 - LOWER FUSELAGE - MAINTENANCE PRACTICES),"Resposta direta:
+A distância entre a BWL 0.00 e a superfície mais baixa do fuselagem (BWL 0.00 está 148.5 polegadas abaixo da superfície mais baixa) não é fornecida nos manuais fornecidos. No entanto, é possível calcular essa distância com base na informação fornecida.
 
 Detalhes técnicos:
-
-* Cada FCC é responsável por processar informações de sensores e controlar os movimentos do avião.
-* Os FCCs trabalham em conjunto para garantir a estabilidade e o controle do avião.
-* Cada FCC tem sua própria unidade de processamento e memória, e eles compartilham informações através de uma rede de comunicação.
+A BWL 0.00 é uma referência de nível de fuselagem e é usada como ponto de referência para medir a altura do fuselagem. A superfície mais baixa do fuselagem é a parte mais baixa do fuselagem, que pode variar dependendo do modelo e da configuração da aeronave.
 
 Referência à fonte:
+Não há informação específica sobre a distância entre a BWL 0.00 e a superfície mais baixa do fuselagem nos manuais fornecidos. No entanto, é possível consultar o manual de manutenção da aeronave (AMM) ou o manual de operação da aeronave (OMM) para obter essa informação.
 
-* Manual ATA 29, ""Flight Control Computer Removal"", seção 22-01-10, item 1.",7.117,0.0952,0.92,1.0,1.0,1.0,70.86
-2026-09-14T01:01:49.750626,indice_toc,Como fazer a inspeção do trem de pouso principal?,12___084.PDF (ATA 12 - ) | 32___084.PDF (ATA 32 - ) | 32___084.PDF (ATA 32 - ) | 12___084.PDF (ATA 12 - MAIN LANDING GEAR - SERVICING),"De acordo com o capítulo 32 do AMM (Airplane Maintenance Manual), a inspeção do trem de pouso principal é realizada de acordo com o procedimento descrito abaixo:
-
-**Resposta Direta:**
-A inspeção do trem de pouso principal deve ser realizada de acordo com o procedimento descrito no capítulo 32 do AMM, específicamente no tópico 32-09-00. O procedimento inclui a verificação da condição geral do trem de pouso, incluindo a verificação da pressão dos pneus, a inspeção das rodas e das travas, e a verificação da condição dos componentes do trem de pouso.
-
-**Detalhes Técnicos:**
-O procedimento de inspeção do trem de pouso principal é descrito no capítulo 32 do AMM, tópico 32-09-00. O procedimento inclui as seguintes etapas:
-
-* Verificar a pressão dos pneus do trem de pouso principal (32-09-01-401)
-* Inspecionar as rodas e as travas do trem de pouso principal (32-09-01-402)
-* Verificar a condição dos componentes do trem de pouso principal, incluindo a coluna, a travessa e os amortecedores (32-09-01-403)
-* Verificar a condição das conexões e dos fios do trem de pouso principal (32-09-01-404)
-* Realizar uma verificação visual geral do trem de pouso principal (32-09-01-405)
-
-**Referência à Fonte:**
-De acordo com o capítulo 32 do AMM, tópico 32-09-00, ""Inspeção do Trem de Pouso Principal"".",25.223,0.0,0.7461,0.6667,1.0,1.0,56.99
-2026-09-14T01:02:02.201439,indice_toc,Qual é a pressão normal de operação do sistema hidráulico A?,22___084.PDF (ATA 22 - ) | 32___084.PDF (ATA 32 - ) | 34___084.PDF (ATA 34 - ) | 74_C__084.PDF (ATA 74 - ) | 12___084.PDF (ATA 12 - ),"De acordo com o manual de manutenção da aeronave Boeing 737, a pressão normal de operação do sistema hidráulico A é de 3000 psi (pounds por polegada quadrada). Esta informação está disponível no capítulo 12-11-00 do manual de manutenção, que trata da lubrificação do sistema de controle de aileron.
-
-Detalhes técnicos:
-
-* O sistema hidráulico A é responsável por fornecer pressão hidráulica para o controle de aileron, elevador e flap.
-* A pressão normal de operação do sistema hidráulico A é de 3000 psi.
-* A pressão de operação pode variar dependendo da condição da aeronave e do tipo de manutenção realizada.
-
-Referência à fonte:
-
-* Manual de manutenção da aeronave Boeing 737, capítulo 12-11-00, ""Lubrificação do sistema de controle de aileron"".",12.405,0.0263,0.894,1.0,1.0,1.0,68.14
-2026-09-14T01:02:17.182343,indice_toc,O que acontece se houver falha no sistema hidráulico B?,05___084.PDF (ATA 05 - CONDITIONED AIR PACK OUTLET DUCT SYSTEM FAILURE - ) | 22___084.PDF (ATA 22 - ) | 32___084.PDF (ATA 32 - ) | 34___084.PDF (ATA 34 - ) | 74_C__084.PDF (ATA 74 - ),"Resposta direta:
-Se houver falha no sistema hidráulico B, o sistema de ignição (CFM56-3) pode ser afetado. De acordo com o manual de manutenção da Boeing 737, o sistema de ignição é alimentado por um sistema hidráulico, e uma falha nesse sistema pode causar problemas de ignição.
-
-Detalhes técnicos:
-O sistema hidráulico B é responsável por fornecer pressão hidráulica para o sistema de ignição. Se houver falha nesse sistema, o sistema de ignição pode não receber a pressão hidráulica necessária para funcionar corretamente. Isso pode causar problemas de ignição, incluindo falhas de ignição ou ignição irregular.
-
-Referência à fonte:
-De acordo com o manual de manutenção da Boeing 737, o sistema de ignição é descrito no capítulo 74, seção 00-00, e o sistema hidráulico B é descrito no capítulo 32, seção 09-00. Além disso, o manual de manutenção da Boeing 737 também destaca a importância de realizar inspeções regulares do sistema de ignição e do sistema hidráulico B para evitar problemas de ignição.
-
-Fonte:
-Manual de manutenção da Boeing 737, capítulo 74, seção 00-00; capítulo 32, seção 09-00.",14.934,0.0213,0.8462,0.3333,1.0,1.0,53.46
+Observação:
+É importante notar que a distância entre a BWL 0.00 e a superfície mais baixa do fuselagem pode variar dependendo do modelo e da configuração da aeronave. Além disso, é importante consultar os manuais de manutenção e operação da aeronave para obter informações precisas e atualizadas sobre a aeronave.",11.507,0.0,0.8927,0.3333,0.6667,0.0,38.98

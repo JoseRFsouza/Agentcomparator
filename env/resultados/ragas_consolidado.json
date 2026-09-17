@@ -1,14 +1,14 @@
 {
   "toc_chunks": {
-    "total_questions": 3,
-    "avg_faithfulness": 0.6333,
-    "avg_answer_relevancy": 0.9667,
-    "avg_context_precision": 0.5667,
-    "avg_context_recall": 0.8667,
-    "avg_answer_correctness": 0.3333,
-    "avg_answer_similarity": 0.6376,
-    "avg_ragas_score": 0.6197,
-    "numeric_accuracy": 0.3333,
-    "numeric_questions": 3
+    "total_questions": 5,
+    "avg_faithfulness": 0.12,
+    "avg_answer_relevancy": 0.7,
+    "avg_context_precision": 0.0,
+    "avg_context_recall": 0.0,
+    "avg_answer_correctness": 0.2,
+    "avg_answer_similarity": 0.28,
+    "avg_ragas_score": 0.2,
+    "numeric_accuracy": 0.0,
+    "numeric_questions": 4
   }
 }

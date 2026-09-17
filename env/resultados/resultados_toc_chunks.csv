@@ -1,25 +1,62 @@
 ﻿timestamp,abordagem,pergunta,documentos_recuperados,resposta,tempo_segundos,precisao,completude,especificidade,rastreabilidade,confianca,score_final
-2026-09-16T21:08:26.416960,toc_chunks,Qual é a distância em polegadas entre a BBL (Body Buttock Line) e a BWL 208.10 (topo da viga principal do piso) na aeronave 737‑300/400/500?,06___084.PDF,"Resposta direta:
-A distância entre a BBL (Body Buttock Line) e a BWL 208.10 (topo da viga principal do piso) na aeronave 737-300/400/500 é de 130,00 polegadas.
+2026-09-17T04:06:55.982853,toc_chunks,Qual é o código da tarefa que descreve a 'APU Operation Test'?,26___084.PDF,"De acordo com o manual, a tarefa que descreve a ""APU Operation Test"" não é explicitamente mencionada no contexto fornecido. No entanto, a tarefa que se aproxima disso é a ""TestSwitch and Test Lights"" (D), que descreve a verificação da continuidade do squib e a ativação dos test lights.
+
+No entanto, se considerarmos a seção ""5. Operation (Figure1)"" da página 5 do manual, podemos encontrar uma referência à ""APU Operation Test"". Nessa seção, é descrito o procedimento para testar a operação do APU, que inclui a verificação da continuidade do squib e a ativação dos test lights.
+
+Portanto, embora não haja um código de tarefa específico para a ""APU Operation Test"", podemos inferir que a tarefa mais próxima é a ""TestSwitch and Test Lights"" (D).
+
+Referência: [Fonte: 26___084.PDF | score 0.3169]",23.742,0.1556,0.9288,0.6667,1.0,0.5,61.22
+2026-09-17T04:07:08.175478,toc_chunks,Quais componentes são mostrados na Figura 1/51‑00‑00‑990‑801 do manual?,32___084.PDF,"Resposta direta:
+A Figura 1/51-00-00-990-801 do manual mostra os seguintes componentes:
+
+- NOSE GEAR MANUAL EXTENSION HANDLE
+- NOSE GEAR MANUAL EXTENSION CONTROL CABLE
+- NOSE GEAR MANUAL EXTENSION RELEASE MECHANISM
+- NOSE GEAR LOCK STRUT
+- NOSE GEAR LOWER DRAG BRACE
+- NOSE GEAR UPPER DRAG BRACE
 
 Detalhes técnicos:
-A BBL (Body Buttock Line) é uma linha paralela a uma asa, enquanto a BWL 208.10 é a linha que representa o topo da viga principal do piso. A distância entre essas duas linhas é importante para determinar a posição da viga principal do piso em relação ao corpo da aeronave. De acordo com o manual de manutenção da aeronave 737-300/400/500, a distância entre a BBL e a BWL 208.10 é de 130,00 polegadas.
+A Figura 1/51-00-00-990-801 é uma ilustração do sistema de extensão manual do trem de pouso dianteiro (nose gear) do Boeing 737-300/400/500. Os componentes mostrados incluem:
+
+- O mancal de extensão manual do trem de pouso dianteiro (Nose Gear Manual Extension Handle)
+- O cabo de controle de extensão manual do trem de pouso dianteiro (Nose Gear Manual Extension Control Cable)
+- O mecanismo de liberação de extensão manual do trem de pouso dianteiro (Nose Gear Manual Extension Release Mechanism)
+- A estrutura de travamento do trem de pouso dianteiro (Nose Gear Lock Strut)
+- O braço de arrasto inferior do trem de pouso dianteiro (Nose Gear Lower Drag Brace)
+- O braço de arrasto superior do trem de pouso dianteiro (Nose Gear Upper Drag Brace)
 
 Referência à fonte:
-Fonte: [06___084.PDF | score 0.3127] ailsEFFECTIVITY RAMALL BWL 542.50 BWL 306.50TRACE OFWRP ATKEAD EDGE BWL 208.10 (BRP) BWL 0.00BODY WATER LINE (BWL)WBL (208.10) 130.00 BWL 106.00STATIC GROUND LINEBODY STATIONS (BSTA)FIN LESTA 0.00 FIN STA 0.0025% CHORD LINE 35˚ RSFIN WL 242.00 RUDDER STA 0.00RUDDFIN WL0.00 BWL 300.58) TRSTA 92.92HINGE LINEBSTA 130.00 BODY BUTTOCK LINE (BBL)BSTA 625.60 BBL 0MAC 100038 S00041199927_V1",10.442,0.5246,0.9385,1.0,1.0,1.0,84.2
-2026-09-16T21:08:33.363434,toc_chunks,Qual é a distância em polegadas entre o BSTA (ponto 130.00) e a BWL 208.10 (topo da viga principal do piso) na aeronave 737‑300/400/500?,06___084.PDF,"Resposta direta:
-A distância entre o BSTA (ponto 130.00) e a BWL 208.10 (topo da viga principal do piso) na aeronave 737-300/400/500 é de 130,00 polegadas.
+Fonte: Manual de Manutenção do Boeing 737-300/400/500, página 1, Figura 1/51-00-00-990-801.",12.057,0.3404,0.7576,1.0,1.0,1.0,74.15
+2026-09-17T04:07:20.303762,toc_chunks,"Qual é o ângulo máximo de inclinação do shock strut principal quando a aeronave está levantada, e qual é o deslocamento máximo da roda traseira?",32___084.PDF,"Resposta direta:
+O ângulo máximo de inclinação do shock strut principal quando a aeronave está levantada é de 15 graus, conforme especificado no manual de manutenção da aeronave Boeing 737-300/400/500 (ATA 32-13-11-034-005). O deslocamento máximo da roda traseira não é especificado diretamente no contexto fornecido, mas é possível inferir que ele está relacionado ao deslocamento do shock strut.
 
 Detalhes técnicos:
-A BWL 208.10 é a linha de água do corpo da aeronave, medida a partir da viga principal do piso. O BSTA (ponto 130.00) é uma estação de referência na aeronave, medida a partir da viga principal do piso. A distância entre esses dois pontos é de 130,00 polegadas, o que é equivalente a 10,83 pés.
+O manual de manutenção da aeronave Boeing 737-300/400/500 (ATA 32-13-11-034-005) descreve o sistema de amortecimento da roda traseira, que inclui o shock strut principal e o drag strut. O shock strut principal é responsável por absorver as vibrações e choques da roda traseira, enquanto o drag strut é responsável por manter o shock strut em posição. O ângulo máximo de inclinação do shock strut principal é de 15 graus, o que é importante para garantir a estabilidade e o controle da aeronave.
 
 Referência à fonte:
-De acordo com o manual de manutenção da aeronave 737-300/400/500, página 204, D6-37569, Mar 25/2015, Boeing Proprietary, Copyright 2015, a distância entre o BSTA (ponto 130.00) e a BWL 208.10 é de 130,00 polegadas.",6.859,0.1143,0.8923,1.0,1.0,1.0,70.74
-2026-09-16T21:09:21.402451,toc_chunks,Qual é a distância em polegadas entre a BWL 0.00 e a superfície mais baixa do fuselagem (BWL 0.00 está 148.5 polegadas abaixo da superfície mais baixa)?,53___084.PDF | 05___084.PDF,"Resposta direta:
-A distância entre a BWL 0.00 e a superfície mais baixa do fuselagem é de 148,5 polegadas.
+Conforme o manual de manutenção da aeronave Boeing 737-300/400/500 (ATA 32-13-11-034-005), página 401, D6-37569, Mar 25/2015.
+
+Observação:
+Não foi possível encontrar informações específicas sobre o deslocamento máximo da roda traseira no contexto fornecido. É possível que essa informação esteja disponível em outro documento ou manual de manutenção da aeronave.",12.02,0.0968,0.9313,1.0,1.0,0.0,61.19
+2026-09-17T04:07:26.193672,toc_chunks,Para que servem os interruptores de corte de ajuste do estabilizador durante a inspeção?,22___084.PDF | 27___084.PDF,"Resposta direta:
+Os interruptores de corte de ajuste do estabilizador servem para limitar o movimento do estabilizador durante a inspeção, evitando danos ao sistema.
 
 Detalhes técnicos:
-A BWL 0.00 é uma referência de altitude que indica a posição da superfície mais baixa do fuselagem em relação ao nível do mar. A distância entre a BWL 0.00 e a superfície mais baixa do fuselagem é uma medida importante para determinar a altura do fuselagem e para realizar cálculos de estabilidade e controle. Nesse caso, a distância é de 148,5 polegadas, o que indica que a superfície mais baixa do fuselagem está 148,5 polegadas abaixo da BWL 0.00.
+De acordo com o manual, os interruptores de corte de ajuste do estabilizador (Stabilizer Trim Limit Switches) são localizados na área de acesso ao estabilizador, a bombordo do jackscrew. Eles são mecanicamente operados por uma cam assembly e movimento do estabilizador, e têm seis unidades, todas conectadas elétrica e indicando quando estão na posição aberta ou fechada. O objetivo desses interruptores é limitar o movimento do estabilizador que pode ser comandado pelos outputs do FCC (Flight Control Computer).
 
 Referência à fonte:
-Não há referência explícita à distância entre a BWL 0.00 e a superfície mais baixa do fuselagem na documentação fornecida. No entanto, a BWL 0.00 é mencionada no capítulo 53 do Structural Repair Manual, que descreve a estrutura do fuselagem e as técnicas de reparo. A distância de 148,5 polegadas pode ser calculada com base nas informações fornecidas no capítulo 53.",47.95,0.0204,0.9137,0.3333,1.0,0.5,50.12
+Conforme o capítulo 27-41-00 do manual de manutenção da aeronave Boeing 737-300/400/500, página 551, D6-37569, Mar 25/2016.",5.782,0.0645,1.0,1.0,1.0,1.0,71.94
+2026-09-17T04:07:50.171181,toc_chunks,Qual é a finalidade de usar a roda de ajuste de estabilizador no stand de controle durante a inspeção?,30___084.PDF | 27___084.PDF,"A finalidade de usar a roda de ajuste de estabilizador no stand de controle durante a inspeção é para garantir que o ponteiro no aft face da alavanca de freio de velocidade esteja alinhado com os detentes corretos. Isso é necessário para garantir que a alavanca de freio de velocidade esteja funcionando corretamente.
+
+Detalhes técnicos:
+- A roda de ajuste de estabilizador é usada para ajustar a posição do ponteiro no aft face da alavanca de freio de velocidade.
+- O ponteiro deve ser alinhado com os detentes corretos, que são:
+ + DOWN (baixo)
+ + ARMED (armado)
+ + FLIGHT DETENT (detent de voo)
+ + UP (cima)
+- A alavanca de freio de velocidade deve ter um travel de 48-1/2 ±1/2 graus, que é a distância que a alavanca deve percorrer de um extremo ao outro.
+
+Referência à fonte:
+- De acordo com o manual de manutenção da aeronave Boeing 737, página 27, item (e) e (f).",23.862,0.0385,0.96,1.0,1.0,1.0,70.16

@@ -1,44 +1,27 @@
 ﻿timestamp,abordagem,pergunta,documentos_recuperados,resposta,tempo_segundos,precisao,completude,especificidade,rastreabilidade,confianca,score_final
-2026-09-14T01:00:09.307897,llm_puro,Quantos sistemas hidráulicos tem o Boeing 737?,contexto_fixo_toc,"De acordo com o manual ATA 29: HYDRAULIC POWER - DESCRIPTION AND OPERATION, o Boeing 737 possui dois sistemas hidráulicos principais: o sistema hidráulico principal (Main Hydraulic System) e o sistema hidráulico auxiliar (Auxiliary Hydraulic System).
-
-O sistema hidráulico principal é responsável por fornecer pressão hidráulica para o sistema de freios, o sistema de elevação da aeronave, o sistema de controle de flutuação e outros sistemas críticos. Já o sistema hidráulico auxiliar é usado para apoiar o sistema principal em caso de falha ou para realizar tarefas específicas, como a elevação da aeronave em certas situações.
-
-Conforme o capítulo 29-00-00 do manual ATA 29, o sistema hidráulico principal é composto por dois conjuntos de bombas hidráulicas, cada um com uma capacidade de 1.000 psi (pounds por polegada quadrada), enquanto o sistema hidráulico auxiliar é composto por uma única bomba hidráulica com uma capacidade de 500 psi.
-
-Fonte: Manual ATA 29: HYDRAULIC POWER - DESCRIPTION AND OPERATION, Boeing 737.",29.972,0.125,0.8943,1.0,1.0,1.0,71.11
-2026-09-14T01:00:22.952339,llm_puro,Quantos Flight Control Computers (FCC) tem o Boeing 737?,contexto_fixo_toc,"De acordo com o manual ATA 27: FLIGHT CONTROLS - DESCRIPTION AND OPERATION, o Boeing 737 possui dois Flight Control Computers (FCC).
+2026-09-17T03:46:27.159238,llm_puro,Qual é a distância em polegadas entre a BBL (Body Buttock Line) e a BWL 208.10 (topo da viga principal do piso) na aeronave 737‑300/400/500?,contexto_fixo_toc,"De acordo com o manual ATA 06: DIMENSIONS AND AREAS - MAINTENANCE PRACTICES, a distância entre a BBL (Body Buttock Line) e a BWL 208.10 (topo da viga principal do piso) na aeronave 737-300/400/500 é de 26,5 polegadas.
 
 Detalhes técnicos:
-- O manual ATA 27 descreve os sistemas de controle de voo do Boeing 737, incluindo os Flight Control Computers (FCC).
-- Os FCC são componentes críticos do sistema de controle de voo, responsáveis por processar e transmitir informações de controle para os servos de controle.
-- O manual fornece informações detalhadas sobre a inspeção, manutenção e reparo dos FCC.
+- A BBL (Body Buttock Line) é uma linha que marca a extremidade traseira da fuselagem da aeronave.
+- A BWL 208.10 é a designação da viga principal do piso na aeronave 737-300/400/500.
+- A distância de 26,5 polegadas é uma medida importante para a manutenção e reparo da aeronave, pois ajuda a garantir que as peças sejam instaladas corretamente.
 
 Referência à fonte:
-- Manual ATA 27: FLIGHT CONTROLS - DESCRIPTION AND OPERATION, Boeing 737.",13.642,0.1765,0.92,0.6667,1.0,1.0,66.63
-2026-09-14T01:00:31.190177,llm_puro,Como fazer a inspeção do trem de pouso principal?,contexto_fixo_toc,"De acordo com o manual ATA 32: LANDING GEAR - DESCRIPTION AND OPERATION, a inspeção do trem de pouso principal é descrita no capítulo 32-00-00, tarefa 1 RAM ALL. A inspeção inclui a verificação das seguintes áreas:
+- Manual ATA 06: DIMENSIONS AND AREAS - MAINTENANCE PRACTICES, Boeing 737.",17.21,0.125,0.9385,1.0,1.0,1.0,72.21
+2026-09-17T03:46:31.460866,llm_puro,Qual é a distância em polegadas entre o BSTA (ponto 130.00) e a BWL 208.10 (topo da viga principal do piso) na aeronave 737‑300/400/500?,contexto_fixo_toc,"De acordo com o manual ATA 06: DIMENSÕES E ÁREAS - PRÁTICAS DE MANUTENÇÃO, a distância entre o BSTA (ponto 130.00) e a BWL 208.10 (topo da viga principal do piso) na aeronave 737-300/400/500 é de 74,25 polegadas.
 
-- GROUND LOCK ASSEMBLIES (verificação da condição e do funcionamento)
-- LANDING GEAR STRUTS (verificação da condição e do funcionamento)
-- LANDING GEAR DOORS (verificação da condição e do funcionamento)
-- LANDING GEAR WHEELS (verificação da condição e do funcionamento)
-- BRAKES (verificação da condição e do funcionamento)
+Referência: ATA 06, página 3-10, tabela 3-10-01, coluna ""Distância entre BSTA e BWL 208.10"".",4.298,0.05,0.9333,1.0,1.0,1.0,69.83
+2026-09-17T03:46:40.371378,llm_puro,Qual é a distância em polegadas entre a BWL 0.00 e a superfície mais baixa do fuselagem (BWL 0.00 está 148.5 polegadas abaixo da superfície mais baixa)?,contexto_fixo_toc,"De acordo com o manual ATA 06: DIMENSÕES E ÁREAS, podemos encontrar a informação necessária para responder à sua pergunta.
 
-A inspeção deve ser realizada de acordo com as instruções do manual e deve incluir a verificação de todos os componentes do trem de pouso principal.
+A distância entre a BWL 0.00 e a superfície mais baixa do fuselagem é de 148,5 polegadas. Como a BWL 0.00 está 148,5 polegadas abaixo da superfície mais baixa, podemos calcular a distância entre a BWL 0.00 e a superfície mais baixa do fuselagem como:
 
-Referência: ATA 32: LANDING GEAR - DESCRIPTION AND OPERATION, capítulo 32-00-00, tarefa 1 RAM ALL.",8.234,0.2727,0.8203,1.0,1.0,1.0,73.69
-2026-09-14T01:00:37.672975,llm_puro,Qual é a pressão normal de operação do sistema hidráulico A?,contexto_fixo_toc,"Resposta direta:
-A pressão normal de operação do sistema hidráulico A é de 3000 psi (pounds por polegada quadrada).
+Distância = 0 polegadas (BWL 0.00) - 148,5 polegadas (superfície mais baixa)
+Distância = -148,5 polegadas
 
-Detalhes técnicos:
-De acordo com o manual ATA 29, HYDRAULIC POWER - DESCRIPTION AND OPERATION, a pressão normal de operação do sistema hidráulico A é de 3000 psi. Além disso, o manual também menciona que a pressão de trabalho do sistema hidráulico A pode variar de 2000 a 4000 psi, dependendo da aplicação específica.
+No entanto, como estamos procurando a distância em polegadas, podemos considerar a distância como positiva:
 
-Referência à fonte:
-Conforme o capítulo 29-00-00 do manual ATA 29, HYDRAULIC POWER - DESCRIPTION AND OPERATION.",6.479,0.1143,0.9333,1.0,1.0,1.0,71.76
-2026-09-14T01:00:59.373557,llm_puro,O que acontece se houver falha no sistema hidráulico B?,contexto_fixo_toc,"Resposta direta:
-Se houver falha no sistema hidráulico B, o sistema hidráulico A assumirá a responsabilidade de fornecer pressão hidráulica para os sistemas de controle da aeronave. No entanto, se houver falha em ambos os sistemas hidráulicos, a aeronave pode perder a capacidade de controlar os movimentos de elevação, descida, rotação e direção, o que pode comprometer a segurança da operação.
+Distância = 148,5 polegadas
 
-Detalhes técnicos:
-O sistema hidráulico B é responsável por fornecer pressão hidráulica para os sistemas de controle da aeronave, incluindo os sistemas de elevação, descida, rotação e direção. Se houver falha no sistema hidráulico B, o sistema hidráulico A pode assumir a responsabilidade de fornecer pressão hidráulica, mas apenas até um nível de pressão de 3000 psi (207 bar). Se a pressão hidráulica cair abaixo desse nível, a aeronave pode perder a capacidade de controlar os movimentos de elevação, descida, rotação e direção.
+Portanto, a distância entre a BWL 0.00 e a superfície mais baixa do fuselagem é de 148,5 polegadas.
 
-Referência à fonte:
-De acordo com o manual ATA 29: HYDRAULIC POWER - DESCRIPTION AND OPERATION, o sistema hidráulico B é responsável por fornecer pressão hidráulica para os sistemas de controle da aeronave. Além disso, o manual também destaca que se houver falha em ambos os sistemas hidráulicos, a aeronave pode perder a capacidade de controlar os movimentos de elevação, descida, rotação e direção.",21.695,0.0755,0.8374,1.0,1.0,0.5,63.2
+Referência: Manual ATA 06: DIMENSÕES E ÁREAS.",8.905,0.0345,0.8691,0.6667,0.6667,0.5,51.1

@@ -1,41 +1,33 @@
 ﻿timestamp,abordagem,pergunta,documentos_recuperados,resposta,tempo_segundos,precisao,completude,especificidade,rastreabilidade,confianca,score_final
-2026-09-14T01:10:30.198383,faiss_nvidia,Quantos sistemas hidráulicos tem o Boeing 737?,29___084.PDF | 29___084.PDF | 29___084.PDF | 27___084.PDF | 29___084.PDF,"De acordo com o manual de manutenção do Boeing 737 (ATA 29___084.PDF), o Boeing 737 possui dois sistemas hidráulicos, denominados de ""Sistema A"" e ""Sistema B"". Esses sistemas são independentes e fornecem pressão hidráulica para diferentes componentes da aeronave, como flaps, spoilers, elevadores, ailerons e outros.
+2026-09-17T03:47:43.539888,faiss_nvidia,Qual é a distância em polegadas entre a BBL (Body Buttock Line) e a BWL 208.10 (topo da viga principal do piso) na aeronave 737‑300/400/500?,06___084.PDF | 06___084.PDF | 27___084.PDF | 06___084.PDF | 53___084.PDF,"De acordo com o manual de manutenção da aeronave Boeing 737-300/400/500, especificamente na página 205, figura 201/06-00-01-990-801 (Sheet 2 of 2), é possível encontrar a informação necessária.
+
+A distância entre a BBL (Body Buttock Line) e a BWL 208.10 (topo da viga principal do piso) é de 70,85 polegadas.
 
 Detalhes técnicos:
 
-* Cada sistema hidráulico tem uma pressão de 3000 psi (pounds por polegada quadrada) e uma taxa de vazão de aproximadamente 22 gpm (galões por minuto).
-* Os sistemas hidráulicos são alimentados por bombas hidráulicas motorizadas por motores (EDP - Engine Driven Pump) montadas em cada motor.
-* As bombas EDP são acionadas por um eixo de acoplamento com o motor acessório.
+- BBL (Body Buttock Line) é uma linha que marca a extremidade traseira da fuselagem da aeronave.
+- BWL 208.10 é a posição da viga principal do piso, que é uma estrutura importante da aeronave.
+- A distância de 70,85 polegadas é uma medida importante para a manutenção e inspeção da aeronave.
 
 Referência à fonte:
 
-* Manual de manutenção do Boeing 737 (ATA 29___084.PDF), página 4.
-* Manual de manutenção do Boeing 737 (ATA 29___084.PDF), figura 2/29-15-00-990-802 (Sheet 2 of 2).",34.923,0.2241,0.9,1.0,1.0,1.0,74.22
-2026-09-14T01:10:44.210967,faiss_nvidia,Quantos Flight Control Computers (FCC) tem o Boeing 737?,22___084.PDF | 22___084.PDF | 22___084.PDF | 22___084.PDF | 22___084.PDF,"De acordo com o manual de manutenção do Boeing 737, especificamente na seção 10 do capítulo 22-01-10, é mencionado que o Boeing 737 tem dois Flight Control Computers (FCC), designados como A e B, montados na prateleira E1-3 no compartimento de equipamentos elétricos e eletrônicos.
+- Fonte: 06___084.PDF (similaridade 0.5004)
+- Página: 205
+- Figura: 201/06-00-01-990-801 (Sheet 2 of 2)
+- Boeing 737-300/400/500 Aircraft Maintenance Manual",6.196,0.2791,0.9385,1.0,1.0,1.0,76.84
+2026-09-17T03:47:59.897685,faiss_nvidia,Qual é a distância em polegadas entre o BSTA (ponto 130.00) e a BWL 208.10 (topo da viga principal do piso) na aeronave 737‑300/400/500?,06___084.PDF | 06___084.PDF | 06___084.PDF | 27___084.PDF | 12___084.PDF,"Resposta direta:
+A distância entre o BSTA (ponto 130.00) e a BWL 208.10 (topo da viga principal do piso) na aeronave 737-300/400/500 é de 74,0 polegadas.
 
 Detalhes técnicos:
-- Os FCCs são responsáveis por realizar cálculos de sistema e controle de saída associado à autopilotagem, direção de voo, trim de velocidade, trim de altitude e alerta de altitude.
-- Cada FCC contém programas de BITE (Built-In Test Equipment) e memória associada para detectar e armazenar dados de falha do DFCS (Digital Flight Control System).
+De acordo com o manual de manutenção da aeronave 737-300/400/500, a BWL 208.10 é o topo da viga principal do piso, que está localizada na seção 41 do corpo da aeronave. O BSTA (ponto 130.00) é um ponto de referência na seção 43 do corpo da aeronave. A distância entre esses dois pontos é de 74,0 polegadas, conforme mostrado no diagrama de corpo da aeronave.
 
 Referência à fonte:
-- Manual de manutenção do Boeing 737, capítulo 22-01-10, seção 10.",13.311,0.2545,0.92,1.0,1.0,1.0,75.64
-2026-09-14T01:11:45.360361,faiss_nvidia,Como fazer a inspeção do trem de pouso principal?,32___084.PDF | 72_C__084.PDF | 05___084.PDF | 05___084.PDF | 71_C__084.PDF,[TIMEOUT] A API demorou mais de 60s.,60.451,0.0,0.342,0.0,0.0,1.0,18.55
-2026-09-14T01:12:03.871082,faiss_nvidia,Qual é a pressão normal de operação do sistema hidráulico A?,29___084.PDF | 29___084.PDF | 29___084.PDF | 29___084.PDF | 29___084.PDF,"De acordo com o manual de manutenção da aeronave Boeing 737, a pressão normal de operação do sistema hidráulico A é de 3000 psi (pounds por polegada quadrada).
+Fonte: Manual de manutenção da aeronave 737-300/400/500, página 202, seção 41 e 43.",15.653,0.1,0.8995,1.0,1.0,1.0,70.49
+2026-09-17T03:48:07.151846,faiss_nvidia,Qual é a distância em polegadas entre a BWL 0.00 e a superfície mais baixa do fuselagem (BWL 0.00 está 148.5 polegadas abaixo da superfície mais baixa)?,06___084.PDF | 28___084.PDF | 06___084.PDF | 54___084.PDF | 28___084.PDF,"Resposta direta:
+A distância entre a BWL 0.00 e a superfície mais baixa do fuselagem é de 148,5 polegadas.
 
 Detalhes técnicos:
-
-A pressão de operação do sistema hidráulico A é especificada no manual de manutenção da aeronave Boeing 737, na seção 29-15-00, página 10. A pressão de 3000 psi é considerada normal para o funcionamento do sistema hidráulico A.
+A BWL 0.00 está localizada na parte inferior do fuselagem, e a distância até a superfície mais baixa do fuselagem é de 148,5 polegadas. Isso significa que a BWL 0.00 está 148,5 polegadas abaixo da superfície mais baixa do fuselagem.
 
 Referência à fonte:
-
-Conforme o capítulo 29-15-00 do manual de manutenção da aeronave Boeing 737, página 10: ""Hydraulic Systems A and B Electric Motor-Driven Pump (EMDP) Control"".",17.793,0.3529,0.9333,1.0,1.0,1.0,78.92
-2026-09-14T01:12:20.188963,faiss_nvidia,O que acontece se houver falha no sistema hidráulico B?,29___084.PDF | 29___084.PDF | 29___084.PDF | 27___084.PDF | 29___084.PDF,"Se houver falha no sistema hidráulico B, a perda de fluido hidráulico será refletida no reservatório do sistema B. Além disso, a iluminação de qualquer luz de alerta de baixa pressão do bomba durante a operação de um sistema e a confirmação da perda de pressão na bomba afetada devem ser seguidas por uma verificação do filtro de pressão da bomba correspondente e do filtro de retorno da caixa de drenagem.
-
-De acordo com o manual ATA 29___084, a falha do sistema hidráulico B pode ser causada por:
-
-- Perda de fluido hidráulico devido à Power Transfer Unit (PTU) e à plomada associada.
-- Falha do motor da PTU e da plomada associada.
-- Contaminação do filtro de pressão da bomba.
-- Problemas com a caixa de drenagem e o fio de drenagem.
-
-Referência: Manual ATA 29___084, páginas não especificadas.",15.602,0.1304,0.9112,0.6667,1.0,0.5,60.03
+Fonte: 06___084.PDF, página 2, figura 201/06-25-00-990-801 (Sheet 1 of 2), seção ""Body Station Diagram"".",6.544,0.2143,0.96,0.6667,1.0,1.0,68.76
