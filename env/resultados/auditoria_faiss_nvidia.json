@@ -1,0 +1,160 @@
+[
+  {
+    "timestamp": "2026-09-14T01:10:30.198383",
+    "abordagem": "faiss_nvidia",
+    "pergunta": "Quantos sistemas hidráulicos tem o Boeing 737?",
+    "documentos_recuperados": [
+      "29___084.PDF",
+      "29___084.PDF",
+      "29___084.PDF",
+      "27___084.PDF",
+      "29___084.PDF"
+    ],
+    "contexto_usado": "[Fonte: 29___084.PDF (similaridade 0.4629)]\n 2 ELEC HYD OFF PUMP CONT GND SYS A FAULT LOGIC ON P6-2 SYS A ELEC HYD PUMP P5 PANEL GROUND FAULT DET GEN BUS NO. 2 SYS \"A\" ELEC HYD PUMP T5 SYS A ELEC HYD PUMP RELAY T195 CT SYSTEM A EDMP P6-12 SYSTEM A SHOWN (SYSTEM B EQUIVALENT) 150503 S00041224038_V1 Hydraulic Systems A and B Electric Motor-Driven Pump (EMDP) Control Figure 6/29-15-00-990-806 (Sheet 2 of 4) EFFECTIVITY RAM ALL 29-15-00 Page 10 D6-37569 Mar 25/2015 BOEING PROPRIETARY - Copyright © U",
+    "resposta": "De acordo com o manual de manutenção do Boeing 737 (ATA 29___084.PDF), o Boeing 737 possui dois sistemas hidráulicos, denominados de \"Sistema A\" e \"Sistema B\". Esses sistemas são independentes e fornecem pressão hidráulica para diferentes componentes da aeronave, como flaps, spoilers, elevadores, ailerons e outros.\n\nDetalhes técnicos:\n\n* Cada sistema hidráulico tem uma pressão de 3000 psi (pounds por polegada quadrada) e uma taxa de vazão de aproximadamente 22 gpm (galões por minuto).\n* Os sistemas hidráulicos são alimentados por bombas hidráulicas motorizadas por motores (EDP - Engine Driven Pump) montadas em cada motor.\n* As bombas EDP são acionadas por um eixo de acoplamento com o motor acessório.\n\nReferência à fonte:\n\n* Manual de manutenção do Boeing 737 (ATA 29___084.PDF), página 4.\n* Manual de manutenção do Boeing 737 (ATA 29___084.PDF), figura 2/29-15-00-990-802 (Sheet 2 of 2).",
+    "tempo_segundos": 34.923,
+    "metadados_llm": {
+      "status": "ok",
+      "tokens": {
+        "prompt_tokens": 2321,
+        "total_tokens": 2594,
+        "completion_tokens": 273,
+        "prompt_tokens_details": null
+      },
+      "finish_reason": "stop"
+    },
+    "metricas": {
+      "precisao": 0.2241,
+      "completude": 0.9,
+      "especificidade": 1.0,
+      "rastreabilidade": 1.0,
+      "confianca": 1.0
+    },
+    "score_final": 74.22
+  },
+  {
+    "timestamp": "2026-09-14T01:10:44.210967",
+    "abordagem": "faiss_nvidia",
+    "pergunta": "Quantos Flight Control Computers (FCC) tem o Boeing 737?",
+    "documentos_recuperados": [
+      "22___084.PDF",
+      "22___084.PDF",
+      "22___084.PDF",
+      "22___084.PDF",
+      "22___084.PDF"
+    ],
+    "contexto_usado": "[Fonte: 22___084.PDF (similaridade 0.4974)]\nNTROL COMPUTER AFC ACCESSORY UNIT CONNECTORS (3) H I 219970 S00041210939_V1 DFCS - Component Location Figure 1/22-11-01-990-801 (Sheet 4 of 9) EFFECTIVITY RAM 001, 002 PRE SB 737-27-1255 22-11-01 Page 6 D6-37569 Mar 25/2015 BOEING PROPRIETARY - Copyright © Unpublished Work - See title page for details 737-300/400/500 AIRCRAFT MAINTENANCE MANUAL FLT CONTROL STANDBY A B HYD STDBY STDBY LOW RUD QUANTITY RUD A LOW OFF OFF PRESSURE A A ON B ON ALTERNATE FLA",
+    "resposta": "De acordo com o manual de manutenção do Boeing 737, especificamente na seção 10 do capítulo 22-01-10, é mencionado que o Boeing 737 tem dois Flight Control Computers (FCC), designados como A e B, montados na prateleira E1-3 no compartimento de equipamentos elétricos e eletrônicos.\n\nDetalhes técnicos:\n- Os FCCs são responsáveis por realizar cálculos de sistema e controle de saída associado à autopilotagem, direção de voo, trim de velocidade, trim de altitude e alerta de altitude.\n- Cada FCC contém programas de BITE (Built-In Test Equipment) e memória associada para detectar e armazenar dados de falha do DFCS (Digital Flight Control System).\n\nReferência à fonte:\n- Manual de manutenção do Boeing 737, capítulo 22-01-10, seção 10.",
+    "tempo_segundos": 13.311,
+    "metadados_llm": {
+      "status": "ok",
+      "tokens": {
+        "prompt_tokens": 2123,
+        "total_tokens": 2330,
+        "completion_tokens": 207,
+        "prompt_tokens_details": null
+      },
+      "finish_reason": "stop"
+    },
+    "metricas": {
+      "precisao": 0.2545,
+      "completude": 0.92,
+      "especificidade": 1.0,
+      "rastreabilidade": 1.0,
+      "confianca": 1.0
+    },
+    "score_final": 75.64
+  },
+  {
+    "timestamp": "2026-09-14T01:11:45.360361",
+    "abordagem": "faiss_nvidia",
+    "pergunta": "Como fazer a inspeção do trem de pouso principal?",
+    "documentos_recuperados": [
+      "32___084.PDF",
+      "72_C__084.PDF",
+      "05___084.PDF",
+      "05___084.PDF",
+      "71_C__084.PDF"
+    ],
+    "contexto_usado": "[Fonte: 32___084.PDF (similaridade 0.3178)]\nassemblies are installed in the nose and main landing gear (PAGEBLOCK 32-00-01/201). SUBTASK 32-11-00-866-043 (2) Remove the power from the hydraulic system (PAGEBLOCK 29-15-00/201). E. Procedure to Examine the Main Landing Gear. SUBTASK 32-11-00-796-019 (1) Examine the main actuator and all the hydraulic connections for leaks. SUBTASK 32-11-00-796-020 (2) Examine the shock strut for leaks and specified extension. (a) Examine the open surface of the in",
+    "resposta": "[TIMEOUT] A API demorou mais de 60s.",
+    "tempo_segundos": 60.451,
+    "metadados_llm": {
+      "status": "timeout"
+    },
+    "metricas": {
+      "precisao": 0.0,
+      "completude": 0.342,
+      "especificidade": 0.0,
+      "rastreabilidade": 0.0,
+      "confianca": 1.0
+    },
+    "score_final": 18.55
+  },
+  {
+    "timestamp": "2026-09-14T01:12:03.871082",
+    "abordagem": "faiss_nvidia",
+    "pergunta": "Qual é a pressão normal de operação do sistema hidráulico A?",
+    "documentos_recuperados": [
+      "29___084.PDF",
+      "29___084.PDF",
+      "29___084.PDF",
+      "29___084.PDF",
+      "29___084.PDF"
+    ],
+    "contexto_usado": "[Fonte: 29___084.PDF (similaridade 0.3368)]\nLATION 1. General A. There are two tasks in this procedure. There is a task for the removal and a task for the installation of the system pressure transmitter. B. The pressure transmitters for systems A and B are equivalent units. The pressure transmitters are installed on the forward wheel well bulkhead. You can get access to the system A transmitter through the left wheel well and the system B transmitter through the right wheel well. TASK 29-31-12-0",
+    "resposta": "De acordo com o manual de manutenção da aeronave Boeing 737, a pressão normal de operação do sistema hidráulico A é de 3000 psi (pounds por polegada quadrada).\n\nDetalhes técnicos:\n\nA pressão de operação do sistema hidráulico A é especificada no manual de manutenção da aeronave Boeing 737, na seção 29-15-00, página 10. A pressão de 3000 psi é considerada normal para o funcionamento do sistema hidráulico A.\n\nReferência à fonte:\n\nConforme o capítulo 29-15-00 do manual de manutenção da aeronave Boeing 737, página 10: \"Hydraulic Systems A and B Electric Motor-Driven Pump (EMDP) Control\".",
+    "tempo_segundos": 17.793,
+    "metadados_llm": {
+      "status": "ok",
+      "tokens": {
+        "prompt_tokens": 2328,
+        "total_tokens": 2503,
+        "completion_tokens": 175,
+        "prompt_tokens_details": null
+      },
+      "finish_reason": "stop"
+    },
+    "metricas": {
+      "precisao": 0.3529,
+      "completude": 0.9333,
+      "especificidade": 1.0,
+      "rastreabilidade": 1.0,
+      "confianca": 1.0
+    },
+    "score_final": 78.92
+  },
+  {
+    "timestamp": "2026-09-14T01:12:20.188963",
+    "abordagem": "faiss_nvidia",
+    "pergunta": "O que acontece se houver falha no sistema hidráulico B?",
+    "documentos_recuperados": [
+      "29___084.PDF",
+      "29___084.PDF",
+      "29___084.PDF",
+      "27___084.PDF",
+      "29___084.PDF"
+    ],
+    "contexto_usado": "[Fonte: 29___084.PDF (similaridade 0.3743)]\nPower Transfer Unit pump and associated plumbing will be reflected in the loss of hydraulic fluid from system B reservoir. Leakage of the Power Transfer Unit motor and associated plumbing will be reflected in the loss of fluid from System A. D. Illumination of any pump low pressure warning light during operation of a system and a confirmation of loss of pressure on the affected pump should be followed by a check of the corresponding pump pressure filte",
+    "resposta": "Se houver falha no sistema hidráulico B, a perda de fluido hidráulico será refletida no reservatório do sistema B. Além disso, a iluminação de qualquer luz de alerta de baixa pressão do bomba durante a operação de um sistema e a confirmação da perda de pressão na bomba afetada devem ser seguidas por uma verificação do filtro de pressão da bomba correspondente e do filtro de retorno da caixa de drenagem.\n\nDe acordo com o manual ATA 29___084, a falha do sistema hidráulico B pode ser causada por:\n\n- Perda de fluido hidráulico devido à Power Transfer Unit (PTU) e à plomada associada.\n- Falha do motor da PTU e da plomada associada.\n- Contaminação do filtro de pressão da bomba.\n- Problemas com a caixa de drenagem e o fio de drenagem.\n\nReferência: Manual ATA 29___084, páginas não especificadas.",
+    "tempo_segundos": 15.602,
+    "metadados_llm": {
+      "status": "ok",
+      "tokens": {
+        "prompt_tokens": 1852,
+        "total_tokens": 2088,
+        "completion_tokens": 236,
+        "prompt_tokens_details": null
+      },
+      "finish_reason": "stop"
+    },
+    "metricas": {
+      "precisao": 0.1304,
+      "completude": 0.9112,
+      "especificidade": 0.6667,
+      "rastreabilidade": 1.0,
+      "confianca": 0.5
+    },
+    "score_final": 60.03
+  }
+]

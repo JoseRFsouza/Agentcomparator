@@ -24,6 +24,7 @@ import abordagem_tfidf
 import abordagem_llm_puro
 import abordagem_indice_toc
 import abordagem_faiss
+import abordagem_faiss_nvidia
 import abordagem_toc_chunks
 
 
@@ -32,6 +33,7 @@ ABORDAGENS = {
     "llm_puro": abordagem_llm_puro.executar_abordagem,
     "indice_toc": abordagem_indice_toc.executar_abordagem,
     "faiss": abordagem_faiss.executar_abordagem,
+    "faiss_nvidia": abordagem_faiss_nvidia.executar_abordagem,
     "toc_chunks": abordagem_toc_chunks.executar_abordagem,
 }
 

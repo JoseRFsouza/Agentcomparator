@@ -1,33 +1,44 @@
 ﻿timestamp,abordagem,pergunta,documentos_recuperados,resposta,tempo_segundos,precisao,completude,especificidade,rastreabilidade,confianca,score_final
-2026-09-12T19:20:22.653989,llm_puro,Quantos sistemas hidráulicos tem o Boeing 737?,contexto_fixo_toc,"De acordo com o manual ATA 29: HYDRAULIC POWER - DESCRIPTION AND OPERATION, o Boeing 737 possui dois sistemas hidráulicos principais: o sistema hidráulico primário e o sistema hidráulico secundário.
+2026-09-14T01:00:09.307897,llm_puro,Quantos sistemas hidráulicos tem o Boeing 737?,contexto_fixo_toc,"De acordo com o manual ATA 29: HYDRAULIC POWER - DESCRIPTION AND OPERATION, o Boeing 737 possui dois sistemas hidráulicos principais: o sistema hidráulico principal (Main Hydraulic System) e o sistema hidráulico auxiliar (Auxiliary Hydraulic System).
 
-O sistema hidráulico primário é responsável por fornecer pressão hidráulica para os controles de flutuação, os controles de direção e os controles de altitude. Já o sistema hidráulico secundário é responsável por fornecer pressão hidráulica para os controles de reverso de empuxo e os controles de freio.
+O sistema hidráulico principal é responsável por fornecer pressão hidráulica para o sistema de freios, o sistema de elevação da aeronave, o sistema de controle de flutuação e outros sistemas críticos. Já o sistema hidráulico auxiliar é usado para apoiar o sistema principal em caso de falha ou para realizar tarefas específicas, como a elevação da aeronave em certas situações.
 
-Conforme o capítulo 29-00-00 do manual ATA 29, o sistema hidráulico primário é composto por um motor hidráulico, um reservatório de óleo hidráulico e um sistema de tubulações. Já o sistema hidráulico secundário é composto por um motor hidráulico, um reservatório de óleo hidráulico e um sistema de tubulações separado do sistema hidráulico primário.
+Conforme o capítulo 29-00-00 do manual ATA 29, o sistema hidráulico principal é composto por dois conjuntos de bombas hidráulicas, cada um com uma capacidade de 1.000 psi (pounds por polegada quadrada), enquanto o sistema hidráulico auxiliar é composto por uma única bomba hidráulica com uma capacidade de 500 psi.
 
-Referência: Manual ATA 29: HYDRAULIC POWER - DESCRIPTION AND OPERATION.",18.687,0.1351,0.817,1.0,1.0,1.0,69.48
-2026-09-12T19:20:35.452021,llm_puro,Quantos Flight Control Computers (FCC) tem o Boeing 737?,contexto_fixo_toc,"De acordo com o manual ATA 27: FLIGHT CONTROLS - DESCRIPTION AND OPERATION, o Boeing 737 utiliza um sistema de controle de voo digital, que inclui o Flight Control Computer (FCC). 
-
-O manual não fornece um número específico de Flight Control Computers (FCC) utilizados no Boeing 737. No entanto, é conhecido que o Boeing 737 utiliza um sistema de duplo redundância, o que significa que há dois Flight Control Computers (FCC) principais, que trabalham em conjunto para controlar o voo do avião.
-
-Referência: Conforme o capítulo 27-00-00 do manual ATA 27: FLIGHT CONTROLS - DESCRIPTION AND OPERATION.",12.792,0.2059,0.92,1.0,1.0,0.5,69.18
-2026-09-12T19:21:36.176422,llm_puro,Como fazer a inspeção do trem de pouso principal?,contexto_fixo_toc,[TIMEOUT] A API demorou mais de 60s.,60.723,0.0,0.342,0.0,0.0,1.0,18.55
-2026-09-12T19:21:56.190769,llm_puro,Qual é a pressão normal de operação do sistema hidráulico A?,contexto_fixo_toc,"De acordo com o manual ATA 29: HYDRAULIC POWER - DESCRIPTION AND OPERATION, a pressão normal de operação do sistema hidráulico A é de 3000 psi (pounds por polegada quadrada) com uma tolerância de ± 100 psi.
+Fonte: Manual ATA 29: HYDRAULIC POWER - DESCRIPTION AND OPERATION, Boeing 737.",29.972,0.125,0.8943,1.0,1.0,1.0,71.11
+2026-09-14T01:00:22.952339,llm_puro,Quantos Flight Control Computers (FCC) tem o Boeing 737?,contexto_fixo_toc,"De acordo com o manual ATA 27: FLIGHT CONTROLS - DESCRIPTION AND OPERATION, o Boeing 737 possui dois Flight Control Computers (FCC).
 
 Detalhes técnicos:
-
-* O sistema hidráulico A é responsável por fornecer pressão hidráulica para os sistemas de controle da aeronave, incluindo o sistema de direção, o sistema de freios e o sistema de elevação.
-* A pressão de 3000 psi é necessária para garantir a eficácia desses sistemas.
-* A tolerância de ± 100 psi é permitida para compensar variações de temperatura e pressão durante a operação.
+- O manual ATA 27 descreve os sistemas de controle de voo do Boeing 737, incluindo os Flight Control Computers (FCC).
+- Os FCC são componentes críticos do sistema de controle de voo, responsáveis por processar e transmitir informações de controle para os servos de controle.
+- O manual fornece informações detalhadas sobre a inspeção, manutenção e reparo dos FCC.
 
 Referência à fonte:
+- Manual ATA 27: FLIGHT CONTROLS - DESCRIPTION AND OPERATION, Boeing 737.",13.642,0.1765,0.92,0.6667,1.0,1.0,66.63
+2026-09-14T01:00:31.190177,llm_puro,Como fazer a inspeção do trem de pouso principal?,contexto_fixo_toc,"De acordo com o manual ATA 32: LANDING GEAR - DESCRIPTION AND OPERATION, a inspeção do trem de pouso principal é descrita no capítulo 32-00-00, tarefa 1 RAM ALL. A inspeção inclui a verificação das seguintes áreas:
 
-* Manual ATA 29: HYDRAULIC POWER - DESCRIPTION AND OPERATION, Boeing 737.",20.011,0.122,0.9333,1.0,1.0,1.0,71.99
-2026-09-12T19:22:36.417376,llm_puro,O que acontece se houver falha no sistema hidráulico B?,contexto_fixo_toc,"Resposta direta:
-Se houver falha no sistema hidráulico B, o sistema hidráulico A assumirá o controle das funções hidráulicas críticas da aeronave. De acordo com o manual ATA 29, o sistema hidráulico B é um sistema redundante que fornece pressão hidráulica para as funções de controle da aeronave, como os controles de flutuação, os controles de direção e os controles de altitude. Se o sistema hidráulico B falhar, o sistema hidráulico A assumirá o controle dessas funções, garantindo a segurança da aeronave e do seu pessoal.
+- GROUND LOCK ASSEMBLIES (verificação da condição e do funcionamento)
+- LANDING GEAR STRUTS (verificação da condição e do funcionamento)
+- LANDING GEAR DOORS (verificação da condição e do funcionamento)
+- LANDING GEAR WHEELS (verificação da condição e do funcionamento)
+- BRAKES (verificação da condição e do funcionamento)
+
+A inspeção deve ser realizada de acordo com as instruções do manual e deve incluir a verificação de todos os componentes do trem de pouso principal.
+
+Referência: ATA 32: LANDING GEAR - DESCRIPTION AND OPERATION, capítulo 32-00-00, tarefa 1 RAM ALL.",8.234,0.2727,0.8203,1.0,1.0,1.0,73.69
+2026-09-14T01:00:37.672975,llm_puro,Qual é a pressão normal de operação do sistema hidráulico A?,contexto_fixo_toc,"Resposta direta:
+A pressão normal de operação do sistema hidráulico A é de 3000 psi (pounds por polegada quadrada).
 
 Detalhes técnicos:
-O sistema hidráulico B é composto por um motor hidráulico, um reservatório de óleo hidráulico e uma rede de tubos e conexões que distribuem a pressão hidráulica para os componentes da aeronave. De acordo com o manual ATA 29, o sistema hidráulico B opera em uma pressão de 3000 psi (pounds por polegada quadrada) e tem uma capacidade de 10 litros de óleo hidráulico. Se o sistema hidráulico B falhar, o sistema hidráulico A assumirá o controle das funções hidráulicas críticas da aeronave, garantindo a segurança da aeronave e do seu pessoal.
+De acordo com o manual ATA 29, HYDRAULIC POWER - DESCRIPTION AND OPERATION, a pressão normal de operação do sistema hidráulico A é de 3000 psi. Além disso, o manual também menciona que a pressão de trabalho do sistema hidráulico A pode variar de 2000 a 4000 psi, dependendo da aplicação específica.
 
 Referência à fonte:
-De acordo com o manual ATA 29: HYDRAULIC POWER - DESCRIPTION AND OPERATION, o sistema hidráulico B é um sistema redundante que fornece pressão hidráulica para as funções de controle da aeronave. Se o sistema hidráulico B falhar, o sistema hidráulico A assumirá o controle dess",40.218,0.0741,0.8279,1.0,1.0,1.0,67.92
+Conforme o capítulo 29-00-00 do manual ATA 29, HYDRAULIC POWER - DESCRIPTION AND OPERATION.",6.479,0.1143,0.9333,1.0,1.0,1.0,71.76
+2026-09-14T01:00:59.373557,llm_puro,O que acontece se houver falha no sistema hidráulico B?,contexto_fixo_toc,"Resposta direta:
+Se houver falha no sistema hidráulico B, o sistema hidráulico A assumirá a responsabilidade de fornecer pressão hidráulica para os sistemas de controle da aeronave. No entanto, se houver falha em ambos os sistemas hidráulicos, a aeronave pode perder a capacidade de controlar os movimentos de elevação, descida, rotação e direção, o que pode comprometer a segurança da operação.
+
+Detalhes técnicos:
+O sistema hidráulico B é responsável por fornecer pressão hidráulica para os sistemas de controle da aeronave, incluindo os sistemas de elevação, descida, rotação e direção. Se houver falha no sistema hidráulico B, o sistema hidráulico A pode assumir a responsabilidade de fornecer pressão hidráulica, mas apenas até um nível de pressão de 3000 psi (207 bar). Se a pressão hidráulica cair abaixo desse nível, a aeronave pode perder a capacidade de controlar os movimentos de elevação, descida, rotação e direção.
+
+Referência à fonte:
+De acordo com o manual ATA 29: HYDRAULIC POWER - DESCRIPTION AND OPERATION, o sistema hidráulico B é responsável por fornecer pressão hidráulica para os sistemas de controle da aeronave. Além disso, o manual também destaca que se houver falha em ambos os sistemas hidráulicos, a aeronave pode perder a capacidade de controlar os movimentos de elevação, descida, rotação e direção.",21.695,0.0755,0.8374,1.0,1.0,0.5,63.2

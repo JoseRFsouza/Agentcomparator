@@ -1,25 +1,17 @@
 ======================================================================
 RESUMO ESTATÍSTICO - COMPARAÇÃO DE ABORDAGENS
 ======================================================================
-Data: 2026-09-12 19:31:32
+Data: 2026-09-14 01:12:20
 
 MÉDIAS POR ABORDAGEM:
 ----------------------------------------------------------------------
 Abordagem                   precisao      completude  especificidade rastreabilidade       confianca     score_final
-tfidf                          0.030           0.835           0.733           0.933           0.800          58.456
-llm_puro                       0.107           0.768           0.800           0.800           0.900          59.424
-indice_toc                     0.019           0.873           0.667           0.867           0.800          56.748
-faiss                          0.023           0.748           0.600           0.600           0.600          46.384
-toc_chunks                     0.111           0.898           0.867           0.933           1.000          67.110
+faiss_nvidia                   0.192           0.801           0.733           0.800           0.900          61.472
 
 Total de perguntas: 5
 
 RANKING (por score final médio):
 ----------------------------------------------------------------------
-  1. toc_chunks           67.11
-  2. llm_puro             59.42
-  3. tfidf                58.46
-  4. indice_toc           56.75
-  5. faiss                46.38
+  1. faiss_nvidia         61.47
 
-🏆 VENCEDOR: toc_chunks (67.11 pontos)
+🏆 VENCEDOR: faiss_nvidia (61.47 pontos)

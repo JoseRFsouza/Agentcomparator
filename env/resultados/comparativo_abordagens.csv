@@ -1,26 +1,6 @@
 ﻿pergunta,abordagem,tempo_segundos,precisao,completude,especificidade,rastreabilidade,confianca,score_final
-Quantos sistemas hidráulicos tem o Boeing 737?,tfidf,35.807,0.037,0.8509,0.6667,1.0,1.0,60.72
-Quantos Flight Control Computers (FCC) tem o Boeing 737?,tfidf,44.426,0.0455,0.8329,0.3333,0.6667,0.5,43.85
-Como fazer a inspeção do trem de pouso principal?,tfidf,48.927,0.0244,0.7308,0.6667,1.0,1.0,57.34
-Qual é a pressão normal de operação do sistema hidráulico A?,tfidf,25.172,0.0278,0.9224,1.0,1.0,1.0,68.89
-O que acontece se houver falha no sistema hidráulico B?,tfidf,54.67,0.0167,0.8391,1.0,1.0,0.5,61.48
-Quantos sistemas hidráulicos tem o Boeing 737?,llm_puro,18.687,0.1351,0.817,1.0,1.0,1.0,69.48
-Quantos Flight Control Computers (FCC) tem o Boeing 737?,llm_puro,12.792,0.2059,0.92,1.0,1.0,0.5,69.18
-Como fazer a inspeção do trem de pouso principal?,llm_puro,60.723,0.0,0.342,0.0,0.0,1.0,18.55
-Qual é a pressão normal de operação do sistema hidráulico A?,llm_puro,20.011,0.122,0.9333,1.0,1.0,1.0,71.99
-O que acontece se houver falha no sistema hidráulico B?,llm_puro,40.218,0.0741,0.8279,1.0,1.0,1.0,67.92
-Quantos sistemas hidráulicos tem o Boeing 737?,indice_toc,34.531,0.0,0.8605,0.3333,1.0,0.5,48.18
-Quantos Flight Control Computers (FCC) tem o Boeing 737?,indice_toc,15.103,0.0968,0.92,1.0,1.0,1.0,70.9
-Como fazer a inspeção do trem de pouso principal?,indice_toc,35.489,0.0,0.806,0.6667,0.6667,1.0,53.48
-Qual é a pressão normal de operação do sistema hidráulico A?,indice_toc,34.151,0.0,0.8589,1.0,1.0,1.0,66.47
-O que acontece se houver falha no sistema hidráulico B?,indice_toc,55.464,0.0,0.9217,0.3333,0.6667,0.5,44.71
-Quantos sistemas hidráulicos tem o Boeing 737?,faiss,33.126,0.0,0.8035,1.0,0.6667,0.5,55.09
-Quantos Flight Control Computers (FCC) tem o Boeing 737?,faiss,31.423,0.0488,0.9066,0.3333,0.6667,0.0,40.8
-Como fazer a inspeção do trem de pouso principal?,faiss,34.399,0.0189,0.8111,0.6667,1.0,1.0,59.18
-Qual é a pressão normal de operação do sistema hidráulico A?,faiss,42.897,0.0455,0.8773,1.0,0.6667,0.5,58.3
-O que acontece se houver falha no sistema hidráulico B?,faiss,61.138,0.0,0.342,0.0,0.0,1.0,18.55
-Quantos sistemas hidráulicos tem o Boeing 737?,toc_chunks,21.533,0.1591,0.9,1.0,1.0,1.0,72.27
-Quantos Flight Control Computers (FCC) tem o Boeing 737?,toc_chunks,17.877,0.15,0.92,0.6667,0.6667,1.0,60.83
-Como fazer a inspeção do trem de pouso principal?,toc_chunks,32.022,0.0545,0.8172,1.0,1.0,1.0,67.06
-Qual é a pressão normal de operação do sistema hidráulico A?,toc_chunks,13.555,0.1471,0.9333,0.6667,1.0,1.0,66.08
-O que acontece se houver falha no sistema hidráulico B?,toc_chunks,31.863,0.0435,0.92,1.0,1.0,1.0,69.31
+Quantos sistemas hidráulicos tem o Boeing 737?,faiss_nvidia,34.923,0.2241,0.9,1.0,1.0,1.0,74.22
+Quantos Flight Control Computers (FCC) tem o Boeing 737?,faiss_nvidia,13.311,0.2545,0.92,1.0,1.0,1.0,75.64
+Como fazer a inspeção do trem de pouso principal?,faiss_nvidia,60.451,0.0,0.342,0.0,0.0,1.0,18.55
+Qual é a pressão normal de operação do sistema hidráulico A?,faiss_nvidia,17.793,0.3529,0.9333,1.0,1.0,1.0,78.92
+O que acontece se houver falha no sistema hidráulico B?,faiss_nvidia,15.602,0.1304,0.9112,0.6667,1.0,0.5,60.03

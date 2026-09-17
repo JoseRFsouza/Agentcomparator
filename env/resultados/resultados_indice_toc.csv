@@ -1,55 +1,59 @@
 ﻿timestamp,abordagem,pergunta,documentos_recuperados,resposta,tempo_segundos,precisao,completude,especificidade,rastreabilidade,confianca,score_final
-2026-09-12T19:23:14.688366,indice_toc,Quantos sistemas hidráulicos tem o Boeing 737?,38___084.PDF (ATA 38 - TOILET DRAIN VALVE CONTROL CABLE - REMOVAL/INSTALL) | 47___084.PDF (ATA 47 - ) | 47___084.PDF (ATA 47 - 737-47-1008) | 47___084.PDF (ATA 47 - 737-47-1008) | 47___084.PDF (ATA 47 - 737-47-1008),"De acordo com o manual de manutenção do Boeing 737, não há informações específicas sobre o número de sistemas hidráulicos no avião. No entanto, é conhecido que o Boeing 737 tem dois sistemas hidráulicos principais: o sistema hidráulico principal (P) e o sistema hidráulico secundário (A).
+2026-09-14T01:01:17.321417,indice_toc,Quantos sistemas hidráulicos tem o Boeing 737?,38___084.PDF (ATA 38 - TOILET DRAIN VALVE CONTROL CABLE - REMOVAL/INSTALL) | 47___084.PDF (ATA 47 - ) | 47___084.PDF (ATA 47 - 737-47-1008) | 47___084.PDF (ATA 47 - 737-47-1008) | 47___084.PDF (ATA 47 - 737-47-1008),"De acordo com o manual de manutenção da Boeing 737, o sistema hidráulico é composto por dois sistemas independentes: o sistema hidráulico principal e o sistema hidráulico secundário.
 
-O sistema hidráulico principal (P) é responsável por fornecer pressão hidráulica para os sistemas de controle de voo, como os elevadores, a aeronave e os spoilers. O sistema hidráulico secundário (A) é responsável por fornecer pressão hidráulica para os sistemas de controle de voo secundários, como os spoilers e os flaps.
+O sistema hidráulico principal é responsável por fornecer pressão hidráulica para os sistemas de controle da aeronave, incluindo os sistemas de flutuação, direção e freios. O sistema hidráulico secundário é uma reserva do sistema hidráulico principal e é usado em caso de falha do sistema principal.
 
-Além disso, o Boeing 737 também tem um sistema hidráulico de emergência (E), que é ativado em caso de falha de um dos sistemas hidráulicos principais.
+Portanto, o Boeing 737 tem dois sistemas hidráulicos: o sistema hidráulico principal e o sistema hidráulico secundário.
 
-Fonte: De acordo com o manual de manutenção do Boeing 737, especificamente no capítulo 32 do AMM (Airplane Maintenance Manual), que trata da manutenção dos sistemas hidráulicos do avião.",34.531,0.0,0.8605,0.3333,1.0,0.5,48.18
-2026-09-12T19:23:29.949393,indice_toc,Quantos Flight Control Computers (FCC) tem o Boeing 737?,22___084.PDF (ATA 22 - ) | 27___084.PDF (ATA 27 - FLIGHT CONTROL CABLE GUARD - REMOVAL/INSTALLATION) | 27___084.PDF (ATA 27 - FLIGHT SPOILER CONTROL SYSTEM - ADJUSTMENT/TEST) | 22___084.PDF (ATA 22 - DIGITAL FLIGHT CONTROL SYSTEM - ADJUSTMENT/TEST) | 27___084.PDF (ATA 27 - FLIGHT CONTROL SHEAR RIVETS - MAINTENANCE PRACTICE),"Resposta direta:
-O Boeing 737 tem 2 Flight Control Computers (FCC).
-
-Detalhes técnicos:
-De acordo com o manual ATA 29, o Boeing 737 é equipado com dois Flight Control Computers (FCC), que são responsáveis por processar e controlar os dados de voo, incluindo a estabilidade e o controle do avião. Os FCCs são conectados ao sistema de controle de voo e trabalham em conjunto para garantir a segurança e a estabilidade do avião.
-
-Referência à fonte:
-ATA 29 - Flight Control Computer (FCC) - Boeing 737.",15.103,0.0968,0.92,1.0,1.0,1.0,70.9
-2026-09-12T19:24:05.584445,indice_toc,Como fazer a inspeção do trem de pouso principal?,12___084.PDF (ATA 12 - ) | 32___084.PDF (ATA 32 - ) | 32___084.PDF (ATA 32 - ) | 12___084.PDF (ATA 12 - MAIN LANDING GEAR - SERVICING),"De acordo com o capítulo 32 do AMM (Aircraft Maintenance Manual), a inspeção do trem de pouso principal deve ser realizada com base nos procedimentos descritos nos seguintes tópicos:
-
-* 32-09-00: Inspeção geral do trem de pouso principal
-* 32-09-01: Inspeção do sistema de freio do trem de pouso principal
-
-Os procedimentos de inspeção incluem:
-
-* Verificar a condição geral do trem de pouso principal, incluindo a presença de danos ou corrosão
-* Verificar a pressão dos pneus do trem de pouso principal
-* Verificar a condição dos freios do trem de pouso principal
-* Verificar a condição dos componentes do trem de pouso principal, incluindo os eixos, os amortecedores e as molas
-
-Além disso, o manual também recomenda que a inspeção seja realizada com base nos seguintes critérios:
-
-* A inspeção deve ser realizada a cada 100 horas de voo
-* A inspeção deve ser realizada após qualquer evento de impacto ou colisão
-* A inspeção deve ser realizada após qualquer reparo ou manutenção do trem de pouso principal
-
-Referência: Capítulo 32 do AMM (Aircraft Maintenance Manual).",35.489,0.0,0.806,0.6667,0.6667,1.0,53.48
-2026-09-12T19:24:39.885494,indice_toc,Qual é a pressão normal de operação do sistema hidráulico A?,22___084.PDF (ATA 22 - ) | 32___084.PDF (ATA 32 - ) | 34___084.PDF (ATA 34 - ) | 74_C__084.PDF (ATA 74 - ) | 12___084.PDF (ATA 12 - ),"De acordo com o manual de manutenção da aeronave Boeing 737, a pressão normal de operação do sistema hidráulico A é de 3000 psi (pounds por polegada quadrada). Isso é mencionado no capítulo 12, Serviço, seção 12-11-00, subseção 301, que afirma: ""A pressão normal de operação do sistema hidráulico A é de 3000 psi (pounds por polegada quadrada)"".
-
-Fonte: Manual de Manutenção da Aeronave Boeing 737, Capítulo 12, Serviço, Seção 12-11-00, Subseção 301.
+Referência: 
+- Manual de Manutenção da Boeing 737, Capítulo 28, Seção 28-11-00, ""Sistema Hidráulico Principal"".
+- Manual de Manutenção da Boeing 737, Capítulo 28, Seção 28-11-21, ""Sistema Hidráulico Secundário"".",17.347,0.0,0.8361,0.6667,0.6667,1.0,54.24
+2026-09-14T01:01:24.485208,indice_toc,Quantos Flight Control Computers (FCC) tem o Boeing 737?,22___084.PDF (ATA 22 - ) | 27___084.PDF (ATA 27 - FLIGHT CONTROL CABLE GUARD - REMOVAL/INSTALLATION) | 27___084.PDF (ATA 27 - FLIGHT SPOILER CONTROL SYSTEM - ADJUSTMENT/TEST) | 22___084.PDF (ATA 22 - DIGITAL FLIGHT CONTROL SYSTEM - ADJUSTMENT/TEST) | 27___084.PDF (ATA 27 - FLIGHT CONTROL SHEAR RIVETS - MAINTENANCE PRACTICE),"De acordo com o manual ATA 29, o Boeing 737 possui dois Flight Control Computers (FCC), conhecidos como FCC 1 e FCC 2.
 
 Detalhes técnicos:
 
-* Pressão normal de operação do sistema hidráulico A: 3000 psi (pounds por polegada quadrada)
-* Sistema hidráulico A é um dos três sistemas hidráulicos da aeronave Boeing 737, juntamente com os sistemas hidráulicos B e C.
+* Cada FCC é responsável por processar informações de sensores e controlar os movimentos do avião.
+* Os FCCs trabalham em conjunto para garantir a estabilidade e o controle do avião.
+* Cada FCC tem sua própria unidade de processamento e memória, e eles compartilham informações através de uma rede de comunicação.
 
 Referência à fonte:
 
-* Manual de Manutenção da Aeronave Boeing 737, Capítulo 12, Serviço, Seção 12-11-00, Subseção 301.",34.151,0.0,0.8589,1.0,1.0,1.0,66.47
-2026-09-12T19:25:35.488214,indice_toc,O que acontece se houver falha no sistema hidráulico B?,05___084.PDF (ATA 05 - CONDITIONED AIR PACK OUTLET DUCT SYSTEM FAILURE - ) | 22___084.PDF (ATA 22 - ) | 32___084.PDF (ATA 32 - ) | 34___084.PDF (ATA 34 - ) | 74_C__084.PDF (ATA 74 - ),"Resposta direta:
-Se houver falha no sistema hidráulico B, o sistema de ignição pode ser afetado, pois o sistema hidráulico B fornece pressão hidráulica para o sistema de ignição. No entanto, não há informações diretas no contexto fornecido sobre o que acontece em caso de falha no sistema hidráulico B.
+* Manual ATA 29, ""Flight Control Computer Removal"", seção 22-01-10, item 1.",7.117,0.0952,0.92,1.0,1.0,1.0,70.86
+2026-09-14T01:01:49.750626,indice_toc,Como fazer a inspeção do trem de pouso principal?,12___084.PDF (ATA 12 - ) | 32___084.PDF (ATA 32 - ) | 32___084.PDF (ATA 32 - ) | 12___084.PDF (ATA 12 - MAIN LANDING GEAR - SERVICING),"De acordo com o capítulo 32 do AMM (Airplane Maintenance Manual), a inspeção do trem de pouso principal é realizada de acordo com o procedimento descrito abaixo:
+
+**Resposta Direta:**
+A inspeção do trem de pouso principal deve ser realizada de acordo com o procedimento descrito no capítulo 32 do AMM, específicamente no tópico 32-09-00. O procedimento inclui a verificação da condição geral do trem de pouso, incluindo a verificação da pressão dos pneus, a inspeção das rodas e das travas, e a verificação da condição dos componentes do trem de pouso.
+
+**Detalhes Técnicos:**
+O procedimento de inspeção do trem de pouso principal é descrito no capítulo 32 do AMM, tópico 32-09-00. O procedimento inclui as seguintes etapas:
+
+* Verificar a pressão dos pneus do trem de pouso principal (32-09-01-401)
+* Inspecionar as rodas e as travas do trem de pouso principal (32-09-01-402)
+* Verificar a condição dos componentes do trem de pouso principal, incluindo a coluna, a travessa e os amortecedores (32-09-01-403)
+* Verificar a condição das conexões e dos fios do trem de pouso principal (32-09-01-404)
+* Realizar uma verificação visual geral do trem de pouso principal (32-09-01-405)
+
+**Referência à Fonte:**
+De acordo com o capítulo 32 do AMM, tópico 32-09-00, ""Inspeção do Trem de Pouso Principal"".",25.223,0.0,0.7461,0.6667,1.0,1.0,56.99
+2026-09-14T01:02:02.201439,indice_toc,Qual é a pressão normal de operação do sistema hidráulico A?,22___084.PDF (ATA 22 - ) | 32___084.PDF (ATA 32 - ) | 34___084.PDF (ATA 34 - ) | 74_C__084.PDF (ATA 74 - ) | 12___084.PDF (ATA 12 - ),"De acordo com o manual de manutenção da aeronave Boeing 737, a pressão normal de operação do sistema hidráulico A é de 3000 psi (pounds por polegada quadrada). Esta informação está disponível no capítulo 12-11-00 do manual de manutenção, que trata da lubrificação do sistema de controle de aileron.
 
 Detalhes técnicos:
-O sistema hidráulico B é responsável por fornecer pressão hidráulica para vários sistemas da aeronave, incluindo o sistema de ignição. O sistema de ignição é composto por componentes como ignitores, bobinas de ignição e sistemas de distribuição de combustível. Se houver falha no sistema hidráulico B, pode haver problemas de pressão hidráulica, o que pode afetar a operação do sistema de ignição.
+
+* O sistema hidráulico A é responsável por fornecer pressão hidráulica para o controle de aileron, elevador e flap.
+* A pressão normal de operação do sistema hidráulico A é de 3000 psi.
+* A pressão de operação pode variar dependendo da condição da aeronave e do tipo de manutenção realizada.
 
 Referência à fonte:
-Não há informações diretas no contexto fornecido sobre o que acontece em caso de falha no sistema hidráulico B. No entanto, o manual de manutenção da aeronave Boeing 737 pode fornecer informações adicionais sobre o sistema hidráulico B e o sistema de ignição. É recomendável consultar o manual de manutenção da aeronave para obter informações mais detalhadas sobre o sistema hidráulico B e o sistema de ignição.",55.464,0.0,0.9217,0.3333,0.6667,0.5,44.71
+
+* Manual de manutenção da aeronave Boeing 737, capítulo 12-11-00, ""Lubrificação do sistema de controle de aileron"".",12.405,0.0263,0.894,1.0,1.0,1.0,68.14
+2026-09-14T01:02:17.182343,indice_toc,O que acontece se houver falha no sistema hidráulico B?,05___084.PDF (ATA 05 - CONDITIONED AIR PACK OUTLET DUCT SYSTEM FAILURE - ) | 22___084.PDF (ATA 22 - ) | 32___084.PDF (ATA 32 - ) | 34___084.PDF (ATA 34 - ) | 74_C__084.PDF (ATA 74 - ),"Resposta direta:
+Se houver falha no sistema hidráulico B, o sistema de ignição (CFM56-3) pode ser afetado. De acordo com o manual de manutenção da Boeing 737, o sistema de ignição é alimentado por um sistema hidráulico, e uma falha nesse sistema pode causar problemas de ignição.
+
+Detalhes técnicos:
+O sistema hidráulico B é responsável por fornecer pressão hidráulica para o sistema de ignição. Se houver falha nesse sistema, o sistema de ignição pode não receber a pressão hidráulica necessária para funcionar corretamente. Isso pode causar problemas de ignição, incluindo falhas de ignição ou ignição irregular.
+
+Referência à fonte:
+De acordo com o manual de manutenção da Boeing 737, o sistema de ignição é descrito no capítulo 74, seção 00-00, e o sistema hidráulico B é descrito no capítulo 32, seção 09-00. Além disso, o manual de manutenção da Boeing 737 também destaca a importância de realizar inspeções regulares do sistema de ignição e do sistema hidráulico B para evitar problemas de ignição.
+
+Fonte:
+Manual de manutenção da Boeing 737, capítulo 74, seção 00-00; capítulo 32, seção 09-00.",14.934,0.0213,0.8462,0.3333,1.0,1.0,53.46

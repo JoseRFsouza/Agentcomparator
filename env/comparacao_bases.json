@@ -1,0 +1,42 @@
+{
+  "base_antiga": {
+    "arquivo": "base_conhecimento_indice.json",
+    "tamanho_mb": 44.74766826629639,
+    "tipo": "dict",
+    "chaves": [
+      "versao",
+      "data_criacao",
+      "total_documentos",
+      "estatisticas",
+      "documentos"
+    ],
+    "num_documentos": 46,
+    "campos_documento": [
+      "id",
+      "arquivo",
+      "tipo",
+      "tamanho_chars",
+      "conteudo_preview",
+      "conteudo_completo",
+      "embedding"
+    ],
+    "arquivos_unicos": 46,
+    "tamanho_medio_conteudo": 680434.5217391305,
+    "tamanho_min": 11811,
+    "tamanho_max": 3869439,
+    "exemplo_arquivo": "05___084.PDF",
+    "tem_embeddings": true
+  },
+  "base_nova": {
+    "arquivo": "base_conhecimento.json",
+    "tamanho_mb": 33.76218128204346,
+    "tipo": "list",
+    "num_itens": 46,
+    "campos_item": [
+      "arquivo",
+      "ata_principal",
+      "conteudo_completo",
+      "conteudo_preview"
+    ]
+  }
+}

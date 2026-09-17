@@ -1,49 +1,25 @@
 ﻿timestamp,abordagem,pergunta,documentos_recuperados,resposta,tempo_segundos,precisao,completude,especificidade,rastreabilidade,confianca,score_final
-2026-09-12T19:29:57.019419,toc_chunks,Quantos sistemas hidráulicos tem o Boeing 737?,27___084.PDF | 29___084.PDF,"De acordo com o manual de manutenção do Boeing 737, especificamente na página 27-00-00/001 do Flight Controls, o Boeing 737 possui dois sistemas hidráulicos independentes, cada um com uma pressão de 3000 psi.
-
-Fonte: PAGEBLOCK27-00-00/001, Flight Controls.
-
-Detalhes técnicos: Os dois sistemas hidráulicos são controlados por válvulas de corte de controle de voo (flight control shutoff valves) localizadas nos pacotes modulares de hidráulica de controle de voo (flight control hydraulic modular packages) localizados nos poços de roda principal esquerda e direita.
-
-Referência à fonte: [Fonte: 27___084.PDF | score 0.1206]",21.533,0.1591,0.9,1.0,1.0,1.0,72.27
-2026-09-12T19:30:15.041506,toc_chunks,Quantos Flight Control Computers (FCC) tem o Boeing 737?,22___084.PDF,"De acordo com o contexto fornecido, o Boeing 737 tem dois Flight Control Computers (FCC) designados como A e B, que são montados na E1-3 shelf na área de equipamentos elétricos e eletrônicos.
-
-Resposta direta:
-O Boeing 737 tem dois Flight Control Computers (FCC).
+2026-09-16T21:08:26.416960,toc_chunks,Qual é a distância em polegadas entre a BBL (Body Buttock Line) e a BWL 208.10 (topo da viga principal do piso) na aeronave 737‑300/400/500?,06___084.PDF,"Resposta direta:
+A distância entre a BBL (Body Buttock Line) e a BWL 208.10 (topo da viga principal do piso) na aeronave 737-300/400/500 é de 130,00 polegadas.
 
 Detalhes técnicos:
-Os dois FCCs são identicos e intercambiáveis, e são montados na E1-3 shelf na área de equipamentos elétricos e eletrônicos. Eles são conectados elétricamente por meio de quatro DPX2 conectores localizados na parte traseira do FCC, que se conectam a conectores DPX2 montados na prateleira.
+A BBL (Body Buttock Line) é uma linha paralela a uma asa, enquanto a BWL 208.10 é a linha que representa o topo da viga principal do piso. A distância entre essas duas linhas é importante para determinar a posição da viga principal do piso em relação ao corpo da aeronave. De acordo com o manual de manutenção da aeronave 737-300/400/500, a distância entre a BBL e a BWL 208.10 é de 130,00 polegadas.
 
 Referência à fonte:
-Fonte: 22___084.PDF | score 0.4711",17.877,0.15,0.92,0.6667,0.6667,1.0,60.83
-2026-09-12T19:30:47.194488,toc_chunks,Como fazer a inspeção do trem de pouso principal?,32___084.PDF,"Resposta direta:
-Para fazer a inspeção do trem de pouso principal, é necessário verificar se todos os três faróis vermelhos e três faróis verdes estão acesos quando o manche do trem de pouso está na posição de descida. Se todos os faróis estiverem acesos, é necessário empurrar o manche do trem de pouso para baixo para ativar o interruptor de posição do manche do trem de pouso. Se os faróis do trem de pouso permanecerem acesos e o manche estiver grudado ou não se mover facilmente, é necessário substituir a assembleia do manche do trem de pouso (AMM 32-31-11/401).
+Fonte: [06___084.PDF | score 0.3127] ailsEFFECTIVITY RAMALL BWL 542.50 BWL 306.50TRACE OFWRP ATKEAD EDGE BWL 208.10 (BRP) BWL 0.00BODY WATER LINE (BWL)WBL (208.10) 130.00 BWL 106.00STATIC GROUND LINEBODY STATIONS (BSTA)FIN LESTA 0.00 FIN STA 0.0025% CHORD LINE 35˚ RSFIN WL 242.00 RUDDER STA 0.00RUDDFIN WL0.00 BWL 300.58) TRSTA 92.92HINGE LINEBSTA 130.00 BODY BUTTOCK LINE (BBL)BSTA 625.60 BBL 0MAC 100038 S00041199927_V1",10.442,0.5246,0.9385,1.0,1.0,1.0,84.2
+2026-09-16T21:08:33.363434,toc_chunks,Qual é a distância em polegadas entre o BSTA (ponto 130.00) e a BWL 208.10 (topo da viga principal do piso) na aeronave 737‑300/400/500?,06___084.PDF,"Resposta direta:
+A distância entre o BSTA (ponto 130.00) e a BWL 208.10 (topo da viga principal do piso) na aeronave 737-300/400/500 é de 130,00 polegadas.
 
 Detalhes técnicos:
-A inspeção do trem de pouso principal envolve verificar a sequência correta de ações para ativar os faróis do trem de pouso. De acordo com o manual de manutenção (AMM), é necessário verificar se todos os três faróis vermelhos e três faróis verdes estão acesos quando o manche do trem de pouso está na posição de descida. Se todos os faróis estiverem acesos, é necessário empurrar o manche do trem de pouso para baixo para ativar o interruptor de posição do manche do trem de pouso. Além disso, é necessário verificar se o manche do trem de pouso está funcionando corretamente, sem grudar ou se mover facilmente.
+A BWL 208.10 é a linha de água do corpo da aeronave, medida a partir da viga principal do piso. O BSTA (ponto 130.00) é uma estação de referência na aeronave, medida a partir da viga principal do piso. A distância entre esses dois pontos é de 130,00 polegadas, o que é equivalente a 10,83 pés.
 
 Referência à fonte:
-De acordo com o manual de manutenção (AMM) da Boeing, página 113, D6-37569, de 25 de março de 2015, a inspeção do trem de pouso principal envolve verificar a sequência correta de ações",32.022,0.0545,0.8172,1.0,1.0,1.0,67.06
-2026-09-12T19:31:00.917346,toc_chunks,Qual é a pressão normal de operação do sistema hidráulico A?,49__B_084.PDF,"Resposta direta:
-A pressão normal de operação do sistema hidráulico A do Boeing 737 é de 30-35 psi (pounds por polegada quadrada) durante a inicialização do motor APU.
+De acordo com o manual de manutenção da aeronave 737-300/400/500, página 204, D6-37569, Mar 25/2015, Boeing Proprietary, Copyright 2015, a distância entre o BSTA (ponto 130.00) e a BWL 208.10 é de 130,00 polegadas.",6.859,0.1143,0.8923,1.0,1.0,1.0,70.74
+2026-09-16T21:09:21.402451,toc_chunks,Qual é a distância em polegadas entre a BWL 0.00 e a superfície mais baixa do fuselagem (BWL 0.00 está 148.5 polegadas abaixo da superfície mais baixa)?,53___084.PDF | 05___084.PDF,"Resposta direta:
+A distância entre a BWL 0.00 e a superfície mais baixa do fuselagem é de 148,5 polegadas.
 
 Detalhes técnicos:
-De acordo com o manual GTCP 36-280 Engines, a pressão normal de operação do sistema hidráulico A é de 30-35 psi durante a inicialização do motor APU. Isso é mencionado na seção ""FADEC Initialization"" do manual, que descreve a sequência de eventos para a inicialização do motor APU.
+A BWL 0.00 é uma referência de altitude que indica a posição da superfície mais baixa do fuselagem em relação ao nível do mar. A distância entre a BWL 0.00 e a superfície mais baixa do fuselagem é uma medida importante para determinar a altura do fuselagem e para realizar cálculos de estabilidade e controle. Nesse caso, a distância é de 148,5 polegadas, o que indica que a superfície mais baixa do fuselagem está 148,5 polegadas abaixo da BWL 0.00.
 
 Referência à fonte:
-Fonte: GTCP 36-280 Engines, página 4, D6-37569, Mar 25/2015.",13.555,0.1471,0.9333,0.6667,1.0,1.0,66.08
-2026-09-12T19:31:32.969983,toc_chunks,O que acontece se houver falha no sistema hidráulico B?,29___084.PDF | 56___084.PDF,"Se houver falha no sistema hidráulico B, com pressão abaixo de 200 psi, é necessário utilizar o procedimento de resolução de problemas (trouble-shooting) para encontrar as partes defeituosas. De acordo com o manual, alguns componentes a serem examinados incluem:
-
-- A válvula de alívio do módulo de pressão do sistema B;
-- As válvulas de verificação do sistema.
-
-Esses componentes devem ser verificados para determinar a causa da falha no sistema hidráulico B.
-
-Fonte: 29___084.PDF, página 677, subtask 29-00-00-866-J88.
-
-Detalhes técnicos:
-
-- Pressão mínima requerida no sistema hidráulico B: 200 psi;
-- Componentes a serem examinados: válvula de alívio do módulo de pressão do sistema B e válvulas de verificação do sistema.
-
-Referência à fonte: Boeing 737 Aircraft Maintenance Manual, página 677, subtask 29-00-00-866-J88.",31.863,0.0435,0.92,1.0,1.0,1.0,69.31
+Não há referência explícita à distância entre a BWL 0.00 e a superfície mais baixa do fuselagem na documentação fornecida. No entanto, a BWL 0.00 é mencionada no capítulo 53 do Structural Repair Manual, que descreve a estrutura do fuselagem e as técnicas de reparo. A distância de 148,5 polegadas pode ser calculada com base nas informações fornecidas no capítulo 53.",47.95,0.0204,0.9137,0.3333,1.0,0.5,50.12

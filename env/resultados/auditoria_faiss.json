@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2026-09-12T19:26:15.736760",
+    "timestamp": "2026-09-14T01:02:27.785583",
     "abordagem": "faiss",
     "pergunta": "Quantos sistemas hidráulicos tem o Boeing 737?",
     "documentos_recuperados": [
@@ -11,29 +11,29 @@
       "08___084.PDF"
     ],
     "contexto_usado": "[Fonte: 51___084.PDF (cosseno 0.0068)]\nCHAPTER\n51\nSTRUCTURES\nPJW\n51-EFFECTIVEPAGES\n1thru5 SEP25/2016\n6 BLANK\n51-CONTENTS\n1 Mar25/2015\n2 Mar25/2015\n3 Mar25/2015\n4 Mar25/2015\n5 Sep25/2015\n6 Mar25/2015\n7 Mar25/2015\n8 Mar25/2015\n9 Mar25/2015\n10 Mar25/2015\n51-00-00\n1 Mar25/2015\n2 Mar25/2015\n3 Mar25/2015\n4 Mar25/2015\n5 Mar25/2015\n6 BLANK\n51-00-50\n1 Mar25/2015\n2 Mar25/2015\n3 Mar25/2015\n4 BLANK\n51-00-50\n201 Mar25/2015\n202 Mar25/2015\n203 Mar25/2015\n204 Mar25/2015\n205 Mar25/2015\n206 Mar25/2015\n51-00-51\n20",
-    "resposta": "De acordo com o manual de manutenção do Boeing 737, não há uma informação específica sobre o número de sistemas hidráulicos do avião. No entanto, o manual de manutenção do Boeing 737-300/400/500, disponível no capítulo 51, menciona que o avião tem um sistema hidráulico principal e um sistema hidráulico de emergência.\n\nO sistema hidráulico principal é composto por dois tanques de óleo hidráulico, cada um com uma capacidade de 10,5 galões (39,7 litros), e é alimentado por um motor hidráulico. O sistema hidráulico de emergência é composto por um tanque de óleo hidráulico de emergência com uma capacidade de 2,5 galões (9,5 litros) e é alimentado por um motor hidráulico de emergência.\n\nAlém disso, o manual de manutenção também menciona que o avião tem um sistema de pressurização hidráulica, que é responsável por manter a pressão hidráulica no sistema hidráulico principal e de emergência.\n\nPortanto, embora não seja possível determinar com certeza o número exato de sistemas hidráulicos do Boeing 737, é claro que o avião tem pelo menos dois sistemas hidráulicos principais e um sistema hidráulico de emergência.\n\nReferência:\n- Manual de manutenção do Boeing 737-300/400/500, capítulo 51.\n- Manual de manutenção do Boeing 737-300/400/500, capítulo 20.\n- Manual de manutenção do Boeing 737-300/400/500, capítulo 53.\n- Manual de manutenção do Boeing 737-300/400/500, cap",
-    "tempo_segundos": 33.126,
+    "resposta": "De acordo com o manual de manutenção do Boeing 737, não há uma resposta direta à pergunta sobre a quantidade de sistemas hidráulicos do avião. No entanto, podemos inferir que o Boeing 737 tem pelo menos um sistema hidráulico, pois o manual menciona tarefas de manutenção relacionadas à hidráulica, como a verificação da pressão hidráulica (por exemplo, 09-10-00-582-001201 RAMALL Towing TASK).\n\nNo entanto, é possível que o Boeing 737 tenha mais de um sistema hidráulico, pois o manual menciona diferentes componentes hidráulicos, como bombas hidráulicas (por exemplo, 53-05-03 201 Mar25/2015) e válvulas hidráulicas (por exemplo, 51-00-51 201 Mar25/2015).\n\nPara obter uma resposta mais precisa, é necessário consultar o manual de manutenção específico do Boeing 737, que pode fornecer informações detalhadas sobre os sistemas hidráulicos do avião.\n\nReferência:\n- 09-10-00 201 RAMALL Towing TASK\n- 53-05-03 201 Mar25/2015\n- 51-00-51 201 Mar25/2015",
+    "tempo_segundos": 7.884,
     "metadados_llm": {
       "status": "ok",
       "tokens": {
         "prompt_tokens": 3100,
-        "total_tokens": 3500,
-        "completion_tokens": 400,
+        "total_tokens": 3387,
+        "completion_tokens": 287,
         "prompt_tokens_details": null
       },
-      "finish_reason": "length"
+      "finish_reason": "stop"
     },
     "metricas": {
-      "precisao": 0.0,
-      "completude": 0.8035,
-      "especificidade": 1.0,
+      "precisao": 0.1132,
+      "completude": 0.9,
+      "especificidade": 0.6667,
       "rastreabilidade": 0.6667,
       "confianca": 0.5
     },
-    "score_final": 55.09
+    "score_final": 54.23
   },
   {
-    "timestamp": "2026-09-12T19:26:47.168113",
+    "timestamp": "2026-09-14T01:02:34.441591",
     "abordagem": "faiss",
     "pergunta": "Quantos Flight Control Computers (FCC) tem o Boeing 737?",
     "documentos_recuperados": [
@@ -44,29 +44,29 @@
       "51___084.PDF"
     ],
     "contexto_usado": "[Fonte: 09___084.PDF (cosseno 0.0149)]\nCHAPTER\n09\nTOWINGAND\nTAXIING\nPJW\n09-EFFECTIVEPAGES\n1 SEP25/2016\n2 BLANK\n09-CONTENTS\n1 Mar25/2015\n2 BLANK\n09-10-00\n201 Mar25/2015\n202 Mar25/2016\nR 203 Sep25/2016\n204 Mar25/2015\n205 Mar25/2015\n206 Mar25/2015\n207 Mar25/2015\n208 Mar25/2015\n209 Mar25/2015\n210 Mar25/2015\n211 Mar25/2015\n212 Mar25/2015\n213 Mar25/2015\n214 Mar25/2015\n215 Mar25/2015\n216 Mar25/2015\n217 Mar25/2015\n218 BLANK\n09-11-00\nR 201 Sep25/2016\n202 Mar25/2015\n09-20-00\n201 Mar25/2015\n202 Mar25/2015\n",
-    "resposta": "De acordo com o manual de manutenção do Boeing 737, especificamente no capítulo 51 - Estruturas, não há uma referência direta à quantidade de Flight Control Computers (FCC) do avião.\n\nNo entanto, é possível encontrar informações sobre os sistemas de controle de voo do Boeing 737 no capítulo 23 - Comunicações, que menciona o sistema de controle de voo (Fly-By-Wire) e os componentes associados.\n\nNo capítulo 76 - Controle do Motor (CFM56), há uma referência ao sistema de controle do motor, que inclui o computador de controle do motor (Engine Control Computer) e outros componentes.\n\nNo entanto, não há uma referência explícita à quantidade de Flight Control Computers (FCC) no Boeing 737.\n\nEm resumo, não é possível determinar com certeza a quantidade de Flight Control Computers (FCC) do Boeing 737 com base nos manuais fornecidos.",
-    "tempo_segundos": 31.423,
+    "resposta": "De acordo com o manual de manutenção do Boeing 737, especificamente no capítulo 51 - ESTRUTURAS, não há informações diretas sobre a quantidade de Flight Control Computers (FCC) no avião.\n\nNo entanto, é possível encontrar informações sobre os sistemas de controle de voo do Boeing 737 no capítulo 23 - COMUNICAÇÕES, que menciona o sistema de controle de voo (Flight Control System) e seus componentes, incluindo os computadores de controle de voo (Flight Control Computers).\n\nNo capítulo 23-11-01, página 2, é mencionado que o sistema de controle de voo do Boeing 737 utiliza dois computadores de controle de voo (FCC) para controlar o avião.\n\nPortanto, com base nas informações disponíveis, podemos concluir que o Boeing 737 utiliza dois Flight Control Computers (FCC) para controlar o avião.\n\nReferência: \n- Capítulo 51 - ESTRUTURAS, página não especificada (não encontrado)\n- Capítulo 23 - COMUNICAÇÕES, página 2, capítulo 23-11-01",
+    "tempo_segundos": 6.649,
     "metadados_llm": {
       "status": "ok",
       "tokens": {
         "prompt_tokens": 3242,
-        "total_tokens": 3453,
-        "completion_tokens": 211,
+        "total_tokens": 3493,
+        "completion_tokens": 251,
         "prompt_tokens_details": null
       },
       "finish_reason": "stop"
     },
     "metricas": {
-      "precisao": 0.0488,
-      "completude": 0.9066,
-      "especificidade": 0.3333,
-      "rastreabilidade": 0.6667,
+      "precisao": 0.0,
+      "completude": 0.8783,
+      "especificidade": 0.6667,
+      "rastreabilidade": 1.0,
       "confianca": 0.0
     },
-    "score_final": 40.8
+    "score_final": 50.29
   },
   {
-    "timestamp": "2026-09-12T19:27:21.575750",
+    "timestamp": "2026-09-14T01:02:44.557069",
     "abordagem": "faiss",
     "pergunta": "Como fazer a inspeção do trem de pouso principal?",
     "documentos_recuperados": [
@@ -77,29 +77,29 @@
       "71_C__084.PDF"
     ],
     "contexto_usado": "[Fonte: 49__B_084.PDF (cosseno 0.0157)]\nCHAPTER\n49\nAUXILIARY\nPOWERUNIT\n(GTCP36-280ENGINES)\nPJW\n49-EFFECTIVEPAGES\n1thru9 SEP25/2016\n10 BLANK\n49-CONTENTS\n1 Mar25/2015\n2 Mar25/2015\n3 Mar25/2015\n4 Mar25/2015\n5 Mar25/2015\n6 Mar25/2015\n7 Mar25/2015\n8 Mar25/2015\n9 Mar25/2015\n10 Mar25/2015\n11 Mar25/2015\n12 Mar25/2015\n13 Mar25/2015\n14 Mar25/2015\n15 Mar25/2016\n16 Mar25/2015\n49-00-00\n1 Mar25/2015\n2 Mar25/2015\n3 Mar25/2015\n4 Mar25/2015\n5 Mar25/2015\n6 Mar25/2015\n7 Mar25/2015\n8 BLANK\n49-00-00 Config2\n101 Mar2",
-    "resposta": "De acordo com o manual PJW 49, capítulo 49-00-00, Configuração 2, página 101, a inspeção do trem de pouso principal é realizada de acordo com o procedimento descrito abaixo:\n\n**Resposta Direta:**\nA inspeção do trem de pouso principal deve ser realizada após cada voo e a cada 100 horas de voo, ou a cada 12 meses, o que ocorrer primeiro. O procedimento de inspeção deve ser realizado por um técnico treinado e qualificado.\n\n**Detalhes Técnicos:**\nO procedimento de inspeção do trem de pouso principal inclui:\n\n* Verificar a pressão dos pneus do trem de pouso principal;\n* Verificar a condição dos freios do trem de pouso principal;\n* Verificar a condição das rodas do trem de pouso principal;\n* Verificar a condição das travas do trem de pouso principal;\n* Verificar a condição das linhas de aço do trem de pouso principal.\n\n**Referência à Fonte:**\nPJW 49, capítulo 49-00-00, Configuração 2, página 101.\n\n**Nota:**\nÉ importante lembrar que a inspeção do trem de pouso principal é uma tarefa crítica e deve ser realizada com cuidado e atenção para garantir a segurança do avião e de todos os passageiros e tripulantes.",
-    "tempo_segundos": 34.399,
+    "resposta": "De acordo com o manual de manutenção da aeronave Boeing 737, a inspeção do trem de pouso principal é descrita no capítulo 71, seção 71-00-00, subseção 71-00-00 201 a 71-00-00 220.\n\nA inspeção do trem de pouso principal inclui a verificação da condição geral do trem, incluindo a presença de danos ou desgaste excessivo nos componentes, como os pneus, os amortecedores e as molas. Além disso, a inspeção deve incluir a verificação da pressão dos pneus, que deve ser feita com um medidor de pressão de pneu adequado.\n\nA pressão dos pneus deve ser verificada em cada pneu do trem de pouso principal, e deve ser ajustada de acordo com as especificações do fabricante. A pressão recomendada para os pneus do trem de pouso principal da aeronave Boeing 737 é de 2,5 a 3,5 psi (pounds por polegada quadrada) para os pneus dianteiros e 3,5 a 4,5 psi para os pneus traseiros.\n\nAlém disso, a inspeção do trem de pouso principal deve incluir a verificação da condição dos amortecedores e das molas, que devem ser inspecionados por meio de uma inspeção visual e por meio de um teste de compressão. A inspeção deve também incluir a verificação da condição dos componentes de segurança, como os freios de estacionamento e os dispositivos de segurança do trem de pouso principal.\n\nReferência: Capítulo 71, seção 71-00-00, subseção 71-00-00 201 a 71",
+    "tempo_segundos": 10.111,
     "metadados_llm": {
       "status": "ok",
       "tokens": {
         "prompt_tokens": 3257,
-        "total_tokens": 3576,
-        "completion_tokens": 319,
+        "total_tokens": 3657,
+        "completion_tokens": 400,
         "prompt_tokens_details": null
       },
-      "finish_reason": "stop"
+      "finish_reason": "length"
     },
     "metricas": {
-      "precisao": 0.0189,
-      "completude": 0.8111,
-      "especificidade": 0.6667,
-      "rastreabilidade": 1.0,
+      "precisao": 0.0,
+      "completude": 0.8565,
+      "especificidade": 1.0,
+      "rastreabilidade": 0.6667,
       "confianca": 1.0
     },
-    "score_final": 59.18
+    "score_final": 61.41
   },
   {
-    "timestamp": "2026-09-12T19:28:04.481685",
+    "timestamp": "2026-09-14T01:02:53.813834",
     "abordagem": "faiss",
     "pergunta": "Qual é a pressão normal de operação do sistema hidráulico A?",
     "documentos_recuperados": [
@@ -110,29 +110,29 @@
       "80_C__084.PDF"
     ],
     "contexto_usado": "[Fonte: 49__B_084.PDF (cosseno 0.0117)]\nCHAPTER\n49\nAUXILIARY\nPOWERUNIT\n(GTCP36-280ENGINES)\nPJW\n49-EFFECTIVEPAGES\n1thru9 SEP25/2016\n10 BLANK\n49-CONTENTS\n1 Mar25/2015\n2 Mar25/2015\n3 Mar25/2015\n4 Mar25/2015\n5 Mar25/2015\n6 Mar25/2015\n7 Mar25/2015\n8 Mar25/2015\n9 Mar25/2015\n10 Mar25/2015\n11 Mar25/2015\n12 Mar25/2015\n13 Mar25/2015\n14 Mar25/2015\n15 Mar25/2016\n16 Mar25/2015\n49-00-00\n1 Mar25/2015\n2 Mar25/2015\n3 Mar25/2015\n4 Mar25/2015\n5 Mar25/2015\n6 Mar25/2015\n7 Mar25/2015\n8 BLANK\n49-00-00 Config2\n101 Mar2",
-    "resposta": "De acordo com o manual de manutenção da aeronave Boeing 737, especificamente no capítulo 80 \"STARTING (CFM56 ENGINES (CFM56-3))\", não há informações diretas sobre a pressão normal de operação do sistema hidráulico A.\n\nNo entanto, é possível encontrar informações sobre a pressão hidráulica no sistema hidráulico A no capítulo 26 \"FIRE PROTECTION\" do mesmo manual. De acordo com o capítulo 26, a pressão hidráulica normal para o sistema hidráulico A é de 3000 psi (pounds por polegada quadrada) e a pressão de trabalho é de 2500 psi.\n\nAlém disso, é importante verificar as especificações do sistema hidráulico A no manual de manutenção da aeronave Boeing 737, pois as informações podem variar dependendo do modelo da aeronave e da configuração do sistema.\n\nReferência:\n- Capítulo 26 \"FIRE PROTECTION\" do manual de manutenção da aeronave Boeing 737.\n- Capítulo 80 \"STARTING (CFM56 ENGINES (CFM56-3))\" do manual de manutenção da aeronave Boeing 737.",
-    "tempo_segundos": 42.897,
+    "resposta": "De acordo com o manual de manutenção da aeronave Boeing 737, especificamente no capítulo 80 \"STARTING (CFM56 ENGINES (CFM56-3))\", não há informações diretas sobre a pressão normal de operação do sistema hidráulico A.\n\nNo entanto, é possível encontrar informações sobre a pressão hidráulica no sistema hidráulico A no capítulo 26 \"FIRE PROTECTION\" do mesmo manual. No parágrafo 26-10-01, é mencionado que a pressão hidráulica no sistema hidráulico A deve ser de 3000 psi (pounds por polegada quadrada) durante a operação normal.\n\nAlém disso, no capítulo 49 \"AUXILIARY POWER UNIT (GTCP36-280 ENGINES)\" também há informações sobre a pressão hidráulica no sistema hidráulico A. No parágrafo 49-00-00, é mencionado que a pressão hidráulica no sistema hidráulico A deve ser de 3000 psi (pounds por polegada quadrada) durante a operação normal.\n\nPortanto, com base nas informações disponíveis nos capítulos 26 e 49 do manual de manutenção da aeronave Boeing 737, a pressão normal de operação do sistema hidráulico A é de 3000 psi (pounds por polegada quadrada).\n\nReferência:\n- Capítulo 26 \"FIRE PROTECTION\" do manual de manutenção da aeronave Boeing 737.\n- Capítulo 49 \"AUXILIARY POWER UNIT (GTCP36-280 ENGINES)\" do manual de manutenção da aeronave Boeing 737.",
+    "tempo_segundos": 9.253,
     "metadados_llm": {
       "status": "ok",
       "tokens": {
         "prompt_tokens": 3300,
-        "total_tokens": 3575,
-        "completion_tokens": 275,
+        "total_tokens": 3682,
+        "completion_tokens": 382,
         "prompt_tokens_details": null
       },
       "finish_reason": "stop"
     },
     "metricas": {
-      "precisao": 0.0455,
-      "completude": 0.8773,
+      "precisao": 0.0889,
+      "completude": 0.8444,
       "especificidade": 1.0,
       "rastreabilidade": 0.6667,
       "confianca": 0.5
     },
-    "score_final": 58.3
+    "score_final": 58.78
   },
   {
-    "timestamp": "2026-09-12T19:29:05.625337",
+    "timestamp": "2026-09-14T01:03:06.068912",
     "abordagem": "faiss",
     "pergunta": "O que acontece se houver falha no sistema hidráulico B?",
     "documentos_recuperados": [
@@ -143,18 +143,25 @@
       "30___084.PDF"
     ],
     "contexto_usado": "[Fonte: 76_C__084.PDF (cosseno 0.0418)]\nCHAPTER\n76\nENGINE\nCONTROLS\n(CFM56ENGINES(CFM56-3))\nPJW\n76-EFFECTIVEPAGES\n1thru3 SEP25/2016\n4 BLANK\n76-CONTENTS\n1 Mar25/2015\n2 Mar25/2015\n3 Mar25/2015\n4 Mar25/2015\n5 Mar25/2015\n6 BLANK\n76-00-00\n101 Mar25/2015\n102 BLANK\n76-11-00\n1 Mar25/2015\n2 Mar25/2015\n3 Mar25/2015\n4 Mar25/2015\n5 Mar25/2015\n6 Mar25/2015\n7 Mar25/2015\n8 Mar25/2015\n9 Mar25/2015\n10 BLANK\n76-11-00\n201 Mar25/2015\n202 Mar25/2015\n76-11-00\n501 Mar25/2015\n502 Mar25/2015\n503 Mar25/2015\n504 Mar25/2015",
-    "resposta": "[TIMEOUT] A API demorou mais de 60s.",
-    "tempo_segundos": 61.138,
+    "resposta": "Resposta direta:\nSe houver falha no sistema hidráulico B, o sistema de controle da aeronave pode ser afetado, pois o sistema hidráulico B fornece pressão hidráulica para os controles de voo, como o elevador, o aileron e o flap. Uma falha no sistema hidráulico B pode causar perda de pressão hidráulica, o que pode resultar em perda de controle da aeronave.\n\nDetalhes técnicos:\nDe acordo com o manual de manutenção da aeronave Boeing 737, o sistema hidráulico B é responsável por fornecer pressão hidráulica para os controles de voo, incluindo o elevador, o aileron e o flap. O sistema hidráulico B é composto por um motor hidráulico, um reservatório de óleo hidráulico e um conjunto de tubos e conexões que distribuem a pressão hidráulica para os controles de voo. Se houver falha no sistema hidráulico B, o motor hidráulico pode não funcionar corretamente, o que pode causar perda de pressão hidráulica e perda de controle da aeronave.\n\nReferência à fonte:\nConforme o manual de manutenção da aeronave Boeing 737, o sistema hidráulico B é descrito no capítulo 28, seção 10-00, subseção 201. Além disso, o manual também descreve as consequências de uma falha no sistema hidráulico B, incluindo a perda de controle da aeronave. (Fonte: Boeing 737, Manual de Manutenção, Capítulo 28, Seção 10-00, Subseção 201).\n\nNota",
+    "tempo_segundos": 12.251,
     "metadados_llm": {
-      "status": "timeout"
+      "status": "ok",
+      "tokens": {
+        "prompt_tokens": 3293,
+        "total_tokens": 3693,
+        "completion_tokens": 400,
+        "prompt_tokens_details": null
+      },
+      "finish_reason": "length"
     },
     "metricas": {
-      "precisao": 0.0,
-      "completude": 0.342,
-      "especificidade": 0.0,
-      "rastreabilidade": 0.0,
+      "precisao": 0.0182,
+      "completude": 0.8364,
+      "especificidade": 0.3333,
+      "rastreabilidade": 1.0,
       "confianca": 1.0
     },
-    "score_final": 18.55
+    "score_final": 53.12
   }
 ]

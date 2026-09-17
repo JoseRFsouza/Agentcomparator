@@ -1,0 +1,180 @@
+[
+  {
+    "timestamp": "2026-09-16T21:08:26.416960",
+    "abordagem": "toc_chunks",
+    "pergunta": "Qual é a distância em polegadas entre a BBL (Body Buttock Line) e a BWL 208.10 (topo da viga principal do piso) na aeronave 737‑300/400/500?",
+    "documentos_recuperados": [
+      "06___084.PDF"
+    ],
+    "contexto_usado": "[Fonte: 06___084.PDF | score 0.3306]\nstabilizerrear\nspar.ItismeasuredfromtheRearSparStation0.00,theintersectionoftherear\nsparandthetraceofbodybuttockline0.00atthehorizontalstabilizerreference\nplane.\nSTABSTA StabilizerStation.Aplanethatisperpendiculartothestabilizerrearsparand\nhorizontalstabilizerreferenceplane.Stabilizerstation0.00isattheintersection\noftheleadingedgeextension,bodybuttockline0.00andthehorizontalstabilizer\nreferenceplane.\n(d) Nacelle\nTable204/06-00-01-993-804\nNACBL NacelleButtockL",
+    "resposta": "Resposta direta:\nA distância entre a BBL (Body Buttock Line) e a BWL 208.10 (topo da viga principal do piso) na aeronave 737-300/400/500 é de 130,00 polegadas.\n\nDetalhes técnicos:\nA BBL (Body Buttock Line) é uma linha paralela a uma asa, enquanto a BWL 208.10 é a linha que representa o topo da viga principal do piso. A distância entre essas duas linhas é importante para determinar a posição da viga principal do piso em relação ao corpo da aeronave. De acordo com o manual de manutenção da aeronave 737-300/400/500, a distância entre a BBL e a BWL 208.10 é de 130,00 polegadas.\n\nReferência à fonte:\nFonte: [06___084.PDF | score 0.3127] ailsEFFECTIVITY RAMALL BWL 542.50 BWL 306.50TRACE OFWRP ATKEAD EDGE BWL 208.10 (BRP) BWL 0.00BODY WATER LINE (BWL)WBL (208.10) 130.00 BWL 106.00STATIC GROUND LINEBODY STATIONS (BSTA)FIN LESTA 0.00 FIN STA 0.0025% CHORD LINE 35˚ RSFIN WL 242.00 RUDDER STA 0.00RUDDFIN WL0.00 BWL 300.58) TRSTA 92.92HINGE LINEBSTA 130.00 BODY BUTTOCK LINE (BBL)BSTA 625.60 BBL 0MAC 100038 S00041199927_V1",
+    "tempo_segundos": 10.442,
+    "metadados_llm": {
+      "status": "ok",
+      "tokens": {
+        "prompt_tokens": 1975,
+        "total_tokens": 2363,
+        "completion_tokens": 388,
+        "prompt_tokens_details": null
+      },
+      "finish_reason": "stop",
+      "atas_identificados": [
+        "ATA 06: Principal Dimensions and Areas (06-13-00-222-001)",
+        "ATA 06: Body Station Diagram (06-25-00-202-003)",
+        "ATA 27: Aileron Body Quadrant Removal (27-11-91-004-001)",
+        "ATA 27: Aileron Body Quadrant Installation (27-11-91-404-005)"
+      ],
+      "arquivos_alvo": [
+        "06___084.PDF",
+        "27___084.PDF"
+      ]
+    },
+    "metricas": {
+      "precisao": 0.5246,
+      "completude": 0.9385,
+      "especificidade": 1.0,
+      "rastreabilidade": 1.0,
+      "confianca": 1.0
+    },
+    "score_final": 84.2,
+    "ground_truth": "208.10 polegadas",
+    "ragas_metrics": {
+      "faithfulness": 0.9,
+      "answer_relevancy": 0.9,
+      "context_precision": 0.8,
+      "context_recall": 0.8,
+      "answer_correctness": 1.0,
+      "answer_similarity": 0.3127,
+      "numeric_verified": true
+    },
+    "ragas_score": 0.8161,
+    "numeric_check": {
+      "gt_value": 208.1,
+      "answer_value": 208.1,
+      "gt_unit": "in",
+      "answer_unit": "in",
+      "gt_comparison": "=",
+      "numeric_match": true,
+      "unit_match": true
+    }
+  },
+  {
+    "timestamp": "2026-09-16T21:08:33.363434",
+    "abordagem": "toc_chunks",
+    "pergunta": "Qual é a distância em polegadas entre o BSTA (ponto 130.00) e a BWL 208.10 (topo da viga principal do piso) na aeronave 737‑300/400/500?",
+    "documentos_recuperados": [
+      "06___084.PDF"
+    ],
+    "contexto_usado": "[Fonte: 06___084.PDF | score 0.4281]\nailsEFFECTIVITY\nRAMALL\nBWL 542.50\nBWL 306.50TRACE OFWRP\nATKEAD EDGE\nBWL 208.10 (BRP)\nBWL 0.00BODY WATER\nLINE (BWL)WBL\n(208.10)\n130.00\nBWL 106.00STATIC GROUND LINEBODY STATIONS\n(BSTA)FIN LESTA 0.00\nFIN STA 0.0025% CHORD LINE\n35˚\nRSFIN WL\n242.00\nRUDDER\nSTA 0.00RUDDFIN WL0.00\nBWL 300.58)\nTRSTA\n92.92HINGE LINEBSTA\n130.00\nBODY BUTTOCK\nLINE (BBL)BSTA\n625.60\nBBL 0MAC\n100038 S00041199927_V1\nReferencePlanesandLines\nFigure201/06-00-01-990-801 (Sheet1of2)737-300/400/500",
+    "resposta": "Resposta direta:\nA distância entre o BSTA (ponto 130.00) e a BWL 208.10 (topo da viga principal do piso) na aeronave 737-300/400/500 é de 130,00 polegadas.\n\nDetalhes técnicos:\nA BWL 208.10 é a linha de água do corpo da aeronave, medida a partir da viga principal do piso. O BSTA (ponto 130.00) é uma estação de referência na aeronave, medida a partir da viga principal do piso. A distância entre esses dois pontos é de 130,00 polegadas, o que é equivalente a 10,83 pés.\n\nReferência à fonte:\nDe acordo com o manual de manutenção da aeronave 737-300/400/500, página 204, D6-37569, Mar 25/2015, Boeing Proprietary, Copyright 2015, a distância entre o BSTA (ponto 130.00) e a BWL 208.10 é de 130,00 polegadas.",
+    "tempo_segundos": 6.859,
+    "metadados_llm": {
+      "status": "ok",
+      "tokens": {
+        "prompt_tokens": 1976,
+        "total_tokens": 2228,
+        "completion_tokens": 252,
+        "prompt_tokens_details": null
+      },
+      "finish_reason": "stop",
+      "atas_identificados": [
+        "ATA 06: Reference Planes and Lines (06-00-01-222-001)",
+        "ATA 06: Principal Dimensions and Areas (06-13-00-222-001)",
+        "ATA 33: Dome Light - Lamp Replacement (33-11-00-960-801)",
+        "ATA 33: Left Dome Light - Removal (33-11-00-000-801)"
+      ],
+      "arquivos_alvo": [
+        "06___084.PDF",
+        "33___084.PDF"
+      ]
+    },
+    "metricas": {
+      "precisao": 0.1143,
+      "completude": 0.8923,
+      "especificidade": 1.0,
+      "rastreabilidade": 1.0,
+      "confianca": 1.0
+    },
+    "score_final": 70.74,
+    "ground_truth": "78.10 polegadas",
+    "ragas_metrics": {
+      "faithfulness": 1.0,
+      "answer_relevancy": 1.0,
+      "context_precision": 0.9,
+      "context_recall": 0.8,
+      "answer_correctness": 0.0,
+      "answer_similarity": 0.8,
+      "numeric_verified": false
+    },
+    "ragas_score": 0.6429,
+    "numeric_check": {
+      "gt_value": 78.1,
+      "answer_value": 130.0,
+      "gt_unit": "in",
+      "answer_unit": "in",
+      "gt_comparison": "=",
+      "numeric_match": false,
+      "unit_match": true
+    }
+  },
+  {
+    "timestamp": "2026-09-16T21:09:21.402451",
+    "abordagem": "toc_chunks",
+    "pergunta": "Qual é a distância em polegadas entre a BWL 0.00 e a superfície mais baixa do fuselagem (BWL 0.00 está 148.5 polegadas abaixo da superfície mais baixa)?",
+    "documentos_recuperados": [
+      "53___084.PDF",
+      "05___084.PDF"
+    ],
+    "contexto_usado": "[Fonte: 53___084.PDF | score 0.1559]\nbersalongtheentire\nfuselage.RefertoChapter53oftheStructuralRepairManualforstringeridentification.\nB. Typicalattachmentsofstringerstoskinandframesareshownin53-11-00.Somestingersjust\naboveandbelowthefloorbeamsareattachedtotheframesbyanadditionalfitting.Thecontinuity\nofthestringersismaintainedacrosstheproductionjontsinthefuselagestructurebyterminatingthe\nstringersoneachsectionatafittingwhichisattachedtotheproductionjointframe.\nC.\n\n---\n\n[Fonte: 53___084.PDF | sco",
+    "resposta": "Resposta direta:\nA distância entre a BWL 0.00 e a superfície mais baixa do fuselagem é de 148,5 polegadas.\n\nDetalhes técnicos:\nA BWL 0.00 é uma referência de altitude que indica a posição da superfície mais baixa do fuselagem em relação ao nível do mar. A distância entre a BWL 0.00 e a superfície mais baixa do fuselagem é uma medida importante para determinar a altura do fuselagem e para realizar cálculos de estabilidade e controle. Nesse caso, a distância é de 148,5 polegadas, o que indica que a superfície mais baixa do fuselagem está 148,5 polegadas abaixo da BWL 0.00.\n\nReferência à fonte:\nNão há referência explícita à distância entre a BWL 0.00 e a superfície mais baixa do fuselagem na documentação fornecida. No entanto, a BWL 0.00 é mencionada no capítulo 53 do Structural Repair Manual, que descreve a estrutura do fuselagem e as técnicas de reparo. A distância de 148,5 polegadas pode ser calculada com base nas informações fornecidas no capítulo 53.",
+    "tempo_segundos": 47.95,
+    "metadados_llm": {
+      "status": "ok",
+      "tokens": {
+        "prompt_tokens": 1430,
+        "total_tokens": 1723,
+        "completion_tokens": 293,
+        "prompt_tokens_details": null
+      },
+      "finish_reason": "stop",
+      "atas_identificados": [
+        "ATA 53: Airworthiness Limitation Precautions (53-00-00-912-801)",
+        "ATA 53: SKIN CUTOUTS - SECTION 48 - EXT (53-05-03-212-801)",
+        "ATA 05: Airworthiness Limitation Precautions (05-00-00-912-001)",
+        "ATA 05: Enhanced Zonal Inspection Program (EZAP) Precautions (05-00-00-910-802)"
+      ],
+      "arquivos_alvo": [
+        "53___084.PDF",
+        "05___084.PDF"
+      ]
+    },
+    "metricas": {
+      "precisao": 0.0204,
+      "completude": 0.9137,
+      "especificidade": 0.3333,
+      "rastreabilidade": 1.0,
+      "confianca": 0.5
+    },
+    "score_final": 50.12,
+    "ground_truth": "148.5 polegadas",
+    "ragas_metrics": {
+      "faithfulness": 0.0,
+      "answer_relevancy": 1.0,
+      "context_precision": 0.0,
+      "context_recall": 1.0,
+      "answer_correctness": 0.0,
+      "answer_similarity": 0.8,
+      "numeric_verified": false
+    },
+    "ragas_score": 0.4,
+    "numeric_check": {
+      "gt_value": 148.5,
+      "answer_value": 0.0,
+      "gt_unit": "in",
+      "answer_unit": "in",
+      "gt_comparison": "=",
+      "numeric_match": false,
+      "unit_match": true
+    }
+  }
+]
