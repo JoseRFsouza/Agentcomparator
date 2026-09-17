@@ -30,11 +30,7 @@ BASE_DIR = Path(__file__).resolve().parent
 INDICE_CONHECIMENTO = BASE_DIR / "base_conhecimento_indice.json"
 
 # Índice TOC (tabela de conteúdo dos manuais, 4945 entradas, 43 capítulos ATA)
-INDICE_TOC = Path(
-    r"C:\Users\joser\Desktop\cursos\chatdohangar_backend\manuais"
-    r"\AMM B737 REV 84 DATE 25 SEPT 2016\737-345_RAM_AMM_D6-37569_TD"
-    r"\amm_toc_database.json"
-)
+INDICE_TOC = BASE_DIR.parent / "amm_toc_database.json"
 
 # Ground truth (gabarito de perguntas/respostas) - preencher pelo usuário
 GROUND_TRUTH = BASE_DIR / "ground_truth.json"
@@ -49,7 +45,7 @@ RESULTADOS_DIR.mkdir(exist_ok=True)
 # ----------------------------------------------------------------------------
 # CONFIGURAÇÃO NVIDIA API (LLM e embeddings)
 # ----------------------------------------------------------------------------
-NVIDIA_API_KEY = "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"
+NVIDIA_API_KEY = "XXXXXXXXXXXXXXXXXXXXXXXX"  # <-- preencher com a chave de API NVIDIA
 NVIDIA_CHAT_URL = "https://integrate.api.nvidia.com/v1/chat/completions"
 NVIDIA_EMBED_URL = "https://integrate.api.nvidia.com/v1/embeddings"
 
