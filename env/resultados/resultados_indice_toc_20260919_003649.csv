@@ -1,0 +1,25 @@
+﻿timestamp,abordagem,pergunta,documentos_recuperados,resposta,tempo_segundos,precisao,completude,especificidade,rastreabilidade,confianca,score_final
+2026-09-19T00:40:01.466230,indice_toc,Que tipo de antena é a antena HF descrita no manual?,72_C__084.PDF (ATA 72 - ) | 27___084.PDF (ATA 27 - MANUAL ISOLATION VALVES - REMOVAL/INSTALLATION) | 22___084.PDF (ATA 22 - ) | 29___084.PDF (ATA 29 - RESERVOIR MANUAL FILL PUMP - REMOVAL/INSTALLATION),"Infelizmente, não há informações suficientes no contexto fornecido para determinar o tipo de antena HF descrita no manual. Os manuais fornecidos parecem estar relacionados à manutenção de aeronaves Boeing 737, mas não há menção explícita à antena HF.
+
+No entanto, posso sugerir que você verifique os manuais relacionados à comunicação e à navegação da aeronave, pois é provável que a antena HF seja descrita em um desses manuais. Alguns exemplos de manuais que podem conter informações sobre a antena HF incluem:
+
+* Manual de comunicação da aeronave (por exemplo, Chapter 32 do AMM)
+* Manual de navegação da aeronave (por exemplo, Chapter 27 do AMM)
+* Manual de equipamentos de comunicação da aeronave (por exemplo, Chapter 22 do AMM)
+
+Se você tiver acesso a esses manuais, é provável que você encontre informações sobre a antena HF descrita no manual.",10.051,0.0435,1.0,0.6667,0.6667,0.5,54.64
+2026-09-19T00:40:32.398461,indice_toc,"Qual é a função do aquecedor de combustível servo dentro do sistema de controle de combustível, e por que manter a temperatura do combustível alta é importante?",28___084.PDF (ATA 28 - FUEL TEMPERATURE INDICATING SYSTEM - ADJUSTMENT/TE) | 79_C__084.PDF (ATA 79 - OIL TEMPERATURE INDICATING SYSTEM - DESCRIPTION AN) | 77_C__084.PDF (ATA 77 - EXHAUST GAS TEMPERATURE (EGT) INDICATION SYSTEM - ) | 21___084.PDF (ATA 21 - CONDITIONED AIR TEMPERATURE CONTROL SYSTEM - TROUB) | 21___084.PDF (ATA 21 - TEMPERATURE INDICATING SYSTEM - DESCRIPTION 21-62-),"Resposta direta:
+O aquecedor de combustível servo é um componente crítico do sistema de controle de combustível, responsável por manter a temperatura do combustível dentro do intervalo operacional desejado. A função do aquecedor de combustível servo é fornecer calor ao combustível, garantindo que ele esteja dentro da faixa de temperatura necessária para o funcionamento correto do motor.
+
+Detalhes técnicos:
+De acordo com o manual de manutenção da Boeing 737, o aquecedor de combustível servo é um componente do sistema de controle de combustível, responsável por manter a temperatura do combustível dentro do intervalo de 38°C a 55°C (100°F a 131°F) (Conforme o capítulo 21 do manual de manutenção da Boeing 737). A temperatura do combustível alta é importante porque afeta diretamente a performance do motor. Se a temperatura do combustível for muito baixa, o motor pode não funcionar corretamente, o que pode levar a problemas de desempenho e segurança. Além disso, uma temperatura do combustível alta também ajuda a evitar a formação de condensação no sistema de combustível, o que pode causar problemas de corrosão e obstrução.
+
+Referência à fonte:
+Conforme o capítulo 21 do manual de manutenção da Boeing 737, ""O aquecedor de combustível servo é responsável por manter a temperatura do combustível dentro do intervalo de 38°C a 55°C (100°F a 131°F). A temperatura do combustível alta é importante porque afeta diretamente a performance do motor."" (Fonte: Boeing 737 Maintenance Manual, Capítulo 21).",30.69,0.0,0.8862,0.3333,1.0,1.0,53.82
+2026-09-19T00:40:44.695265,indice_toc,Qual é o tempo máximo que o freio de estacionamento pode permanecer engajado antes de ser necessário re-pressurizar o sistema B?,32___084.PDF (ATA 32 - ) | 32___084.PDF (ATA 32 - ) | 27___084.PDF (ATA 27 - SPEED BRAKE CONTROL SYSTEM - ADJUSTMENT/TEST) | 27___084.PDF (ATA 27 - HORIZONTAL STABILIZER TRIM CONTROL SYSTEM - ADJUST) | 32___084.PDF (ATA 32 - BRAKE SYSTEM RELIEF VALVE - REMOVAL/INSTALLATION),"De acordo com o manual de manutenção da aeronave Boeing 737, o tempo máximo que o freio de estacionamento pode permanecer engajado antes de ser necessário re-pressurizar o sistema B é de 30 minutos.
+
+Detalhes técnicos:
+O freio de estacionamento é um sistema hidráulico que é utilizado para estabilizar a aeronave em solo. O sistema B é um dos sistemas hidráulicos da aeronave, que fornece pressão hidráulica para o freio de estacionamento, assim como para outros sistemas da aeronave. De acordo com o manual, o freio de estacionamento pode permanecer engajado por até 30 minutos antes de ser necessário re-pressurizar o sistema B. Isso é necessário para evitar a perda de pressão hidráulica e garantir a segurança da aeronave.
+
+Referência à fonte:
+De acordo com o manual de manutenção da aeronave Boeing 737, específicamente no capítulo 32-09-01, seção 401, é mencionado que o tempo máximo que o freio de estacionamento pode permanecer engajado antes de ser necessário re-pressurizar o sistema B é de 30 minutos.",12.108,0.0,0.8961,0.6667,1.0,1.0,60.74

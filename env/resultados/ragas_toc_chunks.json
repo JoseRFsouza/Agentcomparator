@@ -1,79 +1,23 @@
 [
   {
-    "timestamp": "2026-09-17T04:06:55.982853",
+    "timestamp": "2026-09-19T00:43:13.777596",
     "abordagem": "toc_chunks",
-    "pergunta": "Qual é o código da tarefa que descreve a 'APU Operation Test'?",
+    "pergunta": "Que tipo de antena é a antena HF descrita no manual?",
     "documentos_recuperados": [
-      "26___084.PDF"
-    ],
-    "contexto_usado": "[Fonte: 26___084.PDF | score 0.3169]\neinthecenterposition.Thefireswitchhandlecan\nbemanuallyunlockedbypressingthebuttonbehindthehandle.\nC. BottleDischargeLights\n(1) Thebottledischargelightsareactivatedbythepressureswitches.Whenthebottledischarges\norbottlepressuredecreases,thepressureswitchclosesandthebottledischargelightcomes\non.\nD. TestSwitchandTestLights\n(1) Thetestswitchchecksextinguisherbottlesquibcontinuity.Whensetto1or2,thetestswitch\ncheckscircuitcontinuitythroughthesquibandtheLandRtestligh",
-    "resposta": "De acordo com o manual, a tarefa que descreve a \"APU Operation Test\" não é explicitamente mencionada no contexto fornecido. No entanto, a tarefa que se aproxima disso é a \"TestSwitch and Test Lights\" (D), que descreve a verificação da continuidade do squib e a ativação dos test lights.\n\nNo entanto, se considerarmos a seção \"5. Operation (Figure1)\" da página 5 do manual, podemos encontrar uma referência à \"APU Operation Test\". Nessa seção, é descrito o procedimento para testar a operação do APU, que inclui a verificação da continuidade do squib e a ativação dos test lights.\n\nPortanto, embora não haja um código de tarefa específico para a \"APU Operation Test\", podemos inferir que a tarefa mais próxima é a \"TestSwitch and Test Lights\" (D).\n\nReferência: [Fonte: 26___084.PDF | score 0.3169]",
-    "tempo_segundos": 23.742,
-    "metadados_llm": {
-      "status": "ok",
-      "tokens": {
-        "prompt_tokens": 1164,
-        "total_tokens": 1392,
-        "completion_tokens": 228,
-        "prompt_tokens_details": null
-      },
-      "finish_reason": "stop",
-      "atas_identificados": [
-        "ATA 49: General Task Instructions (49-00-00-800-803)",
-        "ATA 49: Visual Check Inspection (49-00-00-210-803)",
-        "ATA 26: Cargo Fire Control Panel Removal (26-00-02-004-001)",
-        "ATA 26: Cargo Fire Control Panel Installation (26-00-02-044-006)"
-      ],
-      "arquivos_alvo": [
-        "49__B_084.PDF",
-        "26___084.PDF"
-      ]
-    },
-    "metricas": {
-      "precisao": 0.1556,
-      "completude": 0.9288,
-      "especificidade": 0.6667,
-      "rastreabilidade": 1.0,
-      "confianca": 0.5
-    },
-    "score_final": 61.22,
-    "ground_truth": "49-11-00-805-001-D00",
-    "ragas_metrics": {
-      "faithfulness": 0.2,
-      "answer_relevancy": 0.0,
-      "context_precision": 0.0,
-      "context_recall": 0.0,
-      "answer_correctness": 0.0,
-      "answer_similarity": 0.0,
-      "numeric_verified": false
-    },
-    "ragas_score": 0.0286,
-    "numeric_check": {
-      "gt_value": 49.0,
-      "answer_value": 0.3169,
-      "gt_unit": null,
-      "answer_unit": null,
-      "gt_comparison": "=",
-      "numeric_match": false,
-      "unit_match": true
-    }
-  },
-  {
-    "timestamp": "2026-09-17T04:07:08.175478",
-    "abordagem": "toc_chunks",
-    "pergunta": "Quais componentes são mostrados na Figura 1/51‑00‑00‑990‑801 do manual?",
-    "documentos_recuperados": [
+      "27___084.PDF",
       "32___084.PDF"
     ],
-    "contexto_usado": "[Fonte: 32___084.PDF | score 0.1344]\nlandinggearpositionandwarninglightsfunctionnormallyduringmanual\nextensionoperation.737-300/400/500\nAIRCRAFTMAINTENANCEMANUAL\nPage1\nD6-37569 Mar25/2015\nBOEINGPROPRIETARY-Copyright©UnpublishedWork-SeetitlepagefordetailsEFFECTIVITY\nRAMALL\nLEFT MAIN GEAR\nMANUAL EXTENSION\nHANDLENOSE GEAR\nMANUAL EXTENSION\nHANDLE\nRIGHT MAIN GEAR\nMANUAL EXTENSION\nHANDLE\nNOSE GEAR\nMANUAL EXTENSION\nCONTROL CABLEMANUAL\nEXTENSION\nCONTROLNOSE GEAR\nMANUAL EXTENSION\nRELEASE MECHANISMNOSE GE",
-    "resposta": "Resposta direta:\nA Figura 1/51-00-00-990-801 do manual mostra os seguintes componentes:\n\n- NOSE GEAR MANUAL EXTENSION HANDLE\n- NOSE GEAR MANUAL EXTENSION CONTROL CABLE\n- NOSE GEAR MANUAL EXTENSION RELEASE MECHANISM\n- NOSE GEAR LOCK STRUT\n- NOSE GEAR LOWER DRAG BRACE\n- NOSE GEAR UPPER DRAG BRACE\n\nDetalhes técnicos:\nA Figura 1/51-00-00-990-801 é uma ilustração do sistema de extensão manual do trem de pouso dianteiro (nose gear) do Boeing 737-300/400/500. Os componentes mostrados incluem:\n\n- O mancal de extensão manual do trem de pouso dianteiro (Nose Gear Manual Extension Handle)\n- O cabo de controle de extensão manual do trem de pouso dianteiro (Nose Gear Manual Extension Control Cable)\n- O mecanismo de liberação de extensão manual do trem de pouso dianteiro (Nose Gear Manual Extension Release Mechanism)\n- A estrutura de travamento do trem de pouso dianteiro (Nose Gear Lock Strut)\n- O braço de arrasto inferior do trem de pouso dianteiro (Nose Gear Lower Drag Brace)\n- O braço de arrasto superior do trem de pouso dianteiro (Nose Gear Upper Drag Brace)\n\nReferência à fonte:\nFonte: Manual de Manutenção do Boeing 737-300/400/500, página 1, Figura 1/51-00-00-990-801.",
-    "tempo_segundos": 12.057,
+    "contexto_usado": "[Fonte: 27___084.PDF | score 0.2266]\nnlocktheactuator.\n(3) Swiveljointsinthehydrauliclinesallowtheactuatorstorotateasthespoilersraise.\nC. No.4and5GroundSpoilerActuators.\n(1) Twoidenticalactuatorsandactuatorlinkagesareusedtopositioneachgroundspoiler.The\nactuatorsareattachedatthecylinderendtoasupportonthewingrearspar.Theactuator\npistonrodendisattachedtothegroundspoileractuatorlinkage.\n(2) Theactuatorsforgroundspoilers4and5aresimilartotheactuatorsusedongroundspoilers\n0,1,8,and9exceptthelockingmechanismlockstheactuatorintheextendposition.\n9. No.4and5GroundSpoilerActuatorLinkage\nA. Agroundspoileractuatorlinkageconnectseachgroundspoileractuatortothegroundspoiler\n(Figure2).Theactuatorlinkageconsistsofanidlercrankandpushrod.Theidlercrankispivotedin\ntheactuatorsupport.Theactuatorpistonrodendisattachedtooneendoftheidlercrankandthe\npushrodtotheotherend.Thegroundspoilerisattachedtotheendofthepushrod.\nB.\n\n---\n\n[Fonte: 27___084.PDF | score 0.2266]\nnlocktheactuator.\n(3) Swiveljointsinthehydrauliclinesallowtheactuatorstorotateasthespoilersraise.\nC. No.4and5GroundSpoilerActuators.\n(1) Twoidenticalactuatorsandactuatorlinkagesareusedtopositioneachgroundspoiler.The\nactuatorsareattachedatthecylinderendtoasupportonthewingrearspar.Theactuator\npistonrodendisattachedtothegroundspoileractuatorlinkage.\n(2) Theactuatorsforgroundspoilers4and5aresimilartotheactuatorsusedongroundspoilers\n0,1,8,and9exceptthelockingmechanismlockstheactuatorintheextendposition.\n9. No.4and5GroundSpoilerActuatorLinkage\nA. Agroundspoileractuatorlinkageconnectseachgroundspoileractuatortothegroundspoiler\n(Figure2).Theactuatorlinkageconsistsofanidlercrankandpushrod.Theidlercrankispivotedin\ntheactuatorsupport.Theactuatorpistonrodendisattachedtooneendoftheidlercrankandthe\npushrodtotheotherend.Thegroundspoilerisattachedtotheendofthepushrod.\nB.\n\n---\n\n[Fonte: 27___084.PDF | score 0.1379]\ncessivetorqueonthescrewactuatorwillcausethespringstoexpandand\nbindagainstthetorquelimiterhousing.\nD. Thetorquelimiterisdesignedtooperateineitherdirectionofflaptravel.Excessivetorqueis\nabsorbedbythetorquelimiteruntiltheflaphydraulicmotorstalls.Atextendedflappositions,the\nno-backfrictionbrakepreventsflapretractionduetoairloads.Thebrakeconsistsofabrakedisk,\nratchetwheel,andtwopawls.Atextendedflappositions,uploadstransmittedtothejackscrewforce\nthebrakediskagainsttheratchetwheelresultinginabrakingaction.Thebrakeactiondoesnot\nopposeflapextensionsincethepawlsdonotengagetheratchetwheelinthisdirectionofrotation.\nThebrakeratchetsopposeretractionandinordertoretracttheflapsitisnecessarytosliptheno-\nbackfrictionbrakefromtheupstreamside.ThetransmissiongearboxisasealedunitfilledwithMIL-\nH-5606hydraulicoil.\nE.\n\n---\n\n[Fonte: 27___084.PDF | score 0.1379]\ncessivetorqueonthescrewactuatorwillcausethespringstoexpandand\nbindagainstthetorquelimiterhousing.\nD. Thetorquelimiterisdesignedtooperateineitherdirectionofflaptravel.Excessivetorqueis\nabsorbedbythetorquelimiteruntiltheflaphydraulicmotorstalls.Atextendedflappositions,the\nno-backfrictionbrakepreventsflapretractionduetoairloads.Thebrakeconsistsofabrakedisk,\nratchetwheel,andtwopawls.Atextendedflappositions,uploadstransmittedtothejackscrewforce\nthebrakediskagainsttheratchetwheelresultinginabrakingaction.Thebrakeactiondoesnot\nopposeflapextensionsincethepawlsdonotengagetheratchetwheelinthisdirectionofrotation.\nThebrakeratchetsopposeretractionandinordertoretracttheflapsitisnecessarytosliptheno-\nbackfrictionbrakefromtheupstreamside.ThetransmissiongearboxisasealedunitfilledwithMIL-\nH-5606hydraulicoil.\nE.\n\n---\n\n[Fonte: 32___084.PDF | score 0.1250]\nlandinggearpositionandwarninglightsfunctionnormallyduringmanual\nextensionoperation.737-300/400/500\nAIRCRAFTMAINTENANCEMANUAL\nPage1\nD6-37569 Mar25/2015\nBOEINGPROPRIETARY-Copyright©UnpublishedWork-SeetitlepagefordetailsEFFECTIVITY\nRAMALL\nLEFT MAIN GEAR\nMANUAL EXTENSION\nHANDLENOSE GEAR\nMANUAL EXTENSION\nHANDLE\nRIGHT MAIN GEAR\nMANUAL EXTENSION\nHANDLE\nNOSE GEAR\nMANUAL EXTENSION\nCONTROL CABLEMANUAL\nEXTENSION\nCONTROLNOSE GEAR\nMANUAL EXTENSION\nRELEASE MECHANISMNOSE GEAR\nMANUAL EXTENSION\nCONTROL CABLE\nNOSE GEAR\nWHEEL WELLAISLE\nSTAND\nUPAND LOCKED RELEASEDRETURN\nSPRINGNOSE GEAR\nMANUAL EXTENSION\nCONTROL CABLE\nNOSE GEAR\nMANUAL EXTENSION\nRELEASE MECHANISM\nNOSE GEAR\nLOCK STRUT\nNOSE GEAR\nLOWER DRAG\nBRACENOSE GEAR UPPER\nDRAG BRACE\n92857 S00041229887_V1\nNoseGearManualExtensionSystemComponentLocation\nFigure1/",
+    "contexto_preview": "[Fonte: 27___084.PDF | score 0.2266]\nnlocktheactuator.\n(3) Swiveljointsinthehydrauliclinesallowtheactuatorstorotateasthespoilersraise.\nC. No.4and5GroundSpoilerActuators.\n(1) Twoidenticalactuatorsandactuatorlinkagesareusedtopositioneachgroundspoiler.The\nactuatorsareattachedatthecylinderendtoasupportonthewingrearspar.Theactuator\npistonrodendisattachedtothegroundspoileractuatorlinkage.\n(2) Theactuatorsforgroundspoilers4and5aresimilartotheactuatorsusedongroundspoilers\n0,1,8,and9exceptthelockingmecha",
+    "resposta": "Infelizmente, não há nenhuma menção à antena HF no contexto fornecido. O contexto parece se referir exclusivamente à manutenção e funcionamento do sistema de spoilers e flaps do Boeing 737. Não há informações sobre antenas HF ou qualquer outro tipo de equipamento de comunicação.",
+    "resposta_detalhada": "Infelizmente, não há nenhuma menção à antena HF no contexto fornecido. O contexto parece se referir exclusivamente à manutenção e funcionamento do sistema de spoilers e flaps do Boeing 737. Não há informações sobre antenas HF ou qualquer outro tipo de equipamento de comunicação.",
+    "tempo_segundos": 16.332,
     "metadados_llm": {
       "status": "ok",
       "tokens": {
-        "prompt_tokens": 1591,
-        "total_tokens": 1950,
-        "completion_tokens": 359,
+        "prompt_tokens": 1590,
+        "total_tokens": 1658,
+        "completion_tokens": 68,
         "prompt_tokens_details": null
       },
       "finish_reason": "stop",
@@ -89,145 +33,27 @@
       ]
     },
     "metricas": {
-      "precisao": 0.3404,
-      "completude": 0.7576,
-      "especificidade": 1.0,
-      "rastreabilidade": 1.0,
+      "precisao": 0.0,
+      "completude": 0.764,
+      "especificidade": 0.3333,
+      "rastreabilidade": 0.0,
       "confianca": 1.0
     },
-    "score_final": 74.15,
-    "ground_truth": "Estrutura básica típica: pele externa enrolada (TYP), stringer (TYP), quadro de janela extrudado (TYP), stringers unidos com waffle dobrador de 10 polegadas (STD) 103696 S00041245794_V1.",
+    "score_final": 35.77,
+    "tokens_estimados": 218,
+    "ground_truth": "A antena HF é uma antena de slot flush‑mounted que faz parte da borda de frente do estabilizador vertical.",
     "ragas_metrics": {
-      "faithfulness": 0.4,
-      "answer_relevancy": 1.0,
+      "faithfulness": 1.0,
+      "answer_relevancy": 0.0,
       "context_precision": 0.0,
       "context_recall": 0.0,
       "answer_correctness": 0.0,
-      "answer_similarity": 0.0,
-      "numeric_verified": false
+      "answer_similarity": 0.0
     },
-    "ragas_score": 0.2,
-    "numeric_check": {
-      "gt_value": 10.0,
-      "answer_value": 1.0,
-      "gt_unit": "in",
-      "answer_unit": null,
-      "gt_comparison": "=",
-      "numeric_match": false,
-      "unit_match": true
-    }
-  },
-  {
-    "timestamp": "2026-09-17T04:07:20.303762",
-    "abordagem": "toc_chunks",
-    "pergunta": "Qual é o ângulo máximo de inclinação do shock strut principal quando a aeronave está levantada, e qual é o deslocamento máximo da roda traseira?",
-    "documentos_recuperados": [
-      "32___084.PDF"
-    ],
-    "contexto_usado": "[Fonte: 32___084.PDF | score 0.2757]\nhelowershockstrutdoorsupport(8)\nfromtheclamp(9).\nSUBTASK32-13-11-034-005\n(5) Removethedoorassemblyfromtheairplane.\nENDOFTASK737-300/400/500\nAIRCRAFTMAINTENANCEMANUAL\nPage401\nD6-37569 Mar25/2015\nBOEINGPROPRIETARY-Copyright©UnpublishedWork-SeetitlepagefordetailsEFFECTIVITY\nRAMALL\nSEE A\n11SEE B\nSEE D\nSEE E\nSEE C\nSEE F1\nINBD FWD1.CLAMP\n3.UPPER DRAG STRUT\nDOOR SUPPORT\n4.CLAMP\n5.LOWER DRAG STRUT\nDOOR SUPPORT\nHINGE\n6.CONTROL\nROD SUPPORT\n7.ADJUSTABLE\nCONTROL\nROD8.LOW",
-    "resposta": "Resposta direta:\nO ângulo máximo de inclinação do shock strut principal quando a aeronave está levantada é de 15 graus, conforme especificado no manual de manutenção da aeronave Boeing 737-300/400/500 (ATA 32-13-11-034-005). O deslocamento máximo da roda traseira não é especificado diretamente no contexto fornecido, mas é possível inferir que ele está relacionado ao deslocamento do shock strut.\n\nDetalhes técnicos:\nO manual de manutenção da aeronave Boeing 737-300/400/500 (ATA 32-13-11-034-005) descreve o sistema de amortecimento da roda traseira, que inclui o shock strut principal e o drag strut. O shock strut principal é responsável por absorver as vibrações e choques da roda traseira, enquanto o drag strut é responsável por manter o shock strut em posição. O ângulo máximo de inclinação do shock strut principal é de 15 graus, o que é importante para garantir a estabilidade e o controle da aeronave.\n\nReferência à fonte:\nConforme o manual de manutenção da aeronave Boeing 737-300/400/500 (ATA 32-13-11-034-005), página 401, D6-37569, Mar 25/2015.\n\nObservação:\nNão foi possível encontrar informações específicas sobre o deslocamento máximo da roda traseira no contexto fornecido. É possível que essa informação esteja disponível em outro documento ou manual de manutenção da aeronave.",
-    "tempo_segundos": 12.02,
-    "metadados_llm": {
-      "status": "ok",
-      "tokens": {
-        "prompt_tokens": 1339,
-        "total_tokens": 1703,
-        "completion_tokens": 364,
-        "prompt_tokens_details": null
-      },
-      "finish_reason": "stop",
-      "atas_identificados": [
-        "ATA 32: Inspection for Cracking and Chipping on the Shock Strut Inner Cylinder Chrome (32-00-03-206-001)",
-        "ATA 32: Landing Gear Inner Cylinder Chrome Cleaning (32-00-03-107-001)",
-        "ATA 12: Refuel Operation When the Fuel Quantity Indicating System Is Inoperative (12-11-04-653-060)",
-        "ATA 12: Landing Gear Shock Strut Fluids (12-15-02-613-001)"
-      ],
-      "arquivos_alvo": [
-        "32___084.PDF",
-        "12___084.PDF"
-      ]
-    },
-    "metricas": {
-      "precisao": 0.0968,
-      "completude": 0.9313,
-      "especificidade": 1.0,
-      "rastreabilidade": 1.0,
-      "confianca": 0.0
-    },
-    "score_final": 61.19,
-    "ground_truth": "1,85° atrás da vertical; deslocamento máximo 0,55 in (13,97 mm).",
-    "ragas_metrics": {
-      "faithfulness": 0.0,
-      "answer_relevancy": 0.5,
-      "context_precision": 0.0,
-      "context_recall": 0.0,
-      "answer_correctness": 0.0,
-      "answer_similarity": 0.2,
-      "numeric_verified": false
-    },
-    "ragas_score": 0.1,
-    "numeric_check": {
-      "gt_value": 1.85,
-      "answer_value": 15.0,
-      "gt_unit": "in",
-      "answer_unit": "deg",
-      "gt_comparison": "<=",
-      "numeric_match": false,
-      "unit_match": false
-    }
-  },
-  {
-    "timestamp": "2026-09-17T04:07:26.193672",
-    "abordagem": "toc_chunks",
-    "pergunta": "Para que servem os interruptores de corte de ajuste do estabilizador durante a inspeção?",
-    "documentos_recuperados": [
-      "22___084.PDF",
-      "27___084.PDF"
-    ],
-    "contexto_usado": "[Fonte: 22___084.PDF | score 0.1646]\nde.\n(v) PushtheLSKadjacentto<YESontheCDUsecondscreenofthetest51.26.737-300/400/500\nAIRCRAFTMAINTENANCEMANUAL\nPage551\nD6-37569 Mar25/2016\nBOEINGPROPRIETARY-Copyright©UnpublishedWork-SeetitlepagefordetailsEFFECTIVITY\nRAMALL\n(w) PushtheLSKadjacentto<CONTINUEonthetests51.20and51.21andkeepthesame\npitotpressureandstabilizerBdimension.\n(x) PressurizethehydraulicsystemAandB(PAGEBLOCK29-15-00/201).\n(y) EngagetheautopilotchannelBtoCMDmode.\n(z) Makesurethatthevaluesfort",
-    "resposta": "Resposta direta:\nOs interruptores de corte de ajuste do estabilizador servem para limitar o movimento do estabilizador durante a inspeção, evitando danos ao sistema.\n\nDetalhes técnicos:\nDe acordo com o manual, os interruptores de corte de ajuste do estabilizador (Stabilizer Trim Limit Switches) são localizados na área de acesso ao estabilizador, a bombordo do jackscrew. Eles são mecanicamente operados por uma cam assembly e movimento do estabilizador, e têm seis unidades, todas conectadas elétrica e indicando quando estão na posição aberta ou fechada. O objetivo desses interruptores é limitar o movimento do estabilizador que pode ser comandado pelos outputs do FCC (Flight Control Computer).\n\nReferência à fonte:\nConforme o capítulo 27-41-00 do manual de manutenção da aeronave Boeing 737-300/400/500, página 551, D6-37569, Mar 25/2016.",
-    "tempo_segundos": 5.782,
-    "metadados_llm": {
-      "status": "ok",
-      "tokens": {
-        "prompt_tokens": 1506,
-        "total_tokens": 1735,
-        "completion_tokens": 229,
-        "prompt_tokens_details": null
-      },
-      "finish_reason": "stop",
-      "atas_identificados": [
-        "ATA 22: Operational T est - Digital Flight Control System (22-11-01-715-002)",
-        "ATA 22: System T est - Digital Flight Control System (22-11-01-735-019)",
-        "ATA 27: Flight Controls Hydraulic Modular Package T est (27-09-21-705-028)",
-        "ATA 27: Flight Controls Shutoff Valve - Operational T est (27-09-31-705-018)"
-      ],
-      "arquivos_alvo": [
-        "22___084.PDF",
-        "27___084.PDF"
-      ]
-    },
-    "metricas": {
-      "precisao": 0.0645,
-      "completude": 1.0,
-      "especificidade": 1.0,
-      "rastreabilidade": 1.0,
-      "confianca": 1.0
-    },
-    "score_final": 71.94,
-    "ground_truth": "Os interruptores de corte de ajuste são definidos para CUTOUT para impedir que o estabilizador seja movido durante a inspeção, garantindo segurança e integridade do equipamento.",
-    "ragas_metrics": {
-      "faithfulness": 0.0,
-      "answer_relevancy": 1.0,
-      "context_precision": 0.0,
-      "context_recall": 0.0,
-      "answer_correctness": 1.0,
-      "answer_similarity": 1.0
-    },
-    "ragas_score": 0.5,
+    "ragas_score": 0.1667,
     "numeric_check": {
       "gt_value": null,
-      "answer_value": 27.0,
+      "answer_value": 737.0,
       "gt_unit": null,
       "answer_unit": null,
       "gt_comparison": "=",
@@ -236,60 +62,124 @@
     }
   },
   {
-    "timestamp": "2026-09-17T04:07:50.171181",
+    "timestamp": "2026-09-19T00:43:19.514665",
     "abordagem": "toc_chunks",
-    "pergunta": "Qual é a finalidade de usar a roda de ajuste de estabilizador no stand de controle durante a inspeção?",
+    "pergunta": "Qual é a função do aquecedor de combustível servo dentro do sistema de controle de combustível, e por que manter a temperatura do combustível alta é importante?",
     "documentos_recuperados": [
-      "30___084.PDF",
-      "27___084.PDF"
+      "49__B_084.PDF"
     ],
-    "contexto_usado": "[Fonte: 30___084.PDF | score 0.4165]\naftertherequiredamountofrepellent\nhasbeensprayedonthewindow,allowingthevalvetoclose.\n6. Operation\nA. Withthepressurizedfluidcontainerinstalledinthesystemreceptacle,theshutoffvalveintheopen\nposition,and28-voltdcpoweravailableontheNo.1andNo.2dcbus,thesystemisreadyforuse.\nTheoperationoftherainrepellentsystemforeachwindowisindividuallycontrolledbypushingthe\nrespectivecontrolswitch(Figure2).Pushingthecontrolswitchcompletesacircuitfromthe\nrespectiveRAINREPELLENTcir",
-    "resposta": "A finalidade de usar a roda de ajuste de estabilizador no stand de controle durante a inspeção é para garantir que o ponteiro no aft face da alavanca de freio de velocidade esteja alinhado com os detentes corretos. Isso é necessário para garantir que a alavanca de freio de velocidade esteja funcionando corretamente.\n\nDetalhes técnicos:\n- A roda de ajuste de estabilizador é usada para ajustar a posição do ponteiro no aft face da alavanca de freio de velocidade.\n- O ponteiro deve ser alinhado com os detentes corretos, que são:\n + DOWN (baixo)\n + ARMED (armado)\n + FLIGHT DETENT (detent de voo)\n + UP (cima)\n- A alavanca de freio de velocidade deve ter um travel de 48-1/2 ±1/2 graus, que é a distância que a alavanca deve percorrer de um extremo ao outro.\n\nReferência à fonte:\n- De acordo com o manual de manutenção da aeronave Boeing 737, página 27, item (e) e (f).",
-    "tempo_segundos": 23.862,
+    "contexto_usado": "[Fonte: 49__B_084.PDF | score 0.1743]\nouplerakes\nEMRGENCY Emergencyshutdown\nHOTSDN Oiltemperatureshutdown\nHWOVSPD Hardwareoverspeedshutdown\nIGVSDN Inletguidevaneshutdown\nLOPSDN Lowoilpressure\nNOACCEL Noaccelerationshutdown\nNOFLAME Noflameshutdown\nOVERSPD Softwareoverspeedshutdown\nOVRTEMP Overtemperatureshutdown\nPWRLATCH Powerlatchshutdown\nRVRFLOW Reverseflowshutdown\nSPDLOSS Lossofthetwospeedmonopoles\nTable202/49-61-00-993-827-B02 LRUFaultMessages\nLRUFaultMessage Description\nA/CRDY Aircraftnotready\nAPUIGN Ignitioncircuit\nDOILSOL De-oilsolenoid\nDMM Datamemorymodule\nDPSENSR Deltapressuresensor\nECU ECUorFADEC\nEGT1 EGTthermocouplerake1\nEGT2 EGTthermocouplerake2\nEGT1&2 FailureofthetwoEGTthermocouplerakes\nFCUNIT Fuelcontrolunit\nFLTIND Faultindicator\nFUELSOL Fuelsolenoid\nIGVTM Inletguidevane(IGV)torquemotor\nLOPIND DefectiveLOPindicato\n\n---\n\n[Fonte: 49__B_084.PDF | score 0.1743]\nouplerakes\nEMRGENCY Emergencyshutdown\nHOTSDN Oiltemperatureshutdown\nHWOVSPD Hardwareoverspeedshutdown\nIGVSDN Inletguidevaneshutdown\nLOPSDN Lowoilpressure\nNOACCEL Noaccelerationshutdown\nNOFLAME Noflameshutdown\nOVERSPD Softwareoverspeedshutdown\nOVRTEMP Overtemperatureshutdown\nPWRLATCH Powerlatchshutdown\nRVRFLOW Reverseflowshutdown\nSPDLOSS Lossofthetwospeedmonopoles\nTable202/49-61-00-993-827-B02 LRUFaultMessages\nLRUFaultMessage Description\nA/CRDY Aircraftnotready\nAPUIGN Ignitioncircuit\nDOILSOL De-oilsolenoid\nDMM Datamemorymodule\nDPSENSR Deltapressuresensor\nECU ECUorFADEC\nEGT1 EGTthermocouplerake1\nEGT2 EGTthermocouplerake2\nEGT1&2 FailureofthetwoEGTthermocouplerakes\nFCUNIT Fuelcontrolunit\nFLTIND Faultindicator\nFUELSOL Fuelsolenoid\nIGVTM Inletguidevane(IGV)torquemotor\nLOPIND DefectiveLOPindicato\n\n---\n\n[Fonte: 49__B_084.PDF | score 0.1416]\n(77°C),theoilmustflowthroughtheoilcooler.Iftheoilcoolerisclogged,athermalbypass\nvalvewillopentomovetheoilaroundtheoilcooler.Thisbypassvalveopenswhenthedifferential\npressureacrosstheoilcooleris50psid(345kPa).\n5. MagneticDrainPlug\n(Figure1)\nA. Themagneticdrainplugisinstalledonthefrontofthegearboxassembly.Themagneticdrainplug\nhasamagneticelementandaplug.Whentheoiltankisserviced,themagneticelementisremoved\ntomakesurenometalparticlesareintheoil.Iftheoilhasmetalparticles,aninvestigationof\ndamagetotheAPUengineisnecessary.Themagneticelementcanberemovedwithouttheplug.\nWhentheplugandthemagneticelementareremovedtogether,theoilwilldrainfromtheoiltank.737-300/400/500\nAIRCRAFTMAINTENANCEMANUALGTCP36-280ENGINES\nPage4\nD6-37569 Mar25/2015\nBOEINGPROPRIETARY-Copyright©UnpublishedWork-SeetitlepagefordetailsEFFECTIVITY\nRAM001,002\n6. De-OilSolenoidValve\n(Figure1)\nA.\n\n---\n\n[Fonte: 49__B_084.PDF | score 0.1416]\n(77°C),theoilmustflowthroughtheoilcooler.Iftheoilcoolerisclogged,athermalbypass\nvalvewillopentomovetheoilaroundtheoilcooler.Thisbypassvalveopenswhenthedifferential\npressureacrosstheoilcooleris50psid(345kPa).\n5. MagneticDrainPlug\n(Figure1)\nA. Themagneticdrainplugisinstalledonthefrontofthegearboxassembly.Themagneticdrainplug\nhasamagneticelementandaplug.Whentheoiltankisserviced,themagneticelementisremoved\ntomakesurenometalparticlesareintheoil.Iftheoilhasmetalparticles,aninvestigationof\ndamagetotheAPUengineisnecessary.Themagneticelementcanberemovedwithouttheplug.\nWhentheplugandthemagneticelementareremovedtogether,theoilwilldrainfromtheoiltank.737-300/400/500\nAIRCRAFTMAINTENANCEMANUALGTCP36-280ENGINES\nPage4\nD6-37569 Mar25/2015\nBOEINGPROPRIETARY-Copyright©UnpublishedWork-SeetitlepagefordetailsEFFECTIVITY\nRAM001,002\n6. De-OilSolenoidValve\n(Figure1)\nA.\n\n---\n\n[Fonte: 49__B_084.PDF | score 0.1312]\nWER TOTHE FADECINITIALIZATION\nDE-ENERGIZEDTHE IGNITION EXCITEROFTHE SERVICE SPEED:APU ENGINE AT95%\nINCOCKPITAT30-35 PSI, THE LOP LIGHT OFFSTARTER MOTOR DE-ENERGIZEDTHE CURRENT LIMITER FOR THETHE STARTER MOTOR DE-ENERGIZEDSERVICE SPEED:APU ENGINE AT50% OFTHE\nSIGNALA/C RDYFADEC SHOWS\nSTART IN 30 SECONDSFOR AIR INLET DOOROPEN SIGNAL (NOT RDY)THE FADEC STARTS\nTHE DE-OIL SOLENOID VALVE ENERGIZEDA/C RDY SIGNAL OFFTHE STARTER MOTOR ENERGIZEDSTARTER MOTOR ENERGIZEDTHE CURRENT LIMITER FOR THETHE FUEL TORQUE MOTOR MODULATESTHE FUEL SHUTOFF SOLENOID VALVE\nENERGIZED TOTHE OPEN POSITIONTHE IGNITION EXCITER ENERGIZED\nTHE POWER TOTHE\nFADEC OFF+5MINUTES:TIME\nAPU ENGINE STOPPED\nAPU ENGINE STARTS:-3%SERVICE SPEED FOR EACH\n-75% SERVICE SPEED FOR\nFUEL VALVEPOWER TOTHE\nINCOCKPITTHE LOP LIGHT ONTHE START POSITI",
+    "contexto_preview": "[Fonte: 49__B_084.PDF | score 0.1743]\nouplerakes\nEMRGENCY Emergencyshutdown\nHOTSDN Oiltemperatureshutdown\nHWOVSPD Hardwareoverspeedshutdown\nIGVSDN Inletguidevaneshutdown\nLOPSDN Lowoilpressure\nNOACCEL Noaccelerationshutdown\nNOFLAME Noflameshutdown\nOVERSPD Softwareoverspeedshutdown\nOVRTEMP Overtemperatureshutdown\nPWRLATCH Powerlatchshutdown\nRVRFLOW Reverseflowshutdown\nSPDLOSS Lossofthetwospeedmonopoles\nTable202/49-61-00-993-827-B02 LRUFaultMessages\nLRUFaultMessage Description\nA/CRDY Aircraftnotrea",
+    "resposta": "Resposta direta:\nO aquecedor de combustível servo (Fuel Torque Motor) é responsável por controlar a abertura da válvula de corte de combustível (Fuel Shutoff Solenoid Valve). A temperatura do combustível alta é importante para garantir a operação correta do sistema de controle de combustível.\n\nDetalhes técnicos:\nDe acordo com o manual GTCP 36-280, o aquecedor de combustível servo é controlado pelo FADEC (Full Authority Digital Engine Control) e é responsável por modulá-lo para controlar a abertura da válvula de corte de combustível. A temperatura do combustível alta é importante para garantir que o combustível seja bombeado corretamente para o motor, evitando problemas de funcionamento e garantindo a segurança do avião.\n\nReferência à fonte:\nGTCP 36-280, Boeing 737 Aircraft Maintenance Manual, página 4, D6-37569, Março 2015.",
+    "resposta_detalhada": "Resposta direta:\nO aquecedor de combustível servo (Fuel Torque Motor) é responsável por controlar a abertura da válvula de corte de combustível (Fuel Shutoff Solenoid Valve). A temperatura do combustível alta é importante para garantir a operação correta do sistema de controle de combustível.\n\nDetalhes técnicos:\nDe acordo com o manual GTCP 36-280, o aquecedor de combustível servo é controlado pelo FADEC (Full Authority Digital Engine Control) e é responsável por modulá-lo para controlar a abertura da válvula de corte de combustível. A temperatura do combustível alta é importante para garantir que o combustível seja bombeado corretamente para o motor, evitando problemas de funcionamento e garantindo a segurança do avião.\n\nReferência à fonte:\nGTCP 36-280, Boeing 737 Aircraft Maintenance Manual, página 4, D6-37569, Março 2015.",
+    "tempo_segundos": 5.523,
     "metadados_llm": {
       "status": "ok",
       "tokens": {
-        "prompt_tokens": 1589,
-        "total_tokens": 1856,
-        "completion_tokens": 267,
+        "prompt_tokens": 1723,
+        "total_tokens": 1939,
+        "completion_tokens": 216,
         "prompt_tokens_details": null
       },
       "finish_reason": "stop",
       "atas_identificados": [
-        "ATA 30: WITHOUT GROUND TEST SWITCH Wing TAI Ground Operational T est (30-11-00-705-001)",
-        "ATA 30: WITHOUT GROUND TEST SWITCH Wing TAI System Functional T est (30-11-00-705-003)",
-        "ATA 27: Flight Controls Hydraulic Modular Package T est (27-09-21-705-028)",
-        "ATA 27: Flight Controls Shutoff Valve - Operational T est (27-09-31-705-018)"
+        "ATA 28: Inspection of the Electrical Bonding Jumpers in the Fuel System (28-00-00-202-017)",
+        "ATA 28: Electrical Bonding Jumpers in the Fuel System Replacement (28-00-00-962-022)",
+        "ATA 49: APU System Deactivation (The APU Installed) (49-11-00-862-122)",
+        "ATA 49: Low Pressure Bleed (49-31-00-872-001)"
       ],
       "arquivos_alvo": [
-        "30___084.PDF",
+        "28___084.PDF",
+        "49__B_084.PDF"
+      ]
+    },
+    "metricas": {
+      "precisao": 0.193,
+      "completude": 0.8667,
+      "especificidade": 0.3333,
+      "rastreabilidade": 1.0,
+      "confianca": 1.0
+    },
+    "score_final": 59.12,
+    "tokens_estimados": 415,
+    "ground_truth": "O aquecedor de combustível servo mantém a temperatura do combustível suficientemente alta para impedir a formação de gelo que poderia entrar e danificar os servos do MEC.",
+    "ragas_metrics": {
+      "faithfulness": 0.0,
+      "answer_relevancy": 0.4,
+      "context_precision": 0.0,
+      "context_recall": 0.0,
+      "answer_correctness": 0.2,
+      "answer_similarity": 0.4
+    },
+    "ragas_score": 0.1667,
+    "numeric_check": {
+      "gt_value": null,
+      "answer_value": 36.0,
+      "gt_unit": null,
+      "answer_unit": null,
+      "gt_comparison": "=",
+      "numeric_match": null,
+      "unit_match": null
+    }
+  },
+  {
+    "timestamp": "2026-09-19T00:43:30.392450",
+    "abordagem": "toc_chunks",
+    "pergunta": "Qual é o tempo máximo que o freio de estacionamento pode permanecer engajado antes de ser necessário re-pressurizar o sistema B?",
+    "documentos_recuperados": [
+      "12___084.PDF",
+      "27___084.PDF"
+    ],
+    "contexto_usado": "[Fonte: 12___084.PDF | score 0.2439]\ne306\nD6-37569 Mar25/2015\nBOEINGPROPRIETARY-Copyright©UnpublishedWork-SeetitlepagefordetailsEFFECTIVITY\nRAMALL\n5) Removetheresiduesbyhandwithragsorsoftbrushesusingwarmwaterora\nmixtureofwarmwaterandTypeIfluid.\na) Youcanalsousealowpressurestreamofwaterorcompressedairtorinse\nawaytheresidues.\nb) Whenrinsingtheresiduesaway,makesuretheresiduesdonotflowinto\ncreviceareasthatarenotaccessible.\n6) Checkalldrainholesintheareaswhereresidueswereremovedtomakesurethat\ntheyareclearandnotblockedbytheresidues.\n7) Re-lubricatebearings,fittings,andcontrolcablesinareasthatwerecleanedas\nrequired.\n8) Re-applycorrosioninhibitingcompoundtoallsurfacesandcomponentsinareas\nthatwerecleanedasrequired.\n(o) Whenthereisslushontherunways,examinetheaircraftwhenitgetstotheramp.Look\nforslushthatcollectedontheairplaneordamagetot\n\n---\n\n[Fonte: 12___084.PDF | score 0.2439]\ne306\nD6-37569 Mar25/2015\nBOEINGPROPRIETARY-Copyright©UnpublishedWork-SeetitlepagefordetailsEFFECTIVITY\nRAMALL\n5) Removetheresiduesbyhandwithragsorsoftbrushesusingwarmwaterora\nmixtureofwarmwaterandTypeIfluid.\na) Youcanalsousealowpressurestreamofwaterorcompressedairtorinse\nawaytheresidues.\nb) Whenrinsingtheresiduesaway,makesuretheresiduesdonotflowinto\ncreviceareasthatarenotaccessible.\n6) Checkalldrainholesintheareaswhereresidueswereremovedtomakesurethat\ntheyareclearandnotblockedbytheresidues.\n7) Re-lubricatebearings,fittings,andcontrolcablesinareasthatwerecleanedas\nrequired.\n8) Re-applycorrosioninhibitingcompoundtoallsurfacesandcomponentsinareas\nthatwerecleanedasrequired.\n(o) Whenthereisslushontherunways,examinetheaircraftwhenitgetstotheramp.Look\nforslushthatcollectedontheairplaneordamagetot\n\n---\n\n[Fonte: 12___084.PDF | score 0.1387]\nremoveallofthedeicing/anti-icingfluidfrom\nthecockpitwindowsbeforethedeparture.Makesureyoucarefullyexaminethewindows\nwiththewipersinstalled.Makesurethatfluidisremovedfromalltheforwardareas\nwhereitcanflowbackonthewindshieldsduringthetaxiandtakeoff.Theseareasmust\nbecleanbeforethedeparture.\nWARNING: YOUMUSTREMOVEDEICING/ANTI-ICINGFLUIDRESIDUESBEFORETOO\nMUCHCOLLECTS.RESIDUESCANCOLLECTINAERODYNAMICALLYQUIET\nAREAS.THESERESIDUESCANPREVENTTHEMOVEMENTOFCRITICAL\nFLIGHTCONTROLSYSTEMS.THISCANCAUSESYSTEMDAMAGE,AND\nDANGEROUSFLIGHTCONDITIONS.\n(n) Aftertheiceremoval/anti-icingprocedurehasbeendonemanytimes,youmustexamine\nthefollowingareasfordeicing/anti-icingfluidresidues,removetheresidues,and\nre-lubricateaffectedcomponentsasfollows:\n1) Iftheambienttemperatureisatorbelowfreezing,movetheairplanetoaheated\nhan\n\n---\n\n[Fonte: 12___084.PDF | score 0.1387]\nremoveallofthedeicing/anti-icingfluidfrom\nthecockpitwindowsbeforethedeparture.Makesureyoucarefullyexaminethewindows\nwiththewipersinstalled.Makesurethatfluidisremovedfromalltheforwardareas\nwhereitcanflowbackonthewindshieldsduringthetaxiandtakeoff.Theseareasmust\nbecleanbeforethedeparture.\nWARNING: YOUMUSTREMOVEDEICING/ANTI-ICINGFLUIDRESIDUESBEFORETOO\nMUCHCOLLECTS.RESIDUESCANCOLLECTINAERODYNAMICALLYQUIET\nAREAS.THESERESIDUESCANPREVENTTHEMOVEMENTOFCRITICAL\nFLIGHTCONTROLSYSTEMS.THISCANCAUSESYSTEMDAMAGE,AND\nDANGEROUSFLIGHTCONDITIONS.\n(n) Aftertheiceremoval/anti-icingprocedurehasbeendonemanytimes,youmustexamine\nthefollowingareasfordeicing/anti-icingfluidresidues,removetheresidues,and\nre-lubricateaffectedcomponentsasfollows:\n1) Iftheambienttemperatureisatorbelowfreezing,movetheairplanetoaheated\nhan\n\n---\n\n[Fonte: 27___084.PDF | score 0.1383]\nintooccur\nuntilbetween550-650pound-inches.\no) Useapentomarktherelativepositionofthestatorassemblynuttothestator\nhousing.\np) AIRPLANESWITHSTATORASSEMBLYP/N65C34616–1;Tightenthestator\nassemblynutuntiltheauxiliarybrakewillsustainatorqueof1950-2150\npound-inchesintheclockwiseandcounter-clockwisedirectionswithout\nslipping.\nq) AIRPLANESWITHSTATORASSEMBLYP/N65C34616-3;Tightenthestator\nassemblynutuntiltheauxiliarybrakewillsustainatorqueof2500-2700\npound-inchesintheclockwiseandcounter-clockwisedirectionswithout\nslipping.\nr) Iftorqueat1/2turnofstatorassemblynutisgreaterthan2700pound-inches,\ndisassemblethestatorassemblyandapplyBMS3-32TypeIIoiltotherotors\nandstators.\ns) Re-assemblethestatorassembly.\nt) Loosenortightenthestatorassemblynutuntilbrakeslippageoccursat400\npound-inchesorless.\nu) Tightenthesta",
+    "contexto_preview": "[Fonte: 12___084.PDF | score 0.2439]\ne306\nD6-37569 Mar25/2015\nBOEINGPROPRIETARY-Copyright©UnpublishedWork-SeetitlepagefordetailsEFFECTIVITY\nRAMALL\n5) Removetheresiduesbyhandwithragsorsoftbrushesusingwarmwaterora\nmixtureofwarmwaterandTypeIfluid.\na) Youcanalsousealowpressurestreamofwaterorcompressedairtorinse\nawaytheresidues.\nb) Whenrinsingtheresiduesaway,makesuretheresiduesdonotflowinto\ncreviceareasthatarenotaccessible.\n6) Checkalldrainholesintheareaswhereresidueswereremovedtomakesurethat\ntheyare",
+    "resposta": "De acordo com o manual [Fonte: 12___084.PDF | score 0.2439], não há uma especificação direta para o tempo máximo que o freio de estacionamento pode permanecer engajado antes de ser necessário re-pressurizar o sistema B. No entanto, é mencionado que o freio de estacionamento deve ser desengajado após o tempo de estacionamento, e que o sistema B deve ser re-pressurizado antes de o avião partir.\n\nNo entanto, é possível encontrar uma referência para o tempo de estacionamento em outro manual. De acordo com o manual [Fonte: 27___084.PDF | score 0.1383], o tempo de estacionamento é de até 30 minutos. Além disso, o manual também menciona que o freio de estacionamento pode permanecer engajado por até 30 minutos antes de ser necessário re-pressurizar o sistema B.\n\nDetalhes técnicos:\n\n* O freio de estacionamento deve ser desengajado após o tempo de estacionamento.\n* O sistema B deve ser re-pressurizado antes de o avião partir.\n* O tempo de estacionamento é de até 30 minutos.\n* O freio de estacionamento pode permanecer engajado por até 30 minutos antes de ser necessário re-pressurizar o sistema B.\n\nReferência à fonte:\n\n* [Fonte: 12___084.PDF | score 0.2439]\n* [Fonte: 27___084.PDF | score 0.1383]",
+    "resposta_detalhada": "De acordo com o manual [Fonte: 12___084.PDF | score 0.2439], não há uma especificação direta para o tempo máximo que o freio de estacionamento pode permanecer engajado antes de ser necessário re-pressurizar o sistema B. No entanto, é mencionado que o freio de estacionamento deve ser desengajado após o tempo de estacionamento, e que o sistema B deve ser re-pressurizado antes de o avião partir.\n\nNo entanto, é possível encontrar uma referência para o tempo de estacionamento em outro manual. De acordo com o manual [Fonte: 27___084.PDF | score 0.1383], o tempo de estacionamento é de até 30 minutos. Além disso, o manual também menciona que o freio de estacionamento pode permanecer engajado por até 30 minutos antes de ser necessário re-pressurizar o sistema B.\n\nDetalhes técnicos:\n\n* O freio de estacionamento deve ser desengajado após o tempo de estacionamento.\n* O sistema B deve ser re-pressurizado antes de o avião partir.\n* O tempo de estacionamento é de até 30 minutos.\n* O freio de estacionamento pode permanecer engajado por até 30 minutos antes de ser necessário re-pressurizar o sistema B.\n\nReferência à fonte:\n\n* [Fonte: 12___084.PDF | score 0.2439]\n* [Fonte: 27___084.PDF | score 0.1383]",
+    "tempo_segundos": 10.67,
+    "metadados_llm": {
+      "status": "ok",
+      "tokens": {
+        "prompt_tokens": 1640,
+        "total_tokens": 1986,
+        "completion_tokens": 346,
+        "prompt_tokens_details": null
+      },
+      "finish_reason": "stop",
+      "atas_identificados": [
+        "ATA 12: Refuel Operation When the Fuel Quantity Indicating System Is Inoperative (12-11-04-653-060)",
+        "ATA 12: AIRPLANES WITH GTCP85-129 APU AND WITHOUT PRESSURE RE-OIL SYSTEM Fill the APU Oil T ank - Manual Procedure (12-13-31-613-122)",
+        "ATA 27: Aileron Hydraulic Systems A and B Pressurization (27-11-00-862-001)",
+        "ATA 27: Aileron Hydraulic Systems A and B Depressurization (27-11-00-862-013)"
+      ],
+      "arquivos_alvo": [
+        "12___084.PDF",
         "27___084.PDF"
       ]
     },
     "metricas": {
-      "precisao": 0.0385,
-      "completude": 0.96,
-      "especificidade": 1.0,
+      "precisao": 0.1463,
+      "completude": 0.8467,
+      "especificidade": 0.3333,
       "rastreabilidade": 1.0,
-      "confianca": 1.0
+      "confianca": 0.5
     },
-    "score_final": 70.16,
-    "ground_truth": "A roda de ajuste de estabilizador é usada para posicionar o estabilizador horizontal em 0 graus (3 unidades de ajuste) antes de instalar a montagem de bloqueio.",
+    "score_final": 52.22,
+    "tokens_estimados": 340,
+    "ground_truth": "8 horas.",
     "ragas_metrics": {
       "faithfulness": 0.0,
       "answer_relevancy": 1.0,
       "context_precision": 0.0,
       "context_recall": 0.0,
       "answer_correctness": 0.0,
-      "answer_similarity": 0.2,
+      "answer_similarity": 0.1,
       "numeric_verified": false
     },
-    "ragas_score": 0.1714,
+    "ragas_score": 0.1571,
     "numeric_check": {
-      "gt_value": 0.0,
-      "answer_value": 48.0,
-      "gt_unit": "deg",
-      "answer_unit": "deg",
+      "gt_value": 8.0,
+      "answer_value": 0.2439,
+      "gt_unit": null,
+      "answer_unit": null,
       "gt_comparison": "=",
       "numeric_match": false,
       "unit_match": true

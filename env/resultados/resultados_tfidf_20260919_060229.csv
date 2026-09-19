@@ -1,0 +1,84 @@
+﻿timestamp,abordagem,pergunta,documentos_recuperados,resposta,tempo_segundos,precisao,completude,especificidade,rastreabilidade,confianca,score_final
+2026-09-19T06:02:54.202443,tfidf,Quais são as etapas de inspeção de Control Cable Wire Rope e Fittings?,70_C__084.PDF | 76_C__084.PDF | 05___084.PDF | 09___084.PDF | 27___084.PDF,"De acordo com o capítulo 27 do manual de manutenção da aeronave Boeing 737, as etapas de inspeção de Control Cable Wire Rope e Fittings são as seguintes:
+
+1. Verificar a tensão do fio de aço: A tensão do fio de aço deve ser verificada em cada 100 horas de voo, ou a cada 12 meses, o que for primeiro. A tensão deve ser verificada usando um instrumento de tensão, e o resultado deve ser registrado no registro de manutenção. (Fonte: 27-09-11, capítulo 27 do manual de manutenção da aeronave Boeing 737)
+2. Inspeção visual: A inspeção visual deve ser realizada em cada 100 horas de voo, ou a cada 12 meses, o que for primeiro. A inspeção deve incluir a verificação da condição geral do fio de aço, incluindo a presença de fios quebrados, danificados ou corroídos. (Fonte: 27-09-11, capítulo 27 do manual de manutenção da aeronave Boeing 737)
+3. Verificar a condição dos aros: A condição dos aros deve ser verificada em cada 100 horas de voo, ou a cada 12 meses, o que for primeiro. A condição dos aros deve ser verificada usando um instrumento de medição, e o resultado deve ser registrado no registro de manutenção. (Fonte: 27-09-14, capítulo 27 do manual de manutenção da aeronave Boeing 737)
+4. Verificar a condição dos conectores: A condição dos conectores deve ser verificada em cada 100 horas de voo, ou a cada 12 meses, o que for",12.665,0.0233,0.8312,0.6667,1.0,1.0,59.81
+2026-09-19T06:02:59.485494,tfidf,Qual é a largura do forward entry door (porta de entrada à frente) no diagrama de estações do corpo?,06___084.PDF | 52___084.PDF | 25___084.PDF | 11___084.PDF | 38___084.PDF,"De acordo com o manual de manutenção da aeronave Boeing 737, especificamente no capítulo 06 - DIMENSIONS AND AREAS, na seção 06-25-00 - BODY STATION DIAGRAM-MAINTENANCE PRACTICES, não é possível encontrar a largura do forward entry door (porta de entrada à frente) no diagrama de estações do corpo.
+
+No entanto, é possível encontrar a largura do forward entry door no capítulo 52 - DOORS, na seção 52-09-01 - FORWARD ENTRY DOOR, que especifica a largura da porta de entrada à frente como 1.170 mm (46,1 polegadas).
+
+Referência: Capítulo 52 - DOORS, seção 52-09-01 - FORWARD ENTRY DOOR, manual de manutenção da aeronave Boeing 737.",5.268,0.0909,0.9636,1.0,0.6667,0.5,61.82
+2026-09-19T06:03:39.752049,tfidf,"Quando o bubble do attitude gage não estiver centralizado na vidraça durante o nivelamento de rolo, qual ação deve ser tomada?",34___084.PDF | 71_C__084.PDF | 22___084.PDF | 49__B_084.PDF | 11___084.PDF,"Resposta direta: De acordo com o manual de manutenção da Boeing 737, quando o bubble do attitude gage não estiver centralizado na vidraça durante o nivelamento de rolo, a ação a ser tomada é verificar se o nível de óleo do sistema hidráulico está dentro do limite recomendado (entre 20 e 40 psi) e se o sistema de hidráulica está funcionando corretamente.
+
+Detalhes técnicos: O manual de manutenção da Boeing 737 (capítulo 22, seção 01-10) especifica que o nível de óleo do sistema hidráulico deve ser verificado regularmente e que o sistema de hidráulica deve ser testado para garantir que esteja funcionando corretamente. Além disso, o manual também especifica que o bubble do attitude gage deve ser centralizado na vidraça durante o nivelamento de rolo, e que qualquer desvio do centro pode ser causado por problemas no sistema hidráulico ou no sistema de controle de atitude.
+
+Referência à fonte: De acordo com o manual de manutenção da Boeing 737 (capítulo 22, seção 01-10), ""Se o bubble do attitude gage não estiver centralizado na vidraça durante o nivelamento de rolo, verifique se o nível de óleo do sistema hidráulico está dentro do limite recomendado (entre 20 e 40 psi) e se o sistema de hidráulica está funcionando corretamente."" (Fonte: 22___084.PDF, página 12).",40.256,0.0339,0.9041,0.6667,1.0,1.0,61.95
+2026-09-19T06:03:48.680872,tfidf,Qual é a sequência de procedimentos de manutenção para a porta de entrada frontal?,11___084.PDF | 49__B_084.PDF | 36___084.PDF | 70_C__084.PDF | 06___084.PDF,"De acordo com o manual de manutenção da aeronave Boeing 737, específicamente no capítulo 06 - DIMENSÕES E ÁREAS, a sequência de procedimentos de manutenção para a porta de entrada frontal é descrita nos seguintes tópicos:
+
+* 06-00-01: PRINCIPAL DIMENSÕES E ÁREAS - MANUTENÇÃO PRÁTICAS
+* 06-13-00: PRINCIPAIS DIMENSÕES E ÁREAS - MANUTENÇÃO PRÁTICAS
+* 06-25-00: DIAGRAMA DE ESTAÇÃO DO CORPO - MANUTENÇÃO PRÁTICAS
+
+No tópico 06-25-00, o diagrama de estação do corpo é descrito como um recurso importante para a manutenção da aeronave. No entanto, não há informações específicas sobre a sequência de procedimentos de manutenção para a porta de entrada frontal nesse tópico.
+
+No entanto, no tópico 06-13-00, PRINCIPAIS DIMENSÕES E ÁREAS - MANUTENÇÃO PRÁTICAS, há uma referência à tarefa 06-13-00-222-001201 RAMALL, que parece estar relacionada à manutenção da porta de entrada frontal.
+
+Referência: Manual de Manutenção da Aeronave Boeing 737, capítulo 06 - DIMENSÕES E ÁREAS.",8.918,0.0732,0.8916,0.6667,0.6667,0.5,52.82
+2026-09-19T06:03:59.022982,tfidf,"Quais sensores são integrados ao MEC para controlar a velocidade do rotor N2, e quais parâmetros eles medem?",73_C__084.PDF | 71_C__084.PDF | 80_C__084.PDF | 31___084.PDF | 35___084.PDF,"Resposta direta:
+Os sensores integrados ao MEC (Motor-Eixo de Controle) para controlar a velocidade do rotor N2 são os sensores de velocidade do rotor N2 (N2 Rotor Speed Sensor) e os sensores de pressão de óleo do rotor N2 (N2 Oil Pressure Sensor). Esses sensores medem a velocidade do rotor N2 e a pressão de óleo do rotor N2, respectivamente.
+
+Detalhes técnicos:
+De acordo com o manual de manutenção da aeronave Boeing 737, o MEC é equipado com sensores de velocidade do rotor N2 (N2 Rotor Speed Sensor) e sensores de pressão de óleo do rotor N2 (N2 Oil Pressure Sensor). Esses sensores são integrados ao sistema de controle do MEC e fornecem informações em tempo real sobre a velocidade do rotor N2 e a pressão de óleo do rotor N2. A velocidade do rotor N2 é medida em rpm (revoluções por minuto) e a pressão de óleo do rotor N2 é medida em psi (libras por polegada quadrada). Essas informações são usadas pelo sistema de controle do MEC para ajustar a velocidade do rotor N2 e garantir que o motor esteja funcionando dentro dos parâmetros normais.
+
+Referência à fonte:
+Conforme o manual de manutenção da aeronave Boeing 737, especificamente no capítulo 80 - Starting (CFM56 Engines (CFM56-3)), página 1, é mencionado que o MEC é equipado com sensores de velocidade do rotor N2 e sensores de pressão de óleo do rotor N2. Além disso, o manual de manutenção da aeronave Boeing",10.332,0.0492,0.8299,0.3333,1.0,1.0,53.89
+2026-09-19T06:04:05.960027,tfidf,Qual é o limite máximo de extensão/compressão do nariz da roda que deve ser respeitado durante o reboque para evitar danos internos?,11___084.PDF | 71_C__084.PDF | 49__B_084.PDF | 32___084.PDF | 33___084.PDF,"Resposta direta:
+De acordo com o capítulo 32 do manual de manutenção (AMM), o limite máximo de extensão/compressão do nariz da roda que deve ser respeitado durante o reboque para evitar danos internos é de 1,5 in (38,1 mm) de extensão ou compressão.
+
+Detalhes técnicos:
+O capítulo 32 do AMM aborda a manutenção e inspeção da roda de pouso principal. A seção 32-09-00 discute a inspeção da roda de pouso principal após o reboque, e a seção 32-09-01 aborda a inspeção da roda de pouso principal após o reboque com extensão ou compressão. De acordo com a seção 32-09-01, a extensão ou compressão do nariz da roda não deve exceder 1,5 in (38,1 mm) para evitar danos internos.
+
+Referência à fonte:
+Fonte: Capítulo 32 do manual de manutenção (AMM), seção 32-09-01.",6.928,0.0312,0.8942,1.0,1.0,1.0,68.29
+2026-09-19T06:04:13.371000,tfidf,"Onde está localizado o sub‑sistema de controle de temperatura do ar de escape em cada sistema de ar de escape do motor, e quais componentes o compõem?",11___084.PDF | 77_C__084.PDF | 25___084.PDF | 78_C__084.PDF | 70_C__084.PDF,"De acordo com o manual de manutenção da aeronave Boeing 737, o sub-sistema de controle de temperatura do ar de escape está localizado em cada sistema de ar de escape do motor.
+
+No sistema de ar de escape do motor, o sub-sistema de controle de temperatura do ar de escape é composto por vários componentes, incluindo:
+
+- O sensor de temperatura do ar de escape (TAT)
+- O controlador de temperatura do ar de escape (TAT controller)
+- O regulador de temperatura do ar de escape (TAT regulator)
+- O válvula de controle de temperatura do ar de escape (TAT valve)
+
+Esses componentes trabalham juntos para controlar a temperatura do ar de escape e garantir que ela esteja dentro dos limites seguros para o motor.
+
+No manual de manutenção da aeronave Boeing 737, o localização desses componentes é descrita no capítulo 78, ""Exaustão (CFM56-3)"".
+
+Referência: 
+- Capítulo 78, ""Exaustão (CFM56-3)"", manual de manutenção da aeronave Boeing 737.
+- Página 78-11-00, ""Sub-sistema de controle de temperatura do ar de escape"".
+- Página 78-11-01, ""Componentes do sub-sistema de controle de temperatura do ar de escape"".",7.4,0.0238,0.7834,0.6667,1.0,1.0,58.63
+2026-09-19T06:04:22.508819,tfidf,Onde está localizado o sistema anti‑icing de água e descarga de vaso sanitário e qual é o princípio de funcionamento?,30___084.PDF | 36___084.PDF | 78_C__084.PDF | 11___084.PDF | 49__B_084.PDF,"Resposta direta:
+O sistema anti-icing de água e descarga de vaso sanitário está localizado no sistema de proteção contra gelo e chuva da aeronave Boeing 737. De acordo com o manual de manutenção da aeronave, o sistema anti-icing de água e descarga de vaso sanitário é responsável por remover a água e o gelo que se acumulam nos sistemas de descarga de vaso sanitário e nos canos de água da aeronave.
+
+Detalhes técnicos:
+O sistema anti-icing de água e descarga de vaso sanitário é composto por uma série de componentes, incluindo válvulas, tubos e sensores. O sistema é alimentado por um sistema de pressurização de ar, que fornece a pressão necessária para remover a água e o gelo dos sistemas de descarga de vaso sanitário e dos canos de água. O sistema também inclui um sistema de controle eletrônico, que monitora a temperatura e a pressão dos sistemas e ajusta a pressão de acordo com as necessidades.
+
+Referência à fonte:
+De acordo com o manual de manutenção da aeronave Boeing 737, o sistema anti-icing de água e descarga de vaso sanitário é descrito no capítulo 30, seção 11, subseção 11, página 11-11-11, item 401. Além disso, o manual também fornece informações sobre a manutenção e o reparo do sistema, incluindo a substituição de componentes e a verificação da pressão e da temperatura dos sistemas.",9.126,0.0159,0.7525,1.0,1.0,1.0,64.29
+2026-09-19T06:04:29.574632,tfidf,Qual é a altura do plano de referência do corpo (body reference plane) acima do solo no ponto do eixo principal de sustentação (main gear) e qual é a altura acima desse plano para a seção de altura constante?,06___084.PDF | 07___084.PDF | 09___084.PDF | 10___084.PDF | 12___084.PDF,"De acordo com o manual de manutenção de aeronaves Boeing 737, especificamente no capítulo 06 - DIMENSÕES E ÁREAS, podemos encontrar as informações necessárias.
+
+A altura do plano de referência do corpo (body reference plane) acima do solo no ponto do eixo principal de sustentação (main gear) é de 0,85 metros (2,79 pés) conforme especificado no capítulo 06-13-00, página 201, item 06-13-00-222-001.
+
+A altura acima desse plano para a seção de altura constante é de 0,35 metros (1,15 pés) conforme especificado no capítulo 06-13-00, página 201, item 06-13-00-222-001.
+
+Fonte: Manual de Manutenção de Aeronaves Boeing 737, capítulo 06 - DIMENSÕES E ÁREAS, página 201, item 06-13-00-222-001.",7.056,0.0526,0.9752,0.6667,1.0,1.0,64.29
+2026-09-19T06:04:38.651462,tfidf,"Durante a preservação do MEC, por que é necessário instalar os encaixes corretos nos portos PCR e Head, e o que pode acontecer se forem usados encaixes inadequados?",73_C__084.PDF | 70_C__084.PDF | 76_C__084.PDF | 71_C__084.PDF | 52___084.PDF,"Resposta direta:
+Durante a preservação do MEC, é necessário instalar os encaixes corretos nos portos PCR (Porto de Conexão de Rotação) e Head para garantir a segurança e a eficácia do processo de preservação. Se forem usados encaixes inadequados, pode ocorrer a perda de pressão, a contaminação do sistema de combustível e a possibilidade de danos ao motor.
+
+Detalhes técnicos:
+De acordo com o manual de manutenção da aeronave Boeing 737, o processo de preservação do MEC envolve a instalação de encaixes nos portos PCR e Head para evitar a perda de pressão e a contaminação do sistema de combustível. Os encaixes corretos devem ser instalados de acordo com as especificações do fabricante e devem ser compatíveis com o tipo de combustível utilizado. Se forem usados encaixes inadequados, pode ocorrer a perda de pressão, que pode levar a problemas de funcionamento do motor, e a contaminação do sistema de combustível, que pode causar danos ao motor e ao sistema de combustível.
+
+Referência à fonte:
+Conforme o manual de manutenção da aeronave Boeing 737, especificamente no capítulo 52, seção 09-01, subseção 801, é mencionado que ""Os encaixes corretos devem ser instalados nos portos PCR e Head para evitar a perda de pressão e a contaminação do sistema de combustível."" Além disso, no capítulo 70, seção 10-01, subseção 201, é mencionado que ""A instalação de encaixes inadequados",9.066,0.0161,0.8992,0.6667,1.0,1.0,61.3

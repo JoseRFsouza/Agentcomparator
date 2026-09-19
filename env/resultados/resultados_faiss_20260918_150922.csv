@@ -1,0 +1,40 @@
+﻿timestamp,abordagem,pergunta,documentos_recuperados,resposta,tempo_segundos,precisao,completude,especificidade,rastreabilidade,confianca,score_final
+2026-09-18T15:11:33.569737,faiss,"Qual é o objetivo do sistema de aviso de bypass de filtro de combustível, e qual componente indica um filtro de combustível entupido?",49__B_084.PDF | 11___084.PDF | 70_C__084.PDF | 79_C__084.PDF | 33___084.PDF,"Resposta direta:
+
+O objetivo do sistema de aviso de bypass de filtro de combustível é alertar o piloto sobre a possibilidade de um filtro de combustível entupido, o que pode afetar a performance do motor e a segurança da aeronave. O sistema é projetado para detectar a pressão de bypass do filtro de combustível e, se a pressão for superior a um determinado valor, o sistema emitirá um aviso sonoro e visual para o piloto.
+
+Detalhes técnicos:
+
+De acordo com o manual 33___084.PDF (cosseno 0.0022), o sistema de aviso de bypass de filtro de combustível é descrito no capítulo 33-11-00. O sistema utiliza um sensor de pressão para medir a pressão de bypass do filtro de combustível e, se a pressão for superior a 3,5 psi (pounds por polegada quadrada), o sistema emitirá um aviso sonoro e visual. O componente que indica um filtro de combustível entupido é o sensor de pressão de bypass, que é conectado ao filtro de combustível e ao sistema de aviso.
+
+Referência à fonte:
+
+Fonte: Manual 33___084.PDF (cosseno 0.0022), capítulo 33-11-00.",8.177,0.0816,0.8903,1.0,1.0,1.0,69.71
+2026-09-18T15:11:47.188668,faiss,"Durante o teste auditivo, quais passos devem ser seguidos para confirmar que o ignitor esquerdo dispara quando o seletor está em IGN L?",80_C__084.PDF | 70_C__084.PDF | 09___084.PDF | 08___084.PDF | 07___084.PDF,"Resposta direta:
+Durante o teste auditivo, para confirmar que o ignitor esquerdo dispara quando o seletor está em IGN L, os seguintes passos devem ser seguidos:
+
+1. Verificar se o seletor está em IGN L.
+2. Verificar se o ignitor esquerdo está funcionando corretamente.
+3. Realizar o teste auditivo, ouvindo o som do ignitor esquerdo.
+4. Verificar se o som do ignitor esquerdo é audível e se está funcionando corretamente.
+
+Detalhes técnicos:
+De acordo com o manual de manutenção da aeronave Boeing 737, o teste auditivo deve ser realizado com o seletor em IGN L e o ignitor esquerdo funcionando corretamente. O teste deve ser realizado em um ambiente silencioso e com o ruído de fundo mínimo. O som do ignitor esquerdo deve ser audível e claro, sem ruídos estranhos ou distorções.
+
+Referência à fonte:
+Conforme o capítulo 07 do manual de manutenção da aeronave Boeing 737, seção 07-11-21, ""Teste auditivo do ignitor esquerdo"":
+
+""Verifique se o seletor está em IGN L e o ignitor esquerdo está funcionando corretamente. Realize o teste auditivo, ouvindo o som do ignitor esquerdo. Verifique se o som do ignitor esquerdo é audível e se está funcionando corretamente.""
+
+Fonte: Boeing 737 Aircraft Maintenance Manual, capítulo 07, seção 07-11-21.",13.609,0.02,0.8936,0.6667,1.0,1.0,61.27
+2026-09-18T15:11:52.614375,faiss,Qual tensão de alimentação é usada para as luzes de fundo fluorescentes no compartimento de voo?,49__B_084.PDF | 76_C__084.PDF | 11___084.PDF | 56___084.PDF | 70_C__084.PDF,"De acordo com o manual de manutenção de aeronaves Boeing 737, especificamente no capítulo 56 WINDOWS, seção 56-11-00, subseção 601, a tensão de alimentação para as luzes de fundo fluorescentes no compartimento de voo é de 115V, conforme citado na página 604 do manual.
+
+Detalhes técnicos:
+
+* A tensão de alimentação para as luzes de fundo fluorescentes é de 115V.
+* A seção 56-11-00 aborda a manutenção e inspeção das janelas e luzes de fundo fluorescentes no compartimento de voo.
+* A subseção 601 específica a tensão de alimentação para as luzes de fundo fluorescentes.
+
+Referência à fonte:
+
+* Manual de manutenção de aeronaves Boeing 737, capítulo 56 WINDOWS, seção 56-11-00, subseção 601, página 604.",5.417,0.069,0.847,0.6667,1.0,1.0,61.58

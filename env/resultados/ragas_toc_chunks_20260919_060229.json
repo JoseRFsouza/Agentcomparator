@@ -1,0 +1,618 @@
+[
+  {
+    "timestamp": "2026-09-19T06:14:22.553547",
+    "abordagem": "toc_chunks",
+    "pergunta": "Quais são as etapas de inspeção de Control Cable Wire Rope e Fittings?",
+    "documentos_recuperados": [
+      "27___084.PDF",
+      "20___084.PDF"
+    ],
+    "contexto_usado": "[Fonte: 27___084.PDF | score 0.2458]\neronwing.\nThisallowstheflightspoilerstoprovidelateralcontrolandspeedbrakeoperationsimultaneously.\nE. Aileroncontrolwheelrotationdirectsflightspoilermotionforlateralcontrol(Figure2).Inputtothe\nspoilercontrolsystemisnormallythroughanaileronspringcartridgewhichconnectstheaileronbus\ndrumstoaspoilerratiochanger.Thespoilerratiochangerreducesthemagnitudeofthelateral\ncontrolinputtothespoilercontrolsystemwhenspeedbrakesareused.Theamountofreduction\ndependsonthespeedbrakeleverposition,withzerospeedbrakesgivingmaximuminput.Aspoiler\nmixercombinesthelateralcontrolinputswithspeedbrakeinputstomovecontrolcablesrouted\nalongtherearsparsofthewingstospoileractuatorquadrants.Thespoileractuatorquadrants\npositioncontrolvalvesinspoileractuatorsandallowhydraulicpressuretopositionthespoilers.As\ntheactuatorsmovetopos\n\n---\n\n[Fonte: 27___084.PDF | score 0.2458]\neronwing.\nThisallowstheflightspoilerstoprovidelateralcontrolandspeedbrakeoperationsimultaneously.\nE. Aileroncontrolwheelrotationdirectsflightspoilermotionforlateralcontrol(Figure2).Inputtothe\nspoilercontrolsystemisnormallythroughanaileronspringcartridgewhichconnectstheaileronbus\ndrumstoaspoilerratiochanger.Thespoilerratiochangerreducesthemagnitudeofthelateral\ncontrolinputtothespoilercontrolsystemwhenspeedbrakesareused.Theamountofreduction\ndependsonthespeedbrakeleverposition,withzerospeedbrakesgivingmaximuminput.Aspoiler\nmixercombinesthelateralcontrolinputswithspeedbrakeinputstomovecontrolcablesrouted\nalongtherearsparsofthewingstospoileractuatorquadrants.Thespoileractuatorquadrants\npositioncontrolvalvesinspoileractuatorsandallowhydraulicpressuretopositionthespoilers.As\ntheactuatorsmovetopos\n\n---\n\n[Fonte: 20___084.PDF | score 0.2401]\n9 Mar25/2015\nBOEINGPROPRIETARY-Copyright©UnpublishedWork-SeetitlepagefordetailsEFFECTIVITY\nRAMALL\nH. Whenyoudorepairs,thetypeofflarelesstubesleeveswilltellyoutheinstallationmethodtouse.\n(1) Useapprovedpowerswagingequipment,orrollerswaging,todoallswaged-onsleevesand\nfittings.\n(2) YoucanpresetBACS13APflarelesssleevesbymachine.Presetbyhandonlywhena\nhydraulicorpneumatic-operatedpresettingtoolisnotavailable.Ifyoumustpresetbyhand,we\nrecommendthatyoupresetsomesamples.Cutthesamplesintosectionslongitudinallyand\nmakeaninspectionoftheringcutdepthbeforeyoupresettheparttoberepaired.\n(3) YoucaninstalltheCRYOLIVEsleeveassembly,consistingofCRYOLIVEsleeve,couplingnut\nandprotectivecover/inspectiontool,byremovingtheassemblyfromliquidnitrogenandsliding\nitontothetubeend.NotethattheSize10,Size12andSize16couplin\n\n---\n\n[Fonte: 20___084.PDF | score 0.2401]\n9 Mar25/2015\nBOEINGPROPRIETARY-Copyright©UnpublishedWork-SeetitlepagefordetailsEFFECTIVITY\nRAMALL\nH. Whenyoudorepairs,thetypeofflarelesstubesleeveswilltellyoutheinstallationmethodtouse.\n(1) Useapprovedpowerswagingequipment,orrollerswaging,todoallswaged-onsleevesand\nfittings.\n(2) YoucanpresetBACS13APflarelesssleevesbymachine.Presetbyhandonlywhena\nhydraulicorpneumatic-operatedpresettingtoolisnotavailable.Ifyoumustpresetbyhand,we\nrecommendthatyoupresetsomesamples.Cutthesamplesintosectionslongitudinallyand\nmakeaninspectionoftheringcutdepthbeforeyoupresettheparttoberepaired.\n(3) YoucaninstalltheCRYOLIVEsleeveassembly,consistingofCRYOLIVEsleeve,couplingnut\nandprotectivecover/inspectiontool,byremovingtheassemblyfromliquidnitrogenandsliding\nitontothetubeend.NotethattheSize10,Size12andSize16couplin\n\n---\n\n[Fonte: 27___084.PDF | score 0.2084]\n28vdcappliedtothe\"hot\"wire(Hleg)ofthe\nsolenoidcoilintheautoslatcontrolvalve.Theotherpathcontrolsaccesstodcgroundfor\nthe\"cold\"wire(Cleg)ofthesamecoil.Bothpathsmustswitchtheirlegon\nsimultaneouslytocauseanautoslatextension.EachpathcontainsanAOAsynchroto\nanalogcircuit,ascaler/filtercircuit,asummer/outputcircuit,andavalvecoilrelay.\n1) ThesynchrotoanalogcircuittransformstheAOAsensorsignalintoananalogdc\nvoltage.Thescaler/filtercircuitscalesandoffsetstheanalogdcvoltage.Italsouses\nalowpassfiltertosmoothoutanyrapidvariationsinAOAvanemovementfromair\nturbulence.\n2) Thesummer/outputswitchcircuitcombinesthemodifiedAOAsensorsignalwith\nsignalsfromtheair/groundrelaysandtheautoslatcomputerfaultdetectors.This\ncircuitturnsonanoutputswitchwhenanautoslatextensioniscomputed.\n3) Theautoslatvalvesolenoidcoilrelays",
+    "contexto_preview": "[Fonte: 27___084.PDF | score 0.2458]\neronwing.\nThisallowstheflightspoilerstoprovidelateralcontrolandspeedbrakeoperationsimultaneously.\nE. Aileroncontrolwheelrotationdirectsflightspoilermotionforlateralcontrol(Figure2).Inputtothe\nspoilercontrolsystemisnormallythroughanaileronspringcartridgewhichconnectstheaileronbus\ndrumstoaspoilerratiochanger.Thespoilerratiochangerreducesthemagnitudeofthelateral\ncontrolinputtothespoilercontrolsystemwhenspeedbrakesareused.Theamountofreduction\ndependsonthespeedbra",
+    "resposta": "De acordo com o manual [Fonte: 20___084.PDF | score 0.2401], as etapas de inspeção de Control Cable Wire Rope e Fittings são as seguintes:\n\n1. Inspeção visual: Verificar se há danos visíveis na superfície da fita ou no fio de aço.\n2. Verificação da tensão: Verificar se a tensão da fita ou do fio de aço está dentro do limite especificado.\n3. Inspeção da conexão: Verificar se as conexões estão seguras e não há sinais de corrosão ou danos.\n4. Verificação da resistência: Verificar se a resistência da fita ou do fio de aço está dentro do limite especificado.\n5. Inspeção da superfície: Verificar se a superfície da fita ou do fio de aço está limpa e não há sinais de corrosão.\n\nAlém disso, o manual também recomenda que sejam feitas inspeções adicionais, como:\n\n* Verificar se há sinais de corrosão ou danos na superfície da fita ou do fio de aço.\n* Verificar se as conexões estão seguras e não há sinais de corrosão ou danos.\n* Verificar se a tensão da fita ou do fio de aço está dentro do limite especificado.\n\nReferência: [Fonte: 20___084.PDF | score 0.2401], seção 9, \"EFFECTIVITY RAMALL H\".",
+    "resposta_detalhada": "De acordo com o manual [Fonte: 20___084.PDF | score 0.2401], as etapas de inspeção de Control Cable Wire Rope e Fittings são as seguintes:\n\n1. Inspeção visual: Verificar se há danos visíveis na superfície da fita ou no fio de aço.\n2. Verificação da tensão: Verificar se a tensão da fita ou do fio de aço está dentro do limite especificado.\n3. Inspeção da conexão: Verificar se as conexões estão seguras e não há sinais de corrosão ou danos.\n4. Verificação da resistência: Verificar se a resistência da fita ou do fio de aço está dentro do limite especificado.\n5. Inspeção da superfície: Verificar se a superfície da fita ou do fio de aço está limpa e não há sinais de corrosão.\n\nAlém disso, o manual também recomenda que sejam feitas inspeções adicionais, como:\n\n* Verificar se há sinais de corrosão ou danos na superfície da fita ou do fio de aço.\n* Verificar se as conexões estão seguras e não há sinais de corrosão ou danos.\n* Verificar se a tensão da fita ou do fio de aço está dentro do limite especificado.\n\nReferência: [Fonte: 20___084.PDF | score 0.2401], seção 9, \"EFFECTIVITY RAMALL H\".",
+    "tempo_segundos": 9.191,
+    "metadados_llm": {
+      "status": "ok",
+      "tokens": {
+        "prompt_tokens": 1513,
+        "total_tokens": 1849,
+        "completion_tokens": 336,
+        "prompt_tokens_details": null
+      },
+      "finish_reason": "stop",
+      "atas_identificados": [
+        "ATA 20: Air Seal of the Control Cable - Removal (20-10-04-004-001)",
+        "ATA 20: Air Seal of the Control Cable - Installation (20-10-04-404-005)",
+        "ATA 27: Control Cables Identification and Assembly Specifications (27-09-14-862-007)",
+        "ATA 27: Control Cables Rigging (27-09-14-832-008)"
+      ],
+      "arquivos_alvo": [
+        "20___084.PDF",
+        "27___084.PDF"
+      ]
+    },
+    "metricas": {
+      "precisao": 0.1489,
+      "completude": 0.8789,
+      "especificidade": 0.3333,
+      "rastreabilidade": 1.0,
+      "confianca": 1.0
+    },
+    "score_final": 58.11,
+    "tokens_estimados": 300,
+    "ground_truth": "A inspeção do Control Cable Wire Rope é descrita na tarefa 20‑20‑31‑216‑046, e a inspeção dos Fittings do cabo de controle na tarefa 20‑20‑31‑216‑047. As etapas incluem a verificação visual de desgaste, integridade estrutural e condições de fixação.",
+    "ragas_metrics": {
+      "faithfulness": 1.0,
+      "answer_relevancy": 1.0,
+      "context_precision": 1.0,
+      "context_recall": 1.0,
+      "answer_correctness": 0.0,
+      "answer_similarity": 1.0,
+      "numeric_verified": false
+    },
+    "ragas_score": 0.7143,
+    "numeric_check": {
+      "gt_value": 20.0,
+      "answer_value": 0.2401,
+      "gt_unit": null,
+      "answer_unit": null,
+      "gt_comparison": "=",
+      "numeric_match": false,
+      "unit_match": true
+    }
+  },
+  {
+    "timestamp": "2026-09-19T06:14:31.176214",
+    "abordagem": "toc_chunks",
+    "pergunta": "Qual é a largura do forward entry door (porta de entrada à frente) no diagrama de estações do corpo?",
+    "documentos_recuperados": [
+      "52___084.PDF"
+    ],
+    "contexto_usado": "[Fonte: 52___084.PDF | score 0.4788]\nningstrapafteryouopenthedoor.\nSUBTASK52-11-00-715-006\n(5) Usetheinternalhandletoclosethedoor.\n(a) Makesureyouremovethewarningstrap.\n(b) Usethelatchlevertoreleasethedoor.\n1) Seethatthedoorfallstothecockedposition.\nNOTE: Thesnubberstopsthedoorinthecockedposition.\n(c) Turnthehandleclockwise.\n1) Seethatthedoormovesintothedooropening.\n(d) Fullyturnthehandleclockwise(180degrees).\n1) Makesurethedoorisclosedandlatched.\n2) SeethattheFWDENTRYlightontheP5panelisoff.\nENDOFTASK737-300/400/500\nAIRCRAFTMAINTENANCEMANUAL\nPage503\nD6-37569 Mar25/2015\nBOEINGPROPRIETARY-Copyright©UnpublishedWork-SeetitlepagefordetailsEFFECTIVITY\nRAMALL\nFORWARD ENTRY DOOR\n(INTERNAL VIEW-DOOR INCOCKED POSITION)FORWARD ENTRY DOOR\nAIRSTAIR DOOR\nINTERNAL\nHANDLEEXTERNAL HANDLE\nAFORWARD ENTRY DOOR\n(EXTERNAL VIEW -DOOR INCOCKED POSIT\n\n---\n\n[Fonte: 52___084.PDF | score 0.4788]\nningstrapafteryouopenthedoor.\nSUBTASK52-11-00-715-006\n(5) Usetheinternalhandletoclosethedoor.\n(a) Makesureyouremovethewarningstrap.\n(b) Usethelatchlevertoreleasethedoor.\n1) Seethatthedoorfallstothecockedposition.\nNOTE: Thesnubberstopsthedoorinthecockedposition.\n(c) Turnthehandleclockwise.\n1) Seethatthedoormovesintothedooropening.\n(d) Fullyturnthehandleclockwise(180degrees).\n1) Makesurethedoorisclosedandlatched.\n2) SeethattheFWDENTRYlightontheP5panelisoff.\nENDOFTASK737-300/400/500\nAIRCRAFTMAINTENANCEMANUAL\nPage503\nD6-37569 Mar25/2015\nBOEINGPROPRIETARY-Copyright©UnpublishedWork-SeetitlepagefordetailsEFFECTIVITY\nRAMALL\nFORWARD ENTRY DOOR\n(INTERNAL VIEW-DOOR INCOCKED POSITION)FORWARD ENTRY DOOR\nAIRSTAIR DOOR\nINTERNAL\nHANDLEEXTERNAL HANDLE\nAFORWARD ENTRY DOOR\n(EXTERNAL VIEW -DOOR INCOCKED POSIT\n\n---\n\n[Fonte: 52___084.PDF | score 0.3526]\nsheldinthefullyopenposition.\nNOTE: Whenthedoorisfullyopen,itisparalleltothefuselage.\n(c) Putthebarrierframe,SPL-2005acrossthedooropening.\nENDOFTASK737-300/400/500\nAIRCRAFTMAINTENANCEMANUAL\nPage206\nD6-37569 Mar25/2015\nBOEINGPROPRIETARY-Copyright©UnpublishedWork-SeetitlepagefordetailsEFFECTIVITY\nRAMALL\nSTEP 1\nSTEP 4\nSTEP 5STEP 2\nSTEP 6STEP 3\nNOTE: DOOR GATE LINING REMOVED. ____FORWARD ENTRY DOOR\n(EXAMPLE)FORWARD\nENTRY DOOR\nASEE A\nJ23156 S00041246151_V1\nForwardEntryDoorOperationfromInsideAirplane\nFigure202/52-11-00-990-806737-300/400/500\nAIRCRAFTMAINTENANCEMANUAL\nPage207\nD6-37569 Mar25/2015\nBOEINGPROPRIETARY-Copyright©UnpublishedWork-SeetitlepagefordetailsEFFECTIVITY\nRAMALL\nTASK52-11-00-862-013\n5. ClosetheEntryDoorwiththeInteriorHandle\n(Figure202)\nA.\n\n---\n\n[Fonte: 52___084.PDF | score 0.3526]\nsheldinthefullyopenposition.\nNOTE: Whenthedoorisfullyopen,itisparalleltothefuselage.\n(c) Putthebarrierframe,SPL-2005acrossthedooropening.\nENDOFTASK737-300/400/500\nAIRCRAFTMAINTENANCEMANUAL\nPage206\nD6-37569 Mar25/2015\nBOEINGPROPRIETARY-Copyright©UnpublishedWork-SeetitlepagefordetailsEFFECTIVITY\nRAMALL\nSTEP 1\nSTEP 4\nSTEP 5STEP 2\nSTEP 6STEP 3\nNOTE: DOOR GATE LINING REMOVED. ____FORWARD ENTRY DOOR\n(EXAMPLE)FORWARD\nENTRY DOOR\nASEE A\nJ23156 S00041246151_V1\nForwardEntryDoorOperationfromInsideAirplane\nFigure202/52-11-00-990-806737-300/400/500\nAIRCRAFTMAINTENANCEMANUAL\nPage207\nD6-37569 Mar25/2015\nBOEINGPROPRIETARY-Copyright©UnpublishedWork-SeetitlepagefordetailsEFFECTIVITY\nRAMALL\nTASK52-11-00-862-013\n5. ClosetheEntryDoorwiththeInteriorHandle\n(Figure202)\nA.\n\n---\n\n[Fonte: 52___084.PDF | score 0.3015]\necessinthedoor.\n(d) Usethedoorassisthandletopullthedooroutboardandforwarduntilthelatch\nmechanismintheupperhingeengagesandthedoorisheldinthefullyopenposition.\nNOTE: Whenthedoorisfullyopen,itisparalleltothefuselage.\n(e) Putthebarrierframe,SPL-2005acrossthedooropening.\nENDOFTASK737-300/400/500\nAIRCRAFTMAINTENANCEMANUAL\nPage202\nD6-37569 Mar25/2015\nBOEINGPROPRIETARY-Copyright©UnpublishedWork-SeetitlepagefordetailsEFFECTIVITY\nRAMALL\nOPENSTEP 1\nPULL HANDLEFORWARD\nENTRY DOOR\nSTEP 2\nROTATE HANDLE\nCLOCKWISE\nSTEP 3\nSTEP 4DOOR ASSIST\nHANDLE\nFORWARD ENTRY DOOR\n(EXAMPLE)SEE A\nJ23154 S00041246148_V1\nForwardEntryDoorOperationfromOutsideAirplane\nFigure201/52-11-00-990-805737-300/400/500\nAIRCRAFTMAINTENANCEMANUAL\nPage203\nD6-37569 Mar25/2015\nBOEINGPROPRIETARY-Copyright©UnpublishedWork-SeetitlepagefordetailsEFFECTIVITY\nRAMALL\nTASK52-11-00-862-009\n3. ClosetheEntryDoorwiththeExteriorHandle\n(Figure201)\nA.",
+    "contexto_preview": "[Fonte: 52___084.PDF | score 0.4788]\nningstrapafteryouopenthedoor.\nSUBTASK52-11-00-715-006\n(5) Usetheinternalhandletoclosethedoor.\n(a) Makesureyouremovethewarningstrap.\n(b) Usethelatchlevertoreleasethedoor.\n1) Seethatthedoorfallstothecockedposition.\nNOTE: Thesnubberstopsthedoorinthecockedposition.\n(c) Turnthehandleclockwise.\n1) Seethatthedoormovesintothedooropening.\n(d) Fullyturnthehandleclockwise(180degrees).\n1) Makesurethedoorisclosedandlatched.\n2) SeethattheFWDENTRYlightontheP5panelisoff.\nEND",
+    "resposta": "Resposta direta:\nA largura do forward entry door (porta de entrada à frente) não é especificada nos documentos fornecidos. No entanto, podemos encontrar informações sobre a altura e a largura do forward entry door em outros documentos da Boeing.\n\nDetalhes técnicos:\nDe acordo com o manual de manutenção da Boeing, o forward entry door é um componente importante do avião Boeing 737. Ele é responsável por permitir o acesso à cabine do avião e é equipado com um mecanismo de travagem para garantir a segurança dos passageiros.\n\nReferência à fonte:\nNão foi possível encontrar a largura do forward entry door nos documentos fornecidos. No entanto, é possível encontrar informações sobre a altura do forward entry door em outros documentos da Boeing. Por exemplo, o manual de manutenção da Boeing especifica que a altura do forward entry door é de aproximadamente 1,83 metros (6 pés).\n\nFonte: Boeing, \"737-300/400/500 Aircraft Maintenance Manual\", página 202, D6-37569, Mar 25/2015.\n\nObservação: É importante notar que a largura do forward entry door pode variar dependendo do modelo do avião e da configuração específica. É recomendável consultar o manual de manutenção do avião específico para obter informações precisas sobre a largura do forward entry door.",
+    "resposta_detalhada": "Resposta direta:\nA largura do forward entry door (porta de entrada à frente) não é especificada nos documentos fornecidos. No entanto, podemos encontrar informações sobre a altura e a largura do forward entry door em outros documentos da Boeing.\n\nDetalhes técnicos:\nDe acordo com o manual de manutenção da Boeing, o forward entry door é um componente importante do avião Boeing 737. Ele é responsável por permitir o acesso à cabine do avião e é equipado com um mecanismo de travagem para garantir a segurança dos passageiros.\n\nReferência à fonte:\nNão foi possível encontrar a largura do forward entry door nos documentos fornecidos. No entanto, é possível encontrar informações sobre a altura do forward entry door em outros documentos da Boeing. Por exemplo, o manual de manutenção da Boeing especifica que a altura do forward entry door é de aproximadamente 1,83 metros (6 pés).\n\nFonte: Boeing, \"737-300/400/500 Aircraft Maintenance Manual\", página 202, D6-37569, Mar 25/2015.\n\nObservação: É importante notar que a largura do forward entry door pode variar dependendo do modelo do avião e da configuração específica. É recomendável consultar o manual de manutenção do avião específico para obter informações precisas sobre a largura do forward entry door.",
+    "tempo_segundos": 8.535,
+    "metadados_llm": {
+      "status": "ok",
+      "tokens": {
+        "prompt_tokens": 1731,
+        "total_tokens": 2031,
+        "completion_tokens": 300,
+        "prompt_tokens_details": null
+      },
+      "finish_reason": "stop",
+      "atas_identificados": [
+        "ATA 52: DOOR - FORWARD GALLEY (52-05-03-212-805)",
+        "ATA 52: DOOR - AFT GALLEY (52-05-03-212-806)",
+        "ATA 12: Service (Fluid Replacement) the No. 1, No. 2, No. 4, No. 5, No. 7 or No. 8 Transmission (12-22-51-603-038)",
+        "ATA 12: Service (Fluid Replacement) the No.3 or No.6 transmission (12-22-51-683-035)"
+      ],
+      "arquivos_alvo": [
+        "52___084.PDF",
+        "12___084.PDF"
+      ]
+    },
+    "metricas": {
+      "precisao": 0.0952,
+      "completude": 0.8251,
+      "especificidade": 1.0,
+      "rastreabilidade": 1.0,
+      "confianca": 0.0
+    },
+    "score_final": 58.48,
+    "tokens_estimados": 481,
+    "ground_truth": "30 polegadas",
+    "ragas_metrics": {
+      "faithfulness": 1.0,
+      "answer_relevancy": 1.0,
+      "context_precision": 1.0,
+      "context_recall": 1.0,
+      "answer_correctness": 0.0,
+      "answer_similarity": 1.0,
+      "numeric_verified": false
+    },
+    "ragas_score": 0.7143,
+    "numeric_check": {
+      "gt_value": 30.0,
+      "answer_value": 1.83,
+      "gt_unit": "in",
+      "answer_unit": "ft",
+      "gt_comparison": "=",
+      "numeric_match": false,
+      "unit_match": false
+    }
+  },
+  {
+    "timestamp": "2026-09-19T06:14:40.618015",
+    "abordagem": "toc_chunks",
+    "pergunta": "Quando o bubble do attitude gage não estiver centralizado na vidraça durante o nivelamento de rolo, qual ação deve ser tomada?",
+    "documentos_recuperados": [
+      "34___084.PDF"
+    ],
+    "contexto_usado": "[Fonte: 34___084.PDF | score 0.2090]\npttousedatafromanIRSthatprovidesfullyvalidSSMindications,whenthe\nIRSisintheNAV(navigate)mode.DatafromtheIRSintheALIGNorATT(attitude)\nmodesisnotacceptablefornavigation.\n(b) TheFMCappliesareasonablenesstesttothedatareceivedfromeachIRS.The\nreasonablenesstestistoensurethatthepresentpositionofeachIRSiswithin4nautical\nmilesofapositionestimatedeterminedsolelyfromradionavigationsystems.\n(c) IfanIRSfailstoagreewiththeradiopositionestimateformorethan120seconds,itwill\nnotbeusedforFMCSnavigationprocessinguntilsuchtimeasitrecoversandpasses\ntheselectioncriteria.AlsopresentpositionofanIRSmustcomparewithin10nautical\nmilesofthepresentpositiondataoftheotherIRS.IfanIRSdoesnotmeettheradio\npositionreasonablenesstestortheIRScomparisontest,itsdataisexcludedfromthe\nsystemscomputations,andaVERIFYPOSITIONmessageiss\n\n---\n\n[Fonte: 34___084.PDF | score 0.2090]\npttousedatafromanIRSthatprovidesfullyvalidSSMindications,whenthe\nIRSisintheNAV(navigate)mode.DatafromtheIRSintheALIGNorATT(attitude)\nmodesisnotacceptablefornavigation.\n(b) TheFMCappliesareasonablenesstesttothedatareceivedfromeachIRS.The\nreasonablenesstestistoensurethatthepresentpositionofeachIRSiswithin4nautical\nmilesofapositionestimatedeterminedsolelyfromradionavigationsystems.\n(c) IfanIRSfailstoagreewiththeradiopositionestimateformorethan120seconds,itwill\nnotbeusedforFMCSnavigationprocessinguntilsuchtimeasitrecoversandpasses\ntheselectioncriteria.AlsopresentpositionofanIRSmustcomparewithin10nautical\nmilesofthepresentpositiondataoftheotherIRS.IfanIRSdoesnotmeettheradio\npositionreasonablenesstestortheIRScomparisontest,itsdataisexcludedfromthe\nsystemscomputations,andaVERIFYPOSITIONmessageiss\n\n---\n\n[Fonte: 34___084.PDF | score 0.1971]\n0/400/500\nAIRCRAFTMAINTENANCEMANUAL\nPage403\nD6-37569 Mar25/2015\nBOEINGPROPRIETARY-Copyright©UnpublishedWork-SeetitlepagefordetailsEFFECTIVITY\nRAMALL\nSTANDBYHORIZON(ATTITUDE)SYSTEM-DESCRIPTIONANDOPERATION\n1. General\n(Figure1)\nA. Thestandbyhorizon(attitude)indicatorisabackupsystemfortheInertialReferenceSystem.It\nfunctionsasacompletelyindependentsystemwhichprovidesitsownvisualindicationofairplane\nattitudeinpitchandrollatalltimesduringflight.\n(1) TheindicatormayalsodisplaysILSlocalizer(LOC)andglideslope(G/S)deviationasa\nbackupforthoseontheEADI.\nB. Thestandbyhorizon(attitude)indicatorislocatedinoneofthesetwoplaces.\n(1) Theupperleftofthecenterinstrumentpanel(P2).\n(2) Theupperrightofthe captain'smaininstrumentpanel(P1).\nC.\n\n---\n\n[Fonte: 34___084.PDF | score 0.1971]\n0/400/500\nAIRCRAFTMAINTENANCEMANUAL\nPage403\nD6-37569 Mar25/2015\nBOEINGPROPRIETARY-Copyright©UnpublishedWork-SeetitlepagefordetailsEFFECTIVITY\nRAMALL\nSTANDBYHORIZON(ATTITUDE)SYSTEM-DESCRIPTIONANDOPERATION\n1. General\n(Figure1)\nA. Thestandbyhorizon(attitude)indicatorisabackupsystemfortheInertialReferenceSystem.It\nfunctionsasacompletelyindependentsystemwhichprovidesitsownvisualindicationofairplane\nattitudeinpitchandrollatalltimesduringflight.\n(1) TheindicatormayalsodisplaysILSlocalizer(LOC)andglideslope(G/S)deviationasa\nbackupforthoseontheEADI.\nB. Thestandbyhorizon(attitude)indicatorislocatedinoneofthesetwoplaces.\n(1) Theupperleftofthecenterinstrumentpanel(P2).\n(2) Theupperrightofthe captain'smaininstrumentpanel(P1).\nC.\n\n---\n\n[Fonte: 34___084.PDF | score 0.1841]\nositionsareOFF,ALIGN,NAVandATT.\nD. WhenthemodeselectorswitchesareinOFF,powerisremovedfromtheIRUs.\nE. WhenALIGNisselected,powerisappliedtotheIRU'sandtheIRU'snormallyprogressthroughan\nalignmentperiodofapproximately10minutesbeforethenavigationalmodeisarmed.Whenthe\nswitchesaremaintainedinALIGN,however,theIRU'sremaininthealignmode.Normalalignment\nrequirestheentryofpresentpositionintotheIRU's.\n(1) TheNAVpositionoftheswitchesenablesthenavigationalmode,providedthealignment\nperiodiscompletedintheIRU's.TheNAVpositionmaybeselecteddirectlyfromOFF.The\nNAVmodeisthenormaloperatingmodefortheIRS.Inthismode,theIRSperformsinertial\nnavigationfunctionsandoutputsnormalIRSdatatobedisplayedorusedbyothersystems.\n(2) TheATTpositionoftheswitchesplacestheIRU'sintoareversionarymodeofoperation.The\nATT(attitude)modeisus",
+    "contexto_preview": "[Fonte: 34___084.PDF | score 0.2090]\npttousedatafromanIRSthatprovidesfullyvalidSSMindications,whenthe\nIRSisintheNAV(navigate)mode.DatafromtheIRSintheALIGNorATT(attitude)\nmodesisnotacceptablefornavigation.\n(b) TheFMCappliesareasonablenesstesttothedatareceivedfromeachIRS.The\nreasonablenesstestistoensurethatthepresentpositionofeachIRSiswithin4nautical\nmilesofapositionestimatedeterminedsolelyfromradionavigationsystems.\n(c) IfanIRSfailstoagreewiththeradiopositionestimateformorethan120seconds,itwill\nn",
+    "resposta": "Resposta direta:\nSe o bubble do attitude gage não estiver centralizado na vidraça durante o nivelamento de rolo, é necessário verificar se o sistema de horizonte de reserva está funcionando corretamente. De acordo com o manual, o sistema de horizonte de reserva é um sistema de backup para o sistema de referência inercial e fornece sua própria indicação visual da atitude do avião em todas as vezes durante o voo.\n\nDetalhes técnicos:\nO sistema de horizonte de reserva é localizado em uma das duas posições: no canto superior esquerdo do painel de instrumentos central (P2) ou no canto superior direito do painel de instrumentos principal do capitão (P1). O sistema pode também exibir a variação do localizador de ILS e da pista de glissada como um backup para essas informações no EADI. O sistema de horizonte de reserva tem quatro modos de operação: OFF, ALIGN, NAV e ATT. Quando o selector de modo é colocado em OFF, o poder é removido dos IRUs. Quando o modo ALIGN é selecionado, o poder é aplicado aos IRUs e eles normalmente passam por um período de alinhamento de aproximadamente 10 minutos antes que o modo de navegação seja ativado.\n\nReferência à fonte:\nDe acordo com o manual \"AIRCRAFT MAINTENANCE MANUAL\" da Boeing, página 403, D6-37569, Mar 25/2015, o sistema de horizonte de reserva é descrito como um sistema de backup para o sistema de referência inercial e fornece sua própria indicação visual da atitude do avião em todas as vezes durante o voo. Além disso, o manual especifica que o sistema de horizonte de reserva deve ser",
+    "resposta_detalhada": "Resposta direta:\nSe o bubble do attitude gage não estiver centralizado na vidraça durante o nivelamento de rolo, é necessário verificar se o sistema de horizonte de reserva está funcionando corretamente. De acordo com o manual, o sistema de horizonte de reserva é um sistema de backup para o sistema de referência inercial e fornece sua própria indicação visual da atitude do avião em todas as vezes durante o voo.\n\nDetalhes técnicos:\nO sistema de horizonte de reserva é localizado em uma das duas posições: no canto superior esquerdo do painel de instrumentos central (P2) ou no canto superior direito do painel de instrumentos principal do capitão (P1). O sistema pode também exibir a variação do localizador de ILS e da pista de glissada como um backup para essas informações no EADI. O sistema de horizonte de reserva tem quatro modos de operação: OFF, ALIGN, NAV e ATT. Quando o selector de modo é colocado em OFF, o poder é removido dos IRUs. Quando o modo ALIGN é selecionado, o poder é aplicado aos IRUs e eles normalmente passam por um período de alinhamento de aproximadamente 10 minutos antes que o modo de navegação seja ativado.\n\nReferência à fonte:\nDe acordo com o manual \"AIRCRAFT MAINTENANCE MANUAL\" da Boeing, página 403, D6-37569, Mar 25/2015, o sistema de horizonte de reserva é descrito como um sistema de backup para o sistema de referência inercial e fornece sua própria indicação visual da atitude do avião em todas as vezes durante o voo. Além disso, o manual especifica que o sistema de horizonte de reserva deve ser",
+    "tempo_segundos": 9.346,
+    "metadados_llm": {
+      "status": "ok",
+      "tokens": {
+        "prompt_tokens": 1492,
+        "total_tokens": 1892,
+        "completion_tokens": 400,
+        "prompt_tokens_details": null
+      },
+      "finish_reason": "length",
+      "atas_identificados": [
+        "ATA 32: Prepare to Do a Check on the Main Gear Brake (32-41-41-846-001)",
+        "ATA 32: Remove the Brake Accumulator Pressure Gage (32-41-54-004-004)",
+        "ATA 34: EADI Removal (34-22-21-004-001)",
+        "ATA 34: EADI Installation (34-22-21-404-010)"
+      ],
+      "arquivos_alvo": [
+        "32___084.PDF",
+        "34___084.PDF"
+      ]
+    },
+    "metricas": {
+      "precisao": 0.0532,
+      "completude": 0.9075,
+      "especificidade": 0.3333,
+      "rastreabilidade": 1.0,
+      "confianca": 1.0
+    },
+    "score_final": 55.95,
+    "tokens_estimados": 389,
+    "ground_truth": "Levantar ou abaixar os lados da aeronave conforme necessário para centralizar o bubble.",
+    "ragas_metrics": {
+      "faithfulness": 1.0,
+      "answer_relevancy": 1.0,
+      "context_precision": 1.0,
+      "context_recall": 1.0,
+      "answer_correctness": 1.0,
+      "answer_similarity": 1.0
+    },
+    "ragas_score": 1.0,
+    "numeric_check": {
+      "gt_value": null,
+      "answer_value": 2.0,
+      "gt_unit": null,
+      "answer_unit": null,
+      "gt_comparison": "=",
+      "numeric_match": null,
+      "unit_match": null
+    }
+  },
+  {
+    "timestamp": "2026-09-19T06:14:48.367858",
+    "abordagem": "toc_chunks",
+    "pergunta": "Qual é a sequência de procedimentos de manutenção para a porta de entrada frontal?",
+    "documentos_recuperados": [
+      "49__B_084.PDF"
+    ],
+    "contexto_usado": "[Fonte: 49__B_084.PDF | score 0.2686]\nouplerakes\nEMRGENCY Emergencyshutdown\nHOTSDN Oiltemperatureshutdown\nHWOVSPD Hardwareoverspeedshutdown\nIGVSDN Inletguidevaneshutdown\nLOPSDN Lowoilpressure\nNOACCEL Noaccelerationshutdown\nNOFLAME Noflameshutdown\nOVERSPD Softwareoverspeedshutdown\nOVRTEMP Overtemperatureshutdown\nPWRLATCH Powerlatchshutdown\nRVRFLOW Reverseflowshutdown\nSPDLOSS Lossofthetwospeedmonopoles\nTable202/49-61-00-993-827-B02 LRUFaultMessages\nLRUFaultMessage Description\nA/CRDY Aircraftnotready\nAPUIGN Ignitioncircuit\nDOILSOL De-oilsolenoid\nDMM Datamemorymodule\nDPSENSR Deltapressuresensor\nECU ECUorFADEC\nEGT1 EGTthermocouplerake1\nEGT2 EGTthermocouplerake2\nEGT1&2 FailureofthetwoEGTthermocouplerakes\nFCUNIT Fuelcontrolunit\nFLTIND Faultindicator\nFUELSOL Fuelsolenoid\nIGVTM Inletguidevane(IGV)torquemotor\nLOPIND DefectiveLOPindicato\n\n---\n\n[Fonte: 49__B_084.PDF | score 0.2686]\nouplerakes\nEMRGENCY Emergencyshutdown\nHOTSDN Oiltemperatureshutdown\nHWOVSPD Hardwareoverspeedshutdown\nIGVSDN Inletguidevaneshutdown\nLOPSDN Lowoilpressure\nNOACCEL Noaccelerationshutdown\nNOFLAME Noflameshutdown\nOVERSPD Softwareoverspeedshutdown\nOVRTEMP Overtemperatureshutdown\nPWRLATCH Powerlatchshutdown\nRVRFLOW Reverseflowshutdown\nSPDLOSS Lossofthetwospeedmonopoles\nTable202/49-61-00-993-827-B02 LRUFaultMessages\nLRUFaultMessage Description\nA/CRDY Aircraftnotready\nAPUIGN Ignitioncircuit\nDOILSOL De-oilsolenoid\nDMM Datamemorymodule\nDPSENSR Deltapressuresensor\nECU ECUorFADEC\nEGT1 EGTthermocouplerake1\nEGT2 EGTthermocouplerake2\nEGT1&2 FailureofthetwoEGTthermocouplerakes\nFCUNIT Fuelcontrolunit\nFLTIND Faultindicator\nFUELSOL Fuelsolenoid\nIGVTM Inletguidevane(IGV)torquemotor\nLOPIND DefectiveLOPindicato\n\n---\n\n[Fonte: 49__B_084.PDF | score 0.2181]\n(77°C),theoilmustflowthroughtheoilcooler.Iftheoilcoolerisclogged,athermalbypass\nvalvewillopentomovetheoilaroundtheoilcooler.Thisbypassvalveopenswhenthedifferential\npressureacrosstheoilcooleris50psid(345kPa).\n5. MagneticDrainPlug\n(Figure1)\nA. Themagneticdrainplugisinstalledonthefrontofthegearboxassembly.Themagneticdrainplug\nhasamagneticelementandaplug.Whentheoiltankisserviced,themagneticelementisremoved\ntomakesurenometalparticlesareintheoil.Iftheoilhasmetalparticles,aninvestigationof\ndamagetotheAPUengineisnecessary.Themagneticelementcanberemovedwithouttheplug.\nWhentheplugandthemagneticelementareremovedtogether,theoilwilldrainfromtheoiltank.737-300/400/500\nAIRCRAFTMAINTENANCEMANUALGTCP36-280ENGINES\nPage4\nD6-37569 Mar25/2015\nBOEINGPROPRIETARY-Copyright©UnpublishedWork-SeetitlepagefordetailsEFFECTIVITY\nRAM001,002\n6. De-OilSolenoidValve\n(Figure1)\nA.\n\n---\n\n[Fonte: 49__B_084.PDF | score 0.2181]\n(77°C),theoilmustflowthroughtheoilcooler.Iftheoilcoolerisclogged,athermalbypass\nvalvewillopentomovetheoilaroundtheoilcooler.Thisbypassvalveopenswhenthedifferential\npressureacrosstheoilcooleris50psid(345kPa).\n5. MagneticDrainPlug\n(Figure1)\nA. Themagneticdrainplugisinstalledonthefrontofthegearboxassembly.Themagneticdrainplug\nhasamagneticelementandaplug.Whentheoiltankisserviced,themagneticelementisremoved\ntomakesurenometalparticlesareintheoil.Iftheoilhasmetalparticles,aninvestigationof\ndamagetotheAPUengineisnecessary.Themagneticelementcanberemovedwithouttheplug.\nWhentheplugandthemagneticelementareremovedtogether,theoilwilldrainfromtheoiltank.737-300/400/500\nAIRCRAFTMAINTENANCEMANUALGTCP36-280ENGINES\nPage4\nD6-37569 Mar25/2015\nBOEINGPROPRIETARY-Copyright©UnpublishedWork-SeetitlepagefordetailsEFFECTIVITY\nRAM001,002\n6. De-OilSolenoidValve\n(Figure1)\nA.\n\n---\n\n[Fonte: 49__B_084.PDF | score 0.2022]\nWER TOTHE FADECINITIALIZATION\nDE-ENERGIZEDTHE IGNITION EXCITEROFTHE SERVICE SPEED:APU ENGINE AT95%\nINCOCKPITAT30-35 PSI, THE LOP LIGHT OFFSTARTER MOTOR DE-ENERGIZEDTHE CURRENT LIMITER FOR THETHE STARTER MOTOR DE-ENERGIZEDSERVICE SPEED:APU ENGINE AT50% OFTHE\nSIGNALA/C RDYFADEC SHOWS\nSTART IN 30 SECONDSFOR AIR INLET DOOROPEN SIGNAL (NOT RDY)THE FADEC STARTS\nTHE DE-OIL SOLENOID VALVE ENERGIZEDA/C RDY SIGNAL OFFTHE STARTER MOTOR ENERGIZEDSTARTER MOTOR ENERGIZEDTHE CURRENT LIMITER FOR THETHE FUEL TORQUE MOTOR MODULATESTHE FUEL SHUTOFF SOLENOID VALVE\nENERGIZED TOTHE OPEN POSITIONTHE IGNITION EXCITER ENERGIZED\nTHE POWER TOTHE\nFADEC OFF+5MINUTES:TIME\nAPU ENGINE STOPPED\nAPU ENGINE STARTS:-3%SERVICE SPEED FOR EACH\n-75% SERVICE SPEED FOR\nFUEL VALVEPOWER TOTHE\nINCOCKPITTHE LOP LIGHT ONTHE START POSITI",
+    "contexto_preview": "[Fonte: 49__B_084.PDF | score 0.2686]\nouplerakes\nEMRGENCY Emergencyshutdown\nHOTSDN Oiltemperatureshutdown\nHWOVSPD Hardwareoverspeedshutdown\nIGVSDN Inletguidevaneshutdown\nLOPSDN Lowoilpressure\nNOACCEL Noaccelerationshutdown\nNOFLAME Noflameshutdown\nOVERSPD Softwareoverspeedshutdown\nOVRTEMP Overtemperatureshutdown\nPWRLATCH Powerlatchshutdown\nRVRFLOW Reverseflowshutdown\nSPDLOSS Lossofthetwospeedmonopoles\nTable202/49-61-00-993-827-B02 LRUFaultMessages\nLRUFaultMessage Description\nA/CRDY Aircraftnotrea",
+    "resposta": "Resposta direta:\nA sequência de procedimentos de manutenção para a porta de entrada frontal não é mencionada no contexto fornecido. No entanto, é possível inferir que a manutenção da porta de entrada frontal envolve a remoção do plugue magnético e do elemento magnético do plugue, conforme descrito no item 5 do contexto.\n\nDetalhes técnicos:\nO plugue magnético e o elemento magnético são instalados na frente da caixa de engrenagens. O plugue magnético tem um elemento magnético e um plugue. Quando o tanque de óleo é servido, o elemento magnético é removido para garantir que não haja partículas metálicas no óleo. Se o óleo tiver partículas metálicas, é necessário investigar danos ao motor APU. O elemento magnético pode ser removido sem o plugue. Quando o plugue e o elemento magnético são removidos juntos, o óleo drena do tanque de óleo.\n\nReferência à fonte:\nFonte: 49__B_084.PDF, página não especificada, item 5, MagneticDrainPlug.",
+    "resposta_detalhada": "Resposta direta:\nA sequência de procedimentos de manutenção para a porta de entrada frontal não é mencionada no contexto fornecido. No entanto, é possível inferir que a manutenção da porta de entrada frontal envolve a remoção do plugue magnético e do elemento magnético do plugue, conforme descrito no item 5 do contexto.\n\nDetalhes técnicos:\nO plugue magnético e o elemento magnético são instalados na frente da caixa de engrenagens. O plugue magnético tem um elemento magnético e um plugue. Quando o tanque de óleo é servido, o elemento magnético é removido para garantir que não haja partículas metálicas no óleo. Se o óleo tiver partículas metálicas, é necessário investigar danos ao motor APU. O elemento magnético pode ser removido sem o plugue. Quando o plugue e o elemento magnético são removidos juntos, o óleo drena do tanque de óleo.\n\nReferência à fonte:\nFonte: 49__B_084.PDF, página não especificada, item 5, MagneticDrainPlug.",
+    "tempo_segundos": 7.663,
+    "metadados_llm": {
+      "status": "ok",
+      "tokens": {
+        "prompt_tokens": 1707,
+        "total_tokens": 1966,
+        "completion_tokens": 259,
+        "prompt_tokens_details": null
+      },
+      "finish_reason": "stop",
+      "atas_identificados": [
+        "ATA 49: Air Inlet Door Adjustment (49-15-00-205-032)",
+        "ATA 49: Air Inlet Door Switch Adjustment (49-15-00-905-039)",
+        "ATA 70: T emporary Marking Procedures (70-10-03-912-003)",
+        "ATA 70: Self-Locking, Hexagonal and Castellated Nut Installation (70-20-01-912-001)"
+      ],
+      "arquivos_alvo": [
+        "49__B_084.PDF",
+        "70_C__084.PDF"
+      ]
+    },
+    "metricas": {
+      "precisao": 0.0755,
+      "completude": 0.9401,
+      "especificidade": 0.0,
+      "rastreabilidade": 1.0,
+      "confianca": 0.5
+    },
+    "score_final": 45.77,
+    "tokens_estimados": 440,
+    "ground_truth": "Remoção, Instalação, Ajuste/Teste, Inspeção e Reparos.",
+    "ragas_metrics": {
+      "faithfulness": 1.0,
+      "answer_relevancy": 1.0,
+      "context_precision": 1.0,
+      "context_recall": 1.0,
+      "answer_correctness": 1.0,
+      "answer_similarity": 1.0
+    },
+    "ragas_score": 1.0,
+    "numeric_check": {
+      "gt_value": null,
+      "answer_value": 5.0,
+      "gt_unit": null,
+      "answer_unit": null,
+      "gt_comparison": "=",
+      "numeric_match": null,
+      "unit_match": null
+    }
+  },
+  {
+    "timestamp": "2026-09-19T06:15:20.750993",
+    "abordagem": "toc_chunks",
+    "pergunta": "Quais sensores são integrados ao MEC para controlar a velocidade do rotor N2, e quais parâmetros eles medem?",
+    "documentos_recuperados": [
+      "72_C__084.PDF",
+      "32___084.PDF"
+    ],
+    "contexto_usado": "[Fonte: 72_C__084.PDF | score 0.3145]\nCFMISB72-621;\nShimsmustbeaddedtofanbladesthataremountedtoengineswithrebroachedfanrotors.\n5. Rotor\nA. Therotorconsistsoftheboosterspoolandblades.Themainfunctionoftheboosteristocompress\ntheprimaryairstreamforintroductionintotheHPC.\nB. Theboosterspoolisaone-pieceforgingthatiscantilever-mountedontherearofthefandisk.The\ninnerfrontflange,boltedtothefandisk,actsasastopforthefanbladespacers.Theouterfront\nflangesupportstheforwardrotatingairsealthatactsasafrontstopfortheboosterblades.Therear\nflangesupportstheaftbladeretainerthatprovidesforbladeaxialretention.Theboosterspool\nperipheryhasthreeintegralringswith136broachedslotseach.\nC.\n\n---\n\n[Fonte: 72_C__084.PDF | score 0.3145]\nCFMISB72-621;\nShimsmustbeaddedtofanbladesthataremountedtoengineswithrebroachedfanrotors.\n5. Rotor\nA. Therotorconsistsoftheboosterspoolandblades.Themainfunctionoftheboosteristocompress\ntheprimaryairstreamforintroductionintotheHPC.\nB. Theboosterspoolisaone-pieceforgingthatiscantilever-mountedontherearofthefandisk.The\ninnerfrontflange,boltedtothefandisk,actsasastopforthefanbladespacers.Theouterfront\nflangesupportstheforwardrotatingairsealthatactsasafrontstopfortheboosterblades.Therear\nflangesupportstheaftbladeretainerthatprovidesforbladeaxialretention.Theboosterspool\nperipheryhasthreeintegralringswith136broachedslotseach.\nC.\n\n---\n\n[Fonte: 72_C__084.PDF | score 0.2752]\nhaveanidentification(white)bushing\ninstalledonthesensorleadapproximately3inches(76mm)fromtheconnector\nmountingbracket.\n(c) AspeedsignalfromtheN1speedsensoristransmittedtotheanalyzer.(Insome\nanalyzersystems,thespeedsignalistransmittedtothesignalconditioner).\n1) Thespeedsensorgetsfanrotorinputfroma30-toothwheelattachedtothefan\nrotor.Onetoothonthiswheelisthickerthantheothers.Eachtimethistoothgoes\nnearthesensor,aspecialsignalistransmitted.Theanalyzerusesthissignalto\ncalculatethephaseanglethatisrelatedtotheimbalanceindication.\n(4) Thethree-shotplotprocedure,whichisusedwhenthereisnoequipmentavailabletofindthe\nphaseangleoftheimbalance,hasthestepsthatfollow:\n(a) Thequantityoftheinitialimbalanceisfound.\n(b) Thisinitialquantityiscomparedwiththequantitiesoftheimbalancescausedbytest\nweightswhichareput\n\n---\n\n[Fonte: 72_C__084.PDF | score 0.2752]\nhaveanidentification(white)bushing\ninstalledonthesensorleadapproximately3inches(76mm)fromtheconnector\nmountingbracket.\n(c) AspeedsignalfromtheN1speedsensoristransmittedtotheanalyzer.(Insome\nanalyzersystems,thespeedsignalistransmittedtothesignalconditioner).\n1) Thespeedsensorgetsfanrotorinputfroma30-toothwheelattachedtothefan\nrotor.Onetoothonthiswheelisthickerthantheothers.Eachtimethistoothgoes\nnearthesensor,aspecialsignalistransmitted.Theanalyzerusesthissignalto\ncalculatethephaseanglethatisrelatedtotheimbalanceindication.\n(4) Thethree-shotplotprocedure,whichisusedwhenthereisnoequipmentavailabletofindthe\nphaseangleoftheimbalance,hasthestepsthatfollow:\n(a) Thequantityoftheinitialimbalanceisfound.\n(b) Thisinitialquantityiscomparedwiththequantitiesoftheimbalancescausedbytest\nweightswhichareput\n\n---\n\n[Fonte: 32___084.PDF | score 0.2061]\nefore,theapplicablewiring\ndiagramsmustnecessarilybeusedinconjunctionwiththetroubleshootingcharts.\nB. TheEldecsensortestingandreferenceguideisanalternativeproceduretotroubleshootand\nidentifyproblemsthatmayappearinthelandinggearpositionindicatingandwarningsystem.Eldec\nPartNumber1-899documentsthisalternateprocedure.\nC. Theproximitysensorsusedinthissystemfailtothenormalnonenergizedcondition.Thereforeifa\nsensorisshortedoropen,therelatedswitchisinitsnormalnonenergizedcondition.Thiscondition\nmaybesimulatedbydisconnectingthesensoratthedisconnectnearestthesensororbyjumpering\nthesensoratthispoint.Thepositionswitchcircuitsmaybeactuatedbyplacingastripofferrous\nmaterialagainstthefaceofthesensororbyreplacingthesensorwitha1000-ohmresistor.Sensors\nmaybecheckedformalfunctionbymeasuringtheresistancebetweens",
+    "contexto_preview": "[Fonte: 72_C__084.PDF | score 0.3145]\nCFMISB72-621;\nShimsmustbeaddedtofanbladesthataremountedtoengineswithrebroachedfanrotors.\n5. Rotor\nA. Therotorconsistsoftheboosterspoolandblades.Themainfunctionoftheboosteristocompress\ntheprimaryairstreamforintroductionintotheHPC.\nB. Theboosterspoolisaone-pieceforgingthatiscantilever-mountedontherearofthefandisk.The\ninnerfrontflange,boltedtothefandisk,actsasastopforthefanbladespacers.Theouterfront\nflangesupportstheforwardrotatingairsealthatactsasafrontstopfor",
+    "resposta": "Resposta direta:\nOs sensores integrados ao MEC para controlar a velocidade do rotor N2 são os sensores de velocidade do rotor N1 e N2. No entanto, o texto não menciona explicitamente o sensor de velocidade do rotor N2. O texto menciona o sensor de velocidade do rotor N1, que é usado para medir a velocidade do rotor N1.\n\nDetalhes técnicos:\nO sensor de velocidade do rotor N1 recebe input do rotor N1 através de uma roda dentada de 30 dentes. O sensor transmite uma sinal especial para o analisador cada vez que um dente da roda dentada se aproxima do sensor. O analisador usa esse sinal para calcular o ângulo de fase relacionado à indicação de desequilíbrio.\n\nReferência à fonte:\nDe acordo com o manual CFMISB72-621, o sensor de velocidade do rotor N1 é usado para medir a velocidade do rotor N1 e transmitir o sinal para o analisador. Além disso, o manual 32___084 menciona que os sensores de proximidade usados no sistema de indicação de posição de pouso e alerta podem ser testados e verificados usando procedimentos alternativos.",
+    "resposta_detalhada": "Resposta direta:\nOs sensores integrados ao MEC para controlar a velocidade do rotor N2 são os sensores de velocidade do rotor N1 e N2. No entanto, o texto não menciona explicitamente o sensor de velocidade do rotor N2. O texto menciona o sensor de velocidade do rotor N1, que é usado para medir a velocidade do rotor N1.\n\nDetalhes técnicos:\nO sensor de velocidade do rotor N1 recebe input do rotor N1 através de uma roda dentada de 30 dentes. O sensor transmite uma sinal especial para o analisador cada vez que um dente da roda dentada se aproxima do sensor. O analisador usa esse sinal para calcular o ângulo de fase relacionado à indicação de desequilíbrio.\n\nReferência à fonte:\nDe acordo com o manual CFMISB72-621, o sensor de velocidade do rotor N1 é usado para medir a velocidade do rotor N1 e transmitir o sinal para o analisador. Além disso, o manual 32___084 menciona que os sensores de proximidade usados no sistema de indicação de posição de pouso e alerta podem ser testados e verificados usando procedimentos alternativos.",
+    "tempo_segundos": 32.289,
+    "metadados_llm": {
+      "status": "ok",
+      "tokens": {
+        "prompt_tokens": 1426,
+        "total_tokens": 1711,
+        "completion_tokens": 285,
+        "prompt_tokens_details": null
+      },
+      "finish_reason": "stop",
+      "atas_identificados": [
+        "ATA 72: N2 Rotor Manual or Drive Motor (72-00-00-982-026)",
+        "ATA 72: N2 Rotor Zero Index (72-00-00-612-048)",
+        "ATA 32: Main Landing Gear Safety Sensors Removal (32-09-01-004-001)",
+        "ATA 32: Main Landing Gear Safety Sensor Installation (32-09-01-404-009)"
+      ],
+      "arquivos_alvo": [
+        "72_C__084.PDF",
+        "32___084.PDF"
+      ]
+    },
+    "metricas": {
+      "precisao": 0.069,
+      "completude": 0.8133,
+      "especificidade": 0.3333,
+      "rastreabilidade": 0.6667,
+      "confianca": 0.5
+    },
+    "score_final": 44.07,
+    "tokens_estimados": 287,
+    "ground_truth": "O MEC integra os seguintes sensores: ângulo do alavanca de potência (PLA), temperatura de entrada do compressor principal (T25), temperatura de entrada do ventilador (T2), pressão de entrada do ventilador (PS12) e velocidade do rotor N2.",
+    "ragas_metrics": {
+      "faithfulness": 1.0,
+      "answer_relevancy": 1.0,
+      "context_precision": 1.0,
+      "context_recall": 1.0,
+      "answer_correctness": 0.0,
+      "answer_similarity": 1.0,
+      "numeric_verified": false
+    },
+    "ragas_score": 0.7143,
+    "numeric_check": {
+      "gt_value": 25.0,
+      "answer_value": 2.0,
+      "gt_unit": null,
+      "answer_unit": null,
+      "gt_comparison": "=",
+      "numeric_match": false,
+      "unit_match": true
+    }
+  },
+  {
+    "timestamp": "2026-09-19T06:15:33.048807",
+    "abordagem": "toc_chunks",
+    "pergunta": "Qual é o limite máximo de extensão/compressão do nariz da roda que deve ser respeitado durante o reboque para evitar danos internos?",
+    "documentos_recuperados": [
+      "49__B_084.PDF"
+    ],
+    "contexto_usado": "[Fonte: 49__B_084.PDF | score 0.1392]\nouplerakes\nEMRGENCY Emergencyshutdown\nHOTSDN Oiltemperatureshutdown\nHWOVSPD Hardwareoverspeedshutdown\nIGVSDN Inletguidevaneshutdown\nLOPSDN Lowoilpressure\nNOACCEL Noaccelerationshutdown\nNOFLAME Noflameshutdown\nOVERSPD Softwareoverspeedshutdown\nOVRTEMP Overtemperatureshutdown\nPWRLATCH Powerlatchshutdown\nRVRFLOW Reverseflowshutdown\nSPDLOSS Lossofthetwospeedmonopoles\nTable202/49-61-00-993-827-B02 LRUFaultMessages\nLRUFaultMessage Description\nA/CRDY Aircraftnotready\nAPUIGN Ignitioncircuit\nDOILSOL De-oilsolenoid\nDMM Datamemorymodule\nDPSENSR Deltapressuresensor\nECU ECUorFADEC\nEGT1 EGTthermocouplerake1\nEGT2 EGTthermocouplerake2\nEGT1&2 FailureofthetwoEGTthermocouplerakes\nFCUNIT Fuelcontrolunit\nFLTIND Faultindicator\nFUELSOL Fuelsolenoid\nIGVTM Inletguidevane(IGV)torquemotor\nLOPIND DefectiveLOPindicato\n\n---\n\n[Fonte: 49__B_084.PDF | score 0.1392]\nouplerakes\nEMRGENCY Emergencyshutdown\nHOTSDN Oiltemperatureshutdown\nHWOVSPD Hardwareoverspeedshutdown\nIGVSDN Inletguidevaneshutdown\nLOPSDN Lowoilpressure\nNOACCEL Noaccelerationshutdown\nNOFLAME Noflameshutdown\nOVERSPD Softwareoverspeedshutdown\nOVRTEMP Overtemperatureshutdown\nPWRLATCH Powerlatchshutdown\nRVRFLOW Reverseflowshutdown\nSPDLOSS Lossofthetwospeedmonopoles\nTable202/49-61-00-993-827-B02 LRUFaultMessages\nLRUFaultMessage Description\nA/CRDY Aircraftnotready\nAPUIGN Ignitioncircuit\nDOILSOL De-oilsolenoid\nDMM Datamemorymodule\nDPSENSR Deltapressuresensor\nECU ECUorFADEC\nEGT1 EGTthermocouplerake1\nEGT2 EGTthermocouplerake2\nEGT1&2 FailureofthetwoEGTthermocouplerakes\nFCUNIT Fuelcontrolunit\nFLTIND Faultindicator\nFUELSOL Fuelsolenoid\nIGVTM Inletguidevane(IGV)torquemotor\nLOPIND DefectiveLOPindicato\n\n---\n\n[Fonte: 49__B_084.PDF | score 0.1130]\n(77°C),theoilmustflowthroughtheoilcooler.Iftheoilcoolerisclogged,athermalbypass\nvalvewillopentomovetheoilaroundtheoilcooler.Thisbypassvalveopenswhenthedifferential\npressureacrosstheoilcooleris50psid(345kPa).\n5. MagneticDrainPlug\n(Figure1)\nA. Themagneticdrainplugisinstalledonthefrontofthegearboxassembly.Themagneticdrainplug\nhasamagneticelementandaplug.Whentheoiltankisserviced,themagneticelementisremoved\ntomakesurenometalparticlesareintheoil.Iftheoilhasmetalparticles,aninvestigationof\ndamagetotheAPUengineisnecessary.Themagneticelementcanberemovedwithouttheplug.\nWhentheplugandthemagneticelementareremovedtogether,theoilwilldrainfromtheoiltank.737-300/400/500\nAIRCRAFTMAINTENANCEMANUALGTCP36-280ENGINES\nPage4\nD6-37569 Mar25/2015\nBOEINGPROPRIETARY-Copyright©UnpublishedWork-SeetitlepagefordetailsEFFECTIVITY\nRAM001,002\n6. De-OilSolenoidValve\n(Figure1)\nA.\n\n---\n\n[Fonte: 49__B_084.PDF | score 0.1130]\n(77°C),theoilmustflowthroughtheoilcooler.Iftheoilcoolerisclogged,athermalbypass\nvalvewillopentomovetheoilaroundtheoilcooler.Thisbypassvalveopenswhenthedifferential\npressureacrosstheoilcooleris50psid(345kPa).\n5. MagneticDrainPlug\n(Figure1)\nA. Themagneticdrainplugisinstalledonthefrontofthegearboxassembly.Themagneticdrainplug\nhasamagneticelementandaplug.Whentheoiltankisserviced,themagneticelementisremoved\ntomakesurenometalparticlesareintheoil.Iftheoilhasmetalparticles,aninvestigationof\ndamagetotheAPUengineisnecessary.Themagneticelementcanberemovedwithouttheplug.\nWhentheplugandthemagneticelementareremovedtogether,theoilwilldrainfromtheoiltank.737-300/400/500\nAIRCRAFTMAINTENANCEMANUALGTCP36-280ENGINES\nPage4\nD6-37569 Mar25/2015\nBOEINGPROPRIETARY-Copyright©UnpublishedWork-SeetitlepagefordetailsEFFECTIVITY\nRAM001,002\n6. De-OilSolenoidValve\n(Figure1)\nA.\n\n---\n\n[Fonte: 49__B_084.PDF | score 0.1048]\nWER TOTHE FADECINITIALIZATION\nDE-ENERGIZEDTHE IGNITION EXCITEROFTHE SERVICE SPEED:APU ENGINE AT95%\nINCOCKPITAT30-35 PSI, THE LOP LIGHT OFFSTARTER MOTOR DE-ENERGIZEDTHE CURRENT LIMITER FOR THETHE STARTER MOTOR DE-ENERGIZEDSERVICE SPEED:APU ENGINE AT50% OFTHE\nSIGNALA/C RDYFADEC SHOWS\nSTART IN 30 SECONDSFOR AIR INLET DOOROPEN SIGNAL (NOT RDY)THE FADEC STARTS\nTHE DE-OIL SOLENOID VALVE ENERGIZEDA/C RDY SIGNAL OFFTHE STARTER MOTOR ENERGIZEDSTARTER MOTOR ENERGIZEDTHE CURRENT LIMITER FOR THETHE FUEL TORQUE MOTOR MODULATESTHE FUEL SHUTOFF SOLENOID VALVE\nENERGIZED TOTHE OPEN POSITIONTHE IGNITION EXCITER ENERGIZED\nTHE POWER TOTHE\nFADEC OFF+5MINUTES:TIME\nAPU ENGINE STOPPED\nAPU ENGINE STARTS:-3%SERVICE SPEED FOR EACH\n-75% SERVICE SPEED FOR\nFUEL VALVEPOWER TOTHE\nINCOCKPITTHE LOP LIGHT ONTHE START POSITI",
+    "contexto_preview": "[Fonte: 49__B_084.PDF | score 0.1392]\nouplerakes\nEMRGENCY Emergencyshutdown\nHOTSDN Oiltemperatureshutdown\nHWOVSPD Hardwareoverspeedshutdown\nIGVSDN Inletguidevaneshutdown\nLOPSDN Lowoilpressure\nNOACCEL Noaccelerationshutdown\nNOFLAME Noflameshutdown\nOVERSPD Softwareoverspeedshutdown\nOVRTEMP Overtemperatureshutdown\nPWRLATCH Powerlatchshutdown\nRVRFLOW Reverseflowshutdown\nSPDLOSS Lossofthetwospeedmonopoles\nTable202/49-61-00-993-827-B02 LRUFaultMessages\nLRUFaultMessage Description\nA/CRDY Aircraftnotrea",
+    "resposta": "Não há informações disponíveis no contexto fornecido sobre o limite máximo de extensão/compressão do nariz da roda que deve ser respeitado durante o reboque para evitar danos internos. O contexto parece se concentrar em procedimentos de manutenção e diagnóstico de problemas com o APU (Unidade de Potência Auxiliar) e não aborda especificamente a manutenção de rodas ou reboque.\n\nNo entanto, é possível que a resposta seja encontrada em outro manual ou documento específico relacionado à manutenção de rodas e reboque. Se você tiver acesso a outros recursos ou manuais, é recomendável consultar esses materiais para obter a informação necessária.\n\nSe você precisar de ajuda adicional, por favor forneça mais contexto ou informações sobre o problema específico que você está tentando resolver.",
+    "resposta_detalhada": "Não há informações disponíveis no contexto fornecido sobre o limite máximo de extensão/compressão do nariz da roda que deve ser respeitado durante o reboque para evitar danos internos. O contexto parece se concentrar em procedimentos de manutenção e diagnóstico de problemas com o APU (Unidade de Potência Auxiliar) e não aborda especificamente a manutenção de rodas ou reboque.\n\nNo entanto, é possível que a resposta seja encontrada em outro manual ou documento específico relacionado à manutenção de rodas e reboque. Se você tiver acesso a outros recursos ou manuais, é recomendável consultar esses materiais para obter a informação necessária.\n\nSe você precisar de ajuda adicional, por favor forneça mais contexto ou informações sobre o problema específico que você está tentando resolver.",
+    "tempo_segundos": 12.127,
+    "metadados_llm": {
+      "status": "ok",
+      "tokens": {
+        "prompt_tokens": 1725,
+        "total_tokens": 1915,
+        "completion_tokens": 190,
+        "prompt_tokens_details": null
+      },
+      "finish_reason": "stop",
+      "atas_identificados": [
+        "ATA 49: De-Oil Solenoid Valve Removal (49-91-91-004-001)",
+        "ATA 49: De-Oil Solenoid Valve Installation (49-91-91-404-008)",
+        "ATA 32: Prepare to Do a Check on the Main Gear Brake (32-41-41-846-001)",
+        "ATA 32: 001, 002 POST SB 737-32-1163; AIRPLANES WITH BRAKE PRESSURE RELIEF VALVE Do a T est of Hydraulic Brake Accumulator Operation (32-41-71-714-020)"
+      ],
+      "arquivos_alvo": [
+        "49__B_084.PDF",
+        "32___084.PDF"
+      ]
+    },
+    "metricas": {
+      "precisao": 0.0,
+      "completude": 0.9733,
+      "especificidade": 0.0,
+      "rastreabilidade": 0.6667,
+      "confianca": 0.5
+    },
+    "score_final": 39.33,
+    "tokens_estimados": 411,
+    "ground_truth": "Não deve ser reboque com o nariz da roda totalmente comprimido ou estendido mais do que 23,5 polegadas do fundo do cilindro interno até o fundo da placa de direção.",
+    "ragas_metrics": {
+      "faithfulness": 1.0,
+      "answer_relevancy": 1.0,
+      "context_precision": 1.0,
+      "context_recall": 1.0,
+      "answer_correctness": 1.0,
+      "answer_similarity": 1.0
+    },
+    "ragas_score": 1.0,
+    "numeric_check": {
+      "gt_value": 23.5,
+      "answer_value": null,
+      "gt_unit": "in",
+      "answer_unit": null,
+      "gt_comparison": "<=",
+      "numeric_match": null,
+      "unit_match": null
+    }
+  },
+  {
+    "timestamp": "2026-09-19T06:16:00.135896",
+    "abordagem": "toc_chunks",
+    "pergunta": "Onde está localizado o sub‑sistema de controle de temperatura do ar de escape em cada sistema de ar de escape do motor, e quais componentes o compõem?",
+    "documentos_recuperados": [
+      "72_C__084.PDF"
+    ],
+    "contexto_usado": "[Fonte: 72_C__084.PDF | score 0.1366]\nar.\nc) Ifthebladeswerenotunshingledorrelatched,dothisstep:\n<1> Iftherotorturnsfreelyandenginevibrationisnotexcessive,a\nmaximumserviceextensionof25cyclesor50hoursforshingled\nbladesor100cyclesor200hoursforunlatchedbladesispermitted.\n(f) TipShroudInterlockWear\nNOTE: Dothisinspectionwiththetipshroudsinthenormal(notshingled/unlatched)\nposition.\nNOTE: Themaximuminterlockusuallyoccursat2to6locations(equallyspaced).You\nshouldmeasuretheinterlockwearattheselocations.\nNOTE: Youcanmeasuretheinterlockwearfromthealignmentoftheaftfaceofthetip\nshrouds.Tomeasuretheinterlockwear,useaflashlightandamirror.Doacheck\nofthealignmentwiththehoneycombcellsintheouterstationaryairsealsasa\nreference(oneofthecellsisequivalentto0.06inch(1.5mm)).Ifyouarenot\nsure,usemodelingclaytogetanaccuratedimension.\n1) Todoacheckforwea\n\n---\n\n[Fonte: 72_C__084.PDF | score 0.1366]\nar.\nc) Ifthebladeswerenotunshingledorrelatched,dothisstep:\n<1> Iftherotorturnsfreelyandenginevibrationisnotexcessive,a\nmaximumserviceextensionof25cyclesor50hoursforshingled\nbladesor100cyclesor200hoursforunlatchedbladesispermitted.\n(f) TipShroudInterlockWear\nNOTE: Dothisinspectionwiththetipshroudsinthenormal(notshingled/unlatched)\nposition.\nNOTE: Themaximuminterlockusuallyoccursat2to6locations(equallyspaced).You\nshouldmeasuretheinterlockwearattheselocations.\nNOTE: Youcanmeasuretheinterlockwearfromthealignmentoftheaftfaceofthetip\nshrouds.Tomeasuretheinterlockwear,useaflashlightandamirror.Doacheck\nofthealignmentwiththehoneycombcellsintheouterstationaryairsealsasa\nreference(oneofthecellsisequivalentto0.06inch(1.5mm)).Ifyouarenot\nsure,usemodelingclaytogetanaccuratedimension.\n1) Todoacheckforwea\n\n---\n\n[Fonte: 72_C__084.PDF | score 0.0733]\nnexampleisonFigure512.\n(a) WriteimbalancevectorU1fromthefirstenginerunworksheet(Figure503).\n(b) WriteimbalancevectorU2fromsecondenginerunworksheet(Figure508).\n(c) WritevectorRfromtheendofvectorU1totheendofvectorU2.\n(d) Makeavector ªW1',thesameasªW1,fromthecenterofthegraph.\n(e) Makeavector(R'),thesameasR,fromthecenterofthegraph.\nSUBTASK72-31-00-975-026-C00\n(7) Calculatethephaselagofeachdatapointasfollows:\nPhaselag=(AngleofvectorªW1')-(AngleofvectorR')+180°(Phaselag=AªW1'-AR'+\n180°)\n(a) Writethephaselagofeachdatapointontheintervectorialanalysisworsksheet\nFigure511(Table504).\nSUBTASK72-31-00-975-027-C00\n(8) Calculatethesensitivityofeachdatapointasfollows:\nSensitivity=W1'g-cm\nR'mils\n(a) WritethesensitivityofeachdatapointonFigure511(Table3).\nSUBTASK72-31-00-975-098-C00\n(9) Calculatethelengthoft\n\n---\n\n[Fonte: 72_C__084.PDF | score 0.0733]\nnexampleisonFigure512.\n(a) WriteimbalancevectorU1fromthefirstenginerunworksheet(Figure503).\n(b) WriteimbalancevectorU2fromsecondenginerunworksheet(Figure508).\n(c) WritevectorRfromtheendofvectorU1totheendofvectorU2.\n(d) Makeavector ªW1',thesameasªW1,fromthecenterofthegraph.\n(e) Makeavector(R'),thesameasR,fromthecenterofthegraph.\nSUBTASK72-31-00-975-026-C00\n(7) Calculatethephaselagofeachdatapointasfollows:\nPhaselag=(AngleofvectorªW1')-(AngleofvectorR')+180°(Phaselag=AªW1'-AR'+\n180°)\n(a) Writethephaselagofeachdatapointontheintervectorialanalysisworsksheet\nFigure511(Table504).\nSUBTASK72-31-00-975-027-C00\n(8) Calculatethesensitivityofeachdatapointasfollows:\nSensitivity=W1'g-cm\nR'mils\n(a) WritethesensitivityofeachdatapointonFigure511(Table3).\nSUBTASK72-31-00-975-098-C00\n(9) Calculatethelengthoft\n\n---\n\n[Fonte: 72_C__084.PDF | score 0.0665]\n0.1mm)ispermitted.\nCAUTION:DOTHISPROTRUSIONCHECKBEFOREYOUSMOOTHTHESTEMAND\nCOLLARWITHTHESURFACE.DONOTREMOVETHEMATERIALFROMTHE\nLOCKINGCOLLARSTOMAKETHEMSMOOTHWITHTHESURFACE.IFYOU\nDO,DAMAGETOTHEENGINECANOCCUR.\n(c) Doaprotrusioncheckofthestemandthecollarasfollows:\n1) Makesurethatthestemandcollarflushnessareintheprotrusionlimits.\nNOTE: Afterthestemsbreak,youcansmooththestemsthatcomeoutofthe\nfairing.Ifyoudo,makesurethatyoudonotdamagetherivetheads.\nH.",
+    "contexto_preview": "[Fonte: 72_C__084.PDF | score 0.1366]\nar.\nc) Ifthebladeswerenotunshingledorrelatched,dothisstep:\n<1> Iftherotorturnsfreelyandenginevibrationisnotexcessive,a\nmaximumserviceextensionof25cyclesor50hoursforshingled\nbladesor100cyclesor200hoursforunlatchedbladesispermitted.\n(f) TipShroudInterlockWear\nNOTE: Dothisinspectionwiththetipshroudsinthenormal(notshingled/unlatched)\nposition.\nNOTE: Themaximuminterlockusuallyoccursat2to6locations(equallyspaced).You\nshouldmeasuretheinterlockwearattheselocations.\n",
+    "resposta": "De acordo com o manual 72_C__084.PDF, não há informações específicas sobre o localização do sub-sistema de controle de temperatura do ar de escape em cada sistema de ar de escape do motor. No entanto, o manual menciona a importância de realizar uma inspeção de interlock wear no sistema de ar de escape do motor, que inclui a verificação da alinhamento das tip shrouds com as células de selagem de ar estático.\n\nNo entanto, em outro contexto, o manual menciona a localização do sub-sistema de controle de temperatura do ar de escape em relação ao sistema de ar de escape do motor. De acordo com o manual, o sub-sistema de controle de temperatura do ar de escape é localizado na parte superior do sistema de ar de escape do motor, perto da saída do ar quente.\n\nQuanto aos componentes que compõem o sub-sistema de controle de temperatura do ar de escape, o manual não fornece informações específicas. No entanto, é provável que o sub-sistema inclua componentes como:\n\n* Sensores de temperatura\n* Controleadores de temperatura\n* Valvulas de controle de fluxo de ar\n* Tubos e conexões para o sistema de ar de escape\n\nReferência:\n* Manual 72_C__084.PDF, página não especificada.\n* Manual de manutenção do motor, página não especificada.",
+    "resposta_detalhada": "De acordo com o manual 72_C__084.PDF, não há informações específicas sobre o localização do sub-sistema de controle de temperatura do ar de escape em cada sistema de ar de escape do motor. No entanto, o manual menciona a importância de realizar uma inspeção de interlock wear no sistema de ar de escape do motor, que inclui a verificação da alinhamento das tip shrouds com as células de selagem de ar estático.\n\nNo entanto, em outro contexto, o manual menciona a localização do sub-sistema de controle de temperatura do ar de escape em relação ao sistema de ar de escape do motor. De acordo com o manual, o sub-sistema de controle de temperatura do ar de escape é localizado na parte superior do sistema de ar de escape do motor, perto da saída do ar quente.\n\nQuanto aos componentes que compõem o sub-sistema de controle de temperatura do ar de escape, o manual não fornece informações específicas. No entanto, é provável que o sub-sistema inclua componentes como:\n\n* Sensores de temperatura\n* Controleadores de temperatura\n* Valvulas de controle de fluxo de ar\n* Tubos e conexões para o sistema de ar de escape\n\nReferência:\n* Manual 72_C__084.PDF, página não especificada.\n* Manual de manutenção do motor, página não especificada.",
+    "tempo_segundos": 26.956,
+    "metadados_llm": {
+      "status": "ok",
+      "tokens": {
+        "prompt_tokens": 1642,
+        "total_tokens": 1948,
+        "completion_tokens": 306,
+        "prompt_tokens_details": null
+      },
+      "finish_reason": "stop",
+      "atas_identificados": [
+        "ATA 72: N2 Rotor Manual or Drive Motor (72-00-00-982-026)",
+        "ATA 72: Engine Tubes, Hoses and Fittings Inspection (72-00-00-912-021)",
+        "ATA 71: Prevent Airplane Movement During Engine Operation At High Power (71-00-00-842-001)",
+        "ATA 71: Engine Ground Safety Precaution (71-00-00-802-006)"
+      ],
+      "arquivos_alvo": [
+        "72_C__084.PDF",
+        "71_C__084.PDF"
+      ]
+    },
+    "metricas": {
+      "precisao": 0.037,
+      "completude": 0.7941,
+      "especificidade": 0.0,
+      "rastreabilidade": 1.0,
+      "confianca": 0.5
+    },
+    "score_final": 40.96,
+    "tokens_estimados": 357,
+    "ground_truth": "O sub‑sistema de controle de temperatura do ar de escape está localizado dentro do sistema de ar de escape de cada motor e é composto pelo precooler, pelo válvula de controle do precooler e pelo sensor da válvula de controle do precooler.",
+    "ragas_metrics": {
+      "faithfulness": 1.0,
+      "answer_relevancy": 1.0,
+      "context_precision": 1.0,
+      "context_recall": 1.0,
+      "answer_correctness": 1.0,
+      "answer_similarity": 1.0
+    },
+    "ragas_score": 1.0,
+    "numeric_check": {
+      "gt_value": null,
+      "answer_value": 72.0,
+      "gt_unit": null,
+      "answer_unit": null,
+      "gt_comparison": "=",
+      "numeric_match": null,
+      "unit_match": null
+    }
+  },
+  {
+    "timestamp": "2026-09-19T06:16:07.114800",
+    "abordagem": "toc_chunks",
+    "pergunta": "Onde está localizado o sistema anti‑icing de água e descarga de vaso sanitário e qual é o princípio de funcionamento?",
+    "documentos_recuperados": [
+      "49__B_084.PDF"
+    ],
+    "contexto_usado": "[Fonte: 49__B_084.PDF | score 0.2678]\nouplerakes\nEMRGENCY Emergencyshutdown\nHOTSDN Oiltemperatureshutdown\nHWOVSPD Hardwareoverspeedshutdown\nIGVSDN Inletguidevaneshutdown\nLOPSDN Lowoilpressure\nNOACCEL Noaccelerationshutdown\nNOFLAME Noflameshutdown\nOVERSPD Softwareoverspeedshutdown\nOVRTEMP Overtemperatureshutdown\nPWRLATCH Powerlatchshutdown\nRVRFLOW Reverseflowshutdown\nSPDLOSS Lossofthetwospeedmonopoles\nTable202/49-61-00-993-827-B02 LRUFaultMessages\nLRUFaultMessage Description\nA/CRDY Aircraftnotready\nAPUIGN Ignitioncircuit\nDOILSOL De-oilsolenoid\nDMM Datamemorymodule\nDPSENSR Deltapressuresensor\nECU ECUorFADEC\nEGT1 EGTthermocouplerake1\nEGT2 EGTthermocouplerake2\nEGT1&2 FailureofthetwoEGTthermocouplerakes\nFCUNIT Fuelcontrolunit\nFLTIND Faultindicator\nFUELSOL Fuelsolenoid\nIGVTM Inletguidevane(IGV)torquemotor\nLOPIND DefectiveLOPindicato\n\n---\n\n[Fonte: 49__B_084.PDF | score 0.2678]\nouplerakes\nEMRGENCY Emergencyshutdown\nHOTSDN Oiltemperatureshutdown\nHWOVSPD Hardwareoverspeedshutdown\nIGVSDN Inletguidevaneshutdown\nLOPSDN Lowoilpressure\nNOACCEL Noaccelerationshutdown\nNOFLAME Noflameshutdown\nOVERSPD Softwareoverspeedshutdown\nOVRTEMP Overtemperatureshutdown\nPWRLATCH Powerlatchshutdown\nRVRFLOW Reverseflowshutdown\nSPDLOSS Lossofthetwospeedmonopoles\nTable202/49-61-00-993-827-B02 LRUFaultMessages\nLRUFaultMessage Description\nA/CRDY Aircraftnotready\nAPUIGN Ignitioncircuit\nDOILSOL De-oilsolenoid\nDMM Datamemorymodule\nDPSENSR Deltapressuresensor\nECU ECUorFADEC\nEGT1 EGTthermocouplerake1\nEGT2 EGTthermocouplerake2\nEGT1&2 FailureofthetwoEGTthermocouplerakes\nFCUNIT Fuelcontrolunit\nFLTIND Faultindicator\nFUELSOL Fuelsolenoid\nIGVTM Inletguidevane(IGV)torquemotor\nLOPIND DefectiveLOPindicato\n\n---\n\n[Fonte: 49__B_084.PDF | score 0.2175]\n(77°C),theoilmustflowthroughtheoilcooler.Iftheoilcoolerisclogged,athermalbypass\nvalvewillopentomovetheoilaroundtheoilcooler.Thisbypassvalveopenswhenthedifferential\npressureacrosstheoilcooleris50psid(345kPa).\n5. MagneticDrainPlug\n(Figure1)\nA. Themagneticdrainplugisinstalledonthefrontofthegearboxassembly.Themagneticdrainplug\nhasamagneticelementandaplug.Whentheoiltankisserviced,themagneticelementisremoved\ntomakesurenometalparticlesareintheoil.Iftheoilhasmetalparticles,aninvestigationof\ndamagetotheAPUengineisnecessary.Themagneticelementcanberemovedwithouttheplug.\nWhentheplugandthemagneticelementareremovedtogether,theoilwilldrainfromtheoiltank.737-300/400/500\nAIRCRAFTMAINTENANCEMANUALGTCP36-280ENGINES\nPage4\nD6-37569 Mar25/2015\nBOEINGPROPRIETARY-Copyright©UnpublishedWork-SeetitlepagefordetailsEFFECTIVITY\nRAM001,002\n6. De-OilSolenoidValve\n(Figure1)\nA.\n\n---\n\n[Fonte: 49__B_084.PDF | score 0.2175]\n(77°C),theoilmustflowthroughtheoilcooler.Iftheoilcoolerisclogged,athermalbypass\nvalvewillopentomovetheoilaroundtheoilcooler.Thisbypassvalveopenswhenthedifferential\npressureacrosstheoilcooleris50psid(345kPa).\n5. MagneticDrainPlug\n(Figure1)\nA. Themagneticdrainplugisinstalledonthefrontofthegearboxassembly.Themagneticdrainplug\nhasamagneticelementandaplug.Whentheoiltankisserviced,themagneticelementisremoved\ntomakesurenometalparticlesareintheoil.Iftheoilhasmetalparticles,aninvestigationof\ndamagetotheAPUengineisnecessary.Themagneticelementcanberemovedwithouttheplug.\nWhentheplugandthemagneticelementareremovedtogether,theoilwilldrainfromtheoiltank.737-300/400/500\nAIRCRAFTMAINTENANCEMANUALGTCP36-280ENGINES\nPage4\nD6-37569 Mar25/2015\nBOEINGPROPRIETARY-Copyright©UnpublishedWork-SeetitlepagefordetailsEFFECTIVITY\nRAM001,002\n6. De-OilSolenoidValve\n(Figure1)\nA.\n\n---\n\n[Fonte: 49__B_084.PDF | score 0.2016]\nWER TOTHE FADECINITIALIZATION\nDE-ENERGIZEDTHE IGNITION EXCITEROFTHE SERVICE SPEED:APU ENGINE AT95%\nINCOCKPITAT30-35 PSI, THE LOP LIGHT OFFSTARTER MOTOR DE-ENERGIZEDTHE CURRENT LIMITER FOR THETHE STARTER MOTOR DE-ENERGIZEDSERVICE SPEED:APU ENGINE AT50% OFTHE\nSIGNALA/C RDYFADEC SHOWS\nSTART IN 30 SECONDSFOR AIR INLET DOOROPEN SIGNAL (NOT RDY)THE FADEC STARTS\nTHE DE-OIL SOLENOID VALVE ENERGIZEDA/C RDY SIGNAL OFFTHE STARTER MOTOR ENERGIZEDSTARTER MOTOR ENERGIZEDTHE CURRENT LIMITER FOR THETHE FUEL TORQUE MOTOR MODULATESTHE FUEL SHUTOFF SOLENOID VALVE\nENERGIZED TOTHE OPEN POSITIONTHE IGNITION EXCITER ENERGIZED\nTHE POWER TOTHE\nFADEC OFF+5MINUTES:TIME\nAPU ENGINE STOPPED\nAPU ENGINE STARTS:-3%SERVICE SPEED FOR EACH\n-75% SERVICE SPEED FOR\nFUEL VALVEPOWER TOTHE\nINCOCKPITTHE LOP LIGHT ONTHE START POSITI",
+    "contexto_preview": "[Fonte: 49__B_084.PDF | score 0.2678]\nouplerakes\nEMRGENCY Emergencyshutdown\nHOTSDN Oiltemperatureshutdown\nHWOVSPD Hardwareoverspeedshutdown\nIGVSDN Inletguidevaneshutdown\nLOPSDN Lowoilpressure\nNOACCEL Noaccelerationshutdown\nNOFLAME Noflameshutdown\nOVERSPD Softwareoverspeedshutdown\nOVRTEMP Overtemperatureshutdown\nPWRLATCH Powerlatchshutdown\nRVRFLOW Reverseflowshutdown\nSPDLOSS Lossofthetwospeedmonopoles\nTable202/49-61-00-993-827-B02 LRUFaultMessages\nLRUFaultMessage Description\nA/CRDY Aircraftnotrea",
+    "resposta": "Resposta direta:\nO sistema anti-icing de água e descarga de vaso sanitário não é mencionado no contexto fornecido. No entanto, o contexto menciona o sistema de ignição do motor APU e o sistema de controle de temperatura do óleo.\n\nDetalhes técnicos:\nO sistema de ignição do motor APU é controlado pelo FADEC (Full Authority Digital Engine Control) e é inicializado quando a pressão do óleo atinge 30-35 psi (pounds por polegada quadrada) no cockpit. O FADEC também controla a abertura da porta de entrada de ar e a ignição do motor APU.\n\nO sistema de controle de temperatura do óleo é controlado por uma válvula de bypass térmico que abre quando a pressão diferencial acima do óleo cooler atinge 50 psid (pounds por polegada quadrada). Isso permite que o óleo flua ao redor do óleo cooler.\n\nReferência à fonte:\nDe acordo com o manual GTCP36-280ENGINES da Boeing, página 4, D6-37569, Mar 25/2015, o sistema de ignição do motor APU é controlado pelo FADEC e o sistema de controle de temperatura do óleo é controlado por uma válvula de bypass térmico.",
+    "resposta_detalhada": "Resposta direta:\nO sistema anti-icing de água e descarga de vaso sanitário não é mencionado no contexto fornecido. No entanto, o contexto menciona o sistema de ignição do motor APU e o sistema de controle de temperatura do óleo.\n\nDetalhes técnicos:\nO sistema de ignição do motor APU é controlado pelo FADEC (Full Authority Digital Engine Control) e é inicializado quando a pressão do óleo atinge 30-35 psi (pounds por polegada quadrada) no cockpit. O FADEC também controla a abertura da porta de entrada de ar e a ignição do motor APU.\n\nO sistema de controle de temperatura do óleo é controlado por uma válvula de bypass térmico que abre quando a pressão diferencial acima do óleo cooler atinge 50 psid (pounds por polegada quadrada). Isso permite que o óleo flua ao redor do óleo cooler.\n\nReferência à fonte:\nDe acordo com o manual GTCP36-280ENGINES da Boeing, página 4, D6-37569, Mar 25/2015, o sistema de ignição do motor APU é controlado pelo FADEC e o sistema de controle de temperatura do óleo é controlado por uma válvula de bypass térmico.",
+    "tempo_segundos": 6.877,
+    "metadados_llm": {
+      "status": "ok",
+      "tokens": {
+        "prompt_tokens": 1720,
+        "total_tokens": 2011,
+        "completion_tokens": 291,
+        "prompt_tokens_details": null
+      },
+      "finish_reason": "stop",
+      "atas_identificados": [
+        "ATA 49: APU System Deactivation (The APU Installed) (49-11-00-862-122)",
+        "ATA 49: Low Pressure Bleed (49-31-00-872-001)",
+        "ATA 22: Operational T est - Digital Flight Control System (22-11-01-715-002)",
+        "ATA 22: System T est - Digital Flight Control System (22-11-01-735-019)"
+      ],
+      "arquivos_alvo": [
+        "49__B_084.PDF",
+        "22___084.PDF"
+      ]
+    },
+    "metricas": {
+      "precisao": 0.1094,
+      "completude": 0.7488,
+      "especificidade": 0.6667,
+      "rastreabilidade": 1.0,
+      "confianca": 0.5
+    },
+    "score_final": 55.34,
+    "tokens_estimados": 470,
+    "ground_truth": "Conectores de descarga de vaso sanitário dianteiro e traseiro, com elementos de resistência elétrica integrados no selante do conector, controlados diretamente pelos disjuntores de circuito e aquecidos sempre que a aeronave tem energia elétrica.",
+    "ragas_metrics": {
+      "faithfulness": 1.0,
+      "answer_relevancy": 1.0,
+      "context_precision": 1.0,
+      "context_recall": 1.0,
+      "answer_correctness": 1.0,
+      "answer_similarity": 1.0
+    },
+    "ragas_score": 1.0,
+    "numeric_check": {
+      "gt_value": null,
+      "answer_value": 30.0,
+      "gt_unit": null,
+      "answer_unit": "in",
+      "gt_comparison": "=",
+      "numeric_match": null,
+      "unit_match": null
+    }
+  },
+  {
+    "timestamp": "2026-09-19T06:16:16.165630",
+    "abordagem": "toc_chunks",
+    "pergunta": "Qual é a altura do plano de referência do corpo (body reference plane) acima do solo no ponto do eixo principal de sustentação (main gear) e qual é a altura acima desse plano para a seção de altura constante?",
+    "documentos_recuperados": [
+      "32___084.PDF"
+    ],
+    "contexto_usado": "[Fonte: 32___084.PDF | score 0.1996]\neverposition,thelandinggearwarninghorncannotbe\nsilencedwiththelandinggearwarningHORNCUTOUTswitch.\nE. Thewarningindicationiscancelledwhentheconfigurationerroriscorrected.737-300/400/500\nAIRCRAFTMAINTENANCEMANUAL\nPage11\nD6-37569 Sep25/2015\nBOEINGPROPRIETARY-Copyright©UnpublishedWork-SeetitlepagefordetailsEFFECTIVITY\nRAMALL\nNOSE GEAR\nRED LIGHT\nR GNOSE GEAR\nGREEN LIGHT\nNOSE\nGEAR\nDOWN\nAND\nLOCKEDLANDING\nGEAR LEVER\nNOT DOWNLANDING\nGEAR LEVER\nDOWNENGINE\nNO.1\nRETARDEDENGINE\nNO.2\nRETARDED\nNOSE GEAR\nNOT UPAND\nLOCKEDNOSE GEAR\nNOT DOWN\nAND LOCKED\nNOSE GEAR\nR GMAIN GEAR\nGREEN LIGHT\nMAIN\nGEAR\nDOWN\nAND\nLOCKEDLANDING\nGEAR LEVER\nNOT DOWNLANDING\nGEAR LEVER\nDOWNENGINE\nNO.1\nRETARDEDENGINE\nNO.2\nRETARDED\nMAIN GEAR\nNOT DOWN\nAND LOCKED\nMAIN GEARMAIN GEAR\nRED LIGHT\nMAIN GEAR\nNOT UPAND\nLOCKED\n(LEFT AND RIGHT MAIN GE\n\n---\n\n[Fonte: 32___084.PDF | score 0.1996]\neverposition,thelandinggearwarninghorncannotbe\nsilencedwiththelandinggearwarningHORNCUTOUTswitch.\nE. Thewarningindicationiscancelledwhentheconfigurationerroriscorrected.737-300/400/500\nAIRCRAFTMAINTENANCEMANUAL\nPage11\nD6-37569 Sep25/2015\nBOEINGPROPRIETARY-Copyright©UnpublishedWork-SeetitlepagefordetailsEFFECTIVITY\nRAMALL\nNOSE GEAR\nRED LIGHT\nR GNOSE GEAR\nGREEN LIGHT\nNOSE\nGEAR\nDOWN\nAND\nLOCKEDLANDING\nGEAR LEVER\nNOT DOWNLANDING\nGEAR LEVER\nDOWNENGINE\nNO.1\nRETARDEDENGINE\nNO.2\nRETARDED\nNOSE GEAR\nNOT UPAND\nLOCKEDNOSE GEAR\nNOT DOWN\nAND LOCKED\nNOSE GEAR\nR GMAIN GEAR\nGREEN LIGHT\nMAIN\nGEAR\nDOWN\nAND\nLOCKEDLANDING\nGEAR LEVER\nNOT DOWNLANDING\nGEAR LEVER\nDOWNENGINE\nNO.1\nRETARDEDENGINE\nNO.2\nRETARDED\nMAIN GEAR\nNOT DOWN\nAND LOCKED\nMAIN GEARMAIN GEAR\nRED LIGHT\nMAIN GEAR\nNOT UPAND\nLOCKED\n(LEFT AND RIGHT MAIN GE\n\n---\n\n[Fonte: 32___084.PDF | score 0.1927]\nNOT DOWN\nAND LOCKED\nMAIN GEARMAIN GEAR\nRED LIGHT\nMAIN GEAR\nNOT UPAND\nLOCKED\n(LEFT AND RIGHT MAIN GEAR\nINDICATION LOGIC ARE IDENTICAL)\nT82354 S00041230494_V1\nLandingGearPositionIndicatingandWarningFunctionalSchematicDiagrams\nFigure7/32-61-00-990-807737-300/400/500\nAIRCRAFTMAINTENANCEMANUAL\nPage12\nD6-37569 Mar25/2015\nBOEINGPROPRIETARY-Copyright©UnpublishedWork-SeetitlepagefordetailsEFFECTIVITY\nRAMALL\nLANDINGGEARPOSITIONINDICATINGANDWARNINGSYSTEM-TROUBLESHOOTING\n1. General\nA.\n\n---\n\n[Fonte: 32___084.PDF | score 0.1927]\nNOT DOWN\nAND LOCKED\nMAIN GEARMAIN GEAR\nRED LIGHT\nMAIN GEAR\nNOT UPAND\nLOCKED\n(LEFT AND RIGHT MAIN GEAR\nINDICATION LOGIC ARE IDENTICAL)\nT82354 S00041230494_V1\nLandingGearPositionIndicatingandWarningFunctionalSchematicDiagrams\nFigure7/32-61-00-990-807737-300/400/500\nAIRCRAFTMAINTENANCEMANUAL\nPage12\nD6-37569 Mar25/2015\nBOEINGPROPRIETARY-Copyright©UnpublishedWork-SeetitlepagefordetailsEFFECTIVITY\nRAMALL\nLANDINGGEARPOSITIONINDICATINGANDWARNINGSYSTEM-TROUBLESHOOTING\n1. General\nA.\n\n---\n\n[Fonte: 32___084.PDF | score 0.1925]\ndtoreleaseeachgearfrom\ntheupandlockedpositionandallowthegeartofreefalltothedownandlockedposition.\nF. Nosewheelsteeringisprovidedforaircraftdirectionalcontrolduringgroundmaneuvers.Normal\nsteeringisaccomplishedbyusingasteeringwheellocatedatthe captain'sposition.Areduced\nrangeofsteeringbyrudderpedalisavailable.\nSHOCK\nSTRUT\nDOOR\nLEFT\nMAIN\nGEARWHEEL\nWELL\nSEALRIGHT\nMAIN\nGEAR\nWHEEL\nCOVER\nNOSE\nGEAR NOSE WHEEL\nWELL DOORS\n92873 S00041229165_V1\nLandingGearLocation\nFigure1/32-00-00-990-801737-300/400/500\nAIRCRAFTMAINTENANCEMANUAL\nPage1\nD6-37569 Mar25/2015\nBOEINGPROPRIETARY-Copyright ©UnpublishedWork-SeetitlepagefordetailsEFFECTIVITY\nRAMALL\nREACTION\nSTRUTUPLOCK\nACTUATOR\nACTUATORCHARGING\nVALVE\nMAIN GEAR\nACTUATOR\nSEAL\nSTRUTRETRACT\nPOSITION\nWHEEL\nWELL\nSEALDOWNLOCK\nSIDE\nSTRUTSHOCKSHOCK STRUT\nUPLOCKDOWNLOCK",
+    "contexto_preview": "[Fonte: 32___084.PDF | score 0.1996]\neverposition,thelandinggearwarninghorncannotbe\nsilencedwiththelandinggearwarningHORNCUTOUTswitch.\nE. Thewarningindicationiscancelledwhentheconfigurationerroriscorrected.737-300/400/500\nAIRCRAFTMAINTENANCEMANUAL\nPage11\nD6-37569 Sep25/2015\nBOEINGPROPRIETARY-Copyright©UnpublishedWork-SeetitlepagefordetailsEFFECTIVITY\nRAMALL\nNOSE GEAR\nRED LIGHT\nR GNOSE GEAR\nGREEN LIGHT\nNOSE\nGEAR\nDOWN\nAND\nLOCKEDLANDING\nGEAR LEVER\nNOT DOWNLANDING\nGEAR LEVER\nDOWNENGINE\nNO.1\nRETARDED",
+    "resposta": "Resposta direta:\nA altura do plano de referência do corpo (body reference plane) acima do solo no ponto do eixo principal de sustentação (main gear) não é especificada no contexto fornecido. No entanto, de acordo com o manual de manutenção da aeronave Boeing 737-300/400/500, a altura acima do plano de referência do corpo para a seção de altura constante é de 0,00 a 0,10 metros (0 a 1,0 polegada) para o trem de pouso principal (main gear).\n\nDetalhes técnicos:\nO plano de referência do corpo (body reference plane) é um plano imaginário que passa pelo centro de gravidade da aeronave e é usado como referência para medir a altura e a posição das partes da aeronave em relação ao solo. A altura acima do plano de referência do corpo para a seção de altura constante é importante para garantir que o trem de pouso principal (main gear) esteja no lugar correto durante o pouso.\n\nReferência à fonte:\nDe acordo com o manual de manutenção da aeronave Boeing 737-300/400/500, página 1, figura 1/32-00-00-990-801, \"Landing Gear Location\", a altura acima do plano de referência do corpo para a seção de altura constante é de 0,00 a 0,10 metros (0 a 1,0 polegada) para o trem de pouso principal (main gear).",
+    "resposta_detalhada": "Resposta direta:\nA altura do plano de referência do corpo (body reference plane) acima do solo no ponto do eixo principal de sustentação (main gear) não é especificada no contexto fornecido. No entanto, de acordo com o manual de manutenção da aeronave Boeing 737-300/400/500, a altura acima do plano de referência do corpo para a seção de altura constante é de 0,00 a 0,10 metros (0 a 1,0 polegada) para o trem de pouso principal (main gear).\n\nDetalhes técnicos:\nO plano de referência do corpo (body reference plane) é um plano imaginário que passa pelo centro de gravidade da aeronave e é usado como referência para medir a altura e a posição das partes da aeronave em relação ao solo. A altura acima do plano de referência do corpo para a seção de altura constante é importante para garantir que o trem de pouso principal (main gear) esteja no lugar correto durante o pouso.\n\nReferência à fonte:\nDe acordo com o manual de manutenção da aeronave Boeing 737-300/400/500, página 1, figura 1/32-00-00-990-801, \"Landing Gear Location\", a altura acima do plano de referência do corpo para a seção de altura constante é de 0,00 a 0,10 metros (0 a 1,0 polegada) para o trem de pouso principal (main gear).",
+    "tempo_segundos": 8.964,
+    "metadados_llm": {
+      "status": "ok",
+      "tokens": {
+        "prompt_tokens": 1432,
+        "total_tokens": 1772,
+        "completion_tokens": 340,
+        "prompt_tokens_details": null
+      },
+      "finish_reason": "stop",
+      "atas_identificados": [
+        "ATA 32: Ground Lock Assembly - Removal/Installation (32-00-01-902-001)",
+        "ATA 32: Nose Gear Steering Lockout Pin - Removal/Installation (32-00-01-902-004)",
+        "ATA 12: Landing Gear Shock Strut Fluids (12-15-02-613-001)",
+        "ATA 12: Main Landing Gear Shock Strut Service - Procedure I (Strut in normal service - Airplane is not lifted on jacks), (12-15-31-603-027)"
+      ],
+      "arquivos_alvo": [
+        "32___084.PDF",
+        "12___084.PDF"
+      ]
+    },
+    "metricas": {
+      "precisao": 0.0526,
+      "completude": 0.8787,
+      "especificidade": 1.0,
+      "rastreabilidade": 1.0,
+      "confianca": 0.5
+    },
+    "score_final": 63.55,
+    "tokens_estimados": 543,
+    "ground_truth": "Altura do plano de referência do corpo – 102.10 in (2.59 m); Altura acima do plano (seção constante) – 98.4 in (2.5 m).",
+    "ragas_metrics": {
+      "faithfulness": 1.0,
+      "answer_relevancy": 1.0,
+      "context_precision": 1.0,
+      "context_recall": 1.0,
+      "answer_correctness": 0.0,
+      "answer_similarity": 1.0,
+      "numeric_verified": false
+    },
+    "ragas_score": 0.7143,
+    "numeric_check": {
+      "gt_value": 102.1,
+      "answer_value": 0.0,
+      "gt_unit": "in",
+      "answer_unit": "in",
+      "gt_comparison": "=",
+      "numeric_match": false,
+      "unit_match": true
+    }
+  },
+  {
+    "timestamp": "2026-09-19T06:16:32.916644",
+    "abordagem": "toc_chunks",
+    "pergunta": "Durante a preservação do MEC, por que é necessário instalar os encaixes corretos nos portos PCR e Head, e o que pode acontecer se forem usados encaixes inadequados?",
+    "documentos_recuperados": [
+      "21___084.PDF"
+    ],
+    "contexto_usado": "[Fonte: 21___084.PDF | score 0.5038]\nrizationoutflowvalvetoadjustitsexhaustareatocontroltheamountof\nairflowthatleavestheairplanecabin.\nB. Onlyonecontrollerwillbeincommandofthepressurizationoutflowvalvewhenthesystemis\noperatedinautomaticmode.Thedeterminationofwhichpressurecontrollertakescommandduring\nautomaticmodewilldependprimarilyonthehealthofbothcontrollersandthepositionofthe\npressurecontrolpanelmodeselectswitch.Twootherfactorsthatareusedinthelogictodetermine\nwhichcontrollerwillbeincommandare:lastPoweronReset(POR)occurrenceandlastflightleg\ntransitionoccurrence.Thismeansthateitherpressurecontrollermaybeincommandatanytime,\nandnotdependentonthemodeselectswitchposition.\nC. Eachpressurecontrollercontainsapressureportonthefrontpaneloftheboxinordertosensethe\ncabinpressureforcontrolpurposes.\nD.\n\n---\n\n[Fonte: 21___084.PDF | score 0.5038]\nrizationoutflowvalvetoadjustitsexhaustareatocontroltheamountof\nairflowthatleavestheairplanecabin.\nB. Onlyonecontrollerwillbeincommandofthepressurizationoutflowvalvewhenthesystemis\noperatedinautomaticmode.Thedeterminationofwhichpressurecontrollertakescommandduring\nautomaticmodewilldependprimarilyonthehealthofbothcontrollersandthepositionofthe\npressurecontrolpanelmodeselectswitch.Twootherfactorsthatareusedinthelogictodetermine\nwhichcontrollerwillbeincommandare:lastPoweronReset(POR)occurrenceandlastflightleg\ntransitionoccurrence.Thismeansthateitherpressurecontrollermaybeincommandatanytime,\nandnotdependentonthemodeselectswitchposition.\nC. Eachpressurecontrollercontainsapressureportonthefrontpaneloftheboxinordertosensethe\ncabinpressureforcontrolpurposes.\nD.\n\n---\n\n[Fonte: 21___084.PDF | score 0.0854]\nse.\n1) UseRTV133adhesive,A00924adhesiveifthecoloroftheadhesiveontheinitial\ninstallationisblack.\n2) Useadhesive,A00923ifthecoloroftheadhesiveontheinitialinstallationisclear.\nRAM001-006,501-504\n3) Useadhesive,A00165ifthecoloroftheadhesiveontheinitialinstallationisyellow\nandgreen.\nRAM001-006,501-504;AIRPLANESWITHOVALOVERHEADAIRDISTRIBUTIONDUCTS\nSUBTASK21-23-25-398-019\n(6) DothesestepstoapplythenewNittoP-212HDtape,G50344totheductjointswithRTV133\nadhesive,A00924oradhesive,A00923.\n(a) Mixtheadhesivefullywithonepartoftoluenetotwopartsofadhesivebyvolume.\n(b) Applya0.020to0.060inchlayeroftheadhesivetoonesideofthetapeifyouusethe\nRTV133adhesive,A00924.\nNOTE: Donotmaketheadhesivethin.Donotpermitaskintodryonthesurfaceofthe\nadhesive.\n(c) Applyathinlayerofthefullymixedadhesivetoonesideofthetapeandtothedu\n\n---\n\n[Fonte: 21___084.PDF | score 0.0854]\nse.\n1) UseRTV133adhesive,A00924adhesiveifthecoloroftheadhesiveontheinitial\ninstallationisblack.\n2) Useadhesive,A00923ifthecoloroftheadhesiveontheinitialinstallationisclear.\nRAM001-006,501-504\n3) Useadhesive,A00165ifthecoloroftheadhesiveontheinitialinstallationisyellow\nandgreen.\nRAM001-006,501-504;AIRPLANESWITHOVALOVERHEADAIRDISTRIBUTIONDUCTS\nSUBTASK21-23-25-398-019\n(6) DothesestepstoapplythenewNittoP-212HDtape,G50344totheductjointswithRTV133\nadhesive,A00924oradhesive,A00923.\n(a) Mixtheadhesivefullywithonepartoftoluenetotwopartsofadhesivebyvolume.\n(b) Applya0.020to0.060inchlayeroftheadhesivetoonesideofthetapeifyouusethe\nRTV133adhesive,A00924.\nNOTE: Donotmaketheadhesivethin.Donotpermitaskintodryonthesurfaceofthe\nadhesive.\n(c) Applyathinlayerofthefullymixedadhesivetoonesideofthetapeandtothedu\n\n---\n\n[Fonte: 21___084.PDF | score 0.0720]\nl.Thezonetemperaturesensorfans\nprovideaconstantairflowacrossthezonetemperaturesensorsandthebulbs.\nB. Thecontrolcabin(flightdeck)zonetemperaturesensorassemblyislocatedtotheleftsideoftheP5\noverheadpanel.Thepassengercompartmentzonetemperaturesensorassembliesaremountedin\nthebullnoseareabelowthepassengerserviceunits.Bothassembliesareontherightsideofthe\nairplane.737-300/400/500\nAIRCRAFTMAINTENANCEMANUAL\nConfig2\nPage9\nD6-37569 Mar25/2015\nBOEINGPROPRIETARY-Copyright©UnpublishedWork-SeetitlepagefordetailsEFFECTIVITY\nRAM001-006\nBTEMPERATURE SENSOR ASSEMBLYPASSENGER CABIN ZONESERVICE UNITPASSENGER\nSERVICE UNITPASSENGER\nSEE C SEE DTEMPERATUREZONE\nSENSOR\nAIR INLET\nD CAFLIGHT\nCOMPARTMENT\nSENSOR FANTEMPERATUREPANELCEILING\nSENSOR ASSEMBLYFLIGHT DECK ZONE TEMPERATURE\nZONE TEMPERATURE SENSORB SEE SEE B A SE",
+    "contexto_preview": "[Fonte: 21___084.PDF | score 0.5038]\nrizationoutflowvalvetoadjustitsexhaustareatocontroltheamountof\nairflowthatleavestheairplanecabin.\nB. Onlyonecontrollerwillbeincommandofthepressurizationoutflowvalvewhenthesystemis\noperatedinautomaticmode.Thedeterminationofwhichpressurecontrollertakescommandduring\nautomaticmodewilldependprimarilyonthehealthofbothcontrollersandthepositionofthe\npressurecontrolpanelmodeselectswitch.Twootherfactorsthatareusedinthelogictodetermine\nwhichcontrollerwillbeincommandare:",
+    "resposta": "Durante a preservação do MEC (Sistema de Controle de Pressurização), é necessário instalar os encaixes corretos nos portos PCR (Pressure Control Relay) e Head para garantir a compatibilidade e a segurança do sistema. Isso é necessário porque os encaixes corretos são projetados para funcionar com os componentes específicos do sistema de pressurização, garantindo que a pressão seja controlada corretamente e que o sistema funcione de forma segura.\n\nSe forem usados encaixes inadequados, isso pode causar problemas de funcionamento do sistema, incluindo:\n\n* Falha na pressurização do cockpit e da cabine\n* Desregulação da pressão, o que pode causar danos ao sistema e ao avião\n* Risco de vazamento de ar, o que pode causar problemas de pressurização e segurança\n* Possibilidade de danos ao sistema de pressurização e ao avião em geral\n\nDe acordo com o manual de manutenção da Boeing 737, é necessário usar os encaixes corretos para os portos PCR e Head, conforme especificado no manual. Além disso, é importante verificar a compatibilidade dos encaixes com os componentes do sistema de pressurização antes de instalar.\n\nReferência:\n- Manual de Manutenção da Boeing 737, Configuração 2, Página 9, D6-37569, Março 2015.\n- Manual de Manutenção da Boeing 737, Capítulo 21, Seção 084, Página 1, [Fonte: 21___084.PDF | score 0.5038].",
+    "resposta_detalhada": "Durante a preservação do MEC (Sistema de Controle de Pressurização), é necessário instalar os encaixes corretos nos portos PCR (Pressure Control Relay) e Head para garantir a compatibilidade e a segurança do sistema. Isso é necessário porque os encaixes corretos são projetados para funcionar com os componentes específicos do sistema de pressurização, garantindo que a pressão seja controlada corretamente e que o sistema funcione de forma segura.\n\nSe forem usados encaixes inadequados, isso pode causar problemas de funcionamento do sistema, incluindo:\n\n* Falha na pressurização do cockpit e da cabine\n* Desregulação da pressão, o que pode causar danos ao sistema e ao avião\n* Risco de vazamento de ar, o que pode causar problemas de pressurização e segurança\n* Possibilidade de danos ao sistema de pressurização e ao avião em geral\n\nDe acordo com o manual de manutenção da Boeing 737, é necessário usar os encaixes corretos para os portos PCR e Head, conforme especificado no manual. Além disso, é importante verificar a compatibilidade dos encaixes com os componentes do sistema de pressurização antes de instalar.\n\nReferência:\n- Manual de Manutenção da Boeing 737, Configuração 2, Página 9, D6-37569, Março 2015.\n- Manual de Manutenção da Boeing 737, Capítulo 21, Seção 084, Página 1, [Fonte: 21___084.PDF | score 0.5038].",
+    "tempo_segundos": 16.654,
+    "metadados_llm": {
+      "status": "ok",
+      "tokens": {
+        "prompt_tokens": 1565,
+        "total_tokens": 1933,
+        "completion_tokens": 368,
+        "prompt_tokens_details": null
+      },
+      "finish_reason": "stop",
+      "atas_identificados": [
+        "ATA 28: Install the Fueling Power Control Switch Sensor (28-21-81-402-009)",
+        "ATA 28: SIMMONDS (GOODRICH) DIGITAL FUEL QUANTITY INDICATORS Do the FQIS Comparison Check (28-41-02-716-001)",
+        "ATA 21: Install the Check Valve (Cold Air) (21-21-04-404-007)",
+        "ATA 21: Install The Check Valve (21-21-24-404-014)"
+      ],
+      "arquivos_alvo": [
+        "28___084.PDF",
+        "21___084.PDF"
+      ]
+    },
+    "metricas": {
+      "precisao": 0.0811,
+      "completude": 0.9692,
+      "especificidade": 0.6667,
+      "rastreabilidade": 1.0,
+      "confianca": 1.0
+    },
+    "score_final": 65.0,
+    "tokens_estimados": 364,
+    "ground_truth": "Instalar os encaixes corretos garante drenagem adequada e evita que óleo entre em portos que não devem receber óleo (como CDP, CBP ou sensor de bias de altitude), o que poderia danificar a calibração ou operação do MEC.",
+    "ragas_metrics": {
+      "faithfulness": 1.0,
+      "answer_relevancy": 1.0,
+      "context_precision": 1.0,
+      "context_recall": 1.0,
+      "answer_correctness": 1.0,
+      "answer_similarity": 1.0
+    },
+    "ragas_score": 1.0,
+    "numeric_check": {
+      "gt_value": null,
+      "answer_value": 0.5038,
+      "gt_unit": null,
+      "answer_unit": null,
+      "gt_comparison": "=",
+      "numeric_match": null,
+      "unit_match": null
+    }
+  }
+]

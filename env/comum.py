@@ -321,12 +321,15 @@ def criar_registro_auditoria(
         "abordagem": abordagem,
         "pergunta": pergunta,
         "documentos_recuperados": documentos,
-        "contexto_usado": contexto[:500],
+        "contexto_usado": contexto,
+        "contexto_preview": contexto[:500],
         "resposta": resposta,
+        "resposta_detalhada": resposta,
         "tempo_segundos": round(tempo, 3),
         "metadados_llm": metadados,
         "metricas": metricas,
         "score_final": score_final(metricas),
+        "tokens_estimados": len(contexto.split()) + len(resposta.split()),
     }
 
 
@@ -334,7 +337,7 @@ def salvar_resultados_csv(
     abordagem: str, registros: List[Dict]
 ) -> Path:
     """Salva os registros de uma abordagem em CSV."""
-    caminho = config.RESULTADOS_DIR / f"resultados_{abordagem}.csv"
+    caminho = config.RESULTADOS_DIR / f"resultados_{abordagem}_{config.TIMESTAMP}.csv"
     colunas = [
         "timestamp", "abordagem", "pergunta", "documentos_recuperados",
         "resposta", "tempo_segundos",
@@ -365,7 +368,7 @@ def salvar_resultados_csv(
 
 def salvar_registros_json(abordagem: str, registros: List[Dict]) -> Path:
     """Salva os registros completos (JSON) para auditoria detalhada."""
-    caminho = config.RESULTADOS_DIR / f"auditoria_{abordagem}.json"
+    caminho = config.RESULTADOS_DIR / f"auditoria_{abordagem}_{config.TIMESTAMP}.json"
     with open(caminho, "w", encoding="utf-8") as f:
         json.dump(registros, f, ensure_ascii=False, indent=2)
     return caminho
@@ -381,7 +384,7 @@ def gerar_relatorio_consolidado(todos_registros: Dict[str, List[Dict]]) -> Path:
 
     todos_registros: {"tfidf": [registros], "llm_puro": [...], ...}
     """
-    caminho = config.RESULTADOS_DIR / "comparativo_abordagens.csv"
+    caminho = config.RESULTADOS_DIR / f"comparativo_abordagens_{config.TIMESTAMP}.csv"
     colunas = [
         "pergunta", "abordagem", "tempo_segundos",
         "precisao", "completude", "especificidade",
@@ -409,7 +412,7 @@ def gerar_relatorio_consolidado(todos_registros: Dict[str, List[Dict]]) -> Path:
 
 def gerar_resumo_estatistico(todos_registros: Dict[str, List[Dict]]) -> Path:
     """Gera um resumo estatístico em texto comparando as abordagens."""
-    caminho = config.RESULTADOS_DIR / "resumo_estatistico.txt"
+    caminho = config.RESULTADOS_DIR / f"resumo_estatistico_{config.TIMESTAMP}.txt"
     linhas = []
     linhas.append("=" * 70)
     linhas.append("RESUMO ESTATÍSTICO - COMPARAÇÃO DE ABORDAGENS")

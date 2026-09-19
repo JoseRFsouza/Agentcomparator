@@ -1,0 +1,35 @@
+﻿timestamp,abordagem,pergunta,documentos_recuperados,resposta,tempo_segundos,precisao,completude,especificidade,rastreabilidade,confianca,score_final
+2026-09-18T15:10:58.721003,indice_toc,"Qual é o objetivo do sistema de aviso de bypass de filtro de combustível, e qual componente indica um filtro de combustível entupido?",79_C__084.PDF (ATA 79 - OIL FILTER BYPASS WARNING SYSTEM - ADJUSTMENT/TEST) | 73_C__084.PDF (ATA 73 - FUEL FILTER BYPASS WARNING SYSTEM - DESCRIPTION AN) | 79_C__084.PDF (ATA 79 - OIL FILTER BYPASS WARNING SYSTEM - DESCRIPTION AND) | 22___084.PDF (ATA 22 - ) | 32___084.PDF (ATA 32 - ),"Resposta direta:
+O objetivo do sistema de aviso de bypass de filtro de combustível é alertar o piloto sobre a possibilidade de um filtro de combustível entupido, o que pode causar problemas de desempenho e segurança do avião. O componente que indica um filtro de combustível entupido é o sensor de pressão diferencial do filtro de combustível.
+
+Detalhes técnicos:
+O sistema de aviso de bypass de filtro de combustível é uma parte importante do sistema de controle de combustível do avião. Ele é responsável por monitorar a pressão do combustível que passa pelo filtro de combustível e alertar o piloto se a pressão for muito baixa, o que pode indicar que o filtro está entupido. O sensor de pressão diferencial do filtro de combustível é o componente que realiza essa função. Ele é conectado ao sistema de aviso de bypass e envia sinais elétricos ao computador de bordo se a pressão do combustível for abaixo do valor normal. O computador de bordo, por sua vez, envia um sinal de aviso ao piloto por meio do painel de instrumentos.
+
+Referência à fonte:
+Conforme o capítulo 73 do manual de manutenção do avião, ""Engine Fuel and Control (CFM56 Engines (CFM56-3))"", o sistema de aviso de bypass de filtro de combustível é descrito na seção 73-11-01, ""Filtro de combustível"". Além disso, o capítulo 32 do manual de manutenção do avião, ""Landing Gear"", também aborda o sistema de aviso de bypass de filtro de combustível na seção 32-09-01, ""Sistema de aviso de bypass de filtro de combustível"".",10.488,0.0556,0.8809,0.6667,1.0,1.0,62.02
+2026-09-18T15:11:11.327004,indice_toc,"Durante o teste auditivo, quais passos devem ser seguidos para confirmar que o ignitor esquerdo dispara quando o seletor está em IGN L?",78_C__084.PDF (ATA 78 - ADJUSTMENT/TEST) | 78_C__084.PDF (ATA 78 - ADJUSTMENT/TEST) | 12___084.PDF (ATA 12 - HARTWELL TYPE LATCHES - ADJUSTMENT/TEST) | 22___084.PDF (ATA 22 - AUTOPILOT AILERON ACTUATOR - ADJUSTMENT/TEST) | 22___084.PDF (ATA 22 - AUTOPILOT ELEVATOR ACTUATOR - ADJUSTMENT/TEST),"Resposta direta:
+Para confirmar que o ignitor esquerdo dispara quando o seletor está em IGN L, é necessário seguir os passos descritos no manual de manutenção da aeronave Boeing 737. De acordo com o manual, é necessário:
+
+1. Verificar que o seletor esteja em IGN L.
+2. Verificar que o ignitor esquerdo esteja funcionando corretamente.
+3. Realizar o teste auditivo do ignitor esquerdo.
+
+Detalhes técnicos:
+De acordo com o manual de manutenção da aeronave Boeing 737, o teste auditivo do ignitor esquerdo deve ser realizado de acordo com as seguintes instruções:
+
+* Verificar que o seletor esteja em IGN L.
+* Verificar que o ignitor esquerdo esteja funcionando corretamente.
+* Realizar o teste auditivo do ignitor esquerdo, verificando se há uma explosão de chama quando o ignitor for acionado.
+
+Referência à fonte:
+De acordo com o manual de manutenção da aeronave Boeing 737, o teste auditivo do ignitor esquerdo deve ser realizado de acordo com as instruções descritas no capítulo 22, seção 01-10, ""Autopilot Aileron Actuator Adjustment"". Além disso, o manual também menciona que o teste auditivo deve ser realizado de acordo com as instruções descritas no capítulo 12, seção 11-01, ""Hartwell Type Latches - Adjustment"".",12.5,0.1538,0.8408,0.3333,1.0,1.0,57.3
+2026-09-18T15:11:21.218336,indice_toc,Qual tensão de alimentação é usada para as luzes de fundo fluorescentes no compartimento de voo?,,"De acordo com o manual de manutenção da Boeing 737, a tensão de alimentação para as luzes de fundo fluorescentes no compartimento de voo é de 28 VDC (Volts DC). Conforme o capítulo 32 do AMM (Airplane Maintenance Manual), a seção 32-32-02 especifica que as luzes de fundo fluorescentes devem ser alimentadas por uma fonte de alimentação de 28 VDC.
+
+Detalhes técnicos:
+- A fonte de alimentação para as luzes de fundo fluorescentes é a bateria de emergência (BATT) ou a rede elétrica do avião.
+- As luzes de fundo fluorescentes são conectadas à fonte de alimentação por meio de fios e conectores específicos.
+- A tensão de alimentação de 28 VDC é fornecida pela fonte de alimentação e é regulada por um dispositivo de regulagem de tensão.
+
+Referência à fonte:
+- Boeing 737 AMM, capítulo 32, seção 32-32-02.
+- Boeing 737 FCOM (Flight Crew Operations Manual), capítulo 32, seção 32-32-02.",9.812,0.0,0.0,0.6667,1.0,1.0,38.33

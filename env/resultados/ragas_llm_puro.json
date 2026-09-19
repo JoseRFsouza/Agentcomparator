@@ -1,145 +1,153 @@
 [
   {
-    "timestamp": "2026-09-17T03:46:27.159238",
+    "timestamp": "2026-09-19T05:32:57.192356",
     "abordagem": "llm_puro",
-    "pergunta": "Qual é a distância em polegadas entre a BBL (Body Buttock Line) e a BWL 208.10 (topo da viga principal do piso) na aeronave 737‑300/400/500?",
+    "pergunta": "Até quais limites os resortes de suspensão da roda principal e da roda nariz devem ser estendidos ou retraídos durante um ajuste pequeno de nivelamento?",
     "documentos_recuperados": [
       "contexto_fixo_toc"
     ],
-    "contexto_usado": "Os seguintes capítulos estão disponíveis nos manuais Boeing 737:\n- ATA 05: TIME LIMITS/MAINTENANCE CHECKS - MAINTENANCE PRACTICES\n- ATA 06: DIMENSIONS AND AREAS - MAINTENANCE PRACTICES\n- ATA 07: LIFTING - DESCRIPTION AND OPERATION 07-10-00 1 RAM ALL LIFTING AIRPLANE FOR MAINTENANCE - DESCRIPTION AND OPERATION 07-11-00 1 RAM ALL\n- ATA 08: \n- ATA 09: \n- ATA 10: PARKING AND MOORING - DESCRIPTION AND OPERATION 10-00-00 1 RAM ALL\n- ATA 12: \n- ATA 20: NACELLE STRUT COMPONENT CLEARANCES - MAINTENANCE P",
-    "resposta": "De acordo com o manual ATA 06: DIMENSIONS AND AREAS - MAINTENANCE PRACTICES, a distância entre a BBL (Body Buttock Line) e a BWL 208.10 (topo da viga principal do piso) na aeronave 737-300/400/500 é de 26,5 polegadas.\n\nDetalhes técnicos:\n- A BBL (Body Buttock Line) é uma linha que marca a extremidade traseira da fuselagem da aeronave.\n- A BWL 208.10 é a designação da viga principal do piso na aeronave 737-300/400/500.\n- A distância de 26,5 polegadas é uma medida importante para a manutenção e reparo da aeronave, pois ajuda a garantir que as peças sejam instaladas corretamente.\n\nReferência à fonte:\n- Manual ATA 06: DIMENSIONS AND AREAS - MAINTENANCE PRACTICES, Boeing 737.",
-    "tempo_segundos": 17.21,
+    "contexto_usado": "Os seguintes capítulos estão disponíveis nos manuais Boeing 737:\n- ATA 05: TIME LIMITS/MAINTENANCE CHECKS - MAINTENANCE PRACTICES\n- ATA 06: DIMENSIONS AND AREAS - MAINTENANCE PRACTICES\n- ATA 07: LIFTING - DESCRIPTION AND OPERATION 07-10-00 1 RAM ALL LIFTING AIRPLANE FOR MAINTENANCE - DESCRIPTION AND OPERATION 07-11-00 1 RAM ALL\n- ATA 08: \n- ATA 09: \n- ATA 10: PARKING AND MOORING - DESCRIPTION AND OPERATION 10-00-00 1 RAM ALL\n- ATA 12: \n- ATA 20: NACELLE STRUT COMPONENT CLEARANCES - MAINTENANCE PRACTICES\n- ATA 21: AIR CONDITIONING - DESCRIPTION AND OPERATION 21-00-00 1 RAM ALL\n- ATA 22: DIGITAL FLIGHT CONTROL SYSTEM - ADJUSTMENT/TEST\n- ATA 23: HF COMMUNICATION SYSTEM - ADJUSTMENT/TEST\n- ATA 24: ELECTRICAL POWER - DESCRIPTION AND OPERATION 24-00-00 1 RAM ALL ELECTRICAL POWER PRECAUTIONS - MAINTENANCE PRACTICES\n- ATA 25: EQUIPMENT/FURNISHINGS - DESCRIPTION AND OPERATION 25-00-00 1 RAM ALL EQUIPMENT/FURNISHINGS - CLEANING AND PAINTING\n- ATA 26: FIRE PROTECTION - DESCRIPTION AND OPERATION 26-00-00 1 RAM ALL CARGO FIRE CONTROL PANEL - REMOVAL/INSTALLATION\n- ATA 27: FLIGHT CONTROLS - DESCRIPTION AND OPERATION 27-00-00 1 RAM ALL CONTROL CABLE SYSTEMS - DESCRIPTION AND OPERATION 27-09-11 1 RAM ALL FLIGHT CONTROL CABLES - MAINTENANCE PRACTICES\n- ATA 28: FUEL - DESCRIPTION AND OPERATION 28-00-00 1 RAM ALL\n- ATA 29: HYDRAULIC POWER - DESCRIPTION AND OPERATION 29-00-00 1 RAM ALL\n- ATA 30: ICE AND RAIN PROTECTION - DESCRIPTION AND OPERATION 30-00-00 1 RAM ALL COMBINED WINDOW AND PITOT HEAT MODULE (P5-9) - REMOVAL/INSTALLATION\n- ATA 31: FLIGHT DATA RECORDER SYSTEM - DESCRIPTION AND OPERATION 31-24-00 4 1 RAM ALL FLIGHT DATA RECORDER - TROUBLE SHOOTING 31-24-00 3 101 RAM ALL FLIGHT DATA RECORDER - MAINTENANCE PRACTICES\n- ATA 32: LANDING GEAR - DESCRIPTION AND OPERATION 32-00-00 1 RAM ALL GROUND LOCK ASSEMBLIES - MAINTENANCE PRACTICES\n- ATA 33: INSTRUMENT AND PANEL LIGHTS - MAINTENANCE PRACTICE\n- ATA 34: PITOT-STATIC SYSTEM - MAINTENANCE PRACTICES\n- ATA 35: OXYGEN SYSTEMS - DESCRIPTION AND OPERATION 35-00-00 1 RAM ALL\n- ATA 36: PNEUMATIC SYSTEM - DESCRIPTION AND OPERATION 36-05-00 1 RAM ALL PNEUMATIC SYSTEM - MAINTENANCE PRACTICES (PRESSURIZE/DEPRESSURIZE PNEUMATIC SYSTEM)\n- ATA 38: \n- ATA 47: INERT GAS SYSTEM - DESCRIPTION AND OPERATION 47-00-00 1 RAM ALL POST SB 737-47-1008 OR POST SB 737-47-1007\n- ATA 49: AIRBORNE AUXILIARY POWER - DESCRIPTION AND OPERATION 49-00-00 1 RAM 001, 002 AIRBORNE AUXILIARY POWER - TROUBLESHOOTING 49-00-00 2 101 RAM 001, 002; APU WITH THE -5 FADEC AND SUBSEQUENT DASH NUMBERS AIRBORNE AUXILIARY POWER - TASK CARD DEFINITIONS\n- ATA 51: CORROSION PREVENTION - CORROSION REMOVAL - MAINTENANCE PRACTICES\n- ATA 52: \n- ATA 53: FUSELAGE - DESCRIPTION AND OPERATION 53-00-00 1 RAM ALL\n- ATA 54: NACELLES/PYLONS - DESCRIPTION AND OPERATION 54-01-00 1 RAM ALL\n- ATA 55: STABILIZERS - DESCRIPTION AND OPERATION 55-00-00 1 RAM ALL RUDDER, ELEVATOR AND HORIZONTAL STABILIZERS - INSPECTION/CHECK\n- ATA 56: WINDOWS - DESCRIPTION AND OPERATION 56-00-00 1 RAM ALL FLIGHT COMPARTMENT WINDOWS - DESCRIPTION AND OPERATION 56-10-00 1 RAM ALL CONTROL CABIN FIXED WINDOWS - DESCRIPTION AND OPERATION 56-11-00 1 RAM ALL CONTROL CABIN FIXED WINDOWS - INSPECTION/CHECK\n- ATA 57: WINGS - DESCRIPTION AND OPERATION 57-00-00 1 RAM ALL\n- ATA 70: TERMS AND ABBREVIATIONS - MAINTENANCE PRACTICES\n- ATA 71: POWER PLANT- DESCRIPTION AND OPERATION 71-00-00 1 RAM ALL\n- ATA 72: \n- ATA 73: ENGINE FUEL AND CONTROL - MAINTENANCE PRACTICES\n- ATA 74: \n- ATA 76: ENGINE CONTROL SYSTEM - DESCRIPTION AND OPERATION 76-11-00 1 RAM ALL ENGINE CONTROL SYSTEM - MAINTENANCE PRACTICES\n- ATA 77: ENGINE TACHOMETER SYSTEM - DESCRIPTION AND OPERATION 77-12-00 1 RAM ALL ENGINE TACHOMETER SYSTEM - ADJUSTMENT/TEST\n- ATA 78: EXHAUST - DESCRIPTION AND OPERATION 78-00-00 1 RAM ALL EXHAUST - DEACTIVATION/REACTIVATION - DDG MAINTENANCE PRACTICES\n- ATA 79: \n- ATA 80: ENGINE STARTING SYSTEM - DESCRIPTION AND OPERATION 80-11-00 1 RAM ALL ENGINE STARTING SYSTEM - MAINTENANCE PRACTICES",
+    "contexto_preview": "Os seguintes capítulos estão disponíveis nos manuais Boeing 737:\n- ATA 05: TIME LIMITS/MAINTENANCE CHECKS - MAINTENANCE PRACTICES\n- ATA 06: DIMENSIONS AND AREAS - MAINTENANCE PRACTICES\n- ATA 07: LIFTING - DESCRIPTION AND OPERATION 07-10-00 1 RAM ALL LIFTING AIRPLANE FOR MAINTENANCE - DESCRIPTION AND OPERATION 07-11-00 1 RAM ALL\n- ATA 08: \n- ATA 09: \n- ATA 10: PARKING AND MOORING - DESCRIPTION AND OPERATION 10-00-00 1 RAM ALL\n- ATA 12: \n- ATA 20: NACELLE STRUT COMPONENT CLEARANCES - MAINTENANCE P",
+    "resposta": "De acordo com o manual ATA 32: LANDING GEAR - DESCRIPTION AND OPERATION, capítulo 32-00-00, página 1, RAM ALL, seção GROUND LOCK ASSEMBLIES - MAINTENANCE PRACTICES, não há informações específicas sobre os limites de extensão ou retração dos resortes de suspensão da roda principal e da roda nariz durante um ajuste pequeno de nivelamento.\n\nNo entanto, o manual ATA 32 menciona que os resortes de suspensão devem ser inspecionados e ajustados de acordo com as instruções do fabricante, e que os limites de extensão e retração devem ser verificados com o uso de instrumentos de medição apropriados.\n\nAlém disso, o manual ATA 32 também menciona que os ajustes de nivelamento devem ser realizados de acordo com as instruções do fabricante, e que os limites de extensão e retração dos resortes de suspensão devem ser verificados após o ajuste.\n\nReferência: Manual ATA 32: LANDING GEAR - DESCRIPTION AND OPERATION, capítulo 32-00-00, página 1, RAM ALL, seção GROUND LOCK ASSEMBLIES - MAINTENANCE PRACTICES.",
+    "resposta_detalhada": "De acordo com o manual ATA 32: LANDING GEAR - DESCRIPTION AND OPERATION, capítulo 32-00-00, página 1, RAM ALL, seção GROUND LOCK ASSEMBLIES - MAINTENANCE PRACTICES, não há informações específicas sobre os limites de extensão ou retração dos resortes de suspensão da roda principal e da roda nariz durante um ajuste pequeno de nivelamento.\n\nNo entanto, o manual ATA 32 menciona que os resortes de suspensão devem ser inspecionados e ajustados de acordo com as instruções do fabricante, e que os limites de extensão e retração devem ser verificados com o uso de instrumentos de medição apropriados.\n\nAlém disso, o manual ATA 32 também menciona que os ajustes de nivelamento devem ser realizados de acordo com as instruções do fabricante, e que os limites de extensão e retração dos resortes de suspensão devem ser verificados após o ajuste.\n\nReferência: Manual ATA 32: LANDING GEAR - DESCRIPTION AND OPERATION, capítulo 32-00-00, página 1, RAM ALL, seção GROUND LOCK ASSEMBLIES - MAINTENANCE PRACTICES.",
+    "tempo_segundos": 19.132,
     "metadados_llm": {
       "status": "ok",
       "tokens": {
-        "prompt_tokens": 1599,
-        "total_tokens": 1824,
-        "completion_tokens": 225,
+        "prompt_tokens": 1591,
+        "total_tokens": 1876,
+        "completion_tokens": 285,
         "prompt_tokens_details": null
       },
       "finish_reason": "stop"
     },
     "metricas": {
-      "precisao": 0.125,
-      "completude": 0.9385,
+      "precisao": 0.1915,
+      "completude": 0.8789,
       "especificidade": 1.0,
       "rastreabilidade": 1.0,
-      "confianca": 1.0
+      "confianca": 0.5
     },
-    "score_final": 72.21,
-    "ground_truth": "208.10 polegadas",
+    "score_final": 67.72,
+    "tokens_estimados": 807,
+    "ground_truth": "Até os limites da faixa de serviço habitual.",
     "ragas_metrics": {
-      "faithfulness": 0.0,
+      "faithfulness": 1.0,
       "answer_relevancy": 1.0,
-      "context_precision": 0.0,
-      "context_recall": 0.0,
+      "context_precision": 1.0,
+      "context_recall": 1.0,
       "answer_correctness": 1.0,
-      "answer_similarity": 0.2,
-      "numeric_verified": true
+      "answer_similarity": 1.0
     },
-    "ragas_score": 0.4571,
+    "ragas_score": 1.0,
     "numeric_check": {
-      "gt_value": 208.1,
-      "answer_value": 208.1,
-      "gt_unit": "in",
-      "answer_unit": "in",
-      "gt_comparison": "=",
-      "numeric_match": true,
-      "unit_match": true
+      "gt_value": null,
+      "answer_value": 32.0,
+      "gt_unit": null,
+      "answer_unit": null,
+      "gt_comparison": "<=",
+      "numeric_match": null,
+      "unit_match": null
     }
   },
   {
-    "timestamp": "2026-09-17T03:46:31.460866",
+    "timestamp": "2026-09-19T05:33:08.908257",
     "abordagem": "llm_puro",
-    "pergunta": "Qual é a distância em polegadas entre o BSTA (ponto 130.00) e a BWL 208.10 (topo da viga principal do piso) na aeronave 737‑300/400/500?",
+    "pergunta": "Quais circuit breakers na placa P6 devem ser abertos e marcados com tag DO‑NOT‑CLOSE durante a remoção do módulo P5‑9?",
     "documentos_recuperados": [
       "contexto_fixo_toc"
     ],
-    "contexto_usado": "Os seguintes capítulos estão disponíveis nos manuais Boeing 737:\n- ATA 05: TIME LIMITS/MAINTENANCE CHECKS - MAINTENANCE PRACTICES\n- ATA 06: DIMENSIONS AND AREAS - MAINTENANCE PRACTICES\n- ATA 07: LIFTING - DESCRIPTION AND OPERATION 07-10-00 1 RAM ALL LIFTING AIRPLANE FOR MAINTENANCE - DESCRIPTION AND OPERATION 07-11-00 1 RAM ALL\n- ATA 08: \n- ATA 09: \n- ATA 10: PARKING AND MOORING - DESCRIPTION AND OPERATION 10-00-00 1 RAM ALL\n- ATA 12: \n- ATA 20: NACELLE STRUT COMPONENT CLEARANCES - MAINTENANCE P",
-    "resposta": "De acordo com o manual ATA 06: DIMENSÕES E ÁREAS - PRÁTICAS DE MANUTENÇÃO, a distância entre o BSTA (ponto 130.00) e a BWL 208.10 (topo da viga principal do piso) na aeronave 737-300/400/500 é de 74,25 polegadas.\n\nReferência: ATA 06, página 3-10, tabela 3-10-01, coluna \"Distância entre BSTA e BWL 208.10\".",
-    "tempo_segundos": 4.298,
+    "contexto_usado": "Os seguintes capítulos estão disponíveis nos manuais Boeing 737:\n- ATA 05: TIME LIMITS/MAINTENANCE CHECKS - MAINTENANCE PRACTICES\n- ATA 06: DIMENSIONS AND AREAS - MAINTENANCE PRACTICES\n- ATA 07: LIFTING - DESCRIPTION AND OPERATION 07-10-00 1 RAM ALL LIFTING AIRPLANE FOR MAINTENANCE - DESCRIPTION AND OPERATION 07-11-00 1 RAM ALL\n- ATA 08: \n- ATA 09: \n- ATA 10: PARKING AND MOORING - DESCRIPTION AND OPERATION 10-00-00 1 RAM ALL\n- ATA 12: \n- ATA 20: NACELLE STRUT COMPONENT CLEARANCES - MAINTENANCE PRACTICES\n- ATA 21: AIR CONDITIONING - DESCRIPTION AND OPERATION 21-00-00 1 RAM ALL\n- ATA 22: DIGITAL FLIGHT CONTROL SYSTEM - ADJUSTMENT/TEST\n- ATA 23: HF COMMUNICATION SYSTEM - ADJUSTMENT/TEST\n- ATA 24: ELECTRICAL POWER - DESCRIPTION AND OPERATION 24-00-00 1 RAM ALL ELECTRICAL POWER PRECAUTIONS - MAINTENANCE PRACTICES\n- ATA 25: EQUIPMENT/FURNISHINGS - DESCRIPTION AND OPERATION 25-00-00 1 RAM ALL EQUIPMENT/FURNISHINGS - CLEANING AND PAINTING\n- ATA 26: FIRE PROTECTION - DESCRIPTION AND OPERATION 26-00-00 1 RAM ALL CARGO FIRE CONTROL PANEL - REMOVAL/INSTALLATION\n- ATA 27: FLIGHT CONTROLS - DESCRIPTION AND OPERATION 27-00-00 1 RAM ALL CONTROL CABLE SYSTEMS - DESCRIPTION AND OPERATION 27-09-11 1 RAM ALL FLIGHT CONTROL CABLES - MAINTENANCE PRACTICES\n- ATA 28: FUEL - DESCRIPTION AND OPERATION 28-00-00 1 RAM ALL\n- ATA 29: HYDRAULIC POWER - DESCRIPTION AND OPERATION 29-00-00 1 RAM ALL\n- ATA 30: ICE AND RAIN PROTECTION - DESCRIPTION AND OPERATION 30-00-00 1 RAM ALL COMBINED WINDOW AND PITOT HEAT MODULE (P5-9) - REMOVAL/INSTALLATION\n- ATA 31: FLIGHT DATA RECORDER SYSTEM - DESCRIPTION AND OPERATION 31-24-00 4 1 RAM ALL FLIGHT DATA RECORDER - TROUBLE SHOOTING 31-24-00 3 101 RAM ALL FLIGHT DATA RECORDER - MAINTENANCE PRACTICES\n- ATA 32: LANDING GEAR - DESCRIPTION AND OPERATION 32-00-00 1 RAM ALL GROUND LOCK ASSEMBLIES - MAINTENANCE PRACTICES\n- ATA 33: INSTRUMENT AND PANEL LIGHTS - MAINTENANCE PRACTICE\n- ATA 34: PITOT-STATIC SYSTEM - MAINTENANCE PRACTICES\n- ATA 35: OXYGEN SYSTEMS - DESCRIPTION AND OPERATION 35-00-00 1 RAM ALL\n- ATA 36: PNEUMATIC SYSTEM - DESCRIPTION AND OPERATION 36-05-00 1 RAM ALL PNEUMATIC SYSTEM - MAINTENANCE PRACTICES (PRESSURIZE/DEPRESSURIZE PNEUMATIC SYSTEM)\n- ATA 38: \n- ATA 47: INERT GAS SYSTEM - DESCRIPTION AND OPERATION 47-00-00 1 RAM ALL POST SB 737-47-1008 OR POST SB 737-47-1007\n- ATA 49: AIRBORNE AUXILIARY POWER - DESCRIPTION AND OPERATION 49-00-00 1 RAM 001, 002 AIRBORNE AUXILIARY POWER - TROUBLESHOOTING 49-00-00 2 101 RAM 001, 002; APU WITH THE -5 FADEC AND SUBSEQUENT DASH NUMBERS AIRBORNE AUXILIARY POWER - TASK CARD DEFINITIONS\n- ATA 51: CORROSION PREVENTION - CORROSION REMOVAL - MAINTENANCE PRACTICES\n- ATA 52: \n- ATA 53: FUSELAGE - DESCRIPTION AND OPERATION 53-00-00 1 RAM ALL\n- ATA 54: NACELLES/PYLONS - DESCRIPTION AND OPERATION 54-01-00 1 RAM ALL\n- ATA 55: STABILIZERS - DESCRIPTION AND OPERATION 55-00-00 1 RAM ALL RUDDER, ELEVATOR AND HORIZONTAL STABILIZERS - INSPECTION/CHECK\n- ATA 56: WINDOWS - DESCRIPTION AND OPERATION 56-00-00 1 RAM ALL FLIGHT COMPARTMENT WINDOWS - DESCRIPTION AND OPERATION 56-10-00 1 RAM ALL CONTROL CABIN FIXED WINDOWS - DESCRIPTION AND OPERATION 56-11-00 1 RAM ALL CONTROL CABIN FIXED WINDOWS - INSPECTION/CHECK\n- ATA 57: WINGS - DESCRIPTION AND OPERATION 57-00-00 1 RAM ALL\n- ATA 70: TERMS AND ABBREVIATIONS - MAINTENANCE PRACTICES\n- ATA 71: POWER PLANT- DESCRIPTION AND OPERATION 71-00-00 1 RAM ALL\n- ATA 72: \n- ATA 73: ENGINE FUEL AND CONTROL - MAINTENANCE PRACTICES\n- ATA 74: \n- ATA 76: ENGINE CONTROL SYSTEM - DESCRIPTION AND OPERATION 76-11-00 1 RAM ALL ENGINE CONTROL SYSTEM - MAINTENANCE PRACTICES\n- ATA 77: ENGINE TACHOMETER SYSTEM - DESCRIPTION AND OPERATION 77-12-00 1 RAM ALL ENGINE TACHOMETER SYSTEM - ADJUSTMENT/TEST\n- ATA 78: EXHAUST - DESCRIPTION AND OPERATION 78-00-00 1 RAM ALL EXHAUST - DEACTIVATION/REACTIVATION - DDG MAINTENANCE PRACTICES\n- ATA 79: \n- ATA 80: ENGINE STARTING SYSTEM - DESCRIPTION AND OPERATION 80-11-00 1 RAM ALL ENGINE STARTING SYSTEM - MAINTENANCE PRACTICES",
+    "contexto_preview": "Os seguintes capítulos estão disponíveis nos manuais Boeing 737:\n- ATA 05: TIME LIMITS/MAINTENANCE CHECKS - MAINTENANCE PRACTICES\n- ATA 06: DIMENSIONS AND AREAS - MAINTENANCE PRACTICES\n- ATA 07: LIFTING - DESCRIPTION AND OPERATION 07-10-00 1 RAM ALL LIFTING AIRPLANE FOR MAINTENANCE - DESCRIPTION AND OPERATION 07-11-00 1 RAM ALL\n- ATA 08: \n- ATA 09: \n- ATA 10: PARKING AND MOORING - DESCRIPTION AND OPERATION 10-00-00 1 RAM ALL\n- ATA 12: \n- ATA 20: NACELLE STRUT COMPONENT CLEARANCES - MAINTENANCE P",
+    "resposta": "De acordo com o manual ATA 30: ICE AND RAIN PROTECTION - DESCRIPTION AND OPERATION, capítulo 30-00-00, página 1, RAM ALL, COMBINED WINDOW AND PITOT HEAT MODULE (P5-9) - REMOVAL/INSTALLATION, a remoção do módulo P5-9 requer a abertura e marcação com tag DO-NOT-CLOSE dos seguintes circuit breakers na placa P6:\n\n- CB 1 (CIRCUIT BREAKER 1)\n- CB 2 (CIRCUIT BREAKER 2)\n- CB 3 (CIRCUIT BREAKER 3)\n- CB 4 (CIRCUIT BREAKER 4)\n- CB 5 (CIRCUIT BREAKER 5)\n- CB 6 (CIRCUIT BREAKER 6)\n- CB 7 (CIRCUIT BREAKER 7)\n- CB 8 (CIRCUIT BREAKER 8)\n- CB 9 (CIRCUIT BREAKER 9)\n- CB 10 (CIRCUIT BREAKER 10)\n\nEssa informação é importante para evitar danos ao sistema de aquecimento de janelas e pitot durante a remoção do módulo P5-9.\n\nReferência: Manual ATA 30, capítulo 30-00-00, página 1, RAM ALL, COMBINED WINDOW AND PITOT HEAT MODULE (P5-9) - REMOVAL/INSTALLATION.",
+    "resposta_detalhada": "De acordo com o manual ATA 30: ICE AND RAIN PROTECTION - DESCRIPTION AND OPERATION, capítulo 30-00-00, página 1, RAM ALL, COMBINED WINDOW AND PITOT HEAT MODULE (P5-9) - REMOVAL/INSTALLATION, a remoção do módulo P5-9 requer a abertura e marcação com tag DO-NOT-CLOSE dos seguintes circuit breakers na placa P6:\n\n- CB 1 (CIRCUIT BREAKER 1)\n- CB 2 (CIRCUIT BREAKER 2)\n- CB 3 (CIRCUIT BREAKER 3)\n- CB 4 (CIRCUIT BREAKER 4)\n- CB 5 (CIRCUIT BREAKER 5)\n- CB 6 (CIRCUIT BREAKER 6)\n- CB 7 (CIRCUIT BREAKER 7)\n- CB 8 (CIRCUIT BREAKER 8)\n- CB 9 (CIRCUIT BREAKER 9)\n- CB 10 (CIRCUIT BREAKER 10)\n\nEssa informação é importante para evitar danos ao sistema de aquecimento de janelas e pitot durante a remoção do módulo P5-9.\n\nReferência: Manual ATA 30, capítulo 30-00-00, página 1, RAM ALL, COMBINED WINDOW AND PITOT HEAT MODULE (P5-9) - REMOVAL/INSTALLATION.",
+    "tempo_segundos": 11.711,
     "metadados_llm": {
       "status": "ok",
       "tokens": {
-        "prompt_tokens": 1600,
-        "total_tokens": 1723,
-        "completion_tokens": 123,
+        "prompt_tokens": 1586,
+        "total_tokens": 1910,
+        "completion_tokens": 324,
         "prompt_tokens_details": null
       },
       "finish_reason": "stop"
     },
     "metricas": {
-      "precisao": 0.05,
-      "completude": 0.9333,
+      "precisao": 0.3243,
+      "completude": 0.792,
       "especificidade": 1.0,
       "rastreabilidade": 1.0,
       "confianca": 1.0
     },
-    "score_final": 69.83,
-    "ground_truth": "78.10 polegadas",
+    "score_final": 74.53,
+    "tokens_estimados": 796,
+    "ground_truth": "MSTR CAUTION - ANTI-ICE, PITOT STATIC INDICATION - F/O, PITOT STATIC INDICATION - CAPT, R FRONT WINDOW ANTI-ICE, L FRONT WINDOW ANTI-ICE, R SIDE WINDOW ANTI-ICE, L SIDE WINDOW ANTI-ICE, RIGHT NO. 4 AND NO. 5 WINDOW ANTI-ICE, LEFT NO. 4 AND NO. 5 WINDOW ANTI-ICE",
     "ragas_metrics": {
-      "faithfulness": 0.0,
+      "faithfulness": 1.0,
       "answer_relevancy": 1.0,
-      "context_precision": 0.0,
-      "context_recall": 0.0,
+      "context_precision": 1.0,
+      "context_recall": 1.0,
       "answer_correctness": 0.0,
-      "answer_similarity": 0.0,
+      "answer_similarity": 1.0,
       "numeric_verified": false
     },
-    "ragas_score": 0.1429,
+    "ragas_score": 0.7143,
     "numeric_check": {
-      "gt_value": 78.1,
-      "answer_value": 130.0,
-      "gt_unit": "in",
-      "answer_unit": "in",
+      "gt_value": 4.0,
+      "answer_value": 30.0,
+      "gt_unit": null,
+      "answer_unit": null,
       "gt_comparison": "=",
       "numeric_match": false,
       "unit_match": true
     }
   },
   {
-    "timestamp": "2026-09-17T03:46:40.371378",
+    "timestamp": "2026-09-19T05:33:15.843212",
     "abordagem": "llm_puro",
-    "pergunta": "Qual é a distância em polegadas entre a BWL 0.00 e a superfície mais baixa do fuselagem (BWL 0.00 está 148.5 polegadas abaixo da superfície mais baixa)?",
+    "pergunta": "Qual é a tarefa que remove o filtro de retorno do módulo de pressão do sistema A e B?",
     "documentos_recuperados": [
       "contexto_fixo_toc"
     ],
-    "contexto_usado": "Os seguintes capítulos estão disponíveis nos manuais Boeing 737:\n- ATA 05: TIME LIMITS/MAINTENANCE CHECKS - MAINTENANCE PRACTICES\n- ATA 06: DIMENSIONS AND AREAS - MAINTENANCE PRACTICES\n- ATA 07: LIFTING - DESCRIPTION AND OPERATION 07-10-00 1 RAM ALL LIFTING AIRPLANE FOR MAINTENANCE - DESCRIPTION AND OPERATION 07-11-00 1 RAM ALL\n- ATA 08: \n- ATA 09: \n- ATA 10: PARKING AND MOORING - DESCRIPTION AND OPERATION 10-00-00 1 RAM ALL\n- ATA 12: \n- ATA 20: NACELLE STRUT COMPONENT CLEARANCES - MAINTENANCE P",
-    "resposta": "De acordo com o manual ATA 06: DIMENSÕES E ÁREAS, podemos encontrar a informação necessária para responder à sua pergunta.\n\nA distância entre a BWL 0.00 e a superfície mais baixa do fuselagem é de 148,5 polegadas. Como a BWL 0.00 está 148,5 polegadas abaixo da superfície mais baixa, podemos calcular a distância entre a BWL 0.00 e a superfície mais baixa do fuselagem como:\n\nDistância = 0 polegadas (BWL 0.00) - 148,5 polegadas (superfície mais baixa)\nDistância = -148,5 polegadas\n\nNo entanto, como estamos procurando a distância em polegadas, podemos considerar a distância como positiva:\n\nDistância = 148,5 polegadas\n\nPortanto, a distância entre a BWL 0.00 e a superfície mais baixa do fuselagem é de 148,5 polegadas.\n\nReferência: Manual ATA 06: DIMENSÕES E ÁREAS.",
-    "tempo_segundos": 8.905,
+    "contexto_usado": "Os seguintes capítulos estão disponíveis nos manuais Boeing 737:\n- ATA 05: TIME LIMITS/MAINTENANCE CHECKS - MAINTENANCE PRACTICES\n- ATA 06: DIMENSIONS AND AREAS - MAINTENANCE PRACTICES\n- ATA 07: LIFTING - DESCRIPTION AND OPERATION 07-10-00 1 RAM ALL LIFTING AIRPLANE FOR MAINTENANCE - DESCRIPTION AND OPERATION 07-11-00 1 RAM ALL\n- ATA 08: \n- ATA 09: \n- ATA 10: PARKING AND MOORING - DESCRIPTION AND OPERATION 10-00-00 1 RAM ALL\n- ATA 12: \n- ATA 20: NACELLE STRUT COMPONENT CLEARANCES - MAINTENANCE PRACTICES\n- ATA 21: AIR CONDITIONING - DESCRIPTION AND OPERATION 21-00-00 1 RAM ALL\n- ATA 22: DIGITAL FLIGHT CONTROL SYSTEM - ADJUSTMENT/TEST\n- ATA 23: HF COMMUNICATION SYSTEM - ADJUSTMENT/TEST\n- ATA 24: ELECTRICAL POWER - DESCRIPTION AND OPERATION 24-00-00 1 RAM ALL ELECTRICAL POWER PRECAUTIONS - MAINTENANCE PRACTICES\n- ATA 25: EQUIPMENT/FURNISHINGS - DESCRIPTION AND OPERATION 25-00-00 1 RAM ALL EQUIPMENT/FURNISHINGS - CLEANING AND PAINTING\n- ATA 26: FIRE PROTECTION - DESCRIPTION AND OPERATION 26-00-00 1 RAM ALL CARGO FIRE CONTROL PANEL - REMOVAL/INSTALLATION\n- ATA 27: FLIGHT CONTROLS - DESCRIPTION AND OPERATION 27-00-00 1 RAM ALL CONTROL CABLE SYSTEMS - DESCRIPTION AND OPERATION 27-09-11 1 RAM ALL FLIGHT CONTROL CABLES - MAINTENANCE PRACTICES\n- ATA 28: FUEL - DESCRIPTION AND OPERATION 28-00-00 1 RAM ALL\n- ATA 29: HYDRAULIC POWER - DESCRIPTION AND OPERATION 29-00-00 1 RAM ALL\n- ATA 30: ICE AND RAIN PROTECTION - DESCRIPTION AND OPERATION 30-00-00 1 RAM ALL COMBINED WINDOW AND PITOT HEAT MODULE (P5-9) - REMOVAL/INSTALLATION\n- ATA 31: FLIGHT DATA RECORDER SYSTEM - DESCRIPTION AND OPERATION 31-24-00 4 1 RAM ALL FLIGHT DATA RECORDER - TROUBLE SHOOTING 31-24-00 3 101 RAM ALL FLIGHT DATA RECORDER - MAINTENANCE PRACTICES\n- ATA 32: LANDING GEAR - DESCRIPTION AND OPERATION 32-00-00 1 RAM ALL GROUND LOCK ASSEMBLIES - MAINTENANCE PRACTICES\n- ATA 33: INSTRUMENT AND PANEL LIGHTS - MAINTENANCE PRACTICE\n- ATA 34: PITOT-STATIC SYSTEM - MAINTENANCE PRACTICES\n- ATA 35: OXYGEN SYSTEMS - DESCRIPTION AND OPERATION 35-00-00 1 RAM ALL\n- ATA 36: PNEUMATIC SYSTEM - DESCRIPTION AND OPERATION 36-05-00 1 RAM ALL PNEUMATIC SYSTEM - MAINTENANCE PRACTICES (PRESSURIZE/DEPRESSURIZE PNEUMATIC SYSTEM)\n- ATA 38: \n- ATA 47: INERT GAS SYSTEM - DESCRIPTION AND OPERATION 47-00-00 1 RAM ALL POST SB 737-47-1008 OR POST SB 737-47-1007\n- ATA 49: AIRBORNE AUXILIARY POWER - DESCRIPTION AND OPERATION 49-00-00 1 RAM 001, 002 AIRBORNE AUXILIARY POWER - TROUBLESHOOTING 49-00-00 2 101 RAM 001, 002; APU WITH THE -5 FADEC AND SUBSEQUENT DASH NUMBERS AIRBORNE AUXILIARY POWER - TASK CARD DEFINITIONS\n- ATA 51: CORROSION PREVENTION - CORROSION REMOVAL - MAINTENANCE PRACTICES\n- ATA 52: \n- ATA 53: FUSELAGE - DESCRIPTION AND OPERATION 53-00-00 1 RAM ALL\n- ATA 54: NACELLES/PYLONS - DESCRIPTION AND OPERATION 54-01-00 1 RAM ALL\n- ATA 55: STABILIZERS - DESCRIPTION AND OPERATION 55-00-00 1 RAM ALL RUDDER, ELEVATOR AND HORIZONTAL STABILIZERS - INSPECTION/CHECK\n- ATA 56: WINDOWS - DESCRIPTION AND OPERATION 56-00-00 1 RAM ALL FLIGHT COMPARTMENT WINDOWS - DESCRIPTION AND OPERATION 56-10-00 1 RAM ALL CONTROL CABIN FIXED WINDOWS - DESCRIPTION AND OPERATION 56-11-00 1 RAM ALL CONTROL CABIN FIXED WINDOWS - INSPECTION/CHECK\n- ATA 57: WINGS - DESCRIPTION AND OPERATION 57-00-00 1 RAM ALL\n- ATA 70: TERMS AND ABBREVIATIONS - MAINTENANCE PRACTICES\n- ATA 71: POWER PLANT- DESCRIPTION AND OPERATION 71-00-00 1 RAM ALL\n- ATA 72: \n- ATA 73: ENGINE FUEL AND CONTROL - MAINTENANCE PRACTICES\n- ATA 74: \n- ATA 76: ENGINE CONTROL SYSTEM - DESCRIPTION AND OPERATION 76-11-00 1 RAM ALL ENGINE CONTROL SYSTEM - MAINTENANCE PRACTICES\n- ATA 77: ENGINE TACHOMETER SYSTEM - DESCRIPTION AND OPERATION 77-12-00 1 RAM ALL ENGINE TACHOMETER SYSTEM - ADJUSTMENT/TEST\n- ATA 78: EXHAUST - DESCRIPTION AND OPERATION 78-00-00 1 RAM ALL EXHAUST - DEACTIVATION/REACTIVATION - DDG MAINTENANCE PRACTICES\n- ATA 79: \n- ATA 80: ENGINE STARTING SYSTEM - DESCRIPTION AND OPERATION 80-11-00 1 RAM ALL ENGINE STARTING SYSTEM - MAINTENANCE PRACTICES",
+    "contexto_preview": "Os seguintes capítulos estão disponíveis nos manuais Boeing 737:\n- ATA 05: TIME LIMITS/MAINTENANCE CHECKS - MAINTENANCE PRACTICES\n- ATA 06: DIMENSIONS AND AREAS - MAINTENANCE PRACTICES\n- ATA 07: LIFTING - DESCRIPTION AND OPERATION 07-10-00 1 RAM ALL LIFTING AIRPLANE FOR MAINTENANCE - DESCRIPTION AND OPERATION 07-11-00 1 RAM ALL\n- ATA 08: \n- ATA 09: \n- ATA 10: PARKING AND MOORING - DESCRIPTION AND OPERATION 10-00-00 1 RAM ALL\n- ATA 12: \n- ATA 20: NACELLE STRUT COMPONENT CLEARANCES - MAINTENANCE P",
+    "resposta": "De acordo com o manual ATA 29: HYDRAULIC POWER - DESCRIPTION AND OPERATION, a tarefa que remove o filtro de retorno do módulo de pressão do sistema A e B é a seguinte:\n\n* Tarefa: 29-42-00-1 RAM ALL - Filtro de retorno do módulo de pressão do sistema A e B - REMOÇÃO/INSTALAÇÃO\n\nDetalhes técnicos:\n\n* O filtro de retorno do módulo de pressão do sistema A e B é um componente crítico do sistema hidráulico do Boeing 737.\n* A pressão do sistema hidráulico é de 3.000 psi (pounds por polegada quadrada).\n* A tarefa de remoção do filtro de retorno deve ser realizada com o sistema hidráulico pressurizado e com o módulo de pressão desligado.\n\nReferência à fonte:\n\n* Manual ATA 29: HYDRAULIC POWER - DESCRIPTION AND OPERATION, capítulo 42, tarefa 29-42-00-1 RAM ALL.",
+    "resposta_detalhada": "De acordo com o manual ATA 29: HYDRAULIC POWER - DESCRIPTION AND OPERATION, a tarefa que remove o filtro de retorno do módulo de pressão do sistema A e B é a seguinte:\n\n* Tarefa: 29-42-00-1 RAM ALL - Filtro de retorno do módulo de pressão do sistema A e B - REMOÇÃO/INSTALAÇÃO\n\nDetalhes técnicos:\n\n* O filtro de retorno do módulo de pressão do sistema A e B é um componente crítico do sistema hidráulico do Boeing 737.\n* A pressão do sistema hidráulico é de 3.000 psi (pounds por polegada quadrada).\n* A tarefa de remoção do filtro de retorno deve ser realizada com o sistema hidráulico pressurizado e com o módulo de pressão desligado.\n\nReferência à fonte:\n\n* Manual ATA 29: HYDRAULIC POWER - DESCRIPTION AND OPERATION, capítulo 42, tarefa 29-42-00-1 RAM ALL.",
+    "tempo_segundos": 6.931,
     "metadados_llm": {
       "status": "ok",
       "tokens": {
-        "prompt_tokens": 1600,
-        "total_tokens": 1852,
-        "completion_tokens": 252,
+        "prompt_tokens": 1571,
+        "total_tokens": 1805,
+        "completion_tokens": 234,
         "prompt_tokens_details": null
       },
       "finish_reason": "stop"
     },
     "metricas": {
-      "precisao": 0.0345,
-      "completude": 0.8691,
-      "especificidade": 0.6667,
-      "rastreabilidade": 0.6667,
-      "confianca": 0.5
+      "precisao": 0.1562,
+      "completude": 0.8944,
+      "especificidade": 1.0,
+      "rastreabilidade": 1.0,
+      "confianca": 1.0
     },
-    "score_final": 51.1,
-    "ground_truth": "148.5 polegadas",
+    "score_final": 72.05,
+    "tokens_estimados": 782,
+    "ground_truth": "29-15-71-402-080",
     "ragas_metrics": {
-      "faithfulness": 0.0,
+      "faithfulness": 1.0,
       "answer_relevancy": 1.0,
-      "context_precision": 0.0,
-      "context_recall": 0.0,
+      "context_precision": 1.0,
+      "context_recall": 1.0,
       "answer_correctness": 0.0,
-      "answer_similarity": 1.0,
+      "answer_similarity": 0.2,
       "numeric_verified": false
     },
-    "ragas_score": 0.2857,
+    "ragas_score": 0.6,
     "numeric_check": {
-      "gt_value": 148.5,
-      "answer_value": 0.0,
-      "gt_unit": "in",
+      "gt_value": 29.0,
+      "answer_value": 3.0,
+      "gt_unit": null,
       "answer_unit": "in",
       "gt_comparison": "=",
       "numeric_match": false,

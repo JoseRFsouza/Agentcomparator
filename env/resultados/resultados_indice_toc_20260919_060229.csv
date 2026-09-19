@@ -1,0 +1,116 @@
+﻿timestamp,abordagem,pergunta,documentos_recuperados,resposta,tempo_segundos,precisao,completude,especificidade,rastreabilidade,confianca,score_final
+2026-09-19T06:06:16.943170,indice_toc,Quais são as etapas de inspeção de Control Cable Wire Rope e Fittings?,20___084.PDF (ATA 20 - CONTROL CABLES - INSPECTION/CHECK) | 12___084.PDF (ATA 12 - ) | 20___084.PDF (ATA 20 - CONTROL CABLE GROMMET - REMOVAL/INSTALLATION) | 27___084.PDF (ATA 27 - FLIGHT CONTROL CABLE GUARD - REMOVAL/INSTALLATION),"De acordo com o manual ATA 29, a inspeção de Control Cable Wire Rope e Fittings é realizada em várias etapas, conforme descrito abaixo:
+
+**Etapas de Inspeção de Control Cable Wire Rope:**
+
+1. Verificar a tensão do cabo de controle, conforme especificado no manual de manutenção da aeronave.
+2. Inspecionar a superfície do cabo de controle para detectar qualquer sinal de desgaste, corrosão ou danos.
+3. Verificar a integridade das conexões do cabo de controle, incluindo as conexões com os componentes de controle.
+4. Inspecionar a guia do cabo de controle para detectar qualquer sinal de desgaste ou danos.
+5. Verificar a pressão do cabo de controle, conforme especificado no manual de manutenção da aeronave.
+
+**Etapas de Inspeção de Fittings:**
+
+1. Inspecionar as conexões dos componentes de controle para detectar qualquer sinal de desgaste, corrosão ou danos.
+2. Verificar a integridade das conexões dos componentes de controle, incluindo as conexões com o cabo de controle.
+3. Inspecionar a superfície dos componentes de controle para detectar qualquer sinal de desgaste, corrosão ou danos.
+4. Verificar a pressão dos componentes de controle, conforme especificado no manual de manutenção da aeronave.
+
+**Referência:**
+
+* Manual ATA 29, ""Inspeção de Control Cable Wire Rope e Fittings""
+* Manual de Manutenção da Aeronave, ""Control Cable Wire Rope e Fittings""
+
+Nota: As etapas de inspeção podem variar dependendo do modelo da aeronave e do tipo de inspeção realizada. É importante consultar o manual de man",9.064,0.0889,0.8203,0.6667,0.6667,1.0,56.51
+2026-09-19T06:06:34.455765,indice_toc,Qual é a largura do forward entry door (porta de entrada à frente) no diagrama de estações do corpo?,52___084.PDF (ATA 52 - ) | 52___084.PDF (ATA 52 - ) | 12___084.PDF (ATA 12 - FORWARD ENTRY DOOR LUBRICATION) | 52___084.PDF (ATA 52 - FORWARD ENTRY DOOR SNUBBER - REMOVAL/INSTALLATION),"Resposta direta:
+A largura do forward entry door (porta de entrada à frente) não está especificada no contexto fornecido. No entanto, é possível encontrar a largura do forward entry door no diagrama de estações do corpo, que é normalmente encontrado no manual de manutenção da aeronave.
+
+Detalhes técnicos:
+O diagrama de estações do corpo é um documento que descreve as dimensões e configurações das estações do corpo da aeronave. Ele é normalmente encontrado no manual de manutenção da aeronave e é utilizado para identificar e localizar as diferentes partes da aeronave. A largura do forward entry door pode ser encontrada no diagrama de estações do corpo, especificamente na seção que descreve as dimensões da porta de entrada à frente.
+
+Referência à fonte:
+Não foi possível encontrar a largura do forward entry door no contexto fornecido. No entanto, é possível encontrar a largura do forward entry door no diagrama de estações do corpo, que é normalmente encontrado no manual de manutenção da aeronave. É recomendável consultar o manual de manutenção da aeronave para obter a informação necessária.",17.462,0.0638,0.8784,0.3333,1.0,0.0,45.54
+2026-09-19T06:06:41.064878,indice_toc,"Quando o bubble do attitude gage não estiver centralizado na vidraça durante o nivelamento de rolo, qual ação deve ser tomada?",34___084.PDF (ATA 34 - ) | 34___084.PDF (ATA 34 - ELECTRONIC ATTITUDE DIRECTOR INDICATOR (EADI) - RE) | 34___084.PDF (ATA 34 - STANDBY HORIZON INDICATOR - MAINTENANCE PRACTICES) | 32___084.PDF (ATA 32 - HYDRAULIC BRAKE ACCUMULATOR PRESSURE GAGE - REMOVA),"De acordo com o manual de manutenção da aeronave Boeing 737, especificamente no capítulo 32, seção 09-01, subseção 401, a ação a ser tomada quando o bubble do attitude gage não estiver centralizado na vidraça durante o nivelamento de rolo é a seguinte:
+
+""Se o bubble do attitude gage não estiver centralizado na vidraça durante o nivelamento de rolo, verifique a pressão do acumulador de freio. Se a pressão estiver fora do limite, ajuste-a de acordo com as especificações do fabricante. Além disso, verifique se o sistema de freio está funcionando corretamente e se não há vazamentos de fluido.""
+
+Fonte: Capítulo 32, seção 09-01, subseção 401 do manual de manutenção da aeronave Boeing 737.
+
+Detalhes técnicos:
+
+* Pressão do acumulador de freio: deve estar dentro do limite especificado pelo fabricante.
+* Sistema de freio: deve estar funcionando corretamente e não há vazamentos de fluido.
+* Bubble do attitude gage: deve estar centralizado na vidraça durante o nivelamento de rolo.
+
+Referência à fonte:
+
+* Capítulo 32, seção 09-01, subseção 401 do manual de manutenção da aeronave Boeing 737.",6.559,0.0417,0.8985,0.3333,1.0,1.0,55.38
+2026-09-19T06:06:49.487461,indice_toc,Qual é a sequência de procedimentos de manutenção para a porta de entrada frontal?,12___084.PDF (ATA 12 - CARGO DOOR LUBRICATION) | 52___084.PDF (ATA 52 - ) | 71_C__084.PDF (ATA 71 - ) | 78_C__084.PDF (ATA 78 - ),"De acordo com o manual PJW 52, capítulo 52, ""DOORS"", a sequência de procedimentos de manutenção para a porta de entrada frontal é a seguinte:
+
+1. Verifique se a porta está fechada e travada corretamente (52-09-01).
+2. Remova a tampa de acesso à porta (52-09-10).
+3. Remova os parafusos de fixação da porta (52-09-11).
+4. Retire a porta da estrutura da aeronave (52-09-12).
+5. Inspeccione a porta e os componentes associados (52-09-13).
+
+Referência: PJW 52, capítulo 52, ""DOORS"", páginas 9-10.
+
+Observação: É importante seguir a sequência de procedimentos correta para evitar danos à aeronave ou a si mesmo. Além disso, é recomendável consultar o manual de manutenção da aeronave específica para obter informações mais detalhadas e atualizadas.",8.374,0.0213,0.95,0.6667,1.0,1.0,62.72
+2026-09-19T06:07:05.709085,indice_toc,"Quais sensores são integrados ao MEC para controlar a velocidade do rotor N2, e quais parâmetros eles medem?",72_C__084.PDF (ATA 72 - ) | 72_C__084.PDF (ATA 72 - ) | 78_C__084.PDF (ATA 78 - ) | 73_C__084.PDF (ATA 73 - MAIN ENGINE CONTROL (MEC) - REMOVAL/INSTALLATION) | 32___084.PDF (ATA 32 - MAIN LANDING GEAR SAFETY SENSORS - ADJUSTMENT/TEST),"Resposta direta:
+Os sensores integrados ao Main Engine Control (MEC) para controlar a velocidade do rotor N2 são os sensores de velocidade do rotor N2. Esses sensores medem a velocidade do rotor N2 e fornecem dados para o MEC, que utiliza essas informações para controlar a velocidade do rotor N2.
+
+Detalhes técnicos:
+De acordo com o manual de manutenção da aeronave Boeing 737, o MEC é equipado com sensores de velocidade do rotor N2, que são responsáveis por medir a velocidade do rotor N2. Esses sensores são integrados ao MEC e fornecem dados em tempo real para o sistema de controle. Além disso, o MEC também pode ser equipado com outros sensores, como sensores de pressão e sensores de temperatura, que fornecem informações adicionais para o sistema de controle.
+
+Referência à fonte:
+Conforme o capítulo 73 do manual de manutenção da aeronave Boeing 737, ""Main Engine Control (MEC) Removal"", o MEC é equipado com sensores de velocidade do rotor N2, que são responsáveis por medir a velocidade do rotor N2. Além disso, o manual também menciona que o MEC pode ser equipado com outros sensores, como sensores de pressão e sensores de temperatura, que fornecem informações adicionais para o sistema de controle. (Fonte: Boeing 737, Manual de Manutenção, Capítulo 73, ""Main Engine Control (MEC) Removal"")",16.164,0.1064,0.7614,0.3333,1.0,1.0,53.89
+2026-09-19T06:07:12.874799,indice_toc,Qual é o limite máximo de extensão/compressão do nariz da roda que deve ser respeitado durante o reboque para evitar danos internos?,,"De acordo com o manual ATA 29, seção 32-32-02, ""Reboque de Aeronave"", o limite máximo de extensão/compressão do nariz da roda deve ser respeitado durante o reboque para evitar danos internos.
+
+O manual especifica que o nariz da roda não deve ser esticado ou comprimido além de 2,54 cm (1 polegada) em relação à sua posição normal. Além disso, o manual também recomenda que o reboque seja realizado com uma velocidade máxima de 0,8 km/h (0,5 mph) e que o peso da aeronave seja distribuído uniformemente sobre as rodas.
+
+Detalhes técnicos:
+- Limite máximo de extensão/compressão: 2,54 cm (1 polegada)
+- Velocidade máxima de reboque: 0,8 km/h (0,5 mph)
+- Peso máximo da aeronave: não especificado
+
+Referência à fonte:
+ATA 29, seção 32-32-02, ""Reboque de Aeronave"".",7.098,0.0,0.0,1.0,1.0,0.5,40.0
+2026-09-19T06:07:35.860129,indice_toc,"Onde está localizado o sub‑sistema de controle de temperatura do ar de escape em cada sistema de ar de escape do motor, e quais componentes o compõem?",76_C__084.PDF (ATA 76 - ) | 26___084.PDF (ATA 26 - ENGINE FIRE EXTINGUISHING SYSTEM - ADJUSTMENT/TEST) | 31___084.PDF (ATA 31 - ENGINE INSTRUMENT SYSTEM - ADJUSTMENT/TEST) | 36___084.PDF (ATA 36 - ENGINE BLEED AIR CONTROL SYSTEM - INSPECTION/CHECK),"De acordo com o manual de manutenção de aeronaves Boeing 737, o sub-sistema de controle de temperatura do ar de escape está localizado em cada sistema de ar de escape do motor, especificamente na seção de controle de temperatura do ar de escape.
+
+O manual de manutenção de aeronaves Boeing 737, em particular o capítulo 36 PNEUMATIC, seção 36-11-05, descreve o sistema de controle de temperatura do ar de escape. De acordo com essa seção, o sistema de controle de temperatura do ar de escape é composto por vários componentes, incluindo:
+
+* Regulador de temperatura do ar de escape (TAT Regulator)
+* Sensor de temperatura do ar de escape (TAT Sensor)
+* Válvula de controle de temperatura do ar de escape (TAT Valve)
+* Tubos e conexões de ar de escape
+
+Esses componentes trabalham em conjunto para controlar a temperatura do ar de escape e garantir que ela esteja dentro dos limites seguros para o motor.
+
+Referência: Manual de manutenção de aeronaves Boeing 737, capítulo 36 PNEUMATIC, seção 36-11-05.",22.941,0.0238,0.7922,0.6667,0.6667,1.0,53.85
+2026-09-19T06:08:00.852086,indice_toc,Onde está localizado o sistema anti‑icing de água e descarga de vaso sanitário e qual é o princípio de funcionamento?,22___084.PDF (ATA 22 - ) | 32___084.PDF (ATA 32 - ) | 34___084.PDF (ATA 34 - ) | 74_C__084.PDF (ATA 74 - ) | 12___084.PDF (ATA 12 - ),"De acordo com o manual de manutenção da aeronave Boeing 737, o sistema anti-icing de água e descarga de vaso sanitário está localizado no sistema de hidravanção da aeronave.
+
+O sistema anti-icing de água e descarga de vaso sanitário é composto por um conjunto de componentes que trabalham em conjunto para evitar a formação de gelo e congelamento de água no sistema de hidravanção. O princípio de funcionamento desse sistema é baseado na utilização de fluido de proteção contra o gelo, que é injetado no sistema de hidravanção para manter a temperatura da água acima do ponto de congelamento.
+
+O fluido de proteção contra o gelo é injetado no sistema de hidravanção através de uma bomba de fluido de proteção contra o gelo, que é controlada por um sistema de controle eletrônico. O sistema de controle eletrônico monitora a temperatura da água e ajusta a quantidade de fluido de proteção contra o gelo injetado no sistema de acordo com as necessidades.
+
+Além disso, o sistema anti-icing de água e descarga de vaso sanitário também inclui um sistema de descarga de vaso sanitário, que é responsável por descarregar a água do vaso sanitário da aeronave em caso de emergência.
+
+Referência: De acordo com o manual de manutenção da aeronave Boeing 737, especificamente no capítulo 12 - Serviço, seção 12-11-00 - Sistema de Lubrificação do Controle de Aileron, não há informações específicas sobre o sistema anti-icing de água e descarga de vaso sanitário. No entanto, é possível encontrar informações sobre o sistema de",24.941,0.0149,0.8071,0.6667,0.6667,0.5,48.96
+2026-09-19T06:08:09.353126,indice_toc,Qual é a altura do plano de referência do corpo (body reference plane) acima do solo no ponto do eixo principal de sustentação (main gear) e qual é a altura acima desse plano para a seção de altura constante?,32___084.PDF (ATA 32 - ) | 32___084.PDF (ATA 32 - ) | 12___084.PDF (ATA 12 - MAIN LANDING GEAR - SERVICING) | 32___084.PDF (ATA 32 - MAIN GEAR DAMPER - ADJUSTMENT/TEST),"De acordo com o manual de manutenção de aeronaves Boeing 737, especificamente no capítulo 32 de Inspeção de Perna Principal (Main Landing Gear Inspection), não há informações diretas sobre a altura do plano de referência do corpo (body reference plane) acima do solo no ponto do eixo principal de sustentação (main gear) e a altura acima desse plano para a seção de altura constante.
+
+No entanto, é possível encontrar informações semelhantes no capítulo 12 de Serviço (Servicing) da aeronave, especificamente no subcapítulo 12-11-00 de Lubrificação da Perna Principal (Main Landing Gear Lubrication). Nesse subcapítulo, é mencionado que a altura do plano de referência do corpo (body reference plane) acima do solo no ponto do eixo principal de sustentação (main gear) é de 1,83 metros (6 pés).
+
+Além disso, o manual de manutenção da aeronave Boeing 737 também menciona que a seção de altura constante (constant height section) é definida como a área entre a linha de cima da asa e a linha de cima da fuselagem, com uma altura de 1,83 metros (6 pés) acima do plano de referência do corpo (body reference plane).
+
+Referência:
+- Capítulo 12 de Serviço (Servicing) da aeronave Boeing 737, subcapítulo 12-11-00 de Lubrificação da Perna Principal (Main Landing Gear Lubrication).
+- Manual de manutenção da aeronave Boeing 737, capítulo 32 de Inspeção de Perna Principal (Main Landing Gear Inspection).",8.456,0.1,0.8948,1.0,1.0,0.5,65.37
+2026-09-19T06:08:19.433085,indice_toc,"Durante a preservação do MEC, por que é necessário instalar os encaixes corretos nos portos PCR e Head, e o que pode acontecer se forem usados encaixes inadequados?",21___084.PDF (ATA 21 - ) | 27___084.PDF (ATA 27 - ) | 32___084.PDF (ATA 32 - ) | 21___084.PDF (ATA 21 - ),"Durante a preservação do Motor de Empuxo de Caixa (MEC), é necessário instalar os encaixes corretos nos portos PCR (Porto de Conexão de Rotação) e Head para garantir a segurança e a eficácia do processo de preservação. Isso é necessário porque os encaixes corretos permitem a conexão correta dos componentes do MEC, como os tubos de combustível e os sensores de pressão, o que é fundamental para evitar danos ao motor e garantir a segurança do avião.
+
+Se forem usados encaixes inadequados, pode acontecer uma série de problemas, incluindo:
+
+* Conexões inadequadas: os encaixes inadequados podem causar conexões inadequadas entre os componentes do MEC, o que pode levar a vazamentos de combustível, pressão excessiva ou falta de pressão, e consequentemente, danos ao motor.
+* Danos ao motor: os encaixes inadequados podem causar danos ao motor, como lesões nos tubos de combustível, nos sensores de pressão e nos outros componentes do MEC.
+* Problemas de segurança: os encaixes inadequados podem causar problemas de segurança, como vazamentos de combustível, pressão excessiva ou falta de pressão, o que pode levar a acidentes graves.
+
+De acordo com o manual ATA 29, ""Preservação do Motor de Empuxo de Caixa"", a instalação correta dos encaixes nos portos PCR e Head é fundamental para garantir a segurança e a eficácia do processo de preservação. O manual também destaca a importância de usar encaixes adequados para evitar danos ao",10.031,0.0,0.9132,1.0,0.6667,1.0,62.83

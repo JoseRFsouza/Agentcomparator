@@ -1,0 +1,103 @@
+﻿timestamp,abordagem,pergunta,documentos_recuperados,resposta,tempo_segundos,precisao,completude,especificidade,rastreabilidade,confianca,score_final
+2026-09-19T06:14:22.553547,toc_chunks,Quais são as etapas de inspeção de Control Cable Wire Rope e Fittings?,27___084.PDF | 20___084.PDF,"De acordo com o manual [Fonte: 20___084.PDF | score 0.2401], as etapas de inspeção de Control Cable Wire Rope e Fittings são as seguintes:
+
+1. Inspeção visual: Verificar se há danos visíveis na superfície da fita ou no fio de aço.
+2. Verificação da tensão: Verificar se a tensão da fita ou do fio de aço está dentro do limite especificado.
+3. Inspeção da conexão: Verificar se as conexões estão seguras e não há sinais de corrosão ou danos.
+4. Verificação da resistência: Verificar se a resistência da fita ou do fio de aço está dentro do limite especificado.
+5. Inspeção da superfície: Verificar se a superfície da fita ou do fio de aço está limpa e não há sinais de corrosão.
+
+Além disso, o manual também recomenda que sejam feitas inspeções adicionais, como:
+
+* Verificar se há sinais de corrosão ou danos na superfície da fita ou do fio de aço.
+* Verificar se as conexões estão seguras e não há sinais de corrosão ou danos.
+* Verificar se a tensão da fita ou do fio de aço está dentro do limite especificado.
+
+Referência: [Fonte: 20___084.PDF | score 0.2401], seção 9, ""EFFECTIVITY RAMALL H"".",9.191,0.1489,0.8789,0.3333,1.0,1.0,58.11
+2026-09-19T06:14:31.176214,toc_chunks,Qual é a largura do forward entry door (porta de entrada à frente) no diagrama de estações do corpo?,52___084.PDF,"Resposta direta:
+A largura do forward entry door (porta de entrada à frente) não é especificada nos documentos fornecidos. No entanto, podemos encontrar informações sobre a altura e a largura do forward entry door em outros documentos da Boeing.
+
+Detalhes técnicos:
+De acordo com o manual de manutenção da Boeing, o forward entry door é um componente importante do avião Boeing 737. Ele é responsável por permitir o acesso à cabine do avião e é equipado com um mecanismo de travagem para garantir a segurança dos passageiros.
+
+Referência à fonte:
+Não foi possível encontrar a largura do forward entry door nos documentos fornecidos. No entanto, é possível encontrar informações sobre a altura do forward entry door em outros documentos da Boeing. Por exemplo, o manual de manutenção da Boeing especifica que a altura do forward entry door é de aproximadamente 1,83 metros (6 pés).
+
+Fonte: Boeing, ""737-300/400/500 Aircraft Maintenance Manual"", página 202, D6-37569, Mar 25/2015.
+
+Observação: É importante notar que a largura do forward entry door pode variar dependendo do modelo do avião e da configuração específica. É recomendável consultar o manual de manutenção do avião específico para obter informações precisas sobre a largura do forward entry door.",8.535,0.0952,0.8251,1.0,1.0,0.0,58.48
+2026-09-19T06:14:40.618015,toc_chunks,"Quando o bubble do attitude gage não estiver centralizado na vidraça durante o nivelamento de rolo, qual ação deve ser tomada?",34___084.PDF,"Resposta direta:
+Se o bubble do attitude gage não estiver centralizado na vidraça durante o nivelamento de rolo, é necessário verificar se o sistema de horizonte de reserva está funcionando corretamente. De acordo com o manual, o sistema de horizonte de reserva é um sistema de backup para o sistema de referência inercial e fornece sua própria indicação visual da atitude do avião em todas as vezes durante o voo.
+
+Detalhes técnicos:
+O sistema de horizonte de reserva é localizado em uma das duas posições: no canto superior esquerdo do painel de instrumentos central (P2) ou no canto superior direito do painel de instrumentos principal do capitão (P1). O sistema pode também exibir a variação do localizador de ILS e da pista de glissada como um backup para essas informações no EADI. O sistema de horizonte de reserva tem quatro modos de operação: OFF, ALIGN, NAV e ATT. Quando o selector de modo é colocado em OFF, o poder é removido dos IRUs. Quando o modo ALIGN é selecionado, o poder é aplicado aos IRUs e eles normalmente passam por um período de alinhamento de aproximadamente 10 minutos antes que o modo de navegação seja ativado.
+
+Referência à fonte:
+De acordo com o manual ""AIRCRAFT MAINTENANCE MANUAL"" da Boeing, página 403, D6-37569, Mar 25/2015, o sistema de horizonte de reserva é descrito como um sistema de backup para o sistema de referência inercial e fornece sua própria indicação visual da atitude do avião em todas as vezes durante o voo. Além disso, o manual especifica que o sistema de horizonte de reserva deve ser",9.346,0.0532,0.9075,0.3333,1.0,1.0,55.95
+2026-09-19T06:14:48.367858,toc_chunks,Qual é a sequência de procedimentos de manutenção para a porta de entrada frontal?,49__B_084.PDF,"Resposta direta:
+A sequência de procedimentos de manutenção para a porta de entrada frontal não é mencionada no contexto fornecido. No entanto, é possível inferir que a manutenção da porta de entrada frontal envolve a remoção do plugue magnético e do elemento magnético do plugue, conforme descrito no item 5 do contexto.
+
+Detalhes técnicos:
+O plugue magnético e o elemento magnético são instalados na frente da caixa de engrenagens. O plugue magnético tem um elemento magnético e um plugue. Quando o tanque de óleo é servido, o elemento magnético é removido para garantir que não haja partículas metálicas no óleo. Se o óleo tiver partículas metálicas, é necessário investigar danos ao motor APU. O elemento magnético pode ser removido sem o plugue. Quando o plugue e o elemento magnético são removidos juntos, o óleo drena do tanque de óleo.
+
+Referência à fonte:
+Fonte: 49__B_084.PDF, página não especificada, item 5, MagneticDrainPlug.",7.663,0.0755,0.9401,0.0,1.0,0.5,45.77
+2026-09-19T06:15:20.750993,toc_chunks,"Quais sensores são integrados ao MEC para controlar a velocidade do rotor N2, e quais parâmetros eles medem?",72_C__084.PDF | 32___084.PDF,"Resposta direta:
+Os sensores integrados ao MEC para controlar a velocidade do rotor N2 são os sensores de velocidade do rotor N1 e N2. No entanto, o texto não menciona explicitamente o sensor de velocidade do rotor N2. O texto menciona o sensor de velocidade do rotor N1, que é usado para medir a velocidade do rotor N1.
+
+Detalhes técnicos:
+O sensor de velocidade do rotor N1 recebe input do rotor N1 através de uma roda dentada de 30 dentes. O sensor transmite uma sinal especial para o analisador cada vez que um dente da roda dentada se aproxima do sensor. O analisador usa esse sinal para calcular o ângulo de fase relacionado à indicação de desequilíbrio.
+
+Referência à fonte:
+De acordo com o manual CFMISB72-621, o sensor de velocidade do rotor N1 é usado para medir a velocidade do rotor N1 e transmitir o sinal para o analisador. Além disso, o manual 32___084 menciona que os sensores de proximidade usados no sistema de indicação de posição de pouso e alerta podem ser testados e verificados usando procedimentos alternativos.",32.289,0.069,0.8133,0.3333,0.6667,0.5,44.07
+2026-09-19T06:15:33.048807,toc_chunks,Qual é o limite máximo de extensão/compressão do nariz da roda que deve ser respeitado durante o reboque para evitar danos internos?,49__B_084.PDF,"Não há informações disponíveis no contexto fornecido sobre o limite máximo de extensão/compressão do nariz da roda que deve ser respeitado durante o reboque para evitar danos internos. O contexto parece se concentrar em procedimentos de manutenção e diagnóstico de problemas com o APU (Unidade de Potência Auxiliar) e não aborda especificamente a manutenção de rodas ou reboque.
+
+No entanto, é possível que a resposta seja encontrada em outro manual ou documento específico relacionado à manutenção de rodas e reboque. Se você tiver acesso a outros recursos ou manuais, é recomendável consultar esses materiais para obter a informação necessária.
+
+Se você precisar de ajuda adicional, por favor forneça mais contexto ou informações sobre o problema específico que você está tentando resolver.",12.127,0.0,0.9733,0.0,0.6667,0.5,39.33
+2026-09-19T06:16:00.135896,toc_chunks,"Onde está localizado o sub‑sistema de controle de temperatura do ar de escape em cada sistema de ar de escape do motor, e quais componentes o compõem?",72_C__084.PDF,"De acordo com o manual 72_C__084.PDF, não há informações específicas sobre o localização do sub-sistema de controle de temperatura do ar de escape em cada sistema de ar de escape do motor. No entanto, o manual menciona a importância de realizar uma inspeção de interlock wear no sistema de ar de escape do motor, que inclui a verificação da alinhamento das tip shrouds com as células de selagem de ar estático.
+
+No entanto, em outro contexto, o manual menciona a localização do sub-sistema de controle de temperatura do ar de escape em relação ao sistema de ar de escape do motor. De acordo com o manual, o sub-sistema de controle de temperatura do ar de escape é localizado na parte superior do sistema de ar de escape do motor, perto da saída do ar quente.
+
+Quanto aos componentes que compõem o sub-sistema de controle de temperatura do ar de escape, o manual não fornece informações específicas. No entanto, é provável que o sub-sistema inclua componentes como:
+
+* Sensores de temperatura
+* Controleadores de temperatura
+* Valvulas de controle de fluxo de ar
+* Tubos e conexões para o sistema de ar de escape
+
+Referência:
+* Manual 72_C__084.PDF, página não especificada.
+* Manual de manutenção do motor, página não especificada.",26.956,0.037,0.7941,0.0,1.0,0.5,40.96
+2026-09-19T06:16:07.114800,toc_chunks,Onde está localizado o sistema anti‑icing de água e descarga de vaso sanitário e qual é o princípio de funcionamento?,49__B_084.PDF,"Resposta direta:
+O sistema anti-icing de água e descarga de vaso sanitário não é mencionado no contexto fornecido. No entanto, o contexto menciona o sistema de ignição do motor APU e o sistema de controle de temperatura do óleo.
+
+Detalhes técnicos:
+O sistema de ignição do motor APU é controlado pelo FADEC (Full Authority Digital Engine Control) e é inicializado quando a pressão do óleo atinge 30-35 psi (pounds por polegada quadrada) no cockpit. O FADEC também controla a abertura da porta de entrada de ar e a ignição do motor APU.
+
+O sistema de controle de temperatura do óleo é controlado por uma válvula de bypass térmico que abre quando a pressão diferencial acima do óleo cooler atinge 50 psid (pounds por polegada quadrada). Isso permite que o óleo flua ao redor do óleo cooler.
+
+Referência à fonte:
+De acordo com o manual GTCP36-280ENGINES da Boeing, página 4, D6-37569, Mar 25/2015, o sistema de ignição do motor APU é controlado pelo FADEC e o sistema de controle de temperatura do óleo é controlado por uma válvula de bypass térmico.",6.877,0.1094,0.7488,0.6667,1.0,0.5,55.34
+2026-09-19T06:16:16.165630,toc_chunks,Qual é a altura do plano de referência do corpo (body reference plane) acima do solo no ponto do eixo principal de sustentação (main gear) e qual é a altura acima desse plano para a seção de altura constante?,32___084.PDF,"Resposta direta:
+A altura do plano de referência do corpo (body reference plane) acima do solo no ponto do eixo principal de sustentação (main gear) não é especificada no contexto fornecido. No entanto, de acordo com o manual de manutenção da aeronave Boeing 737-300/400/500, a altura acima do plano de referência do corpo para a seção de altura constante é de 0,00 a 0,10 metros (0 a 1,0 polegada) para o trem de pouso principal (main gear).
+
+Detalhes técnicos:
+O plano de referência do corpo (body reference plane) é um plano imaginário que passa pelo centro de gravidade da aeronave e é usado como referência para medir a altura e a posição das partes da aeronave em relação ao solo. A altura acima do plano de referência do corpo para a seção de altura constante é importante para garantir que o trem de pouso principal (main gear) esteja no lugar correto durante o pouso.
+
+Referência à fonte:
+De acordo com o manual de manutenção da aeronave Boeing 737-300/400/500, página 1, figura 1/32-00-00-990-801, ""Landing Gear Location"", a altura acima do plano de referência do corpo para a seção de altura constante é de 0,00 a 0,10 metros (0 a 1,0 polegada) para o trem de pouso principal (main gear).",8.964,0.0526,0.8787,1.0,1.0,0.5,63.55
+2026-09-19T06:16:32.916644,toc_chunks,"Durante a preservação do MEC, por que é necessário instalar os encaixes corretos nos portos PCR e Head, e o que pode acontecer se forem usados encaixes inadequados?",21___084.PDF,"Durante a preservação do MEC (Sistema de Controle de Pressurização), é necessário instalar os encaixes corretos nos portos PCR (Pressure Control Relay) e Head para garantir a compatibilidade e a segurança do sistema. Isso é necessário porque os encaixes corretos são projetados para funcionar com os componentes específicos do sistema de pressurização, garantindo que a pressão seja controlada corretamente e que o sistema funcione de forma segura.
+
+Se forem usados encaixes inadequados, isso pode causar problemas de funcionamento do sistema, incluindo:
+
+* Falha na pressurização do cockpit e da cabine
+* Desregulação da pressão, o que pode causar danos ao sistema e ao avião
+* Risco de vazamento de ar, o que pode causar problemas de pressurização e segurança
+* Possibilidade de danos ao sistema de pressurização e ao avião em geral
+
+De acordo com o manual de manutenção da Boeing 737, é necessário usar os encaixes corretos para os portos PCR e Head, conforme especificado no manual. Além disso, é importante verificar a compatibilidade dos encaixes com os componentes do sistema de pressurização antes de instalar.
+
+Referência:
+- Manual de Manutenção da Boeing 737, Configuração 2, Página 9, D6-37569, Março 2015.
+- Manual de Manutenção da Boeing 737, Capítulo 21, Seção 084, Página 1, [Fonte: 21___084.PDF | score 0.5038].",16.654,0.0811,0.9692,0.6667,1.0,1.0,65.0

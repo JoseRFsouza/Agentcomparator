@@ -27,13 +27,13 @@ from pathlib import Path
 BASE_DIR = Path(__file__).resolve().parent
 
 # Base de conhecimento processada (gerada por processar_base_documental.py)
-INDICE_CONHECIMENTO = BASE_DIR / "base_conhecimento_indice.json"
+INDICE_CONHECIMENTO = BASE_DIR / "base" / "base_conhecimento_indice.json"
 
 # Índice TOC (tabela de conteúdo dos manuais, 4945 entradas, 43 capítulos ATA)
 INDICE_TOC = BASE_DIR.parent / "amm_toc_database.json"
 
 # Ground truth (gabarito de perguntas/respostas) - preencher pelo usuário
-GROUND_TRUTH = BASE_DIR / "ground_truth.json"
+GROUND_TRUTH = BASE_DIR / "base" / "ground_truth.json"
 
 # Perguntas de teste (uma por linha)
 PERGUNTAS_TESTE = BASE_DIR / "perguntas_teste.txt"
@@ -68,3 +68,9 @@ MAX_TOKENS = 400     # limite de tokens da resposta
 # indisponível neste ambiente. O TF-IDF produz vetores esparsos de alta
 # dimensionalidade que são indexados no FAISS (IndexFlatIP).
 EMBED_DIM_LEGACY = 512
+
+# ----------------------------------------------------------------------------
+# TIMESTAMP PARA PADRÃO DE RESULTADOS
+# ----------------------------------------------------------------------------
+from datetime import datetime
+TIMESTAMP = datetime.now().strftime("%Y%m%d_%H%M%S")

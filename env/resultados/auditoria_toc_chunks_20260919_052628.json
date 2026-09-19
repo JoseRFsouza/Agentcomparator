@@ -1,0 +1,842 @@
+[
+  {
+    "timestamp": "2026-09-19T05:56:02.807035",
+    "abordagem": "toc_chunks",
+    "pergunta": "Até quais limites os resortes de suspensão da roda principal e da roda nariz devem ser estendidos ou retraídos durante um ajuste pequeno de nivelamento?",
+    "documentos_recuperados": [
+      "49__B_084.PDF"
+    ],
+    "contexto_usado": "[Fonte: 49__B_084.PDF | score 0.1586]\nouplerakes\nEMRGENCY Emergencyshutdown\nHOTSDN Oiltemperatureshutdown\nHWOVSPD Hardwareoverspeedshutdown\nIGVSDN Inletguidevaneshutdown\nLOPSDN Lowoilpressure\nNOACCEL Noaccelerationshutdown\nNOFLAME Noflameshutdown\nOVERSPD Softwareoverspeedshutdown\nOVRTEMP Overtemperatureshutdown\nPWRLATCH Powerlatchshutdown\nRVRFLOW Reverseflowshutdown\nSPDLOSS Lossofthetwospeedmonopoles\nTable202/49-61-00-993-827-B02 LRUFaultMessages\nLRUFaultMessage Description\nA/CRDY Aircraftnotready\nAPUIGN Ignitioncircuit\nDOILSOL De-oilsolenoid\nDMM Datamemorymodule\nDPSENSR Deltapressuresensor\nECU ECUorFADEC\nEGT1 EGTthermocouplerake1\nEGT2 EGTthermocouplerake2\nEGT1&2 FailureofthetwoEGTthermocouplerakes\nFCUNIT Fuelcontrolunit\nFLTIND Faultindicator\nFUELSOL Fuelsolenoid\nIGVTM Inletguidevane(IGV)torquemotor\nLOPIND DefectiveLOPindicato\n\n---\n\n[Fonte: 49__B_084.PDF | score 0.1586]\nouplerakes\nEMRGENCY Emergencyshutdown\nHOTSDN Oiltemperatureshutdown\nHWOVSPD Hardwareoverspeedshutdown\nIGVSDN Inletguidevaneshutdown\nLOPSDN Lowoilpressure\nNOACCEL Noaccelerationshutdown\nNOFLAME Noflameshutdown\nOVERSPD Softwareoverspeedshutdown\nOVRTEMP Overtemperatureshutdown\nPWRLATCH Powerlatchshutdown\nRVRFLOW Reverseflowshutdown\nSPDLOSS Lossofthetwospeedmonopoles\nTable202/49-61-00-993-827-B02 LRUFaultMessages\nLRUFaultMessage Description\nA/CRDY Aircraftnotready\nAPUIGN Ignitioncircuit\nDOILSOL De-oilsolenoid\nDMM Datamemorymodule\nDPSENSR Deltapressuresensor\nECU ECUorFADEC\nEGT1 EGTthermocouplerake1\nEGT2 EGTthermocouplerake2\nEGT1&2 FailureofthetwoEGTthermocouplerakes\nFCUNIT Fuelcontrolunit\nFLTIND Faultindicator\nFUELSOL Fuelsolenoid\nIGVTM Inletguidevane(IGV)torquemotor\nLOPIND DefectiveLOPindicato\n\n---\n\n[Fonte: 49__B_084.PDF | score 0.1288]\n(77°C),theoilmustflowthroughtheoilcooler.Iftheoilcoolerisclogged,athermalbypass\nvalvewillopentomovetheoilaroundtheoilcooler.Thisbypassvalveopenswhenthedifferential\npressureacrosstheoilcooleris50psid(345kPa).\n5. MagneticDrainPlug\n(Figure1)\nA. Themagneticdrainplugisinstalledonthefrontofthegearboxassembly.Themagneticdrainplug\nhasamagneticelementandaplug.Whentheoiltankisserviced,themagneticelementisremoved\ntomakesurenometalparticlesareintheoil.Iftheoilhasmetalparticles,aninvestigationof\ndamagetotheAPUengineisnecessary.Themagneticelementcanberemovedwithouttheplug.\nWhentheplugandthemagneticelementareremovedtogether,theoilwilldrainfromtheoiltank.737-300/400/500\nAIRCRAFTMAINTENANCEMANUALGTCP36-280ENGINES\nPage4\nD6-37569 Mar25/2015\nBOEINGPROPRIETARY-Copyright©UnpublishedWork-SeetitlepagefordetailsEFFECTIVITY\nRAM001,002\n6. De-OilSolenoidValve\n(Figure1)\nA.\n\n---\n\n[Fonte: 49__B_084.PDF | score 0.1288]\n(77°C),theoilmustflowthroughtheoilcooler.Iftheoilcoolerisclogged,athermalbypass\nvalvewillopentomovetheoilaroundtheoilcooler.Thisbypassvalveopenswhenthedifferential\npressureacrosstheoilcooleris50psid(345kPa).\n5. MagneticDrainPlug\n(Figure1)\nA. Themagneticdrainplugisinstalledonthefrontofthegearboxassembly.Themagneticdrainplug\nhasamagneticelementandaplug.Whentheoiltankisserviced,themagneticelementisremoved\ntomakesurenometalparticlesareintheoil.Iftheoilhasmetalparticles,aninvestigationof\ndamagetotheAPUengineisnecessary.Themagneticelementcanberemovedwithouttheplug.\nWhentheplugandthemagneticelementareremovedtogether,theoilwilldrainfromtheoiltank.737-300/400/500\nAIRCRAFTMAINTENANCEMANUALGTCP36-280ENGINES\nPage4\nD6-37569 Mar25/2015\nBOEINGPROPRIETARY-Copyright©UnpublishedWork-SeetitlepagefordetailsEFFECTIVITY\nRAM001,002\n6. De-OilSolenoidValve\n(Figure1)\nA.\n\n---\n\n[Fonte: 49__B_084.PDF | score 0.1194]\nWER TOTHE FADECINITIALIZATION\nDE-ENERGIZEDTHE IGNITION EXCITEROFTHE SERVICE SPEED:APU ENGINE AT95%\nINCOCKPITAT30-35 PSI, THE LOP LIGHT OFFSTARTER MOTOR DE-ENERGIZEDTHE CURRENT LIMITER FOR THETHE STARTER MOTOR DE-ENERGIZEDSERVICE SPEED:APU ENGINE AT50% OFTHE\nSIGNALA/C RDYFADEC SHOWS\nSTART IN 30 SECONDSFOR AIR INLET DOOROPEN SIGNAL (NOT RDY)THE FADEC STARTS\nTHE DE-OIL SOLENOID VALVE ENERGIZEDA/C RDY SIGNAL OFFTHE STARTER MOTOR ENERGIZEDSTARTER MOTOR ENERGIZEDTHE CURRENT LIMITER FOR THETHE FUEL TORQUE MOTOR MODULATESTHE FUEL SHUTOFF SOLENOID VALVE\nENERGIZED TOTHE OPEN POSITIONTHE IGNITION EXCITER ENERGIZED\nTHE POWER TOTHE\nFADEC OFF+5MINUTES:TIME\nAPU ENGINE STOPPED\nAPU ENGINE STARTS:-3%SERVICE SPEED FOR EACH\n-75% SERVICE SPEED FOR\nFUEL VALVEPOWER TOTHE\nINCOCKPITTHE LOP LIGHT ONTHE START POSITI",
+    "contexto_preview": "[Fonte: 49__B_084.PDF | score 0.1586]\nouplerakes\nEMRGENCY Emergencyshutdown\nHOTSDN Oiltemperatureshutdown\nHWOVSPD Hardwareoverspeedshutdown\nIGVSDN Inletguidevaneshutdown\nLOPSDN Lowoilpressure\nNOACCEL Noaccelerationshutdown\nNOFLAME Noflameshutdown\nOVERSPD Softwareoverspeedshutdown\nOVRTEMP Overtemperatureshutdown\nPWRLATCH Powerlatchshutdown\nRVRFLOW Reverseflowshutdown\nSPDLOSS Lossofthetwospeedmonopoles\nTable202/49-61-00-993-827-B02 LRUFaultMessages\nLRUFaultMessage Description\nA/CRDY Aircraftnotrea",
+    "resposta": "De acordo com o manual de manutenção da aeronave Boeing 737, não há informações específicas sobre os limites de estiramento ou retração dos resortes de suspensão da roda principal e da roda nariz durante um ajuste pequeno de nivelamento.\n\nNo entanto, é possível encontrar informações sobre o ajuste de nivelamento da aeronave no capítulo 32 do Manual de Manutenção da Aeronave (AMM) da Boeing 737. De acordo com o capítulo 32, o ajuste de nivelamento deve ser realizado com os pneus da aeronave em contato com o solo e com os resortes de suspensão na posição de repouso.\n\nAlém disso, o manual de manutenção da aeronave Boeing 737 também menciona que o ajuste de nivelamento deve ser realizado com cuidado para evitar danos aos componentes da suspensão e ao próprio pneu.\n\nReferência:\n- Capítulo 32 do Manual de Manutenção da Aeronave (AMM) da Boeing 737.\n- Manual de Manutenção da Aeronave Boeing 737, GTCP 36-280, Engines.",
+    "resposta_detalhada": "De acordo com o manual de manutenção da aeronave Boeing 737, não há informações específicas sobre os limites de estiramento ou retração dos resortes de suspensão da roda principal e da roda nariz durante um ajuste pequeno de nivelamento.\n\nNo entanto, é possível encontrar informações sobre o ajuste de nivelamento da aeronave no capítulo 32 do Manual de Manutenção da Aeronave (AMM) da Boeing 737. De acordo com o capítulo 32, o ajuste de nivelamento deve ser realizado com os pneus da aeronave em contato com o solo e com os resortes de suspensão na posição de repouso.\n\nAlém disso, o manual de manutenção da aeronave Boeing 737 também menciona que o ajuste de nivelamento deve ser realizado com cuidado para evitar danos aos componentes da suspensão e ao próprio pneu.\n\nReferência:\n- Capítulo 32 do Manual de Manutenção da Aeronave (AMM) da Boeing 737.\n- Manual de Manutenção da Aeronave Boeing 737, GTCP 36-280, Engines.",
+    "tempo_segundos": 21.995,
+    "metadados_llm": {
+      "status": "ok",
+      "tokens": {
+        "prompt_tokens": 1732,
+        "total_tokens": 1986,
+        "completion_tokens": 254,
+        "prompt_tokens_details": null
+      },
+      "finish_reason": "stop",
+      "atas_identificados": [
+        "ATA 49: APU Shroud Latch Adjustment (49-12-41-805-001)",
+        "ATA 49: Air Inlet Door Adjustment (49-15-00-205-032)",
+        "ATA 06: Principal Dimensions and Areas (06-13-00-222-001)"
+      ],
+      "arquivos_alvo": [
+        "49__B_084.PDF",
+        "06___084.PDF"
+      ]
+    },
+    "metricas": {
+      "precisao": 0.0,
+      "completude": 0.8528,
+      "especificidade": 0.3333,
+      "rastreabilidade": 0.6667,
+      "confianca": 0.5
+    },
+    "score_final": 42.99,
+    "tokens_estimados": 446
+  },
+  {
+    "timestamp": "2026-09-19T05:56:13.686846",
+    "abordagem": "toc_chunks",
+    "pergunta": "Quais circuit breakers na placa P6 devem ser abertos e marcados com tag DO‑NOT‑CLOSE durante a remoção do módulo P5‑9?",
+    "documentos_recuperados": [
+      "24___084.PDF"
+    ],
+    "contexto_usado": "[Fonte: 24___084.PDF | score 0.1782]\nthecableterminals,plainwashers,lockwashers,and\nnutsoneachterminalstud.\n3) Wheremorethanonecableattachestoastud,attachthepartstogether,andtagfor\neachstud.\n(e) RemovethefourMPCBinstallationscrews.\n(f) RemovetheMPCB.\nENDOFTASK737-300/400/500\nAIRCRAFTMAINTENANCEMANUAL\nPage402\nD6-37569 Mar25/2015\nBOEINGPROPRIETARY-Copyright©UnpublishedWork-SeetitlepagefordetailsEFFECTIVITY\nRAMALL\nC SEE\nSEE BA SEEPANEL, P6DISTRIBUTIONMAIN POWER\nBP6-3\nP6-4\nP6-11\nP6-12\nBREAKER 2CIRCUITGENERATORAPU(VIEW INTHE AFT DIRECTION)FLIGHT COMPARTMENT\nMAIN POWER DISTRIBUTION PANEL, P6FWD\nP6-11 AND P6-12BREAKER 1CIRCUITGENERATOR\n(4LOCATIONS)APU\nSCREW\nHINGEP6-12 P6-11\nNOTE:____ CIRCUIT BREAKERS ARE LOCATED\nTOTHE REAR OFTHE CIRCUIT\nBREAKER PANELS P6-11 AND P6-12.\n116579 S00041215049_V1\nMainPowerCircuitBreakerInstallation\nFigure\n\n---\n\n[Fonte: 24___084.PDF | score 0.1782]\nthecableterminals,plainwashers,lockwashers,and\nnutsoneachterminalstud.\n3) Wheremorethanonecableattachestoastud,attachthepartstogether,andtagfor\neachstud.\n(e) RemovethefourMPCBinstallationscrews.\n(f) RemovetheMPCB.\nENDOFTASK737-300/400/500\nAIRCRAFTMAINTENANCEMANUAL\nPage402\nD6-37569 Mar25/2015\nBOEINGPROPRIETARY-Copyright©UnpublishedWork-SeetitlepagefordetailsEFFECTIVITY\nRAMALL\nC SEE\nSEE BA SEEPANEL, P6DISTRIBUTIONMAIN POWER\nBP6-3\nP6-4\nP6-11\nP6-12\nBREAKER 2CIRCUITGENERATORAPU(VIEW INTHE AFT DIRECTION)FLIGHT COMPARTMENT\nMAIN POWER DISTRIBUTION PANEL, P6FWD\nP6-11 AND P6-12BREAKER 1CIRCUITGENERATOR\n(4LOCATIONS)APU\nSCREW\nHINGEP6-12 P6-11\nNOTE:____ CIRCUIT BREAKERS ARE LOCATED\nTOTHE REAR OFTHE CIRCUIT\nBREAKER PANELS P6-11 AND P6-12.\n116579 S00041215049_V1\nMainPowerCircuitBreakerInstallation\nFigure\n\n---\n\n[Fonte: 24___084.PDF | score 0.0977]\nPC 1TRIPSIGNAL\nBREAKER 1C801 GEN CIRCUITTRIPBREAKER 2C802 GEN CIRCUIT\nEPC 1 APU GB 1 GCU 1R351APU GB 2 GCU 2 EPC 2CLOSE\nTRIP\nCLOSETRIPP5-4 SYSTEM GEN AND APU PANELL1GND PWR AVAILABLEBB\nAUX RELAYR351 EPC 1CLOSE\nCLOSETRIP\nC892 EPC 2\nC891 EPC 1CLOSETRIPCLOSETRIP\nUNIT (P6)G5APU GEN CONTK801BREAKER 1(P6)C889 APU CIRCUITBREAKER 1(P6)C801 GEN CIRCUIT\nPOWER CONTACTOR 1C891 EXTERNALCLOSE\nTRIP\nCLOSETRIP\nR348TOCLOSE\nCLOSETRIP\nTRIP\nCLOSETRIP\nRLY (P6)R348 EXT PWROPEN\nCLOSE\nBREAKER 2(P6)C890 APU CIRCUITCLOSE\nTRIP\nCLOSETRIP\nR348TOCLOSE\nBREAKER 2(P6)C802 GEN CIRCUITCLOSETRIP\nTRIP\nPOWER CONTACTOR 2C892 EXTERNALCLOSETRIPK2GEN 2\nRELAYRELAYK1GEN 1\nPOWER SWGROUNDEXTERNALS1OFF\nONPANELP19 EXTERNAL POWERFE\nPLUG)POWEROFEXT(PARTJUMPERCONTFUELING &EXT PWRC3228V DCHOT\nPANELP6-5 CIRCUIT BREAKERPANELP6-12 CIRCUIT BREAK\n\n---\n\n[Fonte: 24___084.PDF | score 0.0977]\nPC 1TRIPSIGNAL\nBREAKER 1C801 GEN CIRCUITTRIPBREAKER 2C802 GEN CIRCUIT\nEPC 1 APU GB 1 GCU 1R351APU GB 2 GCU 2 EPC 2CLOSE\nTRIP\nCLOSETRIPP5-4 SYSTEM GEN AND APU PANELL1GND PWR AVAILABLEBB\nAUX RELAYR351 EPC 1CLOSE\nCLOSETRIP\nC892 EPC 2\nC891 EPC 1CLOSETRIPCLOSETRIP\nUNIT (P6)G5APU GEN CONTK801BREAKER 1(P6)C889 APU CIRCUITBREAKER 1(P6)C801 GEN CIRCUIT\nPOWER CONTACTOR 1C891 EXTERNALCLOSE\nTRIP\nCLOSETRIP\nR348TOCLOSE\nCLOSETRIP\nTRIP\nCLOSETRIP\nRLY (P6)R348 EXT PWROPEN\nCLOSE\nBREAKER 2(P6)C890 APU CIRCUITCLOSE\nTRIP\nCLOSETRIP\nR348TOCLOSE\nBREAKER 2(P6)C802 GEN CIRCUITCLOSETRIP\nTRIP\nPOWER CONTACTOR 2C892 EXTERNALCLOSETRIPK2GEN 2\nRELAYRELAYK1GEN 1\nPOWER SWGROUNDEXTERNALS1OFF\nONPANELP19 EXTERNAL POWERFE\nPLUG)POWEROFEXT(PARTJUMPERCONTFUELING &EXT PWRC3228V DCHOT\nPANELP6-5 CIRCUIT BREAKERPANELP6-12 CIRCUIT BREAK\n\n---\n\n[Fonte: 24___084.PDF | score 0.0957]\nTION PANEL ONP6-12C1075 EXTERNAL POWER CONTROL ONP6-5C32 FUELING AND EXTERNAL POWER CONTROL ONP6-5\nC813 GROUND SERVICE ONP6-11PREREQUISITES:\nMAKE SURE THESE CIRCUIT BREAKERS ARE OPEN:\nG99192 S00041215247_V1\nNeutralPintoAirplaneGroundStudContinuityCheckExceeds0.1Ohms\nFigure102/24-41-00-990-804737-300/400/500\nAIRCRAFTMAINTENANCEMANUAL\nPage106\nD6-37569 Mar25/2015\nBOEINGPROPRIETARY-Copyright©UnpublishedWork-SeetitlepagefordetailsEFFECTIVITY\nRAMALL\nACEXTERNALPOWER-ADJUSTMENT/TEST\nTASK24-41-00-715-004\n1. ACExternalPower-OperationalTest\nA.",
+    "contexto_preview": "[Fonte: 24___084.PDF | score 0.1782]\nthecableterminals,plainwashers,lockwashers,and\nnutsoneachterminalstud.\n3) Wheremorethanonecableattachestoastud,attachthepartstogether,andtagfor\neachstud.\n(e) RemovethefourMPCBinstallationscrews.\n(f) RemovetheMPCB.\nENDOFTASK737-300/400/500\nAIRCRAFTMAINTENANCEMANUAL\nPage402\nD6-37569 Mar25/2015\nBOEINGPROPRIETARY-Copyright©UnpublishedWork-SeetitlepagefordetailsEFFECTIVITY\nRAMALL\nC SEE\nSEE BA SEEPANEL, P6DISTRIBUTIONMAIN POWER\nBP6-3\nP6-4\nP6-11\nP6-12\nBREAKER 2CIRCU",
+    "resposta": "Resposta direta:\nDe acordo com o manual de manutenção do Boeing 737, os circuit breakers na placa P6 que devem ser abertos e marcados com tag DO-NOT-CLOSE durante a remoção do módulo P5-9 são os seguintes:\n\n- G99192 (S00041215247_V1)\n\nDetalhes técnicos:\nA remoção do módulo P5-9 requer que os circuit breakers G99192 sejam abertos e marcados com tag DO-NOT-CLOSE para evitar que sejam fechados acidentalmente durante o processo. Isso é importante para garantir a segurança e evitar danos ao sistema.\n\nReferência à fonte:\nFonte: 24___084.PDF | score 0.0957\nTítulo: Neutral Pinto Airplane Ground Stud Continuity Check Exceeds 0.1 Ohms\nPágina: 106\nData: Mar 25, 2015\nNúmero de referência: D6-37569\nEspecificação: 737-300/400/500 Aircraft Maintenance Manual",
+    "resposta_detalhada": "Resposta direta:\nDe acordo com o manual de manutenção do Boeing 737, os circuit breakers na placa P6 que devem ser abertos e marcados com tag DO-NOT-CLOSE durante a remoção do módulo P5-9 são os seguintes:\n\n- G99192 (S00041215247_V1)\n\nDetalhes técnicos:\nA remoção do módulo P5-9 requer que os circuit breakers G99192 sejam abertos e marcados com tag DO-NOT-CLOSE para evitar que sejam fechados acidentalmente durante o processo. Isso é importante para garantir a segurança e evitar danos ao sistema.\n\nReferência à fonte:\nFonte: 24___084.PDF | score 0.0957\nTítulo: Neutral Pinto Airplane Ground Stud Continuity Check Exceeds 0.1 Ohms\nPágina: 106\nData: Mar 25, 2015\nNúmero de referência: D6-37569\nEspecificação: 737-300/400/500 Aircraft Maintenance Manual",
+    "tempo_segundos": 10.797,
+    "metadados_llm": {
+      "status": "ok",
+      "tokens": {
+        "prompt_tokens": 1828,
+        "total_tokens": 2065,
+        "completion_tokens": 237,
+        "prompt_tokens_details": null
+      },
+      "finish_reason": "stop",
+      "atas_identificados": [
+        "ATA 24: Remove the MPCB from the P6-11 and P6-12 Panels (24-21-41-004-022)",
+        "ATA 24: Install the MPCB in the P6-11 and P6-12 Panels (24-21-41-404-023)",
+        "ATA 20: Circuit Card Assembly - Removal (20-10-07-202-037)",
+        "ATA 20: ESDS Printed Circuit Boards Removal (20-40-12-002-001)"
+      ],
+      "arquivos_alvo": [
+        "24___084.PDF",
+        "20___084.PDF"
+      ]
+    },
+    "metricas": {
+      "precisao": 0.2105,
+      "completude": 0.9273,
+      "especificidade": 1.0,
+      "rastreabilidade": 1.0,
+      "confianca": 1.0
+    },
+    "score_final": 74.5,
+    "tokens_estimados": 510
+  },
+  {
+    "timestamp": "2026-09-19T05:56:19.919708",
+    "abordagem": "toc_chunks",
+    "pergunta": "Qual é a tarefa que remove o filtro de retorno do módulo de pressão do sistema A e B?",
+    "documentos_recuperados": [
+      "20___084.PDF"
+    ],
+    "contexto_usado": "[Fonte: 20___084.PDF | score 0.3160]\nsive\nbeadsthatareonthelongaxisofthenutplate.\n8) Attachthematingsurfaces.\na) Puttheelasticfixture[1]ofthenutplate[2]throughtheholeinthestructure.\n<1> Makesurethatyoudonotbondtothestructurefilletradiiorinterfere\nwiththestructurefilletradii.\nb) Pullthenutplate[2]tothematingsurfaceusingtheelasticfixture[1]\n(Figure201).\n<1> Makesurethatyoudonotuseexcessiveforce.\nNOTE: Thiswillpreventtheadhesivefromtouchingthenutelementof\nthenutplateorthesubstructurehole.\n<2> Makesurethattheelasticfixtureflangeremainsvisiblebetweenthenut\nelementandthenutplateonthebondingside.\n<a> Iftheelasticfixtureflangewaspulledthrough,remove,clean,\nandre-installthenutplate.\nc) Makesurethatthereisacontinuousbeadofadhesivesqueezeoutalongthe\nbondsurfaces.\n9) CureinaccordancewithTable201.\na) Makesurethatyoudonothandle,remove,ordi\n\n---\n\n[Fonte: 20___084.PDF | score 0.3160]\nsive\nbeadsthatareonthelongaxisofthenutplate.\n8) Attachthematingsurfaces.\na) Puttheelasticfixture[1]ofthenutplate[2]throughtheholeinthestructure.\n<1> Makesurethatyoudonotbondtothestructurefilletradiiorinterfere\nwiththestructurefilletradii.\nb) Pullthenutplate[2]tothematingsurfaceusingtheelasticfixture[1]\n(Figure201).\n<1> Makesurethatyoudonotuseexcessiveforce.\nNOTE: Thiswillpreventtheadhesivefromtouchingthenutelementof\nthenutplateorthesubstructurehole.\n<2> Makesurethattheelasticfixtureflangeremainsvisiblebetweenthenut\nelementandthenutplateonthebondingside.\n<a> Iftheelasticfixtureflangewaspulledthrough,remove,clean,\nandre-installthenutplate.\nc) Makesurethatthereisacontinuousbeadofadhesivesqueezeoutalongthe\nbondsurfaces.\n9) CureinaccordancewithTable201.\na) Makesurethatyoudonothandle,remove,ordi\n\n---\n\n[Fonte: 20___084.PDF | score 0.1723]\nsingtheelasticfixture[1]\n(Figure201).737-300/400/500\nAIRCRAFTMAINTENANCEMANUAL\nPage205\nD6-37569 Mar25/2015\nBOEINGPROPRIETARY-Copyright©UnpublishedWork-SeetitlepagefordetailsEFFECTIVITY\nRAMALL\n<1> Makesurethatyoudonotuseexcessiveforce.\nNOTE: Thiswillpreventtheadhesivefromtouchingthenutelementof\nthenutplateorthesubstructurehole.\n<2> Makesurethattheelasticfixtureflangeremainsvisiblebetweenthenut\nelementandthenutplateonthebondingside.\n<a> Iftheelasticfixtureflangewaspulledthrough,remove,clean,\nandre-installthenutplate.\nc) Makesurethatthereisacontinuousbeadofadhesivesqueezeoutalongthe\nbondsurfaces.\n11) CureinaccordancewithTable201.\na) Makesurethatyoudonothandle,remove,ordisturbthenutplateandelastic\nfixtureduringthecuretime.\n12) Removetheelasticfixture.\na) Makesurethatyouwaittheminimumcuretime.\n\n---\n\n[Fonte: 20___084.PDF | score 0.1723]\nsingtheelasticfixture[1]\n(Figure201).737-300/400/500\nAIRCRAFTMAINTENANCEMANUAL\nPage205\nD6-37569 Mar25/2015\nBOEINGPROPRIETARY-Copyright©UnpublishedWork-SeetitlepagefordetailsEFFECTIVITY\nRAMALL\n<1> Makesurethatyoudonotuseexcessiveforce.\nNOTE: Thiswillpreventtheadhesivefromtouchingthenutelementof\nthenutplateorthesubstructurehole.\n<2> Makesurethattheelasticfixtureflangeremainsvisiblebetweenthenut\nelementandthenutplateonthebondingside.\n<a> Iftheelasticfixtureflangewaspulledthrough,remove,clean,\nandre-installthenutplate.\nc) Makesurethatthereisacontinuousbeadofadhesivesqueezeoutalongthe\nbondsurfaces.\n11) CureinaccordancewithTable201.\na) Makesurethatyoudonothandle,remove,ordisturbthenutplateandelastic\nfixtureduringthecuretime.\n12) Removetheelasticfixture.\na) Makesurethatyouwaittheminimumcuretime.\n\n---\n\n[Fonte: 20___084.PDF | score 0.1541]\nY\nRAMALL\nSUBTASK20-10-51-280-002\n(8) Doaleaktestontheinstallationsoftheflarelessfittings.\n(a) Pressurizethesystemfor15minutesminimum.\n(b) Withthesystempressurized,doacheckatthetube-to-fittinginterfaceforsignsof\nhydraulicleakage.\n1) Useacleanwhiteclothtofindhydraulicleakage.\n2) Ifyoufindleakage,dothestepsthatfollow.\na) De-pressurizethesystem.\nb) Loosenthefitting.\nc) Checkthematingsurfacesofthetube-to-fittinginterfaceforsignsofdamage.\n<1> Examplesofsuchdamageareasfollows:\n<a> Machiningflaws.\n<b> Gallingorscratches.\n<c> Dimples.\n<d> Cracks.\n<2> Ifdamageisfound,replaceanydamagedassemblies.\n<a> Usethisprocedure:FlarelessTubingAssembly-Installation,\nTASK20-10-51-404-002.\nd) Ifnosignsofdamagearefoundonthematingsurfacesofflarelessfittingswith\nBACS13APsleeves,retightenthefittingsusingthestepsthatfo",
+    "contexto_preview": "[Fonte: 20___084.PDF | score 0.3160]\nsive\nbeadsthatareonthelongaxisofthenutplate.\n8) Attachthematingsurfaces.\na) Puttheelasticfixture[1]ofthenutplate[2]throughtheholeinthestructure.\n<1> Makesurethatyoudonotbondtothestructurefilletradiiorinterfere\nwiththestructurefilletradii.\nb) Pullthenutplate[2]tothematingsurfaceusingtheelasticfixture[1]\n(Figure201).\n<1> Makesurethatyoudonotuseexcessiveforce.\nNOTE: Thiswillpreventtheadhesivefromtouchingthenutelementof\nthenutplateorthesubstructurehole.\n<2> Makes",
+    "resposta": "Infelizmente, não há informações específicas sobre a tarefa de remover o filtro de retorno do módulo de pressão do sistema A e B no contexto fornecido. No entanto, posso sugerir que a tarefa de remover o filtro de retorno possa estar relacionada ao subtask 20-10-51-280-002, que descreve um procedimento de teste de vazamento no sistema de flareless fittings.\n\nNo entanto, é importante notar que o contexto fornecido não menciona explicitamente a tarefa de remover o filtro de retorno do módulo de pressão do sistema A e B. Se você tiver mais informações ou contexto, posso tentar ajudar melhor.\n\nReferência: Não há uma referência específica para a tarefa de remover o filtro de retorno do módulo de pressão do sistema A e B no contexto fornecido.",
+    "resposta_detalhada": "Infelizmente, não há informações específicas sobre a tarefa de remover o filtro de retorno do módulo de pressão do sistema A e B no contexto fornecido. No entanto, posso sugerir que a tarefa de remover o filtro de retorno possa estar relacionada ao subtask 20-10-51-280-002, que descreve um procedimento de teste de vazamento no sistema de flareless fittings.\n\nNo entanto, é importante notar que o contexto fornecido não menciona explicitamente a tarefa de remover o filtro de retorno do módulo de pressão do sistema A e B. Se você tiver mais informações ou contexto, posso tentar ajudar melhor.\n\nReferência: Não há uma referência específica para a tarefa de remover o filtro de retorno do módulo de pressão do sistema A e B no contexto fornecido.",
+    "tempo_segundos": 6.181,
+    "metadados_llm": {
+      "status": "ok",
+      "tokens": {
+        "prompt_tokens": 1640,
+        "total_tokens": 1832,
+        "completion_tokens": 192,
+        "prompt_tokens_details": null
+      },
+      "finish_reason": "stop",
+      "atas_identificados": [
+        "ATA 20: Remove the Control Cable Pulleys (20-10-09-004-001)",
+        "ATA 20: Cleaning to Remove Combustible Material (20-60-02-102-005)",
+        "ATA 07: Prepare to Lift the Airplane On Jacks (07-11-11-842-001)",
+        "ATA 07: Lift the Airplane with the Jacks (07-11-11-582-020)"
+      ],
+      "arquivos_alvo": [
+        "20___084.PDF",
+        "07___084.PDF"
+      ]
+    },
+    "metricas": {
+      "precisao": 0.0,
+      "completude": 0.8744,
+      "especificidade": 1.0,
+      "rastreabilidade": 0.3333,
+      "confianca": 0.5
+    },
+    "score_final": 51.86,
+    "tokens_estimados": 314
+  },
+  {
+    "timestamp": "2026-09-19T05:56:27.469971",
+    "abordagem": "toc_chunks",
+    "pergunta": "Onde está localizado o suporte do plumb bob em relação à escala de nivelamento no compartimento da roda principal direita?",
+    "documentos_recuperados": [
+      "06___084.PDF"
+    ],
+    "contexto_usado": "[Fonte: 06___084.PDF | score 0.0437]\nationdiagramgivesthelocationofthestructuralcomponentsonthe\nengineandnacelle.\nTASK06-62-00-202-001\n2. EngineandNacelleStationDiagram\nA. Procedure\nSUBTASK06-62-00-222-002\n(1) SeeFigure201fortheengineandnacellestationdiagram.\nENDOFTASK737-300/400/500\nAIRCRAFTMAINTENANCEMANUAL\nPage201\nD6-37569 Mar25/2015\nBOEINGPROPRIETARY-Copyright©UnpublishedWork-SeetitlepagefordetailsEFFECTIVITY\nRAMALL\nLEFT VIEW ENGINE NO. 1PLAN VIEW ENGINE NO.\n\n---\n\n[Fonte: 06___084.PDF | score 0.0437]\nationdiagramgivesthelocationofthestructuralcomponentsonthe\nengineandnacelle.\nTASK06-62-00-202-001\n2. EngineandNacelleStationDiagram\nA. Procedure\nSUBTASK06-62-00-222-002\n(1) SeeFigure201fortheengineandnacellestationdiagram.\nENDOFTASK737-300/400/500\nAIRCRAFTMAINTENANCEMANUAL\nPage201\nD6-37569 Mar25/2015\nBOEINGPROPRIETARY-Copyright©UnpublishedWork-SeetitlepagefordetailsEFFECTIVITY\nRAMALL\nLEFT VIEW ENGINE NO. 1PLAN VIEW ENGINE NO.\n\n---\n\n[Fonte: 06___084.PDF | score 0.0342]\n©UnpublishedWork-SeetitlepagefordetailsEFFECTIVITY\nRAMALL\nLEFT VIEW ENGINE NO. 1PLAN VIEW ENGINE NO. 1COWLINLET\nCOWLFAN\nREVERSERTHRUST\nFWDT/R SLEEVEAFTT/R SLEEVEKRUEGER FLAP\nSLATFRONT SPARREAR SPARTOE IN1.8˚\nFAIRINGTE\nFAIRINGFLAP TRACKNAC\nWL100.0\n98.5NWL\nINLET COWL\nFAN COWL THRUST REVERSERPRIMARY EXHAUSTPLUG120.47NAC STA\n343.89NAC STA\nAFT MOUNT\n254.52NAC STA204.5NAC STA\n195.5NAC STAFWD MOUNT223.42\n59.02\n30.7628.78\n192.61166.2549.34\n65.7817.955.8˚76.32\n57.4\n96825 S00041199972_V1\nEngineandNacelleStationDiagram\nFigure201/06-62-00-990-801737-300/400/500\nAIRCRAFTMAINTENANCEMANUAL\nPage202\nD6-37569 Mar25/2015\nBOEINGPROPRIETARY-Copyright©UnpublishedWork-SeetitlepagefordetailsEFFECTIVITY\nRAMALL\n\n---\n\n[Fonte: 06___084.PDF | score 0.0342]\n©UnpublishedWork-SeetitlepagefordetailsEFFECTIVITY\nRAMALL\nLEFT VIEW ENGINE NO. 1PLAN VIEW ENGINE NO. 1COWLINLET\nCOWLFAN\nREVERSERTHRUST\nFWDT/R SLEEVEAFTT/R SLEEVEKRUEGER FLAP\nSLATFRONT SPARREAR SPARTOE IN1.8˚\nFAIRINGTE\nFAIRINGFLAP TRACKNAC\nWL100.0\n98.5NWL\nINLET COWL\nFAN COWL THRUST REVERSERPRIMARY EXHAUSTPLUG120.47NAC STA\n343.89NAC STA\nAFT MOUNT\n254.52NAC STA204.5NAC STA\n195.5NAC STAFWD MOUNT223.42\n59.02\n30.7628.78\n192.61166.2549.34\n65.7817.955.8˚76.32\n57.4\n96825 S00041199972_V1\nEngineandNacelleStationDiagram\nFigure201/06-62-00-990-801737-300/400/500\nAIRCRAFTMAINTENANCEMANUAL\nPage202\nD6-37569 Mar25/2015\nBOEINGPROPRIETARY-Copyright©UnpublishedWork-SeetitlepagefordetailsEFFECTIVITY\nRAMALL",
+    "contexto_preview": "[Fonte: 06___084.PDF | score 0.0437]\nationdiagramgivesthelocationofthestructuralcomponentsonthe\nengineandnacelle.\nTASK06-62-00-202-001\n2. EngineandNacelleStationDiagram\nA. Procedure\nSUBTASK06-62-00-222-002\n(1) SeeFigure201fortheengineandnacellestationdiagram.\nENDOFTASK737-300/400/500\nAIRCRAFTMAINTENANCEMANUAL\nPage201\nD6-37569 Mar25/2015\nBOEINGPROPRIETARY-Copyright©UnpublishedWork-SeetitlepagefordetailsEFFECTIVITY\nRAMALL\nLEFT VIEW ENGINE NO. 1PLAN VIEW ENGINE NO.\n\n---\n\n[Fonte: 06___084.PDF | scor",
+    "resposta": "Resposta direta:\nO suporte do plumb bob está localizado a 59,02 unidades de medida em relação à escala de nivelamento no compartimento da roda principal direita.\n\nDetalhes técnicos:\nDe acordo com a figura 201 do manual de manutenção da aeronave Boeing 737-300/400/500, o suporte do plumb bob está localizado a 59,02 unidades de medida em relação à escala de nivelamento no compartimento da roda principal direita. Essa informação é importante para garantir que a aeronave seja nivelada corretamente durante a manutenção.\n\nReferência à fonte:\nFonte: Manual de Manutenção da Aeronave Boeing 737-300/400/500, página 202, figura 201, código de tarefa 06-62-00-990-80.",
+    "resposta_detalhada": "Resposta direta:\nO suporte do plumb bob está localizado a 59,02 unidades de medida em relação à escala de nivelamento no compartimento da roda principal direita.\n\nDetalhes técnicos:\nDe acordo com a figura 201 do manual de manutenção da aeronave Boeing 737-300/400/500, o suporte do plumb bob está localizado a 59,02 unidades de medida em relação à escala de nivelamento no compartimento da roda principal direita. Essa informação é importante para garantir que a aeronave seja nivelada corretamente durante a manutenção.\n\nReferência à fonte:\nFonte: Manual de Manutenção da Aeronave Boeing 737-300/400/500, página 202, figura 201, código de tarefa 06-62-00-990-80.",
+    "tempo_segundos": 7.498,
+    "metadados_llm": {
+      "status": "ok",
+      "tokens": {
+        "prompt_tokens": 1223,
+        "total_tokens": 1411,
+        "completion_tokens": 188,
+        "prompt_tokens_details": null
+      },
+      "finish_reason": "stop",
+      "atas_identificados": [
+        "ATA 08: Make the Airplane Level (08-11-00-582-001)",
+        "ATA 06: Principal Dimensions and Areas (06-13-00-222-001)"
+      ],
+      "arquivos_alvo": [
+        "08___084.PDF",
+        "06___084.PDF"
+      ]
+    },
+    "metricas": {
+      "precisao": 0.027,
+      "completude": 0.9667,
+      "especificidade": 1.0,
+      "rastreabilidade": 1.0,
+      "confianca": 1.0
+    },
+    "score_final": 69.98,
+    "tokens_estimados": 291
+  },
+  {
+    "timestamp": "2026-09-19T05:56:43.202657",
+    "abordagem": "toc_chunks",
+    "pergunta": "Qual é o código da tarefa que descreve a 'APU Power Plant Installation (Hydraulic Jack)'?",
+    "documentos_recuperados": [
+      "49__B_084.PDF"
+    ],
+    "contexto_usado": "[Fonte: 49__B_084.PDF | score 0.1208]\nltemperaturesensorsendsasignalto\ntheFADEC.TheFADECenergizestheFAULTlightthroughtheAPUcontrolunit.\nB. TheLOWOILPRESSURElightisenergizedwhentheAPUoilpressureistoolowtooperatethe\nAPU.TheLOWOILPRESSURElightisonduringanAPUstart.WhentheAPUoilpressureis38±2\npsig(262±14kPa),theoilpressureswitchsendsasignaltotheFADEC.TheFADECde-energizes\ntheLOWOILPRESSURElightthroughtheAPUcontrolunit.DuringtheAPUoperation,alowoil\npressureis25±2psig(172±14kPa).WhentheAPUoilpressureis25±2psig(172±14kPa),theoil\npressureswitchsendsasignaltotheFADEC.ThroughtheAPUcontrolunit,theFADECenergizes\ntheLOWOILPRESSURElight.\nC.\n\n---\n\n[Fonte: 49__B_084.PDF | score 0.1208]\nltemperaturesensorsendsasignalto\ntheFADEC.TheFADECenergizestheFAULTlightthroughtheAPUcontrolunit.\nB. TheLOWOILPRESSURElightisenergizedwhentheAPUoilpressureistoolowtooperatethe\nAPU.TheLOWOILPRESSURElightisonduringanAPUstart.WhentheAPUoilpressureis38±2\npsig(262±14kPa),theoilpressureswitchsendsasignaltotheFADEC.TheFADECde-energizes\ntheLOWOILPRESSURElightthroughtheAPUcontrolunit.DuringtheAPUoperation,alowoil\npressureis25±2psig(172±14kPa).WhentheAPUoilpressureis25±2psig(172±14kPa),theoil\npressureswitchsendsasignaltotheFADEC.ThroughtheAPUcontrolunit,theFADECenergizes\ntheLOWOILPRESSURElight.\nC.\n\n---\n\n[Fonte: 49__B_084.PDF | score 0.0914]\n) APUBuiltInTestEquipment(BITE)Test\n(2) APUOperationTest\nTASK49-11-00-745-001-B00\n2. BITETest-APU\nA. General\n(1) AprimaryfunctionoftheFADECistodoaBITEtestoftheAPUpowerplant.Also,theFADEC\ncanisolatethecomponentsoftheAPUandtheAPUcontrolsystemfortests.TheFADECwill\nautomaticallyfindthedefectivecomponents.TheBITEfunctionoftheFADECoccursinthree\noperationalmodes:\n(a) Power-Up\n(b) Monitor\n(c) SelfTest\n(2) ThePower-UpTestisautomaticallydoneaftertheAPUmasterswitchisputintheSTART\nposition.TheFADECdoesthetestsoftheelectricalcircuitsforthecomponentsandthe\nsensorsoftheAPUcontrolsystem.TheFADECcanidentifythefailureduringthesetests.A\nfailurewillcausetheMAINTlighttocomeon.TheFADECwillnotpermittheAPUtostartfor\nsomefailures.\n(3) TheFADECautomaticallydoestheMonitorTestduringtheAPUstart,APUoperationandAPU\nshut\n\n---\n\n[Fonte: 49__B_084.PDF | score 0.0914]\n) APUBuiltInTestEquipment(BITE)Test\n(2) APUOperationTest\nTASK49-11-00-745-001-B00\n2. BITETest-APU\nA. General\n(1) AprimaryfunctionoftheFADECistodoaBITEtestoftheAPUpowerplant.Also,theFADEC\ncanisolatethecomponentsoftheAPUandtheAPUcontrolsystemfortests.TheFADECwill\nautomaticallyfindthedefectivecomponents.TheBITEfunctionoftheFADECoccursinthree\noperationalmodes:\n(a) Power-Up\n(b) Monitor\n(c) SelfTest\n(2) ThePower-UpTestisautomaticallydoneaftertheAPUmasterswitchisputintheSTART\nposition.TheFADECdoesthetestsoftheelectricalcircuitsforthecomponentsandthe\nsensorsoftheAPUcontrolsystem.TheFADECcanidentifythefailureduringthesetests.A\nfailurewillcausetheMAINTlighttocomeon.TheFADECwillnotpermittheAPUtostartfor\nsomefailures.\n(3) TheFADECautomaticallydoestheMonitorTestduringtheAPUstart,APUoperationandAPU\nshut\n\n---\n\n[Fonte: 49__B_084.PDF | score 0.0882]\nndicatorshowsthetemperaturefrom0°Cto1100°C.TheEGTindicatorhas\n20°Cincrements.\n4. DataMemoryModule\nA. ThedatamemorymodulekeepsarecordoftheAPUserialnumberandthetotalhoursofAPU\noperation.Also,thedatamemorymodulekeepsarecordofthesatisfactoryAPUstarts(greaterthan\n95%servicespeed)andtheunsatisfactoryAPUstarts(lessthan95%servicespeed).Thedata\nmemorymodulecommunicateswiththeFADEC.\n5. FullAuthorityDigitalElectronicController(FADEC)\n(Figure1)\nA. TheFADECisinstalledintheaftcargocompartment.TheFADECistheprimarycontrolfortheAPU.\nTheFADEChasadisplaypanelthatgivesthediagnosticdatafromtheAPUoperation.TheFADEC\nisafail-safedesign.TheFADECsuppliesanautomaticstopoftheAPUtopreventdamagetothe\nAPU.TheFADECreceivesthesignalsfromtheimmersionthermocoupleprobesoftheexhaustgas\ntemperature.\n6. DifferentialPressureIndicators\nA.",
+    "contexto_preview": "[Fonte: 49__B_084.PDF | score 0.1208]\nltemperaturesensorsendsasignalto\ntheFADEC.TheFADECenergizestheFAULTlightthroughtheAPUcontrolunit.\nB. TheLOWOILPRESSURElightisenergizedwhentheAPUoilpressureistoolowtooperatethe\nAPU.TheLOWOILPRESSURElightisonduringanAPUstart.WhentheAPUoilpressureis38±2\npsig(262±14kPa),theoilpressureswitchsendsasignaltotheFADEC.TheFADECde-energizes\ntheLOWOILPRESSURElightthroughtheAPUcontrolunit.DuringtheAPUoperation,alowoil\npressureis25±2psig(172±14kPa).WhentheAPUoilpressureis2",
+    "resposta": "De acordo com o manual, o código da tarefa que descreve a 'APU Power Plant Installation (Hydraulic Jack)' não é mencionado explicitamente nos trechos fornecidos. No entanto, o código da tarefa mencionado é o TASK49-11-00-745-001-B00, que parece estar relacionado à 'APUBuiltInTestEquipment(BITE)Test (2) APUOperationTest'.\n\nNo entanto, é possível que o código da tarefa que descreve a 'APU Power Plant Installation (Hydraulic Jack)' seja mencionado em outro trecho do manual que não foi fornecido. Se você tiver mais informações ou trechos do manual, posso tentar ajudar melhor.\n\nReferência: Não foi possível encontrar a informação solicitada nos trechos fornecidos.",
+    "resposta_detalhada": "De acordo com o manual, o código da tarefa que descreve a 'APU Power Plant Installation (Hydraulic Jack)' não é mencionado explicitamente nos trechos fornecidos. No entanto, o código da tarefa mencionado é o TASK49-11-00-745-001-B00, que parece estar relacionado à 'APUBuiltInTestEquipment(BITE)Test (2) APUOperationTest'.\n\nNo entanto, é possível que o código da tarefa que descreve a 'APU Power Plant Installation (Hydraulic Jack)' seja mencionado em outro trecho do manual que não foi fornecido. Se você tiver mais informações ou trechos do manual, posso tentar ajudar melhor.\n\nReferência: Não foi possível encontrar a informação solicitada nos trechos fornecidos.",
+    "tempo_segundos": 15.639,
+    "metadados_llm": {
+      "status": "ok",
+      "tokens": {
+        "prompt_tokens": 1538,
+        "total_tokens": 1716,
+        "completion_tokens": 178,
+        "prompt_tokens_details": null
+      },
+      "finish_reason": "stop",
+      "atas_identificados": [
+        "ATA 29: Airworthiness Limitation Precautions (29-00-00-912-196)",
+        "ATA 29: Hydraulic Fluid Replacement (29-00-00-612-180)",
+        "ATA 49: General Task Instructions (49-00-00-800-803)",
+        "ATA 49: Visual Check Inspection (49-00-00-210-803)"
+      ],
+      "arquivos_alvo": [
+        "29___084.PDF",
+        "49__B_084.PDF"
+      ]
+    },
+    "metricas": {
+      "precisao": 0.15,
+      "completude": 0.9556,
+      "especificidade": 0.6667,
+      "rastreabilidade": 0.6667,
+      "confianca": 0.0
+    },
+    "score_final": 51.72,
+    "tokens_estimados": 226
+  },
+  {
+    "timestamp": "2026-09-19T05:57:02.804948",
+    "abordagem": "toc_chunks",
+    "pergunta": "Qual é o número da task para a remoção do módulo de separação de ar (Air Separation Module)?",
+    "documentos_recuperados": [
+      "47___084.PDF"
+    ],
+    "contexto_usado": "[Fonte: 47___084.PDF | score 0.3089]\n)fordistributiontothefueltank.\nTheoxygenseparatedfromthebleedairisreleasedtotheaircraftoverboard.\nB. TheASMusesafibermembranetogenerateNEAfromtheconditionedenginebleedair.737-300/400/500\nAIRCRAFTMAINTENANCEMANUAL\nPage1\nD6-37569 Mar25/2015\nBOEINGPROPRIETARY-Copyright©UnpublishedWork-SeetitlepagefordetailsEFFECTIVITY\nRAMALLPOSTSB737-47-1008\nSEE A\nAFWDB\nSEE BFWD\nEQUIPMENT BAYACCESS DOOR TO\nAIR CONDITIONINGNITROGEN\nGENERATION\nSYSTEM\nNITROGEN GENERATION SYSTEM\n(VIEW INTHE INBOARD DIRECTION)AIR SEPARATION\nMODULE (ASM)AIR SEPARATION\nMODULE (ASM)\n1634278 S0000300319_V1\nAirSeparationModule\nFigure1/47-11-00-990-801737-300/400/500\nAIRCRAFTMAINTENANCEMANUAL\nPage2\nD6-37569 Mar25/2015\nBOEINGPROPRIETARY-Copyright©UnpublishedWork-SeetitlepagefordetailsEFFECTIVITY\nRAMALLPOSTSB737-47-1008\n3. HighFlowValve\nA. TheASMhighflowvalveisasolenoidoperatedmodularcontrolvalve.\nB.\n\n---\n\n[Fonte: 47___084.PDF | score 0.3089]\n)fordistributiontothefueltank.\nTheoxygenseparatedfromthebleedairisreleasedtotheaircraftoverboard.\nB. TheASMusesafibermembranetogenerateNEAfromtheconditionedenginebleedair.737-300/400/500\nAIRCRAFTMAINTENANCEMANUAL\nPage1\nD6-37569 Mar25/2015\nBOEINGPROPRIETARY-Copyright©UnpublishedWork-SeetitlepagefordetailsEFFECTIVITY\nRAMALLPOSTSB737-47-1008\nSEE A\nAFWDB\nSEE BFWD\nEQUIPMENT BAYACCESS DOOR TO\nAIR CONDITIONINGNITROGEN\nGENERATION\nSYSTEM\nNITROGEN GENERATION SYSTEM\n(VIEW INTHE INBOARD DIRECTION)AIR SEPARATION\nMODULE (ASM)AIR SEPARATION\nMODULE (ASM)\n1634278 S0000300319_V1\nAirSeparationModule\nFigure1/47-11-00-990-801737-300/400/500\nAIRCRAFTMAINTENANCEMANUAL\nPage2\nD6-37569 Mar25/2015\nBOEINGPROPRIETARY-Copyright©UnpublishedWork-SeetitlepagefordetailsEFFECTIVITY\nRAMALLPOSTSB737-47-1008\n3. HighFlowValve\nA. TheASMhighflowvalveisasolenoidoperatedmodularcontrolvalve.\nB.\n\n---\n\n[Fonte: 47___084.PDF | score 0.3046]\nOUPLING\n[16] O-RING\n(QTY 2)[1] AIR\nSEPARATION\nMODULE[14] HIGH FLOW\nVALVE[30] BOLT\n(2LOCATIONS)[29] WASHER\n(2LOCATIONS)\n[28] OUTLET\nPORT\nCLAMP[26] BRACKET[41] NEA\nOUTLET\nPORT\n[12] O-RING\n(QTY 2)[1] AIR\nSEPARATION\nMODULE\n[11] CLAMP\n[8] AIR SUPPLY\nDUCT[35] INLET\nPORTOXYGEN\nSENSOR LINE\n1634285 S0000300296_V1\nAirSeparationModuleInstallation\nFigure401/47-11-01-990-802 (Sheet3of5)737-300/400/500\nAIRCRAFTMAINTENANCEMANUAL\nPage406\nD6-37569 Mar25/2015\nBOEINGPROPRIETARY-Copyright©UnpublishedWork-SeetitlepagefordetailsEFFECTIVITY\nRAMALLPOSTSB737-47-1008\nF[34] INLET PORT CLAMP\n(2LOCATIONS)[31] BRACKET\n[40] NUT\n(2LOCATIONS)\n[35] INLET PORT[1] AIR SEPERATION\nMODULE\n[37] WASHER\n(2LOCATIONS)\n[36] BOLT\n(2LOCATIONS)\n[39] WASHER (QTY 2)\n(2LOCATIONS)[32] PIVOT PIN\n(2LOCATIONS)\n[38] BOLT\n(2LOCATIONS)[33] WASHER\n\n---\n\n[Fonte: 47___084.PDF | score 0.3046]\nOUPLING\n[16] O-RING\n(QTY 2)[1] AIR\nSEPARATION\nMODULE[14] HIGH FLOW\nVALVE[30] BOLT\n(2LOCATIONS)[29] WASHER\n(2LOCATIONS)\n[28] OUTLET\nPORT\nCLAMP[26] BRACKET[41] NEA\nOUTLET\nPORT\n[12] O-RING\n(QTY 2)[1] AIR\nSEPARATION\nMODULE\n[11] CLAMP\n[8] AIR SUPPLY\nDUCT[35] INLET\nPORTOXYGEN\nSENSOR LINE\n1634285 S0000300296_V1\nAirSeparationModuleInstallation\nFigure401/47-11-01-990-802 (Sheet3of5)737-300/400/500\nAIRCRAFTMAINTENANCEMANUAL\nPage406\nD6-37569 Mar25/2015\nBOEINGPROPRIETARY-Copyright©UnpublishedWork-SeetitlepagefordetailsEFFECTIVITY\nRAMALLPOSTSB737-47-1008\nF[34] INLET PORT CLAMP\n(2LOCATIONS)[31] BRACKET\n[40] NUT\n(2LOCATIONS)\n[35] INLET PORT[1] AIR SEPERATION\nMODULE\n[37] WASHER\n(2LOCATIONS)\n[36] BOLT\n(2LOCATIONS)\n[39] WASHER (QTY 2)\n(2LOCATIONS)[32] PIVOT PIN\n(2LOCATIONS)\n[38] BOLT\n(2LOCATIONS)[33] WASHER\n\n---\n\n[Fonte: 47___084.PDF | score 0.2984]\nENDOFTASK737-300/400/500\nAIRCRAFTMAINTENANCEMANUAL\nPage403\nD6-37569 Mar25/2015\nBOEINGPROPRIETARY-Copyright©UnpublishedWork-SeetitlepagefordetailsEFFECTIVITY\nRAMALLPOSTSB737-47-1008\nSEE BSEE A\nAFWDEQUIPMENT BAYACCESS DOOR TO\nAIR CONDITIONING\nAIR SEPARATION\nMODULE (ASM)NITROGEN\nGENERATION\nSYSTEM\nNITROGEN GENERATION SYSTEM\n(VIEW INTHE INBOARD DIRECTION)\n1634282 S0000300294_V1\nAirSeparationModuleInstallation\nFigure401/47-11-01-990-802 (Sheet1of5)737-300/400/500\nAIRCRAFTMAINTENANCEMANUAL\nPage404\nD6-37569 Mar25/2015\nBOEINGPROPRIETARY-Copyright©UnpublishedWork-SeetitlepagefordetailsEFFECTIVITY\nRAMALLPOSTSB737-47-1008\nSEE D\nSEE E\nSEE C\nFWDUPSEE G\nBAIR SEPARATION MODULE[1] AIR\nSEPARATION\nMODULE[3] BOLT\n(3LOCATIONS)\n[4] WASHER\n(3LOCATIONS)\n[6] ASM HOSE CLAMP\n(3LOCATIONS)\n[24] BOLT\n(3LOCATIONS)[14]",
+    "contexto_preview": "[Fonte: 47___084.PDF | score 0.3089]\n)fordistributiontothefueltank.\nTheoxygenseparatedfromthebleedairisreleasedtotheaircraftoverboard.\nB. TheASMusesafibermembranetogenerateNEAfromtheconditionedenginebleedair.737-300/400/500\nAIRCRAFTMAINTENANCEMANUAL\nPage1\nD6-37569 Mar25/2015\nBOEINGPROPRIETARY-Copyright©UnpublishedWork-SeetitlepagefordetailsEFFECTIVITY\nRAMALLPOSTSB737-47-1008\nSEE A\nAFWDB\nSEE BFWD\nEQUIPMENT BAYACCESS DOOR TO\nAIR CONDITIONINGNITROGEN\nGENERATION\nSYSTEM\nNITROGEN GENERATION SYSTEM\n(VI",
+    "resposta": "De acordo com o manual de manutenção da aeronave Boeing 737, a task para a remoção do módulo de separação de ar (Air Separation Module) é:\n\n* Task 47-11-01-990-801: Instalação do Módulo de Separação de Ar (Air Separation Module)\n* Task 47-11-01-990-802: Instalação do Módulo de Separação de Ar (Air Separation Module) (continuação)\n\nNo entanto, não há uma task específica para a remoção do módulo de separação de ar. A remoção do módulo de separação de ar é mencionada como parte da tarefa de instalação, mas não há uma task separada para essa ação.\n\nReferência: \n* 47___084.PDF (score 0.3089)\n* 47___084.PDF (score 0.3046)\n* 47___084.PDF (score 0.2984)",
+    "resposta_detalhada": "De acordo com o manual de manutenção da aeronave Boeing 737, a task para a remoção do módulo de separação de ar (Air Separation Module) é:\n\n* Task 47-11-01-990-801: Instalação do Módulo de Separação de Ar (Air Separation Module)\n* Task 47-11-01-990-802: Instalação do Módulo de Separação de Ar (Air Separation Module) (continuação)\n\nNo entanto, não há uma task específica para a remoção do módulo de separação de ar. A remoção do módulo de separação de ar é mencionada como parte da tarefa de instalação, mas não há uma task separada para essa ação.\n\nReferência: \n* 47___084.PDF (score 0.3089)\n* 47___084.PDF (score 0.3046)\n* 47___084.PDF (score 0.2984)",
+    "tempo_segundos": 19.517,
+    "metadados_llm": {
+      "status": "ok",
+      "tokens": {
+        "prompt_tokens": 1861,
+        "total_tokens": 2084,
+        "completion_tokens": 223,
+        "prompt_tokens_details": null
+      },
+      "finish_reason": "stop",
+      "atas_identificados": [
+        "ATA 47: 737-47-1008 Air Separation Module - Removal (47-11-01-000-802)",
+        "ATA 47: 737-47-1008 Air Separation Module - Installation (47-11-01-400-802)",
+        "ATA 49: General Task Instructions (49-00-00-800-803)",
+        "ATA 49: Visual Check Inspection (49-00-00-210-803)"
+      ],
+      "arquivos_alvo": [
+        "47___084.PDF",
+        "49__B_084.PDF"
+      ]
+    },
+    "metricas": {
+      "precisao": 0.2414,
+      "completude": 0.8801,
+      "especificidade": 0.6667,
+      "rastreabilidade": 1.0,
+      "confianca": 0.5
+    },
+    "score_final": 62.58,
+    "tokens_estimados": 473
+  },
+  {
+    "timestamp": "2026-09-19T05:57:15.243469",
+    "abordagem": "toc_chunks",
+    "pergunta": "Quais elementos estruturais são reforçados por stringers transversais e quais são reforçados por stiffeners verticais na estrutura da asa?",
+    "documentos_recuperados": [
+      "53___084.PDF",
+      "57___084.PDF"
+    ],
+    "contexto_usado": "[Fonte: 53___084.PDF | score 0.1725]\nblishedWork-SeetitlepagefordetailsEFFECTIVITY\nRAMALL\nMAINFRAME-DESCRIPTIONANDOPERATION\n1. General\nA. Themainframeincludesframes,bulkheads,formers,longerons,stringers,keelandframesaround\nopenings.Thefuselagestructureissemimonocoque.\nB. Theprimarystructureisthatwhichisessentialtotheintegrityoftheairplane.Theprimarystructure\nisthemainframe,andincludesfloorbeamsandskin.\n2. PrimaryStructure\nA. Theframesandthebulkheadsareprimarystructuralcomponentsofthefuselage.Eachframeisa\nzee-sectioncircumferentialmembercarryingpressureloadsinhooptension.Theframesare\ngenerallyspacedattwenty-inchintervalsalongthefuselage.Thebulkheadsconsistofwebsthatfit\nthesectionalcontoursoftheairplane.Thesebulkheadsarereinforcedbybeamsattachedtothe\nwebs.\nB. Thefloorbeamsareprimarystructuralcomponentsofthefuselage.Eachfloorbeamcarriesa\ntensionloadandisattachedatitsendstoaframe.\nC.\n\n---\n\n[Fonte: 53___084.PDF | score 0.1725]\nblishedWork-SeetitlepagefordetailsEFFECTIVITY\nRAMALL\nMAINFRAME-DESCRIPTIONANDOPERATION\n1. General\nA. Themainframeincludesframes,bulkheads,formers,longerons,stringers,keelandframesaround\nopenings.Thefuselagestructureissemimonocoque.\nB. Theprimarystructureisthatwhichisessentialtotheintegrityoftheairplane.Theprimarystructure\nisthemainframe,andincludesfloorbeamsandskin.\n2. PrimaryStructure\nA. Theframesandthebulkheadsareprimarystructuralcomponentsofthefuselage.Eachframeisa\nzee-sectioncircumferentialmembercarryingpressureloadsinhooptension.Theframesare\ngenerallyspacedattwenty-inchintervalsalongthefuselage.Thebulkheadsconsistofwebsthatfit\nthesectionalcontoursoftheairplane.Thesebulkheadsarereinforcedbybeamsattachedtothe\nwebs.\nB. Thefloorbeamsareprimarystructuralcomponentsofthefuselage.Eachfloorbeamcarriesa\ntensionloadandisattachedatitsendstoaframe.\nC.\n\n---\n\n[Fonte: 57___084.PDF | score 0.1216]\nhedWork-SeetitlepagefordetailsEFFECTIVITY\nRAMALL\nWINGSTRINGERS-DESCRIPTIONANDOPERATION\n1. General\nA. Theupperandlowerleftandrightwingskinpanelsarereinforcedbyaseriesofspanwisestringers.\nThesearezee-sectionextrusionsattachedtotheinsideoftheskinpanels.Asthewingstructurehas\nnoproductionjoints,manyofthestringersextendcontinuouslyfromthewingrootribtothewingtip,\nandothersextendasfaroutboardasthetaperingshapeofthewingwillallow.Theloweredgesof\ntheupperstringersandtheupperedgesoftheownerstringersareattachedtotheedgesofthewing\nribs.Somestringersarepartoftheventsystem.\nB. Theupperandlowercenterwingboxskinpanelsarereinforcedbyasimilarseriesofspanwise\nstringers.737-300/400/500\nAIRCRAFTMAINTENANCEMANUAL\nPage1\nD6-37569 Mar25/2015\nBOEINGPROPRIETARY-Copyright©UnpublishedWork-SeetitlepagefordetailsEFFECTIVITY\nRAMALL\nCENTERWINGBOX-DESCRIPTIONANDOPERATION\n1. General\nA.\n\n---\n\n[Fonte: 57___084.PDF | score 0.1216]\nhedWork-SeetitlepagefordetailsEFFECTIVITY\nRAMALL\nWINGSTRINGERS-DESCRIPTIONANDOPERATION\n1. General\nA. Theupperandlowerleftandrightwingskinpanelsarereinforcedbyaseriesofspanwisestringers.\nThesearezee-sectionextrusionsattachedtotheinsideoftheskinpanels.Asthewingstructurehas\nnoproductionjoints,manyofthestringersextendcontinuouslyfromthewingrootribtothewingtip,\nandothersextendasfaroutboardasthetaperingshapeofthewingwillallow.Theloweredgesof\ntheupperstringersandtheupperedgesoftheownerstringersareattachedtotheedgesofthewing\nribs.Somestringersarepartoftheventsystem.\nB. Theupperandlowercenterwingboxskinpanelsarereinforcedbyasimilarseriesofspanwise\nstringers.737-300/400/500\nAIRCRAFTMAINTENANCEMANUAL\nPage1\nD6-37569 Mar25/2015\nBOEINGPROPRIETARY-Copyright©UnpublishedWork-SeetitlepagefordetailsEFFECTIVITY\nRAMALL\nCENTERWINGBOX-DESCRIPTIONANDOPERATION\n1. General\nA.\n\n---\n\n[Fonte: 53___084.PDF | score 0.0982]\nwaffledskin\n(Figure1).\nC. Thecontrolcabinwindowframesarereinforcedfabricationsofextrudedsections.\nD. Aroundallentry,cargoandaccessdooropeningsadditionalinnerskinsareapplied,togetherwith\nadditionalstringersandframesaslocaldesignconditionshavedemanded.\nOUTER SKIN\nROLLED STRINGER\n(TYP)\nEXTRUDED\nSTRINGERS\n10\" STDBONDED\nWAFFLE DOUBLER\n101840 S00041247426_V1\nFuselageWindowCutout\nFigure1/53-13-00-990-801737-300/400/500\nAIRCRAFTMAINTENANCEMANUAL\nPage1\nD6-37569 Mar25/2015\nBOEINGPROPRIETARY-Copyright©UnpublishedWork-SeetitlepagefordetailsEFFECTIVITY\nRAMALL\nLOWERDOORSILLSCUFFPLATE-REMOVAL/INSTALLATION\n1. General\nA. Thisprocedurecontainstwotasks:\n(1) Thefirsttaskistheremovalofthescuffplates.\n(2) Thesecondtaskistheinstallationofthescuffplates.\nB. Alltheinstallationsofthescuffplatesarealmostthesame.\nC.",
+    "contexto_preview": "[Fonte: 53___084.PDF | score 0.1725]\nblishedWork-SeetitlepagefordetailsEFFECTIVITY\nRAMALL\nMAINFRAME-DESCRIPTIONANDOPERATION\n1. General\nA. Themainframeincludesframes,bulkheads,formers,longerons,stringers,keelandframesaround\nopenings.Thefuselagestructureissemimonocoque.\nB. Theprimarystructureisthatwhichisessentialtotheintegrityoftheairplane.Theprimarystructure\nisthemainframe,andincludesfloorbeamsandskin.\n2. PrimaryStructure\nA. Theframesandthebulkheadsareprimarystructuralcomponentsofthefuselage.Eac",
+    "resposta": "Resposta direta:\nOs elementos estruturais reforçados por stringers transversais são os painéis de pele da asa superior e inferior, esquerda e direita, enquanto os elementos estruturais reforçados por stiffeners verticais são os painéis de pele do caixa central da asa.\n\nDetalhes técnicos:\nDe acordo com o manual de manutenção da Boeing 737, os stringers transversais são zee-section extrusões que são fixados ao interior dos painéis de pele da asa. Eles são responsáveis por reforçar a estrutura da asa e carregar cargas de pressão. Já os stiffeners verticais são componentes estruturais que são fixados ao caixa central da asa e são responsáveis por reforçar a estrutura da asa e carregar cargas de tensão.\n\nReferência à fonte:\nConforme o capítulo 57 do manual de manutenção da Boeing 737, \"Wing Stringers - Description and Operation\", os stringers transversais são descritos como \"zee-section extrusões\" que são fixados ao interior dos painéis de pele da asa. Além disso, o capítulo 57 também menciona que os stiffeners verticais são componentes estruturais que são fixados ao caixa central da asa.",
+    "resposta_detalhada": "Resposta direta:\nOs elementos estruturais reforçados por stringers transversais são os painéis de pele da asa superior e inferior, esquerda e direita, enquanto os elementos estruturais reforçados por stiffeners verticais são os painéis de pele do caixa central da asa.\n\nDetalhes técnicos:\nDe acordo com o manual de manutenção da Boeing 737, os stringers transversais são zee-section extrusões que são fixados ao interior dos painéis de pele da asa. Eles são responsáveis por reforçar a estrutura da asa e carregar cargas de pressão. Já os stiffeners verticais são componentes estruturais que são fixados ao caixa central da asa e são responsáveis por reforçar a estrutura da asa e carregar cargas de tensão.\n\nReferência à fonte:\nConforme o capítulo 57 do manual de manutenção da Boeing 737, \"Wing Stringers - Description and Operation\", os stringers transversais são descritos como \"zee-section extrusões\" que são fixados ao interior dos painéis de pele da asa. Além disso, o capítulo 57 também menciona que os stiffeners verticais são componentes estruturais que são fixados ao caixa central da asa.",
+    "tempo_segundos": 12.345,
+    "metadados_llm": {
+      "status": "ok",
+      "tokens": {
+        "prompt_tokens": 1597,
+        "total_tokens": 1901,
+        "completion_tokens": 304,
+        "prompt_tokens_details": null
+      },
+      "finish_reason": "stop",
+      "atas_identificados": [
+        "ATA 57: WING CENTER SECTION LOWER SKIN - L (57-05-03-212-801)",
+        "ATA 57: WING CENTER SECTION LOWER SKIN - R (57-05-03-212-802)",
+        "ATA 53: LOWER LOBE SKIN AND STRINGERS - FWD (53-05-03-212-805)",
+        "ATA 53: Keel Beam Blowout Panel Installation (53-12-11-404-001)"
+      ],
+      "arquivos_alvo": [
+        "57___084.PDF",
+        "53___084.PDF"
+      ]
+    },
+    "metricas": {
+      "precisao": 0.04,
+      "completude": 0.8935,
+      "especificidade": 0.3333,
+      "rastreabilidade": 1.0,
+      "confianca": 1.0
+    },
+    "score_final": 55.2,
+    "tokens_estimados": 338
+  },
+  {
+    "timestamp": "2026-09-19T05:57:21.647776",
+    "abordagem": "toc_chunks",
+    "pergunta": "Qual componente no indicador de tachômetro N1 fornece a luz de aviso de limite superior?",
+    "documentos_recuperados": [
+      "49__B_084.PDF"
+    ],
+    "contexto_usado": "[Fonte: 49__B_084.PDF | score 0.2463]\nouplerakes\nEMRGENCY Emergencyshutdown\nHOTSDN Oiltemperatureshutdown\nHWOVSPD Hardwareoverspeedshutdown\nIGVSDN Inletguidevaneshutdown\nLOPSDN Lowoilpressure\nNOACCEL Noaccelerationshutdown\nNOFLAME Noflameshutdown\nOVERSPD Softwareoverspeedshutdown\nOVRTEMP Overtemperatureshutdown\nPWRLATCH Powerlatchshutdown\nRVRFLOW Reverseflowshutdown\nSPDLOSS Lossofthetwospeedmonopoles\nTable202/49-61-00-993-827-B02 LRUFaultMessages\nLRUFaultMessage Description\nA/CRDY Aircraftnotready\nAPUIGN Ignitioncircuit\nDOILSOL De-oilsolenoid\nDMM Datamemorymodule\nDPSENSR Deltapressuresensor\nECU ECUorFADEC\nEGT1 EGTthermocouplerake1\nEGT2 EGTthermocouplerake2\nEGT1&2 FailureofthetwoEGTthermocouplerakes\nFCUNIT Fuelcontrolunit\nFLTIND Faultindicator\nFUELSOL Fuelsolenoid\nIGVTM Inletguidevane(IGV)torquemotor\nLOPIND DefectiveLOPindicato\n\n---\n\n[Fonte: 49__B_084.PDF | score 0.2463]\nouplerakes\nEMRGENCY Emergencyshutdown\nHOTSDN Oiltemperatureshutdown\nHWOVSPD Hardwareoverspeedshutdown\nIGVSDN Inletguidevaneshutdown\nLOPSDN Lowoilpressure\nNOACCEL Noaccelerationshutdown\nNOFLAME Noflameshutdown\nOVERSPD Softwareoverspeedshutdown\nOVRTEMP Overtemperatureshutdown\nPWRLATCH Powerlatchshutdown\nRVRFLOW Reverseflowshutdown\nSPDLOSS Lossofthetwospeedmonopoles\nTable202/49-61-00-993-827-B02 LRUFaultMessages\nLRUFaultMessage Description\nA/CRDY Aircraftnotready\nAPUIGN Ignitioncircuit\nDOILSOL De-oilsolenoid\nDMM Datamemorymodule\nDPSENSR Deltapressuresensor\nECU ECUorFADEC\nEGT1 EGTthermocouplerake1\nEGT2 EGTthermocouplerake2\nEGT1&2 FailureofthetwoEGTthermocouplerakes\nFCUNIT Fuelcontrolunit\nFLTIND Faultindicator\nFUELSOL Fuelsolenoid\nIGVTM Inletguidevane(IGV)torquemotor\nLOPIND DefectiveLOPindicato\n\n---\n\n[Fonte: 49__B_084.PDF | score 0.2066]\nWER TOTHE FADECINITIALIZATION\nDE-ENERGIZEDTHE IGNITION EXCITEROFTHE SERVICE SPEED:APU ENGINE AT95%\nINCOCKPITAT30-35 PSI, THE LOP LIGHT OFFSTARTER MOTOR DE-ENERGIZEDTHE CURRENT LIMITER FOR THETHE STARTER MOTOR DE-ENERGIZEDSERVICE SPEED:APU ENGINE AT50% OFTHE\nSIGNALA/C RDYFADEC SHOWS\nSTART IN 30 SECONDSFOR AIR INLET DOOROPEN SIGNAL (NOT RDY)THE FADEC STARTS\nTHE DE-OIL SOLENOID VALVE ENERGIZEDA/C RDY SIGNAL OFFTHE STARTER MOTOR ENERGIZEDSTARTER MOTOR ENERGIZEDTHE CURRENT LIMITER FOR THETHE FUEL TORQUE MOTOR MODULATESTHE FUEL SHUTOFF SOLENOID VALVE\nENERGIZED TOTHE OPEN POSITIONTHE IGNITION EXCITER ENERGIZED\nTHE POWER TOTHE\nFADEC OFF+5MINUTES:TIME\nAPU ENGINE STOPPED\nAPU ENGINE STARTS:-3%SERVICE SPEED FOR EACH\n-75% SERVICE SPEED FOR\nFUEL VALVEPOWER TOTHE\nINCOCKPITTHE LOP LIGHT ONTHE START POSITI\n\n---\n\n[Fonte: 49__B_084.PDF | score 0.2066]\nWER TOTHE FADECINITIALIZATION\nDE-ENERGIZEDTHE IGNITION EXCITEROFTHE SERVICE SPEED:APU ENGINE AT95%\nINCOCKPITAT30-35 PSI, THE LOP LIGHT OFFSTARTER MOTOR DE-ENERGIZEDTHE CURRENT LIMITER FOR THETHE STARTER MOTOR DE-ENERGIZEDSERVICE SPEED:APU ENGINE AT50% OFTHE\nSIGNALA/C RDYFADEC SHOWS\nSTART IN 30 SECONDSFOR AIR INLET DOOROPEN SIGNAL (NOT RDY)THE FADEC STARTS\nTHE DE-OIL SOLENOID VALVE ENERGIZEDA/C RDY SIGNAL OFFTHE STARTER MOTOR ENERGIZEDSTARTER MOTOR ENERGIZEDTHE CURRENT LIMITER FOR THETHE FUEL TORQUE MOTOR MODULATESTHE FUEL SHUTOFF SOLENOID VALVE\nENERGIZED TOTHE OPEN POSITIONTHE IGNITION EXCITER ENERGIZED\nTHE POWER TOTHE\nFADEC OFF+5MINUTES:TIME\nAPU ENGINE STOPPED\nAPU ENGINE STARTS:-3%SERVICE SPEED FOR EACH\n-75% SERVICE SPEED FOR\nFUEL VALVEPOWER TOTHE\nINCOCKPITTHE LOP LIGHT ONTHE START POSITI\n\n---\n\n[Fonte: 49__B_084.PDF | score 0.2000]\n(77°C),theoilmustflowthroughtheoilcooler.Iftheoilcoolerisclogged,athermalbypass\nvalvewillopentomovetheoilaroundtheoilcooler.Thisbypassvalveopenswhenthedifferential\npressureacrosstheoilcooleris50psid(345kPa).\n5. MagneticDrainPlug\n(Figure1)\nA. Themagneticdrainplugisinstalledonthefrontofthegearboxassembly.Themagneticdrainplug\nhasamagneticelementandaplug.Whentheoiltankisserviced,themagneticelementisremoved\ntomakesurenometalparticlesareintheoil.Iftheoilhasmetalparticles,aninvestigationof\ndamagetotheAPUengineisnecessary.Themagneticelementcanberemovedwithouttheplug.\nWhentheplugandthemagneticelementareremovedtogether,theoilwilldrainfromtheoiltank.737-300/400/500\nAIRCRAFTMAINTENANCEMANUALGTCP36-280ENGINES\nPage4\nD6-37569 Mar25/2015\nBOEINGPROPRIETARY-Copyright©UnpublishedWork-SeetitlepagefordetailsEFFECTIVITY\nRAM001,002\n6. De-OilSolenoidValve\n(Figure1)\nA.",
+    "contexto_preview": "[Fonte: 49__B_084.PDF | score 0.2463]\nouplerakes\nEMRGENCY Emergencyshutdown\nHOTSDN Oiltemperatureshutdown\nHWOVSPD Hardwareoverspeedshutdown\nIGVSDN Inletguidevaneshutdown\nLOPSDN Lowoilpressure\nNOACCEL Noaccelerationshutdown\nNOFLAME Noflameshutdown\nOVERSPD Softwareoverspeedshutdown\nOVRTEMP Overtemperatureshutdown\nPWRLATCH Powerlatchshutdown\nRVRFLOW Reverseflowshutdown\nSPDLOSS Lossofthetwospeedmonopoles\nTable202/49-61-00-993-827-B02 LRUFaultMessages\nLRUFaultMessage Description\nA/CRDY Aircraftnotrea",
+    "resposta": "Resposta direta:\nO componente que fornece a luz de aviso de limite superior no indicador de tachômetro N1 é o IGVTM (Inlet Guide Vane Torque Motor).\n\nDetalhes técnicos:\nO IGVTM é um componente do sistema de controle de fluxo de ar da aeronave Boeing 737. Ele é responsável por controlar a posição da vane de guia de ar (IGV) e, consequentemente, o fluxo de ar para o motor. O IGVTM é conectado ao indicador de tachômetro N1 e fornece a informação necessária para que o indicador mostre a luz de aviso de limite superior quando o motor está operando acima da velocidade de limite superior permitida.\n\nReferência à fonte:\nConforme o manual de manutenção da aeronave Boeing 737-300/400/500, GTCP 36-280, Engines, página 4, D6-37569, Mar 25/2015, Boeing Proprietary, Copyright 2015.",
+    "resposta_detalhada": "Resposta direta:\nO componente que fornece a luz de aviso de limite superior no indicador de tachômetro N1 é o IGVTM (Inlet Guide Vane Torque Motor).\n\nDetalhes técnicos:\nO IGVTM é um componente do sistema de controle de fluxo de ar da aeronave Boeing 737. Ele é responsável por controlar a posição da vane de guia de ar (IGV) e, consequentemente, o fluxo de ar para o motor. O IGVTM é conectado ao indicador de tachômetro N1 e fornece a informação necessária para que o indicador mostre a luz de aviso de limite superior quando o motor está operando acima da velocidade de limite superior permitida.\n\nReferência à fonte:\nConforme o manual de manutenção da aeronave Boeing 737-300/400/500, GTCP 36-280, Engines, página 4, D6-37569, Mar 25/2015, Boeing Proprietary, Copyright 2015.",
+    "tempo_segundos": 6.298,
+    "metadados_llm": {
+      "status": "ok",
+      "tokens": {
+        "prompt_tokens": 1692,
+        "total_tokens": 1925,
+        "completion_tokens": 233,
+        "prompt_tokens_details": null
+      },
+      "finish_reason": "stop",
+      "atas_identificados": [
+        "ATA 49: De-Oil Solenoid Valve Removal (49-91-91-004-001)",
+        "ATA 49: De-Oil Solenoid Valve Installation (49-91-91-404-008)",
+        "ATA 56: Window No. 1 Removal (56-11-11-004-001)",
+        "ATA 56: WITHOUT NUTPLATES ON WINDOW NO. 1 Window No. 1 Installation (56-11-11-404-013)"
+      ],
+      "arquivos_alvo": [
+        "49__B_084.PDF",
+        "56___084.PDF"
+      ]
+    },
+    "metricas": {
+      "precisao": 0.14,
+      "completude": 0.95,
+      "especificidade": 1.0,
+      "rastreabilidade": 1.0,
+      "confianca": 1.0
+    },
+    "score_final": 72.95,
+    "tokens_estimados": 501
+  },
+  {
+    "timestamp": "2026-09-19T05:57:41.389983",
+    "abordagem": "toc_chunks",
+    "pergunta": "Qual é o código da tarefa que descreve a 'APU Engine Mount Bracket Removal'?",
+    "documentos_recuperados": [
+      "49__B_084.PDF"
+    ],
+    "contexto_usado": "[Fonte: 49__B_084.PDF | score 0.4161]\nPINWASHERNUTBOLTCAP\nBRACKETMOUNT\nFCG SEEF SEEC SEE\nF89655 S00041245214_V1\nAPUEngineMountBracketInstallation\nFigure402/49-13-11-990-802-B00 (Sheet2of3)737-300/400/500\nAIRCRAFTMAINTENANCEMANUALGTCP36-280ENGINES\nPage408\nD6-37569 Mar25/2015\nBOEINGPROPRIETARY-Copyright©UnpublishedWork-SeetitlepagefordetailsEFFECTIVITY\nRAM001,002\n21(6LOCATIONS)\nEXAMPLE OF AN ENGINE MOUNT BRACKET\n2WASHER\nENGINE\nMOUNT\nBRACKET(2LOCATIONS)NUTAPU ENGINECAPEXAMPLE OF AN ENGINE MOUNT BRACKET\n1(2LOCATIONS)WASHER\nENGINE\nMOUNT\nBRACKET(2LOCATIONS)NUTAPU ENGINECAP(2LOCATIONS)BOLT\n(2LOCATIONS)BOLT\nAPU'S WITHOUT TWO WASHERS\nAPU'S WITH TWO WASHERS\nBELOW THE BOLT HEADBELOW THE BOLT HEADGG\nE71502 S00041245215_V1\nAPUEngineMountBracketInstallation\nFigure402/49-13-11-990-802-B00 (Sheet3of3)737-300/400/500\nAIRCRAFTMAINTENANCEMANUALG\n\n---\n\n[Fonte: 49__B_084.PDF | score 0.4161]\nPINWASHERNUTBOLTCAP\nBRACKETMOUNT\nFCG SEEF SEEC SEE\nF89655 S00041245214_V1\nAPUEngineMountBracketInstallation\nFigure402/49-13-11-990-802-B00 (Sheet2of3)737-300/400/500\nAIRCRAFTMAINTENANCEMANUALGTCP36-280ENGINES\nPage408\nD6-37569 Mar25/2015\nBOEINGPROPRIETARY-Copyright©UnpublishedWork-SeetitlepagefordetailsEFFECTIVITY\nRAM001,002\n21(6LOCATIONS)\nEXAMPLE OF AN ENGINE MOUNT BRACKET\n2WASHER\nENGINE\nMOUNT\nBRACKET(2LOCATIONS)NUTAPU ENGINECAPEXAMPLE OF AN ENGINE MOUNT BRACKET\n1(2LOCATIONS)WASHER\nENGINE\nMOUNT\nBRACKET(2LOCATIONS)NUTAPU ENGINECAP(2LOCATIONS)BOLT\n(2LOCATIONS)BOLT\nAPU'S WITHOUT TWO WASHERS\nAPU'S WITH TWO WASHERS\nBELOW THE BOLT HEADBELOW THE BOLT HEADGG\nE71502 S00041245215_V1\nAPUEngineMountBracketInstallation\nFigure402/49-13-11-990-802-B00 (Sheet3of3)737-300/400/500\nAIRCRAFTMAINTENANCEMANUALG\n\n---\n\n[Fonte: 49__B_084.PDF | score 0.3375]\n00/400/500\nAIRCRAFTMAINTENANCEMANUALGTCP36-280ENGINES\nPage407\nD6-37569 Mar25/2015\nBOEINGPROPRIETARY-Copyright©UnpublishedWork-SeetitlepagefordetailsEFFECTIVITY\nRAM001,002\n2 APUs WITH TWO WASHERS\nBELOW THE BOLT HEAD2 DBOLT\n(2LOCATIONS)\n(2LOCATIONS)NUTWASHER\n(6LOCATIONS)APU ENGINE\nI SEEMOUNT GUSSET HINGE\nBOLT\nENGINE\nMOUNT\nBRACKET\nEXAMPLE OF AN ENGINE MOUNT BRACKETCAP\nLOCKWIRE\nWASHERBOLT\nRIGHT AFT MOUNT ONTHE APU SHROUD\nENUTCOTTER PINRETAINER\nWASHERSHROUD\nMOUNTING\nBRACKET\nFWD\n979609 S00041245162_V1\nAPUPowerPlantInstallation\nFigure401/49-11-00-990-812-B00 (Sheet3of5)737-300/400/500\nAIRCRAFTMAINTENANCEMANUALGTCP36-280ENGINES\nPage408\nD6-37569 Mar25/2015\nBOEINGPROPRIETARY-Copyright©UnpublishedWork-SeetitlepagefordetailsEFFECTIVITY\nRAM001,002\nNOT USED\nH(2.8±0.8 mm)0.11±0.03 INCH\nRIGHT AFT MOUNT AD\n\n---\n\n[Fonte: 49__B_084.PDF | score 0.3375]\n00/400/500\nAIRCRAFTMAINTENANCEMANUALGTCP36-280ENGINES\nPage407\nD6-37569 Mar25/2015\nBOEINGPROPRIETARY-Copyright©UnpublishedWork-SeetitlepagefordetailsEFFECTIVITY\nRAM001,002\n2 APUs WITH TWO WASHERS\nBELOW THE BOLT HEAD2 DBOLT\n(2LOCATIONS)\n(2LOCATIONS)NUTWASHER\n(6LOCATIONS)APU ENGINE\nI SEEMOUNT GUSSET HINGE\nBOLT\nENGINE\nMOUNT\nBRACKET\nEXAMPLE OF AN ENGINE MOUNT BRACKETCAP\nLOCKWIRE\nWASHERBOLT\nRIGHT AFT MOUNT ONTHE APU SHROUD\nENUTCOTTER PINRETAINER\nWASHERSHROUD\nMOUNTING\nBRACKET\nFWD\n979609 S00041245162_V1\nAPUPowerPlantInstallation\nFigure401/49-11-00-990-812-B00 (Sheet3of5)737-300/400/500\nAIRCRAFTMAINTENANCEMANUALGTCP36-280ENGINES\nPage408\nD6-37569 Mar25/2015\nBOEINGPROPRIETARY-Copyright©UnpublishedWork-SeetitlepagefordetailsEFFECTIVITY\nRAM001,002\nNOT USED\nH(2.8±0.8 mm)0.11±0.03 INCH\nRIGHT AFT MOUNT AD\n\n---\n\n[Fonte: 49__B_084.PDF | score 0.3302]\nHROUD\nENGINE MOUNTING BRACKET\nAND VIBRATION ISOLATORFUEL HEATERAIR LINE FITTING\nFOR THE BLEED\nLOAD CONTROL\nD1102JRECEPTACLE,EGT\nLOCK HANDLE\nBFUEL HOSE\nFWDDUCT FLANGE FOR THE\nACCESSORY COOLING AIRCOUPLING FOR\nTHE BLEED\nAIR DUCT\nMOUNT GUSSETAPU ENGINE\n11ASSEMBLY BEAM FOR THE\nAPU UPPER SHROUD\n(TO THE AIRPLANE\nSTRUCTURE)BONDING JUMPER(TO THE APU\nENGINE MOUNT)BONDING JUMPER\nBONDING JUMPER INSTALLATIONCAP(2LOCATIONS)BOLT\n(2LOCATIONS)WASHER\nENGINE\nMOUNT\nBRACKETHINGE\nBOLT\n(2LOCATIONS)NUT\nEXAMPLE OF AN ENGINE MOUNT BRACKET\nAPUs WITHOUT TWO WASHERS BELOW\nTHE BOLT HEADC\nDSEE IJ SEERIGHT AFT MOUNT\nF SEE\nINBD\n856021 S00041245161_V1\nAPUPowerPlantInstallation\nFigure401/49-11-00-990-812-B00 (Sheet2of5)737-300/400/500\nAIRCRAFTMAINTENANCEMANUALGTCP36-280ENGINES\nPage407\nD6-37569 Mar25/2015\nBOEINGPROPRIETARY-",
+    "contexto_preview": "[Fonte: 49__B_084.PDF | score 0.4161]\nPINWASHERNUTBOLTCAP\nBRACKETMOUNT\nFCG SEEF SEEC SEE\nF89655 S00041245214_V1\nAPUEngineMountBracketInstallation\nFigure402/49-13-11-990-802-B00 (Sheet2of3)737-300/400/500\nAIRCRAFTMAINTENANCEMANUALGTCP36-280ENGINES\nPage408\nD6-37569 Mar25/2015\nBOEINGPROPRIETARY-Copyright©UnpublishedWork-SeetitlepagefordetailsEFFECTIVITY\nRAM001,002\n21(6LOCATIONS)\nEXAMPLE OF AN ENGINE MOUNT BRACKET\n2WASHER\nENGINE\nMOUNT\nBRACKET(2LOCATIONS)NUTAPU ENGINECAPEXAMPLE OF AN ENGINE MOUNT BRA",
+    "resposta": "De acordo com o manual de manutenção da aeronave Boeing 737, a tarefa de remoção da \"APU Engine Mount Bracket\" é descrita pelo código de tarefa 49-13-11-990-802-B00.\n\nDetalhes técnicos:\n\n* A tarefa 49-13-11-990-802-B00 é mencionada em várias páginas do manual, incluindo as páginas 408 e 407 do manual GTCP36-280ENGINES.\n* A tarefa é relacionada à remoção da \"APU Engine Mount Bracket\" e é mencionada em diferentes contextos, incluindo a instalação e a manutenção da aeronave.\n* A tarefa não especifica a pressão em psi, mas menciona a necessidade de usar uma chave de fenda para remover a \"APU Engine Mount Bracket\".\n\nReferência à fonte:\n\n* Manual de manutenção da aeronave Boeing 737, GTCP36-280ENGINES, página 408.\n* Manual de manutenção da aeronave Boeing 737, GTCP36-280ENGINES, página 407.\n* Manual de manutenção da aeronave Boeing 737, GTCP36-280ENGINES, figura 402/49-13-11-990-802-B00.",
+    "resposta_detalhada": "De acordo com o manual de manutenção da aeronave Boeing 737, a tarefa de remoção da \"APU Engine Mount Bracket\" é descrita pelo código de tarefa 49-13-11-990-802-B00.\n\nDetalhes técnicos:\n\n* A tarefa 49-13-11-990-802-B00 é mencionada em várias páginas do manual, incluindo as páginas 408 e 407 do manual GTCP36-280ENGINES.\n* A tarefa é relacionada à remoção da \"APU Engine Mount Bracket\" e é mencionada em diferentes contextos, incluindo a instalação e a manutenção da aeronave.\n* A tarefa não especifica a pressão em psi, mas menciona a necessidade de usar uma chave de fenda para remover a \"APU Engine Mount Bracket\".\n\nReferência à fonte:\n\n* Manual de manutenção da aeronave Boeing 737, GTCP36-280ENGINES, página 408.\n* Manual de manutenção da aeronave Boeing 737, GTCP36-280ENGINES, página 407.\n* Manual de manutenção da aeronave Boeing 737, GTCP36-280ENGINES, figura 402/49-13-11-990-802-B00.",
+    "tempo_segundos": 19.623,
+    "metadados_llm": {
+      "status": "ok",
+      "tokens": {
+        "prompt_tokens": 1825,
+        "total_tokens": 2114,
+        "completion_tokens": 289,
+        "prompt_tokens_details": null
+      },
+      "finish_reason": "stop",
+      "atas_identificados": [
+        "ATA 71: Prevent Airplane Movement During Engine Operation At High Power (71-00-00-842-001)",
+        "ATA 71: Engine Ground Safety Precaution (71-00-00-802-006)",
+        "ATA 49: General Task Instructions (49-00-00-800-803)",
+        "ATA 49: Visual Check Inspection (49-00-00-210-803)"
+      ],
+      "arquivos_alvo": [
+        "71_C__084.PDF",
+        "49__B_084.PDF"
+      ]
+    },
+    "metricas": {
+      "precisao": 0.1316,
+      "completude": 0.7964,
+      "especificidade": 0.6667,
+      "rastreabilidade": 1.0,
+      "confianca": 0.5
+    },
+    "score_final": 57.19,
+    "tokens_estimados": 519
+  },
+  {
+    "timestamp": "2026-09-19T05:57:48.113353",
+    "abordagem": "toc_chunks",
+    "pergunta": "Quais parafusos e acessórios são usados para fixar os thrust link fittings ao strut?",
+    "documentos_recuperados": [
+      "71_C__084.PDF"
+    ],
+    "contexto_usado": "[Fonte: 71_C__084.PDF | score 0.2662]\nlepagefordetailsEFFECTIVITY\nRAMALL\n25. HANGER14. EVENER BAR\nBEARING RACE/\nEVENER BAR\nBEARING BALL13. EVENER BAR/\nEVENER BAR\nBEARING\n17. EVENER BAR\nBUSHING/\nBOLT16. EVENER BAR/\nEVENER BAR\nBUSHING9.THRUST LINK\nBUSHING/\nBOLT8.THRUST LINK/\nTHRUST LINK\nBUSHING15. EVENER BAR\nBEARING BALL/\nBOLT19. THRUST FITTING\nBUSHING/BOLT18. THRUST FITTING/\nTHRUST FITTING\nBUSHING\n22. AFT LINK/\nAFT LINK BEARING\n23. AFT LINK BEARING\nRACE/ AFT LINK\nBEARING BALL\n21. AFT LINK\nBUSHING/BOLT\n20. AFT LINK/\nAFT LINK\nBUSHINGFITTING/BOLT\n24.\n\n---\n\n[Fonte: 71_C__084.PDF | score 0.2662]\nlepagefordetailsEFFECTIVITY\nRAMALL\n25. HANGER14. EVENER BAR\nBEARING RACE/\nEVENER BAR\nBEARING BALL13. EVENER BAR/\nEVENER BAR\nBEARING\n17. EVENER BAR\nBUSHING/\nBOLT16. EVENER BAR/\nEVENER BAR\nBUSHING9.THRUST LINK\nBUSHING/\nBOLT8.THRUST LINK/\nTHRUST LINK\nBUSHING15. EVENER BAR\nBEARING BALL/\nBOLT19. THRUST FITTING\nBUSHING/BOLT18. THRUST FITTING/\nTHRUST FITTING\nBUSHING\n22. AFT LINK/\nAFT LINK BEARING\n23. AFT LINK BEARING\nRACE/ AFT LINK\nBEARING BALL\n21. AFT LINK\nBUSHING/BOLT\n20. AFT LINK/\nAFT LINK\nBUSHINGFITTING/BOLT\n24.\n\n---\n\n[Fonte: 71_C__084.PDF | score 0.2267]\nITTING BEARING11. FAN FRAME\nBALLFITTING BEARING\nBUSHING/BOLT9.THRUST LINKBALL/BOLTFITTING BEARING12. FAN FRAME\nTHRUST LINK8.THRUST LINK/\nBUSHINGBOLTBEARING BALL/7.CONE BOLTD\nBEARING BALLCONE BOLTBEARING/6.CONE BOLT\nBEARINGCONE BOLTBOLT/5.FORWARD CONE\nSUPPORT/3.FAN FRAME\nSUPPORTFAN FRAMESUPPORT\nBUSHING/4.FAN FRAMEBOLTBUSHING/SUPPORT2.FAN FRAMEBUSHINGSUPPORTFAN FRAMESUPPORT/1.FAN FRAME\nBUSHINGBOLTCONICAL SURFACEHANGAR FITTING\nB-BSURFACEBOLT CONICALFORWARD CONE\nA-ADAFT MOUNTE SEE\nFWDC(4LOCATIONS)\nFWDC\nTHRUST LINK ASSEMBLYWEDGE SURFACE\n151419 S00041250514_V1\nEngineMountsInspection\nFigure601/71-21-00-990-802-C00 (Sheet2of6)737-300/400/500\nAIRCRAFTMAINTENANCEMANUALCFM56ENGINES(CFM56-3)\nPage604\nD6-37569 Mar25/2015\nBOEINGPROPRIETARY-Copyright©UnpublishedWork-SeetitlepagefordetailsEFFECTIVITY\nRAMALL\n25. HANGER14. EVENER BAR\nBEARING RACE/\nEVENER BAR\nBEARING BALL13.\n\n---\n\n[Fonte: 71_C__084.PDF | score 0.2267]\nITTING BEARING11. FAN FRAME\nBALLFITTING BEARING\nBUSHING/BOLT9.THRUST LINKBALL/BOLTFITTING BEARING12. FAN FRAME\nTHRUST LINK8.THRUST LINK/\nBUSHINGBOLTBEARING BALL/7.CONE BOLTD\nBEARING BALLCONE BOLTBEARING/6.CONE BOLT\nBEARINGCONE BOLTBOLT/5.FORWARD CONE\nSUPPORT/3.FAN FRAME\nSUPPORTFAN FRAMESUPPORT\nBUSHING/4.FAN FRAMEBOLTBUSHING/SUPPORT2.FAN FRAMEBUSHINGSUPPORTFAN FRAMESUPPORT/1.FAN FRAME\nBUSHINGBOLTCONICAL SURFACEHANGAR FITTING\nB-BSURFACEBOLT CONICALFORWARD CONE\nA-ADAFT MOUNTE SEE\nFWDC(4LOCATIONS)\nFWDC\nTHRUST LINK ASSEMBLYWEDGE SURFACE\n151419 S00041250514_V1\nEngineMountsInspection\nFigure601/71-21-00-990-802-C00 (Sheet2of6)737-300/400/500\nAIRCRAFTMAINTENANCEMANUALCFM56ENGINES(CFM56-3)\nPage604\nD6-37569 Mar25/2015\nBOEINGPROPRIETARY-Copyright©UnpublishedWork-SeetitlepagefordetailsEFFECTIVITY\nRAMALL\n25. HANGER14. EVENER BAR\nBEARING RACE/\nEVENER BAR\nBEARING BALL13.\n\n---\n\n[Fonte: 71_C__084.PDF | score 0.2147]\nngandthethrust\nfitting.\nENDOFTASK737-300/400/500\nAIRCRAFTMAINTENANCEMANUALCFM56ENGINES(CFM56-3)\nPage402\nD6-37569 Mar25/2015\nBOEINGPROPRIETARY-Copyright©UnpublishedWork-SeetitlepagefordetailsEFFECTIVITY\nRAMALL\nA1SEE A\n(DISASSEMBLED)(ASSEMBLED)[12] WASHER\n(2LOCATIONS)\n[7] BOLT[2] BOLT\n(4LOCATIONS)[11] BOLT\n(2LOCATIONS)\nIT IS USUAL TOHAVE SOME AXIAL MOVEMENT OFTHE\nBOLTS CONNECTING THE EVENER BAR TOTHE THRUST\nLINK AND THE EVENER BAR TOTHE THRUST FITTING.[14] NUT\n(2LOCATIONS)[13] WASHER\n(2LOCATIONS)[16] COLLAR\n[10] NUT[9] WASHER\n[6] EVENER BAR [5] NUT\n(4LOCATIONS)[4] WASHER\n(4LOCATIONS)[1] THRUST LINK\n(2LOCATIONS)[3] WASHER\n(4LOCATIONS)[8] WASHERTHRUST\nFITTINGFAIL-SAFE\nFITTING[15] BOLTSTRUT\n[23] BARREL NUT\n(5LOCATIONS)\n[22] WASHER\nLOCATIONS)WEDGE SURFACE\n[21] BOLT\n(5LOCATIONS)VERTICAL DEFLECTOR",
+    "contexto_preview": "[Fonte: 71_C__084.PDF | score 0.2662]\nlepagefordetailsEFFECTIVITY\nRAMALL\n25. HANGER14. EVENER BAR\nBEARING RACE/\nEVENER BAR\nBEARING BALL13. EVENER BAR/\nEVENER BAR\nBEARING\n17. EVENER BAR\nBUSHING/\nBOLT16. EVENER BAR/\nEVENER BAR\nBUSHING9.THRUST LINK\nBUSHING/\nBOLT8.THRUST LINK/\nTHRUST LINK\nBUSHING15. EVENER BAR\nBEARING BALL/\nBOLT19. THRUST FITTING\nBUSHING/BOLT18. THRUST FITTING/\nTHRUST FITTING\nBUSHING\n22. AFT LINK/\nAFT LINK BEARING\n23. AFT LINK BEARING\nRACE/ AFT LINK\nBEARING BALL\n21. AFT LINK\nBUSHING",
+    "resposta": "Resposta direta:\nOs parafusos e acessórios usados para fixar os thrust link fittings ao strut são os seguintes:\n\n- [7] BOLT (4LOCATIONS)\n- [21] BOLT (5LOCATIONS)\n- [23] BARREL NUT (5LOCATIONS)\n\nDetalhes técnicos:\nDe acordo com o manual de manutenção da aeronave Boeing 737-300/400/500, CFM56 ENGINES (CFM56-3), página 402, os parafusos e acessórios mencionados são usados para fixar os thrust link fittings ao strut. O [7] BOLT (4LOCATIONS) é usado em 4 locais, enquanto o [21] BOLT (5LOCATIONS) é usado em 5 locais. Além disso, o [23] BARREL NUT (5LOCATIONS) é usado em 5 locais para fixar o strut.\n\nReferência à fonte:\nFonte: 71_C__084.PDF | score 0.2147",
+    "resposta_detalhada": "Resposta direta:\nOs parafusos e acessórios usados para fixar os thrust link fittings ao strut são os seguintes:\n\n- [7] BOLT (4LOCATIONS)\n- [21] BOLT (5LOCATIONS)\n- [23] BARREL NUT (5LOCATIONS)\n\nDetalhes técnicos:\nDe acordo com o manual de manutenção da aeronave Boeing 737-300/400/500, CFM56 ENGINES (CFM56-3), página 402, os parafusos e acessórios mencionados são usados para fixar os thrust link fittings ao strut. O [7] BOLT (4LOCATIONS) é usado em 4 locais, enquanto o [21] BOLT (5LOCATIONS) é usado em 5 locais. Além disso, o [23] BARREL NUT (5LOCATIONS) é usado em 5 locais para fixar o strut.\n\nReferência à fonte:\nFonte: 71_C__084.PDF | score 0.2147",
+    "tempo_segundos": 6.595,
+    "metadados_llm": {
+      "status": "ok",
+      "tokens": {
+        "prompt_tokens": 1684,
+        "total_tokens": 1914,
+        "completion_tokens": 230,
+        "prompt_tokens_details": null
+      },
+      "finish_reason": "stop",
+      "atas_identificados": [
+        "ATA 71: Thrust Link Assembly Removal (71-21-02-004-001)",
+        "ATA 71: Thrust Link Assembly Installation (71-21-02-404-005)",
+        "ATA 55: HORIZ STABILIZER REAR SPAR BOLTS - L (55-05-03-212-808)",
+        "ATA 55: HORIZ STABILIZER REAR SPAR BOLTS - R (55-05-03-212-809)"
+      ],
+      "arquivos_alvo": [
+        "71_C__084.PDF",
+        "55___084.PDF"
+      ]
+    },
+    "metricas": {
+      "precisao": 0.2973,
+      "completude": 0.96,
+      "especificidade": 1.0,
+      "rastreabilidade": 1.0,
+      "confianca": 1.0
+    },
+    "score_final": 77.92,
+    "tokens_estimados": 500
+  },
+  {
+    "timestamp": "2026-09-19T05:58:28.445021",
+    "abordagem": "toc_chunks",
+    "pergunta": "Qual é o código da tarefa que descreve a 'APU Power Plant Removal (Fishpole Hoist)'?",
+    "documentos_recuperados": [
+      "49__B_084.PDF",
+      "71_C__084.PDF"
+    ],
+    "contexto_usado": "[Fonte: 49__B_084.PDF | score 0.2229]\nS-INSPECTION/CHECK\n49-51-00P/B601 APUCOOLINGAIRSYSTEM-INSPECTION/CHECK\nOHM49-10-21 OverhaulManual\nB. Tools/Equipment\nNOTE: Whenmorethanonetoolpartnumberislistedunderthesame\"Reference\"number,the\ntoolsshownarealternatestoeachotherwithinthesameairplaneseries.Toolpartnumbers\nthatarereplacedornon-procurableareprecededby\"Opt:\",whichstandsforOptional.\nReference Description\nCOM-1592 Hoist-Fishpole,Chain\n737-400HGW\nPart#:AP6108 Supplier:4Y309\nCOM-4157 Hoist-Fishpole(cable)(manualdrivewithloadlimiter)500lb\nCapacity,40FtCable,5to9FtTelescopingBarrel\n737-400HGW\nPart#:PF51-003-1 Supplier:1YRX6\nSPL-10022 Cradle,Garrett APU's-HoistEqptGTCP85-129&GTCP36-280-\n737-100/200/300/400/500\n737-400HGW\nPart#:F80114-82 Supplier:81205\nOptPart#:F80114-81 Supplier:81205\nSPL-10027 AuxiliaryPowerUnitTransportationEquipme\n\n---\n\n[Fonte: 49__B_084.PDF | score 0.2229]\nS-INSPECTION/CHECK\n49-51-00P/B601 APUCOOLINGAIRSYSTEM-INSPECTION/CHECK\nOHM49-10-21 OverhaulManual\nB. Tools/Equipment\nNOTE: Whenmorethanonetoolpartnumberislistedunderthesame\"Reference\"number,the\ntoolsshownarealternatestoeachotherwithinthesameairplaneseries.Toolpartnumbers\nthatarereplacedornon-procurableareprecededby\"Opt:\",whichstandsforOptional.\nReference Description\nCOM-1592 Hoist-Fishpole,Chain\n737-400HGW\nPart#:AP6108 Supplier:4Y309\nCOM-4157 Hoist-Fishpole(cable)(manualdrivewithloadlimiter)500lb\nCapacity,40FtCable,5to9FtTelescopingBarrel\n737-400HGW\nPart#:PF51-003-1 Supplier:1YRX6\nSPL-10022 Cradle,Garrett APU's-HoistEqptGTCP85-129&GTCP36-280-\n737-100/200/300/400/500\n737-400HGW\nPart#:F80114-82 Supplier:81205\nOptPart#:F80114-81 Supplier:81205\nSPL-10027 AuxiliaryPowerUnitTransportationEquipme\n\n---\n\n[Fonte: 49__B_084.PDF | score 0.2151]\nADJUSTMENT/TEST\n49-81-31P/B401 AFTFAIRINGASSEMBLY-REMOVAL/INSTALLATION\nOHM49-10-21 OverhaulManual\nB. Tools/Equipment\nNOTE: Whenmorethanonetoolpartnumberislistedunderthesame\"Reference\"number,the\ntoolsshownarealternatestoeachotherwithinthesameairplaneseries.Toolpartnumbers\nthatarereplacedornon-procurableareprecededby\"Opt:\",whichstandsforOptional.\nReference Description\nCOM-1592 Hoist-Fishpole,Chain\n737-400HGW\nPart#:AP6108 Supplier:4Y309\nCOM-4157 Hoist-Fishpole(cable)(manualdrivewithloadlimiter)500lb\nCapacity,40FtCable,5to9FtTelescopingBarrel\n737-400HGW\nPart#:PF51-003-1 Supplier:1YRX6\nSPL-10022 Cradle,Garrett APU's-HoistEqptGTCP85-129&GTCP36-280-\n737-100/200/300/400/500\n737-400HGW\nPart#:F80114-82 Supplier:81205\nOptPart#:F80114-81 Supplier:81205\nC. LocationZones\nZone Area\n101 ControlCabin-Left\n205 ElectronicCompartment\n703 APUCompartment\nD.\n\n---\n\n[Fonte: 49__B_084.PDF | score 0.2151]\nADJUSTMENT/TEST\n49-81-31P/B401 AFTFAIRINGASSEMBLY-REMOVAL/INSTALLATION\nOHM49-10-21 OverhaulManual\nB. Tools/Equipment\nNOTE: Whenmorethanonetoolpartnumberislistedunderthesame\"Reference\"number,the\ntoolsshownarealternatestoeachotherwithinthesameairplaneseries.Toolpartnumbers\nthatarereplacedornon-procurableareprecededby\"Opt:\",whichstandsforOptional.\nReference Description\nCOM-1592 Hoist-Fishpole,Chain\n737-400HGW\nPart#:AP6108 Supplier:4Y309\nCOM-4157 Hoist-Fishpole(cable)(manualdrivewithloadlimiter)500lb\nCapacity,40FtCable,5to9FtTelescopingBarrel\n737-400HGW\nPart#:PF51-003-1 Supplier:1YRX6\nSPL-10022 Cradle,Garrett APU's-HoistEqptGTCP85-129&GTCP36-280-\n737-100/200/300/400/500\n737-400HGW\nPart#:F80114-82 Supplier:81205\nOptPart#:F80114-81 Supplier:81205\nC. LocationZones\nZone Area\n101 ControlCabin-Left\n205 ElectronicCompartment\n703 APUCompartment\nD.\n\n---\n\n[Fonte: 71_C__084.PDF | score 0.1639]\nHERIGHT\nFANCOWLPANELWEIGHS110POUNDS(50KG)ANDTHELEFTFANCOWL\nPANELWEIGHS90POUNDS(40KG).\n(17) Disengagethehold-openrodandturnthecowlpaneluntilthecowlhingehangarsdisengage\nfromtherollpins.\nSUBTASK71-11-02-094-025-C00\n(18) Lowerthefancowlpanelonanapplicablesurfaceandremovetheinletcowlsling,SPL-9910.\nSUBTASK71-11-02-584-026-C00\n(19) Movethefancowlpanelawayfromtheworkarea.\nENDOFTASK737-300/400/500\nAIRCRAFTMAINTENANCEMANUALCFM56ENGINES(CFM56-3)\nPage408\nD6-37569 Mar25/2015\nBOEINGPROPRIETARY-Copyright©UnpublishedWork-SeetitlepagefordetailsEFFECTIVITY\nRAMALL\nFISHPOLE\nHOIST\nFAN COWL SLING\nABOOM ASSEMBLY\nTROLLEY\nSLING\nSEE A(2LOCATIONS)ATTACH FITTINGSTRUT\n151400 S00041250458_V1\nFanCowlPanelInstallation(SlingMethod)\nFigure402/71-11-02-990-803-C00737-300/400/500\nAIRCRAFTMAINTENANCEMANUALCFM56ENGINES(CFM56",
+    "contexto_preview": "[Fonte: 49__B_084.PDF | score 0.2229]\nS-INSPECTION/CHECK\n49-51-00P/B601 APUCOOLINGAIRSYSTEM-INSPECTION/CHECK\nOHM49-10-21 OverhaulManual\nB. Tools/Equipment\nNOTE: Whenmorethanonetoolpartnumberislistedunderthesame\"Reference\"number,the\ntoolsshownarealternatestoeachotherwithinthesameairplaneseries.Toolpartnumbers\nthatarereplacedornon-procurableareprecededby\"Opt:\",whichstandsforOptional.\nReference Description\nCOM-1592 Hoist-Fishpole,Chain\n737-400HGW\nPart#:AP6108 Supplier:4Y309\nCOM-4157 Hoist-Fishpole(",
+    "resposta": "De acordo com o manual de manutenção da Boeing 737, o código da tarefa que descreve a \"APU Power Plant Removal (Fishpole Hoist)\" é SPL-10022.\n\nReferência: [Fonte: 49__B_084.PDF | score 0.2229] S-INSPECTION/CHECK 49-51-00P/B601 APUCOOLINGAIRSYSTEM-INSPECTION/CHECK OHM49-10-21 OverhaulManual B. Tools/Equipment\n\nO código SPL-10022 é mencionado no manual como \"Cradle, Garrett APU's-Hoist Eqpt GTCP85-129&GTCP36-280-\" e é listado como um dos equipamentos necessários para a remoção da unidade de potência da APU (Auxiliary Power Unit) utilizando a técnica de içamento com varal (Fishpole Hoist).",
+    "resposta_detalhada": "De acordo com o manual de manutenção da Boeing 737, o código da tarefa que descreve a \"APU Power Plant Removal (Fishpole Hoist)\" é SPL-10022.\n\nReferência: [Fonte: 49__B_084.PDF | score 0.2229] S-INSPECTION/CHECK 49-51-00P/B601 APUCOOLINGAIRSYSTEM-INSPECTION/CHECK OHM49-10-21 OverhaulManual B. Tools/Equipment\n\nO código SPL-10022 é mencionado no manual como \"Cradle, Garrett APU's-Hoist Eqpt GTCP85-129&GTCP36-280-\" e é listado como um dos equipamentos necessários para a remoção da unidade de potência da APU (Auxiliary Power Unit) utilizando a técnica de içamento com varal (Fishpole Hoist).",
+    "tempo_segundos": 40.196,
+    "metadados_llm": {
+      "status": "ok",
+      "tokens": {
+        "prompt_tokens": 1821,
+        "total_tokens": 2018,
+        "completion_tokens": 197,
+        "prompt_tokens_details": null
+      },
+      "finish_reason": "stop",
+      "atas_identificados": [
+        "ATA 49: General Task Instructions (49-00-00-800-803)",
+        "ATA 49: Visual Check Inspection (49-00-00-210-803)",
+        "ATA 71: Prevent Airplane Movement During Engine Operation At High Power (71-00-00-842-001)",
+        "ATA 71: Engine Ground Safety Precaution (71-00-00-802-006)"
+      ],
+      "arquivos_alvo": [
+        "49__B_084.PDF",
+        "71_C__084.PDF"
+      ]
+    },
+    "metricas": {
+      "precisao": 0.413,
+      "completude": 0.9556,
+      "especificidade": 0.6667,
+      "rastreabilidade": 1.0,
+      "confianca": 1.0
+    },
+    "score_final": 74.61,
+    "tokens_estimados": 303
+  },
+  {
+    "timestamp": "2026-09-19T05:58:42.710347",
+    "abordagem": "toc_chunks",
+    "pergunta": "Qual é o código da tarefa que descreve a 'APU AIR INLET - DESCRIPTION AND OPERATION'?",
+    "documentos_recuperados": [
+      "49__B_084.PDF"
+    ],
+    "contexto_usado": "[Fonte: 49__B_084.PDF | score 0.2827]\nTASK: REMOVAL OF\nOIL CONTAMINATION FROM THE AIR\nCONDITIONING AND PNEUMATIC\nSYSTEMS (AMM 21-00-01/201).21 AWIND ATTHE REAR OFTHE\nAIRPLANE CAN BLOW THE APU\nEXHAUST GASES INTO THE APU AIR\nINLET.\nWAS THERE AWIND ATTHE\nREAR OFTHE AIRPLANE DURING\nTHE APU OPERATION?\n22 EXHAUST GASES FROM A\nDIFFERENT AIRPLANE CAN BLOW\nINTO THE APU AIR INLET.\nDID THIS OCCUR DURING THE\nAPU OPERATION?\n23 START THE APU\n(AMM 49-11-00/201).\nDOES THE PROBLEM CONTINUE?4 ARE OIL FUMES FROM THE APU\nINTHE CABIN?\n5 ARE EXHAUST FUMES INTHE\nCABIN?\nB76549 S00041245108_V1\nFumesorSmokeintheCabin\nFigure155/49-00-00-990-945-B02 (Sheet2)737-300/400/500\nAIRCRAFTMAINTENANCEMANUALGTCP36-280ENGINES\nConfig2\nPage198.39\nD6-37569 Mar25/2015\nBOEINGPROPRIETARY-Copyright©UnpublishedWork-SeetitlepagefordetailsEFFECTIVITY\nRAM001,002;APUWITHTHE-5\n\n---\n\n[Fonte: 49__B_084.PDF | score 0.2827]\nTASK: REMOVAL OF\nOIL CONTAMINATION FROM THE AIR\nCONDITIONING AND PNEUMATIC\nSYSTEMS (AMM 21-00-01/201).21 AWIND ATTHE REAR OFTHE\nAIRPLANE CAN BLOW THE APU\nEXHAUST GASES INTO THE APU AIR\nINLET.\nWAS THERE AWIND ATTHE\nREAR OFTHE AIRPLANE DURING\nTHE APU OPERATION?\n22 EXHAUST GASES FROM A\nDIFFERENT AIRPLANE CAN BLOW\nINTO THE APU AIR INLET.\nDID THIS OCCUR DURING THE\nAPU OPERATION?\n23 START THE APU\n(AMM 49-11-00/201).\nDOES THE PROBLEM CONTINUE?4 ARE OIL FUMES FROM THE APU\nINTHE CABIN?\n5 ARE EXHAUST FUMES INTHE\nCABIN?\nB76549 S00041245108_V1\nFumesorSmokeintheCabin\nFigure155/49-00-00-990-945-B02 (Sheet2)737-300/400/500\nAIRCRAFTMAINTENANCEMANUALGTCP36-280ENGINES\nConfig2\nPage198.39\nD6-37569 Mar25/2015\nBOEINGPROPRIETARY-Copyright©UnpublishedWork-SeetitlepagefordetailsEFFECTIVITY\nRAM001,002;APUWITHTHE-5\n\n---\n\n[Fonte: 49__B_084.PDF | score 0.2741]\n: REMOVAL OF\nOIL CONTAMINATION FROM THE AIR\nCONDITIONING AND PNEUMATIC\nSYSTEMS (AMM 21-00-01/201).1. AWIND ATTHE REAR OFTHE AIRPLANE BLEW THE APU EXHAUST GASES INTO THE APU AIR INLET\n2.THE EXHAUST GASES FROM ADIFFERENT AIRPLANE BLEW INTO THE APU AIR INLET\n3.FLUID FOR ICE REMOVAL WENT INTO THE APU AIR INLET\n4.FUEL LEAKAGE FROM THE FUEL HEATER CHECK VALVE (AMM 49-31-91/401)\n5.CLOGGED FUEL DRAIN (AMM 49-31-71/601)\n6.APU INTERNAL PROBLEM (AMM 49-11-00/401).\n1 WAS FLUID FOR ICE REMOVAL\nUSED NEAR THE AIR INLET DOOR\nBEFORE ORDURING THE APU\nOPERATION?\n2 ISTHERE SMOKE FROM THE\nAPU INTHE CABIN?51 MAKE SURE THIS CONDITION\nDOES NOT OCCUR WHEN YOU\nOPERATE THE APU AGAIN.\nDOTHIS TASK: REMOVAL OF\nOIL CONTAMINATION FROM THE AIR\nCONDITIONING AND PNEUMATIC\nSYSTEMS (AMM 21-00-01/201).\n52 REPLACE THE APU\n(AMM\n\n---\n\n[Fonte: 49__B_084.PDF | score 0.2741]\n: REMOVAL OF\nOIL CONTAMINATION FROM THE AIR\nCONDITIONING AND PNEUMATIC\nSYSTEMS (AMM 21-00-01/201).1. AWIND ATTHE REAR OFTHE AIRPLANE BLEW THE APU EXHAUST GASES INTO THE APU AIR INLET\n2.THE EXHAUST GASES FROM ADIFFERENT AIRPLANE BLEW INTO THE APU AIR INLET\n3.FLUID FOR ICE REMOVAL WENT INTO THE APU AIR INLET\n4.FUEL LEAKAGE FROM THE FUEL HEATER CHECK VALVE (AMM 49-31-91/401)\n5.CLOGGED FUEL DRAIN (AMM 49-31-71/601)\n6.APU INTERNAL PROBLEM (AMM 49-11-00/401).\n1 WAS FLUID FOR ICE REMOVAL\nUSED NEAR THE AIR INLET DOOR\nBEFORE ORDURING THE APU\nOPERATION?\n2 ISTHERE SMOKE FROM THE\nAPU INTHE CABIN?51 MAKE SURE THIS CONDITION\nDOES NOT OCCUR WHEN YOU\nOPERATE THE APU AGAIN.\nDOTHIS TASK: REMOVAL OF\nOIL CONTAMINATION FROM THE AIR\nCONDITIONING AND PNEUMATIC\nSYSTEMS (AMM 21-00-01/201).\n52 REPLACE THE APU\n(AMM\n\n---\n\n[Fonte: 49__B_084.PDF | score 0.2491]\nALGTCP36-280ENGINES\nPage212\nD6-37569 Mar25/2015\nBOEINGPROPRIETARY-Copyright©UnpublishedWork-SeetitlepagefordetailsEFFECTIVITY\nRAM001,002\nBSEE BSEE A\n1AIRLATCH BOLTAIR INLET DOOR\nVORTEX\nGENERATOR\nAPU AIR\nINLET\nINLET\nSCREEN\nSERVICE DOOR FOR\nTHE AFT GALLEY\nF80164-35 (OPTIONAL EQUIPMENT)\nF80164-28 (OPTIONAL EQUIPMENT)A50597 S00041245125_V1\nAPUAirInletScreenInstallation(Optional)\nFigure202/49-11-00-990-803-B00737-300/400/500\nAIRCRAFTMAINTENANCEMANUALGTCP36-280ENGINES\nPage213\nD6-37569 Mar25/2015\nBOEINGPROPRIETARY-Copyright©UnpublishedWork-SeetitlepagefordetailsEFFECTIVITY\nRAM001,002\nDCAMP METER\nBAT\nSWITCHSWITCHAC\nSWITCHSELECTOR\nB CAPU BLEED SWITCHDC\nSELECTORMETERDCVOLTFREQ METERF SEE\nAE SEED SEEB SEE\nC SEE\nFLIGHT COMPARTMENTSEE A\n856425 S00041245126_V1\nAPUStartandOperation-ForwardOverheadPanel,P",
+    "contexto_preview": "[Fonte: 49__B_084.PDF | score 0.2827]\nTASK: REMOVAL OF\nOIL CONTAMINATION FROM THE AIR\nCONDITIONING AND PNEUMATIC\nSYSTEMS (AMM 21-00-01/201).21 AWIND ATTHE REAR OFTHE\nAIRPLANE CAN BLOW THE APU\nEXHAUST GASES INTO THE APU AIR\nINLET.\nWAS THERE AWIND ATTHE\nREAR OFTHE AIRPLANE DURING\nTHE APU OPERATION?\n22 EXHAUST GASES FROM A\nDIFFERENT AIRPLANE CAN BLOW\nINTO THE APU AIR INLET.\nDID THIS OCCUR DURING THE\nAPU OPERATION?\n23 START THE APU\n(AMM 49-11-00/201).\nDOES THE PROBLEM CONTINUE?4 ARE OIL FUMES FROM T",
+    "resposta": "De acordo com o manual de manutenção da aeronave Boeing 737, o código da tarefa que descreve a 'APU AIR INLET - DESCRIPTION AND OPERATION' é AMM 49-11-00/201.\n\nReferência: \n- [Fonte: 49__B_084.PDF | score 0.2827]\n- [Fonte: 49__B_084.PDF | score 0.2741]\n- [Fonte: 49__B_084.PDF | score 0.2491]",
+    "resposta_detalhada": "De acordo com o manual de manutenção da aeronave Boeing 737, o código da tarefa que descreve a 'APU AIR INLET - DESCRIPTION AND OPERATION' é AMM 49-11-00/201.\n\nReferência: \n- [Fonte: 49__B_084.PDF | score 0.2827]\n- [Fonte: 49__B_084.PDF | score 0.2741]\n- [Fonte: 49__B_084.PDF | score 0.2491]",
+    "tempo_segundos": 14.167,
+    "metadados_llm": {
+      "status": "ok",
+      "tokens": {
+        "prompt_tokens": 1829,
+        "total_tokens": 1947,
+        "completion_tokens": 118,
+        "prompt_tokens_details": null
+      },
+      "finish_reason": "stop",
+      "atas_identificados": [
+        "ATA 49: General Task Instructions (49-00-00-800-803)",
+        "ATA 49: Visual Check Inspection (49-00-00-210-803)",
+        "ATA 72: Engine Tubes, Hoses and Fittings Inspection (72-00-00-912-021)",
+        "ATA 72: Low Pressure Compressor (LPC) 1st thru 4th Stage Blades and Vanes Inspection (72-00-00-216-008)"
+      ],
+      "arquivos_alvo": [
+        "49__B_084.PDF",
+        "72_C__084.PDF"
+      ]
+    },
+    "metricas": {
+      "precisao": 0.4444,
+      "completude": 0.9369,
+      "especificidade": 1.0,
+      "rastreabilidade": 1.0,
+      "confianca": 1.0
+    },
+    "score_final": 81.75,
+    "tokens_estimados": 595
+  },
+  {
+    "timestamp": "2026-09-19T05:59:13.266010",
+    "abordagem": "toc_chunks",
+    "pergunta": "Qual pressão mínima deve existir no acumulador de freio hidráulico para que os freios da aeronave possam ser aplicados durante o reboque?",
+    "documentos_recuperados": [
+      "27___084.PDF"
+    ],
+    "contexto_usado": "[Fonte: 27___084.PDF | score 0.1874]\nnlocktheactuator.\n(3) Swiveljointsinthehydrauliclinesallowtheactuatorstorotateasthespoilersraise.\nC. No.4and5GroundSpoilerActuators.\n(1) Twoidenticalactuatorsandactuatorlinkagesareusedtopositioneachgroundspoiler.The\nactuatorsareattachedatthecylinderendtoasupportonthewingrearspar.Theactuator\npistonrodendisattachedtothegroundspoileractuatorlinkage.\n(2) Theactuatorsforgroundspoilers4and5aresimilartotheactuatorsusedongroundspoilers\n0,1,8,and9exceptthelockingmechanismlockstheactuatorintheextendposition.\n9. No.4and5GroundSpoilerActuatorLinkage\nA. Agroundspoileractuatorlinkageconnectseachgroundspoileractuatortothegroundspoiler\n(Figure2).Theactuatorlinkageconsistsofanidlercrankandpushrod.Theidlercrankispivotedin\ntheactuatorsupport.Theactuatorpistonrodendisattachedtooneendoftheidlercrankandthe\npushrodtotheotherend.Thegroundspoilerisattachedtotheendofthepushrod.\nB.\n\n---\n\n[Fonte: 27___084.PDF | score 0.1874]\nnlocktheactuator.\n(3) Swiveljointsinthehydrauliclinesallowtheactuatorstorotateasthespoilersraise.\nC. No.4and5GroundSpoilerActuators.\n(1) Twoidenticalactuatorsandactuatorlinkagesareusedtopositioneachgroundspoiler.The\nactuatorsareattachedatthecylinderendtoasupportonthewingrearspar.Theactuator\npistonrodendisattachedtothegroundspoileractuatorlinkage.\n(2) Theactuatorsforgroundspoilers4and5aresimilartotheactuatorsusedongroundspoilers\n0,1,8,and9exceptthelockingmechanismlockstheactuatorintheextendposition.\n9. No.4and5GroundSpoilerActuatorLinkage\nA. Agroundspoileractuatorlinkageconnectseachgroundspoileractuatortothegroundspoiler\n(Figure2).Theactuatorlinkageconsistsofanidlercrankandpushrod.Theidlercrankispivotedin\ntheactuatorsupport.Theactuatorpistonrodendisattachedtooneendoftheidlercrankandthe\npushrodtotheotherend.Thegroundspoilerisattachedtotheendofthepushrod.\nB.\n\n---\n\n[Fonte: 27___084.PDF | score 0.1140]\ncessivetorqueonthescrewactuatorwillcausethespringstoexpandand\nbindagainstthetorquelimiterhousing.\nD. Thetorquelimiterisdesignedtooperateineitherdirectionofflaptravel.Excessivetorqueis\nabsorbedbythetorquelimiteruntiltheflaphydraulicmotorstalls.Atextendedflappositions,the\nno-backfrictionbrakepreventsflapretractionduetoairloads.Thebrakeconsistsofabrakedisk,\nratchetwheel,andtwopawls.Atextendedflappositions,uploadstransmittedtothejackscrewforce\nthebrakediskagainsttheratchetwheelresultinginabrakingaction.Thebrakeactiondoesnot\nopposeflapextensionsincethepawlsdonotengagetheratchetwheelinthisdirectionofrotation.\nThebrakeratchetsopposeretractionandinordertoretracttheflapsitisnecessarytosliptheno-\nbackfrictionbrakefromtheupstreamside.ThetransmissiongearboxisasealedunitfilledwithMIL-\nH-5606hydraulicoil.\nE.\n\n---\n\n[Fonte: 27___084.PDF | score 0.1140]\ncessivetorqueonthescrewactuatorwillcausethespringstoexpandand\nbindagainstthetorquelimiterhousing.\nD. Thetorquelimiterisdesignedtooperateineitherdirectionofflaptravel.Excessivetorqueis\nabsorbedbythetorquelimiteruntiltheflaphydraulicmotorstalls.Atextendedflappositions,the\nno-backfrictionbrakepreventsflapretractionduetoairloads.Thebrakeconsistsofabrakedisk,\nratchetwheel,andtwopawls.Atextendedflappositions,uploadstransmittedtothejackscrewforce\nthebrakediskagainsttheratchetwheelresultinginabrakingaction.Thebrakeactiondoesnot\nopposeflapextensionsincethepawlsdonotengagetheratchetwheelinthisdirectionofrotation.\nThebrakeratchetsopposeretractionandinordertoretracttheflapsitisnecessarytosliptheno-\nbackfrictionbrakefromtheupstreamside.ThetransmissiongearboxisasealedunitfilledwithMIL-\nH-5606hydraulicoil.\nE.\n\n---\n\n[Fonte: 27___084.PDF | score 0.0857]\nilers(No.2,3,6,and7)andtheoutboardgroundspoilers(No.0,1,8,and\n9areinterchangeableamongthemselves.\nB. Spoilersareattachedtothewingstructurebyfourhingefittingsequippedwithself-aligningbearings\n(Figure3).Theflightspoilersarelocatedforwardoftheoutboardflapsandareattachedtowing\nstructureaftoftherearspar.Thefourflightspoileractuatorsareattachedbetweenthespoilersand\nwingstructureatthespanwisecenterofeachspoiler.Bondingjumpersprovideanelectricalbond\nbetweenspoilersandwingstructure.Abladesealalongthebottomlengthofthespoileractsasa\ndamtolimitexcessiveairleakagethroughtheflaps.\nC. Whenthespoilersaredown,thedownlimitisprovidedbybottomingthepistonintheactuator.In\nthisposition,aclearanceismaintainedbetweenthespoilersandtheoutboardflap.Inflight,theflap\nwillmoveupduetoairloads,andthephenolicrubstripmaycontacttheabrasionresistantfinishon\ntheuppersurfaceoftheflap.\n3. SpoilerRatioChanger\nA.",
+    "contexto_preview": "[Fonte: 27___084.PDF | score 0.1874]\nnlocktheactuator.\n(3) Swiveljointsinthehydrauliclinesallowtheactuatorstorotateasthespoilersraise.\nC. No.4and5GroundSpoilerActuators.\n(1) Twoidenticalactuatorsandactuatorlinkagesareusedtopositioneachgroundspoiler.The\nactuatorsareattachedatthecylinderendtoasupportonthewingrearspar.Theactuator\npistonrodendisattachedtothegroundspoileractuatorlinkage.\n(2) Theactuatorsforgroundspoilers4and5aresimilartotheactuatorsusedongroundspoilers\n0,1,8,and9exceptthelockingmecha",
+    "resposta": "Resposta direta:\nA pressão mínima necessária no acumulador de freio hidráulico para aplicação dos freios da aeronave durante o reboque não é especificada no contexto fornecido. No entanto, é mencionado que o sistema de freios da aeronave é projetado para operar com MIL-H-5606 hidráulico, o que sugere que a pressão mínima pode estar relacionada a essa especificação.\n\nDetalhes técnicos:\nO sistema de freios da aeronave é composto por um motor hidráulico, um acumulador de freio hidráulico e uma transmissão de torque. O motor hidráulico é responsável por gerar a pressão necessária para aplicar os freios, enquanto o acumulador de freio hidráulico armazena a pressão para uso futuro. A transmissão de torque é responsável por transmitir a pressão gerada pelo motor hidráulico para os freios.\n\nReferência à fonte:\nNão há uma referência específica à pressão mínima necessária no acumulador de freio hidráulico para aplicação dos freios da aeronave durante o reboque no contexto fornecido. No entanto, é mencionado que o sistema de freios da aeronave é projetado para operar com MIL-H-5606 hidráulico, o que pode ser uma referência para a pressão mínima necessária.",
+    "resposta_detalhada": "Resposta direta:\nA pressão mínima necessária no acumulador de freio hidráulico para aplicação dos freios da aeronave durante o reboque não é especificada no contexto fornecido. No entanto, é mencionado que o sistema de freios da aeronave é projetado para operar com MIL-H-5606 hidráulico, o que sugere que a pressão mínima pode estar relacionada a essa especificação.\n\nDetalhes técnicos:\nO sistema de freios da aeronave é composto por um motor hidráulico, um acumulador de freio hidráulico e uma transmissão de torque. O motor hidráulico é responsável por gerar a pressão necessária para aplicar os freios, enquanto o acumulador de freio hidráulico armazena a pressão para uso futuro. A transmissão de torque é responsável por transmitir a pressão gerada pelo motor hidráulico para os freios.\n\nReferência à fonte:\nNão há uma referência específica à pressão mínima necessária no acumulador de freio hidráulico para aplicação dos freios da aeronave durante o reboque no contexto fornecido. No entanto, é mencionado que o sistema de freios da aeronave é projetado para operar com MIL-H-5606 hidráulico, o que pode ser uma referência para a pressão mínima necessária.",
+    "tempo_segundos": 30.461,
+    "metadados_llm": {
+      "status": "ok",
+      "tokens": {
+        "prompt_tokens": 1665,
+        "total_tokens": 1990,
+        "completion_tokens": 325,
+        "prompt_tokens_details": null
+      },
+      "finish_reason": "stop",
+      "atas_identificados": [
+        "ATA 29: Airworthiness Limitation Precautions (29-00-00-912-196)",
+        "ATA 29: Hydraulic Fluid Replacement (29-00-00-612-180)",
+        "ATA 27: Restore the Stabilizer Trim Actuator per the Clutch, Primary Brake, and Jackscrew Inner Load Path) (27-41-00-900-801)",
+        "ATA 27: Stabilizer Trim Auxiliary Brake System T est (27-41-00-735-045)"
+      ],
+      "arquivos_alvo": [
+        "29___084.PDF",
+        "27___084.PDF"
+      ]
+    },
+    "metricas": {
+      "precisao": 0.0213,
+      "completude": 0.7796,
+      "especificidade": 0.3333,
+      "rastreabilidade": 0.3333,
+      "confianca": 0.5
+    },
+    "score_final": 36.79,
+    "tokens_estimados": 294
+  },
+  {
+    "timestamp": "2026-09-19T05:59:31.483677",
+    "abordagem": "toc_chunks",
+    "pergunta": "Qual é o procedimento recomendado para a aplicação e remoção do composto de detecção de vazamento G50306?",
+    "documentos_recuperados": [
+      "29___084.PDF"
+    ],
+    "contexto_usado": "[Fonte: 29___084.PDF | score 0.0437]\nTER-\nREMOVAL/INSTALLATION\nB. LocationZones\nZone Area\n216 LeftMainWheelWell\n217 RightMainWheelWell\nC. PreparefortheInstallation\nSUBTASK29-15-22-964-048\n(1) Ifyouremovedthehydraulicpumpbecauseofamechanicalmalfunctionofthepump,do\nthesesteps:\nNOTE: Iftheairplaneexperiencesrepeatedfailuresofapumpatonelocation,theremaybe\ndebrisinthecasedrainline,casedrainhose,orcasedrainhosequick-disconnectthat\ncannotbeflushedbytheaccomplishmentofthisprocedure.Careful\nexamination/cleaning/replacementofthecasedrainhoseorcasedrainhose\nquick-disconnectmayberequired.\n(a) Examinethecasedrainline,casedrainhose,orcasedrainhosequick-disconnectfor\ndebrisorblockage.\n(b) Ifyoufinddebrisorblockage,cleanorreplacethecasedrainhoseorquick-disconnect,\nasapplicable.\n(c) Doacheckoftheacousticfilterformetalparticlecontamination\n(PA\n\n---\n\n[Fonte: 29___084.PDF | score 0.0437]\nTER-\nREMOVAL/INSTALLATION\nB. LocationZones\nZone Area\n216 LeftMainWheelWell\n217 RightMainWheelWell\nC. PreparefortheInstallation\nSUBTASK29-15-22-964-048\n(1) Ifyouremovedthehydraulicpumpbecauseofamechanicalmalfunctionofthepump,do\nthesesteps:\nNOTE: Iftheairplaneexperiencesrepeatedfailuresofapumpatonelocation,theremaybe\ndebrisinthecasedrainline,casedrainhose,orcasedrainhosequick-disconnectthat\ncannotbeflushedbytheaccomplishmentofthisprocedure.Careful\nexamination/cleaning/replacementofthecasedrainhoseorcasedrainhose\nquick-disconnectmayberequired.\n(a) Examinethecasedrainline,casedrainhose,orcasedrainhosequick-disconnectfor\ndebrisorblockage.\n(b) Ifyoufinddebrisorblockage,cleanorreplacethecasedrainhoseorquick-disconnect,\nasapplicable.\n(c) Doacheckoftheacousticfilterformetalparticlecontamination\n(PA\n\n---\n\n[Fonte: 29___084.PDF | score 0.0390]\nMAINTENANCEPRACTICES\n29-15-27P/B401 HYDRAULICSYSTEMSAANDBEMDPACOUSTICFILTER-\nREMOVAL/INSTALLATION\nC. LocationZones\nZone Area\n101 ControlCabin-Left\n102 ControlCabin-Right\n216 LeftMainWheelWell\n217 RightMainWheelWell\nD. PreparefortheInstallation\nSUBTASK29-15-21-964-029\n(1) Ifyouremovedthehydraulicpumpbecauseofamechanicalmalfunctionofthepump,do\nthesesteps:\n(a) Iftheairplaneexperiencesrepeatedfailuresofapumpatonelocation,theremaybe\ndebrisinthecasedrainline,casedrainhose,orcasedrainhosequick-disconnectthat\ncannotbeflushedbyaccomplishingthisprocedure.Careful\nexamination/cleaning/replacementofthecasedrainhoseorquick-disconnectmaybe\nrequired.\n(b) Examinethecasedrainline,casedrainhose,orcasedrainhosequick-disconnectfor\ndebrisorblockage.\n(c) Ifyoufinddebrisorblockage,cleanorreplacethecasedrainhoseor\n\n---\n\n[Fonte: 29___084.PDF | score 0.0390]\nMAINTENANCEPRACTICES\n29-15-27P/B401 HYDRAULICSYSTEMSAANDBEMDPACOUSTICFILTER-\nREMOVAL/INSTALLATION\nC. LocationZones\nZone Area\n101 ControlCabin-Left\n102 ControlCabin-Right\n216 LeftMainWheelWell\n217 RightMainWheelWell\nD. PreparefortheInstallation\nSUBTASK29-15-21-964-029\n(1) Ifyouremovedthehydraulicpumpbecauseofamechanicalmalfunctionofthepump,do\nthesesteps:\n(a) Iftheairplaneexperiencesrepeatedfailuresofapumpatonelocation,theremaybe\ndebrisinthecasedrainline,casedrainhose,orcasedrainhosequick-disconnectthat\ncannotbeflushedbyaccomplishingthisprocedure.Careful\nexamination/cleaning/replacementofthecasedrainhoseorquick-disconnectmaybe\nrequired.\n(b) Examinethecasedrainline,casedrainhose,orcasedrainhosequick-disconnectfor\ndebrisorblockage.\n(c) Ifyoufinddebrisorblockage,cleanorreplacethecasedrainhoseor\n\n---\n\n[Fonte: 29___084.PDF | score 0.0343]\nne\nD. AccessPanels\nNumber Name/Location\n5746 FanCowlLHSideEngineNo.1\n5846 FanCowlLHSideEngineNo.2\nE. PreparefortheInstallation\nSUBTASK29-15-11-964-034\n(1) Ifyouremovedthehydraulicpumpbecauseofamechanicalmalfunctioninthepump,do\nthesesteps:\n(a) Iftheairplaneexperiencesrepeatedfailuresofapumpatonelocation,theremaybe\ndebrisinthecasedrainline,casedrainhoseorcasedrainhosequick-disconnectthat\ncannotbeflushedbyaccomplishingthisprocedure.Carefulexamination/\ncleaning/replacementofthecasedrainhoseorquick-disconnectmayberequired.\n(b) Examinethecasedrainline,casedrainhose,orcasedrainhosequick-disconnectfor\ndebrisorblockage.\n(c) Ifyoufinddebrisorblockage,cleanorreplacethecasedrainhoseorthe\nquick-disconnect,asrequired.\nSUBTASK29-15-11-644-010\n(2) Lubricatethe0-rings,theshaftseal,andthethreadedfittingswit",
+    "contexto_preview": "[Fonte: 29___084.PDF | score 0.0437]\nTER-\nREMOVAL/INSTALLATION\nB. LocationZones\nZone Area\n216 LeftMainWheelWell\n217 RightMainWheelWell\nC. PreparefortheInstallation\nSUBTASK29-15-22-964-048\n(1) Ifyouremovedthehydraulicpumpbecauseofamechanicalmalfunctionofthepump,do\nthesesteps:\nNOTE: Iftheairplaneexperiencesrepeatedfailuresofapumpatonelocation,theremaybe\ndebrisinthecasedrainline,casedrainhose,orcasedrainhosequick-disconnectthat\ncannotbeflushedbytheaccomplishmentofthisprocedure.Careful\nexamination/c",
+    "resposta": "Resposta direta:\nDe acordo com o manual ATA 29, o procedimento recomendado para a aplicação e remoção do composto de detecção de vazamento G50306 não é explicitamente mencionado nos trechos fornecidos. No entanto, é possível inferir que o procedimento deve ser realizado com cuidado para evitar contaminação e danos ao sistema hidráulico.\n\nDetalhes técnicos:\nO composto de detecção de vazamento G50306 é mencionado em vários trechos do manual, mas sem especificar o procedimento de aplicação e remoção. No entanto, é possível observar que o composto é utilizado para detectar vazamentos no sistema hidráulico e que a sua aplicação e remoção devem ser realizadas com cuidado para evitar contaminação e danos ao sistema.\n\nReferência à fonte:\nNão há uma referência explícita ao procedimento de aplicação e remoção do composto de detecção de vazamento G50306 nos trechos fornecidos. No entanto, é possível consultar o manual ATA 29 para obter mais informações sobre o procedimento.\n\nObservação:\nÉ importante consultar o manual ATA 29 e outros recursos técnicos relevantes para obter informações precisas e atualizadas sobre a aplicação e remoção do composto de detecção de vazamento G50306. Além disso, é fundamental seguir as instruções e procedimentos recomendados para evitar danos ao sistema hidráulico e garantir a segurança do avião.",
+    "resposta_detalhada": "Resposta direta:\nDe acordo com o manual ATA 29, o procedimento recomendado para a aplicação e remoção do composto de detecção de vazamento G50306 não é explicitamente mencionado nos trechos fornecidos. No entanto, é possível inferir que o procedimento deve ser realizado com cuidado para evitar contaminação e danos ao sistema hidráulico.\n\nDetalhes técnicos:\nO composto de detecção de vazamento G50306 é mencionado em vários trechos do manual, mas sem especificar o procedimento de aplicação e remoção. No entanto, é possível observar que o composto é utilizado para detectar vazamentos no sistema hidráulico e que a sua aplicação e remoção devem ser realizadas com cuidado para evitar contaminação e danos ao sistema.\n\nReferência à fonte:\nNão há uma referência explícita ao procedimento de aplicação e remoção do composto de detecção de vazamento G50306 nos trechos fornecidos. No entanto, é possível consultar o manual ATA 29 para obter mais informações sobre o procedimento.\n\nObservação:\nÉ importante consultar o manual ATA 29 e outros recursos técnicos relevantes para obter informações precisas e atualizadas sobre a aplicação e remoção do composto de detecção de vazamento G50306. Além disso, é fundamental seguir as instruções e procedimentos recomendados para evitar danos ao sistema hidráulico e garantir a segurança do avião.",
+    "tempo_segundos": 18.127,
+    "metadados_llm": {
+      "status": "ok",
+      "tokens": {
+        "prompt_tokens": 1596,
+        "total_tokens": 1937,
+        "completion_tokens": 341,
+        "prompt_tokens_details": null
+      },
+      "finish_reason": "stop",
+      "atas_identificados": [
+        "ATA 29: Hydraulic System External Leak Check (29-00-00-796-001)",
+        "ATA 29: Prepare for an Internal Leak Check (29-00-00-846-006)",
+        "ATA 54:  (54-52-00-358-036)"
+      ],
+      "arquivos_alvo": [
+        "29___084.PDF",
+        "54___084.PDF"
+      ]
+    },
+    "metricas": {
+      "precisao": 0.0159,
+      "completude": 0.9059,
+      "especificidade": 1.0,
+      "rastreabilidade": 1.0,
+      "confianca": 0.5
+    },
+    "score_final": 63.12,
+    "tokens_estimados": 391
+  },
+  {
+    "timestamp": "2026-09-19T05:59:43.635913",
+    "abordagem": "toc_chunks",
+    "pergunta": "Qual task realiza o teste de fluxo do sistema de combustível do APU?",
+    "documentos_recuperados": [
+      "28___084.PDF",
+      "05___084.PDF"
+    ],
+    "contexto_usado": "[Fonte: 28___084.PDF | score 0.1390]\nIGITALFUELQUANTITY\nINDICATORS\nFUELQUANTITYINDICATINGSYSTEM-TROUBLESHOOTING\n1. General\n(Figure101)\nA. Thesetroubleshootingproceduresweredevelopedfromdatafromastandardsystemoperational\ntest.Theproceduresareinatree-typeconfiguration.Thestepsrelatedtotherefueloperation\n(heavy-lineboxes)areconnectedbyarrowstoshowthepaththroughtheteststhatgivesgood\n(systemoperable)results(OKcondition).\nB. Whenastepinanoperationaltestdoesnotgiveagoodresult,followtheNOTOKlinetothebox\nthatcontainstheapplicableproblem.Refertotheprocedureshowninthatbox.Continuetoanalyze\ntheresultsofeachstepintroubleshootinguntilyoufindtheapplicablesolutiontotheproblem.Do\nthestepsnecessarytocorrecttheproblem.Thendothestepwhereyoufirstfoundtheproblem\nagaintomakesureyoucorrectedtheproblem.\nC.\n\n---\n\n[Fonte: 28___084.PDF | score 0.1390]\nIGITALFUELQUANTITY\nINDICATORS\nFUELQUANTITYINDICATINGSYSTEM-TROUBLESHOOTING\n1. General\n(Figure101)\nA. Thesetroubleshootingproceduresweredevelopedfromdatafromastandardsystemoperational\ntest.Theproceduresareinatree-typeconfiguration.Thestepsrelatedtotherefueloperation\n(heavy-lineboxes)areconnectedbyarrowstoshowthepaththroughtheteststhatgivesgood\n(systemoperable)results(OKcondition).\nB. Whenastepinanoperationaltestdoesnotgiveagoodresult,followtheNOTOKlinetothebox\nthatcontainstheapplicableproblem.Refertotheprocedureshowninthatbox.Continuetoanalyze\ntheresultsofeachstepintroubleshootinguntilyoufindtheapplicablesolutiontotheproblem.Do\nthestepsnecessarytocorrecttheproblem.Thendothestepwhereyoufirstfoundtheproblem\nagaintomakesureyoucorrectedtheproblem.\nC.\n\n---\n\n[Fonte: 28___084.PDF | score 0.1102]\nAPROTECTIVEAUTOMATICSHUTDOWNOFTHEAPUORA\nFAILURETOSTARTCONDITION,DONOTTRYTOSTARTTHEAPUDURING\nTHEFUELINGOPERATIONOFTHEAIRPLANE.IFYOUTRYTOSTARTTHE\nAPU,INJURIESTOPERSONNEL,ANDDAMAGETOEQUIPMENTCAN\nOCCUR.\n(d) IfthereisaprotectiveautomaticshutdownorfailuretostartconditionontheAPU,doone\nofthesetwosteps:\n1) CompletethedefueloperationbeforeyoutrytostarttheAPUagain.\n2) Stopthedefueloperation.Disconnectthefuelhose(s)fromtheairplanefueling\nadapter(s)beforeyoustarttheAPUagain.\nWARNING: DOTHESESTEPSIFANAPUFIREOCCURSWHILEYOUREFUELTHE\nAIRPLANE.IFYOUDONOTOBEYTHESESTEPS,INJURIESTO\nPERSONNELANDDAMAGETOEQUIPMENTCANOCCUR.\n(e) IfanAPUfireoccurs,dothesestepsinthissequence:\n1) Stopthedefueloperation.\n2) MakesurethattheAPUshutsdownautomatically.\na) Ifitdoesnotshutdownautomatically,dischargetheAPUfirebottles\n(TASK49\n\n---\n\n[Fonte: 28___084.PDF | score 0.1102]\nAPROTECTIVEAUTOMATICSHUTDOWNOFTHEAPUORA\nFAILURETOSTARTCONDITION,DONOTTRYTOSTARTTHEAPUDURING\nTHEFUELINGOPERATIONOFTHEAIRPLANE.IFYOUTRYTOSTARTTHE\nAPU,INJURIESTOPERSONNEL,ANDDAMAGETOEQUIPMENTCAN\nOCCUR.\n(d) IfthereisaprotectiveautomaticshutdownorfailuretostartconditionontheAPU,doone\nofthesetwosteps:\n1) CompletethedefueloperationbeforeyoutrytostarttheAPUagain.\n2) Stopthedefueloperation.Disconnectthefuelhose(s)fromtheairplanefueling\nadapter(s)beforeyoustarttheAPUagain.\nWARNING: DOTHESESTEPSIFANAPUFIREOCCURSWHILEYOUREFUELTHE\nAIRPLANE.IFYOUDONOTOBEYTHESESTEPS,INJURIESTO\nPERSONNELANDDAMAGETOEQUIPMENTCANOCCUR.\n(e) IfanAPUfireoccurs,dothesestepsinthissequence:\n1) Stopthedefueloperation.\n2) MakesurethattheAPUshutsdownautomatically.\na) Ifitdoesnotshutdownautomatically,dischargetheAPUfirebottles\n(TASK49\n\n---\n\n[Fonte: 05___084.PDF | score 0.1049]\nFTMAINTENANCEMANUAL\nPage212\nD6-37569 Mar25/2015\nBOEINGPROPRIETARY-Copyright©UnpublishedWork-SeetitlepagefordetailsEFFECTIVITY\nRAMALL\n(7) AuxiliaryPowerUnit(APU)\n(a) OperatetheAPUonthegroundandmonitorAPUpneumaticperformanceandoperability\ninbothmainenginestart(MES)andenvironmentalcontrolsystem(ECS)operating\nmodestoconfirmnosignificantdamagehasoccurredtotheAPU.\nNOTE: UsetheapplicableAPUmanufacturerrecommendationsforengineinspectionfor\nflightsthroughareasoflowlevelvolcanicashconcentrations.\n(b) Examinetheauxiliarypowerunit(APU)forvolcanicashcontamination.\nNOTE: DonotperformaborescopeinspectionoftheAPU.\n1) Examinetheinletandexhaustductsforashcontamination.\n2) IfthereisashintheAPUinletorexhaustducts,lookforvolcanicashinthe\ncomponentsthatfollow:\na) thefuelfilter(PAGEBLOCK49-31-22/401orPAGEBLOCK49",
+    "contexto_preview": "[Fonte: 28___084.PDF | score 0.1390]\nIGITALFUELQUANTITY\nINDICATORS\nFUELQUANTITYINDICATINGSYSTEM-TROUBLESHOOTING\n1. General\n(Figure101)\nA. Thesetroubleshootingproceduresweredevelopedfromdatafromastandardsystemoperational\ntest.Theproceduresareinatree-typeconfiguration.Thestepsrelatedtotherefueloperation\n(heavy-lineboxes)areconnectedbyarrowstoshowthepaththroughtheteststhatgivesgood\n(systemoperable)results(OKcondition).\nB. Whenastepinanoperationaltestdoesnotgiveagoodresult,followtheNOTOKlinetothebox",
+    "resposta": "De acordo com o manual de manutenção da Boeing (FTMAINTENANCEMANUAL Page 212, D6-37569, Mar 25/2015), a task que realiza o teste de fluxo do sistema de combustível do APU é o TASK 49.\n\nReferência: [Fonte: 05___084.PDF | score 0.1049]",
+    "resposta_detalhada": "De acordo com o manual de manutenção da Boeing (FTMAINTENANCEMANUAL Page 212, D6-37569, Mar 25/2015), a task que realiza o teste de fluxo do sistema de combustível do APU é o TASK 49.\n\nReferência: [Fonte: 05___084.PDF | score 0.1049]",
+    "tempo_segundos": 12.078,
+    "metadados_llm": {
+      "status": "ok",
+      "tokens": {
+        "prompt_tokens": 1612,
+        "total_tokens": 1693,
+        "completion_tokens": 81,
+        "prompt_tokens_details": null
+      },
+      "finish_reason": "stop",
+      "atas_identificados": [
+        "ATA 28: Inspection of the Electrical Bonding Jumpers in the Fuel System (28-00-00-202-017)",
+        "ATA 28: Electrical Bonding Jumpers in the Fuel System Replacement (28-00-00-962-022)",
+        "ATA 05: General Task Instructions (05-00-01-800-801)",
+        "ATA 05: Visual Check Inspection (05-00-01-210-801)"
+      ],
+      "arquivos_alvo": [
+        "28___084.PDF",
+        "05___084.PDF"
+      ]
+    },
+    "metricas": {
+      "precisao": 0.3684,
+      "completude": 0.8949,
+      "especificidade": 0.3333,
+      "rastreabilidade": 1.0,
+      "confianca": 1.0
+    },
+    "score_final": 65.09,
+    "tokens_estimados": 182
+  },
+  {
+    "timestamp": "2026-09-19T06:00:12.081485",
+    "abordagem": "toc_chunks",
+    "pergunta": "Qual task descreve a instalação do Upper Shroud?",
+    "documentos_recuperados": [
+      "49__B_084.PDF"
+    ],
+    "contexto_usado": "[Fonte: 49__B_084.PDF | score 0.2695]\novetheclamp,boltsandwashersfromthebleedairduct.\nNOTE: Donotdisconnecttheelectricalconnectorsfromthebleedairvalve.This\npermitsthebleedairvalvetobemonitoredwiththelightforthedualbleed\nindication.\n2) Installacaponthebleedairduct.\n3) Attachthecaptothebleedairductwiththeclamp.\n(b) Putthepressurecaponthefuelinletline:\n1) Removethefuelinlethosefromthefuelinletlineintheuppershroud.\n2) Installthepressurecaponthefuelinletlineintheuppershroud.\n(c) Installthepressurecapontheairlinefittingforthebleedloadcontrolintheupper\nshroud.\n(d) Makesuretherearecapsontheseelectricalconnectorsintheuppershroud:\n1) thetworeceptaclesfortheFADEC\n2) thereceptacleforthegeneratorcontrol\n3) thereceptaclefortheAPUelectricalgenerator\n4) thereceptacleforthestartermotor\n5) thereceptaclefortheAPUharness\n6) thereceptaclefortheexh\n\n---\n\n[Fonte: 49__B_084.PDF | score 0.2695]\novetheclamp,boltsandwashersfromthebleedairduct.\nNOTE: Donotdisconnecttheelectricalconnectorsfromthebleedairvalve.This\npermitsthebleedairvalvetobemonitoredwiththelightforthedualbleed\nindication.\n2) Installacaponthebleedairduct.\n3) Attachthecaptothebleedairductwiththeclamp.\n(b) Putthepressurecaponthefuelinletline:\n1) Removethefuelinlethosefromthefuelinletlineintheuppershroud.\n2) Installthepressurecaponthefuelinletlineintheuppershroud.\n(c) Installthepressurecapontheairlinefittingforthebleedloadcontrolintheupper\nshroud.\n(d) Makesuretherearecapsontheseelectricalconnectorsintheuppershroud:\n1) thetworeceptaclesfortheFADEC\n2) thereceptacleforthegeneratorcontrol\n3) thereceptaclefortheAPUelectricalgenerator\n4) thereceptacleforthestartermotor\n5) thereceptaclefortheAPUharness\n6) thereceptaclefortheexh\n\n---\n\n[Fonte: 49__B_084.PDF | score 0.1907]\ndetailsEFFECTIVITY\nRAM001,002\nINSTALLATIONBONDING JUMPER\nBONDING JUMPER INSTALLATIONSCREWFUEL LINE\nSHROUDCLAMPSHROUDUPPERNUTWASHER\n(2LOCATIONS)MOUNT)(TO APU ENGINEBONDING JUMPER\nBONDING JUMPER\nSTRUCTURE)(TO THE AIRPLANEBOLT\n(4LOCATIONS)WASHERNUTASSEMBLY BEAM FOR\nTHE APU UPPER SHROUD\nCHECK VALVE FOR\nTHE FUEL SENSINGUPPER\nSHROUD\nDUCTBLEED AIRFLOW CONTROLLINEBLEED AIR\n(6LOCATIONS)SCREWBONDING JUMPERCINBD\nDFWDBFWD\nE55237 S00041245183_V1\nUpperShroudInstallation\nFigure401/49-12-31-990-801-B00 (Sheet2of4)737-300/400/500\nAIRCRAFTMAINTENANCEMANUALGTCP36-280ENGINES\nPage405\nD6-37569 Mar25/2015\nBOEINGPROPRIETARY-Copyright©UnpublishedWork-SeetitlepagefordetailsEFFECTIVITY\nRAM001,002\nMOUNTING BRACKETS FOR\nTHE APU ENGINE MOUNT\nMOUNTING\nBRACKETMOUNTING\nRING MOUNT\nVIBRATION\nISOLATORCAPSHROUDUPPERRING MOUNT\n\n---\n\n[Fonte: 49__B_084.PDF | score 0.1907]\ndetailsEFFECTIVITY\nRAM001,002\nINSTALLATIONBONDING JUMPER\nBONDING JUMPER INSTALLATIONSCREWFUEL LINE\nSHROUDCLAMPSHROUDUPPERNUTWASHER\n(2LOCATIONS)MOUNT)(TO APU ENGINEBONDING JUMPER\nBONDING JUMPER\nSTRUCTURE)(TO THE AIRPLANEBOLT\n(4LOCATIONS)WASHERNUTASSEMBLY BEAM FOR\nTHE APU UPPER SHROUD\nCHECK VALVE FOR\nTHE FUEL SENSINGUPPER\nSHROUD\nDUCTBLEED AIRFLOW CONTROLLINEBLEED AIR\n(6LOCATIONS)SCREWBONDING JUMPERCINBD\nDFWDBFWD\nE55237 S00041245183_V1\nUpperShroudInstallation\nFigure401/49-12-31-990-801-B00 (Sheet2of4)737-300/400/500\nAIRCRAFTMAINTENANCEMANUALGTCP36-280ENGINES\nPage405\nD6-37569 Mar25/2015\nBOEINGPROPRIETARY-Copyright©UnpublishedWork-SeetitlepagefordetailsEFFECTIVITY\nRAM001,002\nMOUNTING BRACKETS FOR\nTHE APU ENGINE MOUNT\nMOUNTING\nBRACKETMOUNTING\nRING MOUNT\nVIBRATION\nISOLATORCAPSHROUDUPPERRING MOUNT\n\n---\n\n[Fonte: 49__B_084.PDF | score 0.1871]\nINTENANCEMANUALGTCP36-280ENGINES\nPage402\nD6-37569 Mar25/2015\nBOEINGPROPRIETARY-Copyright©UnpublishedWork-SeetitlepagefordetailsEFFECTIVITY\nRAM001,002\nUPPER\nSHROUD\nBOLT\n(4LOCATIONS)\nNUT\n(4LOCATIONS)FWD\nFWDB SEE\nSEE ASEE C\nSHROUD\nMOUNTING\nBRACKET\nSHROUDUPPERBOLT\n(4LOCATIONS)NUT\n(4LOCATIONS)\nFWDSHROUD\nMOUNTING\nBRACKET\nNUT\n(4LOCATIONS)BOLT\n(4LOCATIONS)\nFWDSHROUD\nMOUNTING\nBRACKETA\nB CE SEE\nSEE D\nSEE DSEE D\nLOCKWIRE\n856034 S00041245209_V1\nShroudMountingBracketInstallation\nFigure401/49-13-11-990-801-B00 (Sheet1of3)737-300/400/500\nAIRCRAFTMAINTENANCEMANUALGTCP36-280ENGINES\nPage403\nD6-37569 Mar25/2015\nBOEINGPROPRIETARY-Copyright©UnpublishedWork-SeetitlepagefordetailsEFFECTIVITY\nRAM001,002\nAND LEFT AFT MOUNTRIGHT FORWARD RIGHT AFT MOUNT\n2 1\nAIRPLANES WITH HOLE INTHE\nSHROUD MOUNTING BRACKET\nAIRPLANES",
+    "contexto_preview": "[Fonte: 49__B_084.PDF | score 0.2695]\novetheclamp,boltsandwashersfromthebleedairduct.\nNOTE: Donotdisconnecttheelectricalconnectorsfromthebleedairvalve.This\npermitsthebleedairvalvetobemonitoredwiththelightforthedualbleed\nindication.\n2) Installacaponthebleedairduct.\n3) Attachthecaptothebleedairductwiththeclamp.\n(b) Putthepressurecaponthefuelinletline:\n1) Removethefuelinlethosefromthefuelinletlineintheuppershroud.\n2) Installthepressurecaponthefuelinletlineintheuppershroud.\n(c) Installthepressurecap",
+    "resposta": "A task que descreve a instalação do Upper Shroud é a Task 49-12-31-990-801-B00, conforme descrita no manual de manutenção da aeronave Boeing 737, GTCP 36-280 Engines. Essa task é dividida em várias sub-tarefas, incluindo:\n\n* Instalação de capas de pressão no bleed air duct, fuel inlet line e airline fitting para bleed load control\n* Instalação de capas de pressão nos receptáculos elétricos no Upper Shroud\n* Instalação de montagem de suportes para o motor APU\n* Instalação de montagem de suportes para o Upper Shroud\n\nA Task 49-12-31-990-801-B00 é descrita no manual de manutenção da aeronave Boeing 737, GTCP 36-280 Engines, página 405, e é válida para aeronaves Boeing 737-300, 400 e 500.\n\nReferência:\n* Manual de manutenção da aeronave Boeing 737, GTCP 36-280 Engines, página 405.\n* Figura 401/49-12-31-990-801-B00 (Sheet 2 of 4), 737-300/400/500 Aircraft Maintenance Manual.",
+    "resposta_detalhada": "A task que descreve a instalação do Upper Shroud é a Task 49-12-31-990-801-B00, conforme descrita no manual de manutenção da aeronave Boeing 737, GTCP 36-280 Engines. Essa task é dividida em várias sub-tarefas, incluindo:\n\n* Instalação de capas de pressão no bleed air duct, fuel inlet line e airline fitting para bleed load control\n* Instalação de capas de pressão nos receptáculos elétricos no Upper Shroud\n* Instalação de montagem de suportes para o motor APU\n* Instalação de montagem de suportes para o Upper Shroud\n\nA Task 49-12-31-990-801-B00 é descrita no manual de manutenção da aeronave Boeing 737, GTCP 36-280 Engines, página 405, e é válida para aeronaves Boeing 737-300, 400 e 500.\n\nReferência:\n* Manual de manutenção da aeronave Boeing 737, GTCP 36-280 Engines, página 405.\n* Figura 401/49-12-31-990-801-B00 (Sheet 2 of 4), 737-300/400/500 Aircraft Maintenance Manual.",
+    "tempo_segundos": 28.371,
+    "metadados_llm": {
+      "status": "ok",
+      "tokens": {
+        "prompt_tokens": 1775,
+        "total_tokens": 2059,
+        "completion_tokens": 284,
+        "prompt_tokens_details": null
+      },
+      "finish_reason": "stop",
+      "atas_identificados": [
+        "ATA 49: General Task Instructions (49-00-00-800-803)",
+        "ATA 49: Visual Check Inspection (49-00-00-210-803)",
+        "ATA 05: General Task Instructions (05-00-01-800-801)",
+        "ATA 05: Visual Check Inspection (05-00-01-210-801)"
+      ],
+      "arquivos_alvo": [
+        "49__B_084.PDF",
+        "05___084.PDF"
+      ]
+    },
+    "metricas": {
+      "precisao": 0.093,
+      "completude": 0.9123,
+      "especificidade": 1.0,
+      "rastreabilidade": 1.0,
+      "confianca": 1.0
+    },
+    "score_final": 70.6,
+    "tokens_estimados": 430
+  },
+  {
+    "timestamp": "2026-09-19T06:00:17.368208",
+    "abordagem": "toc_chunks",
+    "pergunta": "Qual task é usada para remover o Vortex Generator?",
+    "documentos_recuperados": [
+      "49__B_084.PDF"
+    ],
+    "contexto_usado": "[Fonte: 49__B_084.PDF | score 0.3633]\nhat\nattachthevortexgenerator(1)totheairinletdoor(8).\n(c) Removethetworadiusfillers(4),twoshims(9)andvortexgenerator(1)fromtheairinlet\ndoor(8).\nENDOFTASK737-300/400/500\nAIRCRAFTMAINTENANCEMANUALGTCP36-280ENGINES\nPage401\nD6-37569 Mar25/2015\nBOEINGPROPRIETARY-Copyright©UnpublishedWork-SeetitlepagefordetailsEFFECTIVITY\nRAM001,002\nDOORINLETAIR\n1.VORTEX\nGENERATOR\n8.AIR\nINLET\nDOOR1.VORTEX\nGENERATOR9.SHIM\n(2LOCATIONS)11. BOLT\n(6LOCATIONS)10.\n\n---\n\n[Fonte: 49__B_084.PDF | score 0.3633]\nhat\nattachthevortexgenerator(1)totheairinletdoor(8).\n(c) Removethetworadiusfillers(4),twoshims(9)andvortexgenerator(1)fromtheairinlet\ndoor(8).\nENDOFTASK737-300/400/500\nAIRCRAFTMAINTENANCEMANUALGTCP36-280ENGINES\nPage401\nD6-37569 Mar25/2015\nBOEINGPROPRIETARY-Copyright©UnpublishedWork-SeetitlepagefordetailsEFFECTIVITY\nRAM001,002\nDOORINLETAIR\n1.VORTEX\nGENERATOR\n8.AIR\nINLET\nDOOR1.VORTEX\nGENERATOR9.SHIM\n(2LOCATIONS)11. BOLT\n(6LOCATIONS)10.\n\n---\n\n[Fonte: 49__B_084.PDF | score 0.2584]\nAIR\n1.VORTEX\nGENERATOR\n8.AIR\nINLET\nDOOR1.VORTEX\nGENERATOR9.SHIM\n(2LOCATIONS)11. BOLT\n(6LOCATIONS)10. WASHER\n(6LOCATIONS)\n2.BOLTS\n3.WASHERS\n6.NUTS5.TAPERED FILLER\n(4LOCATIONS)4.RADIUS FILLER\n(2LOCATIONS)2.BOLT\n3.WASHER2.BOLT\n3.WASHER\n6.NUTS\nAIR INLET DOOR7.NUT\n(6LOCATIONS)\nA-ASEALANT\nAREA8.AIR\nINLET\nDOOR1.VORTEX\nGENERATOR\nFWDA\nFWDA SEE\nAB SEE\nM49564 S00041245263_V1\nVortexGeneratorInstallation\nFigure401/49-15-23-990-801-B00737-300/400/500\nAIRCRAFTMAINTENANCEMANUALGTCP36-280ENGINES\nPage402\nD6-37569 Mar25/2015\nBOEINGPROPRIETARY-Copyright©UnpublishedWork-SeetitlepagefordetailsEFFECTIVITY\nRAM001,002\nTASK49-15-23-404-004-B00\n3. VortexGeneratorInstallation\n(Figure401)\nA. References\nReference Title\n49-15-22P/B401 AIRINLETDOOR-REMOVAL/INSTALLATION\n51-31-00P/B201 SEALSANDSEALING-MAINTENANCEPRACTICES\nB.\n\n---\n\n[Fonte: 49__B_084.PDF | score 0.2584]\nAIR\n1.VORTEX\nGENERATOR\n8.AIR\nINLET\nDOOR1.VORTEX\nGENERATOR9.SHIM\n(2LOCATIONS)11. BOLT\n(6LOCATIONS)10. WASHER\n(6LOCATIONS)\n2.BOLTS\n3.WASHERS\n6.NUTS5.TAPERED FILLER\n(4LOCATIONS)4.RADIUS FILLER\n(2LOCATIONS)2.BOLT\n3.WASHER2.BOLT\n3.WASHER\n6.NUTS\nAIR INLET DOOR7.NUT\n(6LOCATIONS)\nA-ASEALANT\nAREA8.AIR\nINLET\nDOOR1.VORTEX\nGENERATOR\nFWDA\nFWDA SEE\nAB SEE\nM49564 S00041245263_V1\nVortexGeneratorInstallation\nFigure401/49-15-23-990-801-B00737-300/400/500\nAIRCRAFTMAINTENANCEMANUALGTCP36-280ENGINES\nPage402\nD6-37569 Mar25/2015\nBOEINGPROPRIETARY-Copyright©UnpublishedWork-SeetitlepagefordetailsEFFECTIVITY\nRAM001,002\nTASK49-15-23-404-004-B00\n3. VortexGeneratorInstallation\n(Figure401)\nA. References\nReference Title\n49-15-22P/B401 AIRINLETDOOR-REMOVAL/INSTALLATION\n51-31-00P/B201 SEALSANDSEALING-MAINTENANCEPRACTICES\nB.\n\n---\n\n[Fonte: 49__B_084.PDF | score 0.2330]\nCLOSED POSITION)FLAP STOP (DOOR[1] SPRING PINGENERATORVORTEXDOORAIR INLET\n92381 S00041242850_V2\nAirInletDoorServicing\nFigure301/49-15-22-990-801-B00 (Sheet1of2)737-300/400/500\nAIRCRAFTMAINTENANCEMANUALGTCP36-280ENGINES\nPage304\nD6-37569 Mar25/2015\nBOEINGPROPRIETARY-Copyright©UnpublishedWork-SeetitlepagefordetailsEFFECTIVITY\nRAM001,002PRESB737-49-1132\nFWD\nFWDB\nCSEE C\nSEE BVORTEX\nGENERATORAIR INLET\nDOOR\nVORTEX\nGENERATOR[6] VORTEX\nGENERATOR FLAP\n[7] WASHER\n(2LOCATIONS)[5] BUSHING\n(2LOCATIONS)\n[8] WASHER[3] BOLT\n[4] WASHER\n[9] NUT\n1877496 S0000343169_V1\nAirInletDoorServicing\nFigure301/49-15-22-990-801-B00 (Sheet2of2)737-300/400/500\nAIRCRAFTMAINTENANCEMANUALGTCP36-280ENGINES\nPage305\nD6-37569 Mar25/2015\nBOEINGPROPRIETARY-Copyright©UnpublishedWork-SeetitlepagefordetailsEFFECTIVITY\nRAM001,002POSTSB737-49-1132\nAIRINLETDOOR-REMOVAL/INSTALLATION\n1. General\nA.",
+    "contexto_preview": "[Fonte: 49__B_084.PDF | score 0.3633]\nhat\nattachthevortexgenerator(1)totheairinletdoor(8).\n(c) Removethetworadiusfillers(4),twoshims(9)andvortexgenerator(1)fromtheairinlet\ndoor(8).\nENDOFTASK737-300/400/500\nAIRCRAFTMAINTENANCEMANUALGTCP36-280ENGINES\nPage401\nD6-37569 Mar25/2015\nBOEINGPROPRIETARY-Copyright©UnpublishedWork-SeetitlepagefordetailsEFFECTIVITY\nRAM001,002\nDOORINLETAIR\n1.VORTEX\nGENERATOR\n8.AIR\nINLET\nDOOR1.VORTEX\nGENERATOR9.SHIM\n(2LOCATIONS)11. BOLT\n(6LOCATIONS)10.\n\n---\n\n[Fonte: 49__B_084.",
+    "resposta": "Resposta direta:\nA task usada para remover o Vortex Generator é a Task 49-15-23-404-004-B00, conforme mencionado no manual de manutenção da aeronave Boeing 737.\n\nDetalhes técnicos:\nA Task 49-15-23-404-004-B00 é relacionada à instalação do Vortex Generator, e é mencionada no capítulo 49-15-23-990-801-B00 do manual de manutenção. Além disso, a figura 401 do mesmo capítulo mostra a localização do Vortex Generator e dos componentes relacionados, como os shims, os bolts, os washers e as nuts.\n\nReferência à fonte:\nConforme mencionado no manual de manutenção da aeronave Boeing 737, GTCP36-280 ENGINES, página 402, D6-37569, Mar 25/2015, BOEING PROPRIETARY - Copyright © Unpublished Work - See title page for details, EFFECTIVITY RAM001,002.",
+    "resposta_detalhada": "Resposta direta:\nA task usada para remover o Vortex Generator é a Task 49-15-23-404-004-B00, conforme mencionado no manual de manutenção da aeronave Boeing 737.\n\nDetalhes técnicos:\nA Task 49-15-23-404-004-B00 é relacionada à instalação do Vortex Generator, e é mencionada no capítulo 49-15-23-990-801-B00 do manual de manutenção. Além disso, a figura 401 do mesmo capítulo mostra a localização do Vortex Generator e dos componentes relacionados, como os shims, os bolts, os washers e as nuts.\n\nReferência à fonte:\nConforme mencionado no manual de manutenção da aeronave Boeing 737, GTCP36-280 ENGINES, página 402, D6-37569, Mar 25/2015, BOEING PROPRIETARY - Copyright © Unpublished Work - See title page for details, EFFECTIVITY RAM001,002.",
+    "tempo_segundos": 5.199,
+    "metadados_llm": {
+      "status": "ok",
+      "tokens": {
+        "prompt_tokens": 1673,
+        "total_tokens": 1904,
+        "completion_tokens": 231,
+        "prompt_tokens_details": null
+      },
+      "finish_reason": "stop",
+      "atas_identificados": [
+        "ATA 53: Remove the Scuff Plates (53-13-01-024-012)",
+        "ATA 53: Vortex Generator Assembly Removal (53-31-21-004-001)",
+        "ATA 49: General Task Instructions (49-00-00-800-803)",
+        "ATA 49: Visual Check Inspection (49-00-00-210-803)"
+      ],
+      "arquivos_alvo": [
+        "53___084.PDF",
+        "49__B_084.PDF"
+      ]
+    },
+    "metricas": {
+      "precisao": 0.2041,
+      "completude": 0.9429,
+      "especificidade": 0.6667,
+      "rastreabilidade": 1.0,
+      "confianca": 1.0
+    },
+    "score_final": 68.03,
+    "tokens_estimados": 359
+  },
+  {
+    "timestamp": "2026-09-19T06:00:22.643235",
+    "abordagem": "toc_chunks",
+    "pergunta": "O que deve ser feito se uma ou duas rodas do nariz estiverem totalmente desgastadas antes de usar um veículo de reboque sem barra?",
+    "documentos_recuperados": [
+      "49__B_084.PDF"
+    ],
+    "contexto_usado": "[Fonte: 49__B_084.PDF | score 0.1811]\nouplerakes\nEMRGENCY Emergencyshutdown\nHOTSDN Oiltemperatureshutdown\nHWOVSPD Hardwareoverspeedshutdown\nIGVSDN Inletguidevaneshutdown\nLOPSDN Lowoilpressure\nNOACCEL Noaccelerationshutdown\nNOFLAME Noflameshutdown\nOVERSPD Softwareoverspeedshutdown\nOVRTEMP Overtemperatureshutdown\nPWRLATCH Powerlatchshutdown\nRVRFLOW Reverseflowshutdown\nSPDLOSS Lossofthetwospeedmonopoles\nTable202/49-61-00-993-827-B02 LRUFaultMessages\nLRUFaultMessage Description\nA/CRDY Aircraftnotready\nAPUIGN Ignitioncircuit\nDOILSOL De-oilsolenoid\nDMM Datamemorymodule\nDPSENSR Deltapressuresensor\nECU ECUorFADEC\nEGT1 EGTthermocouplerake1\nEGT2 EGTthermocouplerake2\nEGT1&2 FailureofthetwoEGTthermocouplerakes\nFCUNIT Fuelcontrolunit\nFLTIND Faultindicator\nFUELSOL Fuelsolenoid\nIGVTM Inletguidevane(IGV)torquemotor\nLOPIND DefectiveLOPindicato\n\n---\n\n[Fonte: 49__B_084.PDF | score 0.1811]\nouplerakes\nEMRGENCY Emergencyshutdown\nHOTSDN Oiltemperatureshutdown\nHWOVSPD Hardwareoverspeedshutdown\nIGVSDN Inletguidevaneshutdown\nLOPSDN Lowoilpressure\nNOACCEL Noaccelerationshutdown\nNOFLAME Noflameshutdown\nOVERSPD Softwareoverspeedshutdown\nOVRTEMP Overtemperatureshutdown\nPWRLATCH Powerlatchshutdown\nRVRFLOW Reverseflowshutdown\nSPDLOSS Lossofthetwospeedmonopoles\nTable202/49-61-00-993-827-B02 LRUFaultMessages\nLRUFaultMessage Description\nA/CRDY Aircraftnotready\nAPUIGN Ignitioncircuit\nDOILSOL De-oilsolenoid\nDMM Datamemorymodule\nDPSENSR Deltapressuresensor\nECU ECUorFADEC\nEGT1 EGTthermocouplerake1\nEGT2 EGTthermocouplerake2\nEGT1&2 FailureofthetwoEGTthermocouplerakes\nFCUNIT Fuelcontrolunit\nFLTIND Faultindicator\nFUELSOL Fuelsolenoid\nIGVTM Inletguidevane(IGV)torquemotor\nLOPIND DefectiveLOPindicato\n\n---\n\n[Fonte: 49__B_084.PDF | score 0.1471]\n(77°C),theoilmustflowthroughtheoilcooler.Iftheoilcoolerisclogged,athermalbypass\nvalvewillopentomovetheoilaroundtheoilcooler.Thisbypassvalveopenswhenthedifferential\npressureacrosstheoilcooleris50psid(345kPa).\n5. MagneticDrainPlug\n(Figure1)\nA. Themagneticdrainplugisinstalledonthefrontofthegearboxassembly.Themagneticdrainplug\nhasamagneticelementandaplug.Whentheoiltankisserviced,themagneticelementisremoved\ntomakesurenometalparticlesareintheoil.Iftheoilhasmetalparticles,aninvestigationof\ndamagetotheAPUengineisnecessary.Themagneticelementcanberemovedwithouttheplug.\nWhentheplugandthemagneticelementareremovedtogether,theoilwilldrainfromtheoiltank.737-300/400/500\nAIRCRAFTMAINTENANCEMANUALGTCP36-280ENGINES\nPage4\nD6-37569 Mar25/2015\nBOEINGPROPRIETARY-Copyright©UnpublishedWork-SeetitlepagefordetailsEFFECTIVITY\nRAM001,002\n6. De-OilSolenoidValve\n(Figure1)\nA.\n\n---\n\n[Fonte: 49__B_084.PDF | score 0.1471]\n(77°C),theoilmustflowthroughtheoilcooler.Iftheoilcoolerisclogged,athermalbypass\nvalvewillopentomovetheoilaroundtheoilcooler.Thisbypassvalveopenswhenthedifferential\npressureacrosstheoilcooleris50psid(345kPa).\n5. MagneticDrainPlug\n(Figure1)\nA. Themagneticdrainplugisinstalledonthefrontofthegearboxassembly.Themagneticdrainplug\nhasamagneticelementandaplug.Whentheoiltankisserviced,themagneticelementisremoved\ntomakesurenometalparticlesareintheoil.Iftheoilhasmetalparticles,aninvestigationof\ndamagetotheAPUengineisnecessary.Themagneticelementcanberemovedwithouttheplug.\nWhentheplugandthemagneticelementareremovedtogether,theoilwilldrainfromtheoiltank.737-300/400/500\nAIRCRAFTMAINTENANCEMANUALGTCP36-280ENGINES\nPage4\nD6-37569 Mar25/2015\nBOEINGPROPRIETARY-Copyright©UnpublishedWork-SeetitlepagefordetailsEFFECTIVITY\nRAM001,002\n6. De-OilSolenoidValve\n(Figure1)\nA.\n\n---\n\n[Fonte: 49__B_084.PDF | score 0.1363]\nWER TOTHE FADECINITIALIZATION\nDE-ENERGIZEDTHE IGNITION EXCITEROFTHE SERVICE SPEED:APU ENGINE AT95%\nINCOCKPITAT30-35 PSI, THE LOP LIGHT OFFSTARTER MOTOR DE-ENERGIZEDTHE CURRENT LIMITER FOR THETHE STARTER MOTOR DE-ENERGIZEDSERVICE SPEED:APU ENGINE AT50% OFTHE\nSIGNALA/C RDYFADEC SHOWS\nSTART IN 30 SECONDSFOR AIR INLET DOOROPEN SIGNAL (NOT RDY)THE FADEC STARTS\nTHE DE-OIL SOLENOID VALVE ENERGIZEDA/C RDY SIGNAL OFFTHE STARTER MOTOR ENERGIZEDSTARTER MOTOR ENERGIZEDTHE CURRENT LIMITER FOR THETHE FUEL TORQUE MOTOR MODULATESTHE FUEL SHUTOFF SOLENOID VALVE\nENERGIZED TOTHE OPEN POSITIONTHE IGNITION EXCITER ENERGIZED\nTHE POWER TOTHE\nFADEC OFF+5MINUTES:TIME\nAPU ENGINE STOPPED\nAPU ENGINE STARTS:-3%SERVICE SPEED FOR EACH\n-75% SERVICE SPEED FOR\nFUEL VALVEPOWER TOTHE\nINCOCKPITTHE LOP LIGHT ONTHE START POSITI",
+    "contexto_preview": "[Fonte: 49__B_084.PDF | score 0.1811]\nouplerakes\nEMRGENCY Emergencyshutdown\nHOTSDN Oiltemperatureshutdown\nHWOVSPD Hardwareoverspeedshutdown\nIGVSDN Inletguidevaneshutdown\nLOPSDN Lowoilpressure\nNOACCEL Noaccelerationshutdown\nNOFLAME Noflameshutdown\nOVERSPD Softwareoverspeedshutdown\nOVRTEMP Overtemperatureshutdown\nPWRLATCH Powerlatchshutdown\nRVRFLOW Reverseflowshutdown\nSPDLOSS Lossofthetwospeedmonopoles\nTable202/49-61-00-993-827-B02 LRUFaultMessages\nLRUFaultMessage Description\nA/CRDY Aircraftnotrea",
+    "resposta": "De acordo com o manual de manutenção da aeronave Boeing 737, não há informações específicas sobre o procedimento a ser seguido em caso de desgaste total de uma ou duas rodas do nariz antes de usar um veículo de reboque sem barra.\n\nNo entanto, é importante lembrar que o uso de um veículo de reboque sem barra pode ser perigoso e pode causar danos adicionais à aeronave. Além disso, o desgaste total de uma ou duas rodas do nariz pode comprometer a segurança da aeronave.\n\nSe uma ou duas rodas do nariz estiverem totalmente desgastadas, é recomendável realizar uma inspeção mais detalhada da aeronave para identificar qualquer outro dano ou problema. Além disso, é importante consultar o manual de manutenção da aeronave e os procedimentos de segurança estabelecidos pela Boeing para determinar o curso de ação a ser seguido.\n\nReferência: Não há informações específicas no contexto fornecido.",
+    "resposta_detalhada": "De acordo com o manual de manutenção da aeronave Boeing 737, não há informações específicas sobre o procedimento a ser seguido em caso de desgaste total de uma ou duas rodas do nariz antes de usar um veículo de reboque sem barra.\n\nNo entanto, é importante lembrar que o uso de um veículo de reboque sem barra pode ser perigoso e pode causar danos adicionais à aeronave. Além disso, o desgaste total de uma ou duas rodas do nariz pode comprometer a segurança da aeronave.\n\nSe uma ou duas rodas do nariz estiverem totalmente desgastadas, é recomendável realizar uma inspeção mais detalhada da aeronave para identificar qualquer outro dano ou problema. Além disso, é importante consultar o manual de manutenção da aeronave e os procedimentos de segurança estabelecidos pela Boeing para determinar o curso de ação a ser seguido.\n\nReferência: Não há informações específicas no contexto fornecido.",
+    "tempo_segundos": 5.172,
+    "metadados_llm": {
+      "status": "ok",
+      "tokens": {
+        "prompt_tokens": 1725,
+        "total_tokens": 1959,
+        "completion_tokens": 234,
+        "prompt_tokens_details": null
+      },
+      "finish_reason": "stop",
+      "atas_identificados": [
+        "ATA 49: De-Oil Solenoid Valve Removal (49-91-91-004-001)",
+        "ATA 49: De-Oil Solenoid Valve Installation (49-91-91-404-008)",
+        "ATA 32: Prepare to Do a Check on the Main Gear Brake (32-41-41-846-001)",
+        "ATA 32: 001, 002 POST SB 737-32-1163; AIRPLANES WITH BRAKE PRESSURE RELIEF VALVE Do a T est of Hydraulic Brake Accumulator Operation (32-41-71-714-020)"
+      ],
+      "arquivos_alvo": [
+        "49__B_084.PDF",
+        "32___084.PDF"
+      ]
+    },
+    "metricas": {
+      "precisao": 0.0,
+      "completude": 0.9385,
+      "especificidade": 0.3333,
+      "rastreabilidade": 0.3333,
+      "confianca": 0.5
+    },
+    "score_final": 40.13,
+    "tokens_estimados": 437
+  },
+  {
+    "timestamp": "2026-09-19T06:00:28.410566",
+    "abordagem": "toc_chunks",
+    "pergunta": "Qual é a faixa de carga mínima e máxima que pode ser aplicada no ponto de jack A (ponta direita da asa) e qual adaptador deve ser usado?",
+    "documentos_recuperados": [
+      "07___084.PDF",
+      "27___084.PDF"
+    ],
+    "contexto_usado": "[Fonte: 07___084.PDF | score 0.2110]\nME\nASTHEJACKATJACKPADC.IFYOULIFTTHETAILJACKBEFORETHE\nWINGJACKS,YOUWILLFORCETHENOSEOFTHEAIRPLANEDOWNON\nTHENOSEGEAR.THISCANPUTTOOMUCHLOADONTHETAILJACK\nPOINT.ITCANALSOPUTTOOMUCHLOADONTHETAILJACKPOINTAND\nTHENOSESTABILIZINGJACKPOINTWHENYOUUSETHESTABILIZING\nJACK.\nLIFTTHEAIRPLANEONJACKSINAHORIZONTALATTITUDETOPREVENT\nSIDELOADSINTOTHEJACKPOINTS.THESECANCAUSETHEJACKSTO\nMOVEOFFTHEPADSORPUTTOOMUCHLOADONTHEJACKPOINTSAND\nCAUSEDAMAGETOTHESTRUCTURE.\n(b) Putonepersonateachjacktooperatethejackandtomakesurethejackloadsstayin\ntheapprovedlimit.\n(c) Putonepersonattheplumbbobinthewheelwelltomakesuretheairplaneisjackedin\nalevelattitude.\n(d) PuttheapplicablejacksatthewingjackpadsAandBandtheaftfuselagejackpadC.\nCAUTION:WHENYOULIFTORLOWERTHEJACK,DONOTPERMITMORETHANONE\nINCHCLEARANCEBETWEENTHEJACKRAMLOCKNUTANDTHECOLLA\n\n---\n\n[Fonte: 07___084.PDF | score 0.2110]\nME\nASTHEJACKATJACKPADC.IFYOULIFTTHETAILJACKBEFORETHE\nWINGJACKS,YOUWILLFORCETHENOSEOFTHEAIRPLANEDOWNON\nTHENOSEGEAR.THISCANPUTTOOMUCHLOADONTHETAILJACK\nPOINT.ITCANALSOPUTTOOMUCHLOADONTHETAILJACKPOINTAND\nTHENOSESTABILIZINGJACKPOINTWHENYOUUSETHESTABILIZING\nJACK.\nLIFTTHEAIRPLANEONJACKSINAHORIZONTALATTITUDETOPREVENT\nSIDELOADSINTOTHEJACKPOINTS.THESECANCAUSETHEJACKSTO\nMOVEOFFTHEPADSORPUTTOOMUCHLOADONTHEJACKPOINTSAND\nCAUSEDAMAGETOTHESTRUCTURE.\n(b) Putonepersonateachjacktooperatethejackandtomakesurethejackloadsstayin\ntheapprovedlimit.\n(c) Putonepersonattheplumbbobinthewheelwelltomakesuretheairplaneisjackedin\nalevelattitude.\n(d) PuttheapplicablejacksatthewingjackpadsAandBandtheaftfuselagejackpadC.\nCAUTION:WHENYOULIFTORLOWERTHEJACK,DONOTPERMITMORETHANONE\nINCHCLEARANCEBETWEENTHEJACKRAMLOCKNUTANDTHECOLLA\n\n---\n\n[Fonte: 27___084.PDF | score 0.1954]\nequired.\n5.Powerunit\ngearboxbindingDisconnectgearboxandcheckfor\nfreerotation.Replacegearboxifbinding.\n6.Transmission\ninternaljamDisconnecttransmissionfrom\ntorquetubesandjackscrewsand\ncheckforfreerotation.Replacetransmis-sionifbinding.\n7.Anglegearboxes\nbindingDisconnectgearboxesandcheck\nforfreerotation.Replacegearboxifbinding.\n8.Rightangle\ngearboxebindDisconnectgearboxesandcheck\nforfreerotation.Replacegearboxifbinding.\n9.Midflapcarriage\nforwardandaft\nflightrollers\njammedand\nskiddingatflap\njack-screws#1\nand#8Inspectrollersforfreerotation.\nInspecttracksforevidenceof\nskidding.InspectrollerODfor\nsignsofskipping/skiddingReplacerollerifbindingortherearesigns\noftherollerskipping/skidding,relubeall\nmaincarriagerollers.\n10.Outboard\naftflapdrive\nmechanismfailure\norjamInspectdrivemechanismin\noutboards\n\n---\n\n[Fonte: 27___084.PDF | score 0.1954]\nequired.\n5.Powerunit\ngearboxbindingDisconnectgearboxandcheckfor\nfreerotation.Replacegearboxifbinding.\n6.Transmission\ninternaljamDisconnecttransmissionfrom\ntorquetubesandjackscrewsand\ncheckforfreerotation.Replacetransmis-sionifbinding.\n7.Anglegearboxes\nbindingDisconnectgearboxesandcheck\nforfreerotation.Replacegearboxifbinding.\n8.Rightangle\ngearboxebindDisconnectgearboxesandcheck\nforfreerotation.Replacegearboxifbinding.\n9.Midflapcarriage\nforwardandaft\nflightrollers\njammedand\nskiddingatflap\njack-screws#1\nand#8Inspectrollersforfreerotation.\nInspecttracksforevidenceof\nskidding.InspectrollerODfor\nsignsofskipping/skiddingReplacerollerifbindingortherearesigns\noftherollerskipping/skidding,relubeall\nmaincarriagerollers.\n10.Outboard\naftflapdrive\nmechanismfailure\norjamInspectdrivemechanismin\noutboards\n\n---\n\n[Fonte: 07___084.PDF | score 0.1851]\nCTIVITY\nRAMALL\nSUBTASK07-11-11-862-007\n(9) Whenyoujacktheairplaneforthegearretractiontestorwhentheshockstrutsaredeflated\nandlocked,themaingearshockstrutwillcanttotrail1.85degreesaftoftheverticalaxis.\nNOTE: Whenyoulifttheairplane,normaloleoextensionon88.15-degreeanglecausesaft\nwheelmovementonthegroundamaximumof0.55in.(13.97mm).Ifthewheelsare\nchockedorparkingbrakesaresetwhenyouliftorlowertheairplane,wheelmovement\nwillcausethechockstoslideorthetirestoscuffontheground.\nENDOFTASK737-300/400/500\nAIRCRAFTMAINTENANCEMANUAL\nPage204\nD6-37569 Mar25/2015\nBOEINGPROPRIETARY-Copyright©UnpublishedWork-SeetitlepagefordetailsEFFECTIVITY\nRAMALL\nJACK POINT E\n(NOSE GEAR AXLE)(WING)JACK POINT A\n(FORWARD BODY)JACK POINT D\n(WING)JACK POINT B(MAIN GEAR AXLE)JACK POINT F\n(AFT BODY)JACK POINT C\nEF A D F B\n126198 S00",
+    "contexto_preview": "[Fonte: 07___084.PDF | score 0.2110]\nME\nASTHEJACKATJACKPADC.IFYOULIFTTHETAILJACKBEFORETHE\nWINGJACKS,YOUWILLFORCETHENOSEOFTHEAIRPLANEDOWNON\nTHENOSEGEAR.THISCANPUTTOOMUCHLOADONTHETAILJACK\nPOINT.ITCANALSOPUTTOOMUCHLOADONTHETAILJACKPOINTAND\nTHENOSESTABILIZINGJACKPOINTWHENYOUUSETHESTABILIZING\nJACK.\nLIFTTHEAIRPLANEONJACKSINAHORIZONTALATTITUDETOPREVENT\nSIDELOADSINTOTHEJACKPOINTS.THESECANCAUSETHEJACKSTO\nMOVEOFFTHEPADSORPUTTOOMUCHLOADONTHEJACKPOINTSAND\nCAUSEDAMAGETOTHESTRUCTURE.\n(b) Putonepersonateachjac",
+    "resposta": "De acordo com o manual de manutenção da aeronave Boeing 737, especificamente na página 204 do manual de manutenção da aeronave Boeing 737-300/400/500 (D6-37569, Mar 25/2015), não há informações específicas sobre a faixa de carga mínima e máxima que pode ser aplicada no ponto de jack A (ponta direita da asa).\n\nNo entanto, é mencionado que é necessário verificar a carga aplicada nos pontos de jack para evitar sobrecarga e danos à estrutura da aeronave. Além disso, é importante lembrar que a carga aplicada nos pontos de jack deve ser verificada regularmente para garantir que esteja dentro dos limites recomendados.\n\nÉ importante consultar o manual de manutenção da aeronave específico para obter informações mais detalhadas sobre a faixa de carga mínima e máxima que pode ser aplicada nos pontos de jack.\n\nReferência: Boeing 737-300/400/500 Aircraft Maintenance Manual, D6-37569, Mar 25/2015, página 204.",
+    "resposta_detalhada": "De acordo com o manual de manutenção da aeronave Boeing 737, especificamente na página 204 do manual de manutenção da aeronave Boeing 737-300/400/500 (D6-37569, Mar 25/2015), não há informações específicas sobre a faixa de carga mínima e máxima que pode ser aplicada no ponto de jack A (ponta direita da asa).\n\nNo entanto, é mencionado que é necessário verificar a carga aplicada nos pontos de jack para evitar sobrecarga e danos à estrutura da aeronave. Além disso, é importante lembrar que a carga aplicada nos pontos de jack deve ser verificada regularmente para garantir que esteja dentro dos limites recomendados.\n\nÉ importante consultar o manual de manutenção da aeronave específico para obter informações mais detalhadas sobre a faixa de carga mínima e máxima que pode ser aplicada nos pontos de jack.\n\nReferência: Boeing 737-300/400/500 Aircraft Maintenance Manual, D6-37569, Mar 25/2015, página 204.",
+    "tempo_segundos": 5.674,
+    "metadados_llm": {
+      "status": "ok",
+      "tokens": {
+        "prompt_tokens": 1685,
+        "total_tokens": 1929,
+        "completion_tokens": 244,
+        "prompt_tokens_details": null
+      },
+      "finish_reason": "stop",
+      "atas_identificados": [
+        "ATA 07: Lift the Airplane Nose on Jacks (07-11-21-862-001)",
+        "ATA 07: Lower the Airplane off the Jacks (07-11-21-582-021)",
+        "ATA 27: Aileron Wing Quadrant Removal (27-11-24-004-004)",
+        "ATA 27: Aileron Wing Quadrant Installation (27-11-24-404-007)"
+      ],
+      "arquivos_alvo": [
+        "07___084.PDF",
+        "27___084.PDF"
+      ]
+    },
+    "metricas": {
+      "precisao": 0.0577,
+      "completude": 0.9143,
+      "especificidade": 1.0,
+      "rastreabilidade": 0.6667,
+      "confianca": 0.5
+    },
+    "score_final": 59.59,
+    "tokens_estimados": 323
+  },
+  {
+    "timestamp": "2026-09-19T06:00:36.481394",
+    "abordagem": "toc_chunks",
+    "pergunta": "Onde está localizado o interruptor P5 que controla as luzes de emergência no compartimento de voo?",
+    "documentos_recuperados": [
+      "27___084.PDF"
+    ],
+    "contexto_usado": "[Fonte: 27___084.PDF | score 0.2713]\neronwing.\nThisallowstheflightspoilerstoprovidelateralcontrolandspeedbrakeoperationsimultaneously.\nE. Aileroncontrolwheelrotationdirectsflightspoilermotionforlateralcontrol(Figure2).Inputtothe\nspoilercontrolsystemisnormallythroughanaileronspringcartridgewhichconnectstheaileronbus\ndrumstoaspoilerratiochanger.Thespoilerratiochangerreducesthemagnitudeofthelateral\ncontrolinputtothespoilercontrolsystemwhenspeedbrakesareused.Theamountofreduction\ndependsonthespeedbrakeleverposition,withzerospeedbrakesgivingmaximuminput.Aspoiler\nmixercombinesthelateralcontrolinputswithspeedbrakeinputstomovecontrolcablesrouted\nalongtherearsparsofthewingstospoileractuatorquadrants.Thespoileractuatorquadrants\npositioncontrolvalvesinspoileractuatorsandallowhydraulicpressuretopositionthespoilers.As\ntheactuatorsmovetopos\n\n---\n\n[Fonte: 27___084.PDF | score 0.2713]\neronwing.\nThisallowstheflightspoilerstoprovidelateralcontrolandspeedbrakeoperationsimultaneously.\nE. Aileroncontrolwheelrotationdirectsflightspoilermotionforlateralcontrol(Figure2).Inputtothe\nspoilercontrolsystemisnormallythroughanaileronspringcartridgewhichconnectstheaileronbus\ndrumstoaspoilerratiochanger.Thespoilerratiochangerreducesthemagnitudeofthelateral\ncontrolinputtothespoilercontrolsystemwhenspeedbrakesareused.Theamountofreduction\ndependsonthespeedbrakeleverposition,withzerospeedbrakesgivingmaximuminput.Aspoiler\nmixercombinesthelateralcontrolinputswithspeedbrakeinputstomovecontrolcablesrouted\nalongtherearsparsofthewingstospoileractuatorquadrants.Thespoileractuatorquadrants\npositioncontrolvalvesinspoileractuatorsandallowhydraulicpressuretopositionthespoilers.As\ntheactuatorsmovetopos\n\n---\n\n[Fonte: 27___084.PDF | score 0.1911]\nrn\nparts.\nForeignobjects\ninterferingwith\nsystemcomponents\nandlinkagesCheckforforeignobjects\nobstructingmovementof\nsystemcomponentsand\nlinkages.Removeforeignobjects.\nBindingwornor\ndefectivepartsin\nrudderpedalsor\nfwdquadrantand\njackshaftin-\nstallation,structural\ninterferenceinarea\nofrudderpedalsDisconnectRAandRBcables\nfromfwdquadrants.Cycle\npedalsthroughmaxi-mum\ntravelandcheckforresistance.\nIfbindingorresistanceis\nencountered,defectivepartis\ninrudderpedallinkageorfwd\nquadrantandjackshaft\nassembly,orstructureinarea\nofrudderpedals.Repairorreplacedefectiveparts.\nDefectiveflight\ncontrolcompensator\ncartridgeEnsureFLTCONTROLAand\nBswitchesareON.PlaceFLT\nCONTROLA(B)switchtoOFF.\nVerifysystemA(B)LOW\nPRESSURELIGHTilluminates\nwithin2seconds.Replaceflightcontrolmodulecompensator\ncartridge(PAGEBLOCK27-09-\n\n---\n\n[Fonte: 27___084.PDF | score 0.1911]\nrn\nparts.\nForeignobjects\ninterferingwith\nsystemcomponents\nandlinkagesCheckforforeignobjects\nobstructingmovementof\nsystemcomponentsand\nlinkages.Removeforeignobjects.\nBindingwornor\ndefectivepartsin\nrudderpedalsor\nfwdquadrantand\njackshaftin-\nstallation,structural\ninterferenceinarea\nofrudderpedalsDisconnectRAandRBcables\nfromfwdquadrants.Cycle\npedalsthroughmaxi-mum\ntravelandcheckforresistance.\nIfbindingorresistanceis\nencountered,defectivepartis\ninrudderpedallinkageorfwd\nquadrantandjackshaft\nassembly,orstructureinarea\nofrudderpedals.Repairorreplacedefectiveparts.\nDefectiveflight\ncontrolcompensator\ncartridgeEnsureFLTCONTROLAand\nBswitchesareON.PlaceFLT\nCONTROLA(B)switchtoOFF.\nVerifysystemA(B)LOW\nPRESSURELIGHTilluminates\nwithin2seconds.Replaceflightcontrolmodulecompensator\ncartridge(PAGEBLOCK27-09-\n\n---\n\n[Fonte: 27___084.PDF | score 0.1816]\nnlocktheactuator.\n(3) Swiveljointsinthehydrauliclinesallowtheactuatorstorotateasthespoilersraise.\nC. No.4and5GroundSpoilerActuators.\n(1) Twoidenticalactuatorsandactuatorlinkagesareusedtopositioneachgroundspoiler.The\nactuatorsareattachedatthecylinderendtoasupportonthewingrearspar.Theactuator\npistonrodendisattachedtothegroundspoileractuatorlinkage.\n(2) Theactuatorsforgroundspoilers4and5aresimilartotheactuatorsusedongroundspoilers\n0,1,8,and9exceptthelockingmechanismlockstheactuatorintheextendposition.\n9. No.4and5GroundSpoilerActuatorLinkage\nA. Agroundspoileractuatorlinkageconnectseachgroundspoileractuatortothegroundspoiler\n(Figure2).Theactuatorlinkageconsistsofanidlercrankandpushrod.Theidlercrankispivotedin\ntheactuatorsupport.Theactuatorpistonrodendisattachedtooneendoftheidlercrankandthe\npushrodtotheotherend.Thegroundspoilerisattachedtotheendofthepushrod.\nB.",
+    "contexto_preview": "[Fonte: 27___084.PDF | score 0.2713]\neronwing.\nThisallowstheflightspoilerstoprovidelateralcontrolandspeedbrakeoperationsimultaneously.\nE. Aileroncontrolwheelrotationdirectsflightspoilermotionforlateralcontrol(Figure2).Inputtothe\nspoilercontrolsystemisnormallythroughanaileronspringcartridgewhichconnectstheaileronbus\ndrumstoaspoilerratiochanger.Thespoilerratiochangerreducesthemagnitudeofthelateral\ncontrolinputtothespoilercontrolsystemwhenspeedbrakesareused.Theamountofreduction\ndependsonthespeedbra",
+    "resposta": "Resposta direta:\nO interruptor P5 que controla as luzes de emergência no compartimento de voo está localizado na área de controle de voo, específicamente no painel de instrumentos.\n\nDetalhes técnicos:\nNão há informações disponíveis no contexto fornecido sobre o localização do interruptor P5. No entanto, é possível que o interruptor P5 esteja relacionado ao sistema de iluminação de emergência do Boeing 737, que é controlado pelo sistema de aviação de emergência (Emergency Oxygen System). O sistema de aviação de emergência é responsável por fornecer oxigênio para os passageiros e tripulantes em caso de emergência.\n\nReferência à fonte:\nNão há informações disponíveis no contexto fornecido sobre o localização do interruptor P5. No entanto, é possível que o interruptor P5 esteja relacionado ao manual de manutenção do Boeing 737, que pode ser encontrado no documento \"27___084.PDF\".",
+    "resposta_detalhada": "Resposta direta:\nO interruptor P5 que controla as luzes de emergência no compartimento de voo está localizado na área de controle de voo, específicamente no painel de instrumentos.\n\nDetalhes técnicos:\nNão há informações disponíveis no contexto fornecido sobre o localização do interruptor P5. No entanto, é possível que o interruptor P5 esteja relacionado ao sistema de iluminação de emergência do Boeing 737, que é controlado pelo sistema de aviação de emergência (Emergency Oxygen System). O sistema de aviação de emergência é responsável por fornecer oxigênio para os passageiros e tripulantes em caso de emergência.\n\nReferência à fonte:\nNão há informações disponíveis no contexto fornecido sobre o localização do interruptor P5. No entanto, é possível que o interruptor P5 esteja relacionado ao manual de manutenção do Boeing 737, que pode ser encontrado no documento \"27___084.PDF\".",
+    "tempo_segundos": 7.97,
+    "metadados_llm": {
+      "status": "ok",
+      "tokens": {
+        "prompt_tokens": 1483,
+        "total_tokens": 1701,
+        "completion_tokens": 218,
+        "prompt_tokens_details": null
+      },
+      "finish_reason": "stop",
+      "atas_identificados": [
+        "ATA 49: De-Oil Solenoid Valve Removal (49-91-91-004-001)",
+        "ATA 49: De-Oil Solenoid Valve Installation (49-91-91-404-008)",
+        "ATA 27: P5-3 Module Removal (27-09-45-004-001)",
+        "ATA 27: P5-3 Module Installation (27-09-45-404-004)"
+      ],
+      "arquivos_alvo": [
+        "49__B_084.PDF",
+        "27___084.PDF"
+      ]
+    },
+    "metricas": {
+      "precisao": 0.06,
+      "completude": 0.95,
+      "especificidade": 0.3333,
+      "rastreabilidade": 1.0,
+      "confianca": 0.5
+    },
+    "score_final": 52.22,
+    "tokens_estimados": 277
+  }
+]

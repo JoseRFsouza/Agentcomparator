@@ -1,0 +1,210 @@
+﻿timestamp,abordagem,pergunta,documentos_recuperados,resposta,tempo_segundos,precisao,completude,especificidade,rastreabilidade,confianca,score_final
+2026-09-19T05:27:37.839575,tfidf,Até quais limites os resortes de suspensão da roda principal e da roda nariz devem ser estendidos ou retraídos durante um ajuste pequeno de nivelamento?,11___084.PDF | 71_C__084.PDF | 49__B_084.PDF | 36___084.PDF | 20___084.PDF,"De acordo com o capítulo 36 do manual PJW, especificamente na seção 36-11-05, é mencionado que os resortes de suspensão da roda principal e da roda nariz devem ser estendidos ou retraídos dentro de limites específicos durante um ajuste pequeno de nivelamento.
+
+Os limites mencionados são:
+
+- Para a roda principal: 1,27 cm (0,5 polegadas) de extensão ou retração.
+- Para a roda nariz: 0,64 cm (0,25 polegadas) de extensão ou retração.
+
+Esses limites são importantes para garantir que o ajuste de nivelamento seja feito de forma segura e eficaz, sem comprometer a estabilidade e o desempenho da aeronave.
+
+Referência: Capítulo 36, seção 36-11-05, manual PJW.",43.687,0.0,0.9714,1.0,0.6667,1.0,64.29
+2026-09-19T05:28:10.343539,tfidf,Quais circuit breakers na placa P6 devem ser abertos e marcados com tag DO‑NOT‑CLOSE durante a remoção do módulo P5‑9?,33___084.PDF | 24___084.PDF | 36___084.PDF | 21___084.PDF | 74_C__084.PDF,"De acordo com o manual PJW 74, capítulo 74-21-00, subcapítulo 401, a resposta é:
+
+Os circuit breakers na placa P6 que devem ser abertos e marcados com tag DO-NOT-CLOSE durante a remoção do módulo P5-9 são:
+
+* CB 1
+* CB 2
+* CB 3
+* CB 4
+
+Essa informação está disponível no manual PJW 74, capítulo 74-21-00, subcapítulo 401, que descreve a procedimento de remoção do módulo P5-9.
+
+Referência: PJW 74, capítulo 74-21-00, subcapítulo 401.",32.49,0.0,0.9273,0.6667,0.6667,1.0,56.52
+2026-09-19T05:28:16.803061,tfidf,Qual é a tarefa que remove o filtro de retorno do módulo de pressão do sistema A e B?,49__B_084.PDF | 36___084.PDF | 35___084.PDF | 11___084.PDF | 24___084.PDF,"Resposta direta:
+A tarefa que remove o filtro de retorno do módulo de pressão do sistema A e B é a Task 35-12-11, conforme descrito no capítulo 35 do manual PJW 35-OXYGEN.
+
+Detalhes técnicos:
+A Task 35-12-11 é uma tarefa específica para remover o filtro de retorno do módulo de pressão do sistema A e B. De acordo com o capítulo 35 do manual PJW 35-OXYGEN, a tarefa envolve a remoção do filtro de retorno do módulo de pressão do sistema A e B, que é um componente crítico do sistema de oxigênio da aeronave. A tarefa também inclui a inspeção e a substituição do filtro de retorno, se necessário.
+
+Referência à fonte:
+Fonte: Capítulo 35 do manual PJW 35-OXYGEN, página 405.",6.438,0.0571,0.8965,1.0,1.0,1.0,69.13
+2026-09-19T05:28:38.765919,tfidf,Onde está localizado o suporte do plumb bob em relação à escala de nivelamento no compartimento da roda principal direita?,11___084.PDF | 49__B_084.PDF | 20___084.PDF | 22___084.PDF | 78_C__084.PDF,"Resposta direta:
+O suporte do plumb bob está localizado na parte inferior da escala de nivelamento no compartimento da roda principal direita.
+
+Detalhes técnicos:
+De acordo com o manual de manutenção da aeronave Boeing 737, o suporte do plumb bob é localizado na parte inferior da escala de nivelamento no compartimento da roda principal direita. Isso é especificado no capítulo 78-31-00 do manual de manutenção da aeronave. O suporte do plumb bob é uma peça importante para garantir a precisão da escala de nivelamento e, consequentemente, a segurança da aeronave.
+
+Referência à fonte:
+Fonte: Capítulo 78-31-00 do manual de manutenção da aeronave Boeing 737, especificamente a seção 78-31-00 201 Mar25/2015.",21.95,0.0811,0.9051,0.6667,1.0,1.0,63.39
+2026-09-19T05:29:13.248194,tfidf,Qual é o código da tarefa que descreve a 'APU Power Plant Installation (Hydraulic Jack)'?,07___084.PDF | 10___084.PDF | 23___084.PDF | 36___084.PDF | 32___084.PDF,"De acordo com o capítulo 32 do AMM (Aircraft Maintenance Manual), a tarefa que descreve a 'APU Power Plant Installation (Hydraulic Jack)' é a 32-09-01.
+
+Detalhes técnicos:
+
+* A tarefa 32-09-01 é descrita como ""APU Power Plant Installation (Hydraulic Jack)"".
+* A tarefa é dividida em várias sub-tarefas, incluindo:
+ + 32-09-01-401: ""Install APU Power Plant Hydraulic Jack""
+ + 32-09-01-402: ""Install APU Power Plant Hydraulic Jack Support""
+ + 32-09-01-403: ""Install APU Power Plant Hydraulic Jack Cylinder""
+ + 32-09-01-404: ""Install APU Power Plant Hydraulic Jack Piston""
+ + 32-09-01-405: ""Install APU Power Plant Hydraulic Jack Valve""
+* A tarefa 32-09-01 é classificada como uma tarefa de ""Instalação"" e é considerada uma tarefa crítica para a segurança da aeronave.
+
+Referência à fonte:
+
+* Capítulo 32 do AMM (Aircraft Maintenance Manual)
+* Tarefa 32-09-01: ""APU Power Plant Installation (Hydraulic Jack)""",34.471,0.0294,0.8326,0.6667,1.0,1.0,60.03
+2026-09-19T05:29:20.188406,tfidf,Qual é o número da task para a remoção do módulo de separação de ar (Air Separation Module)?,11___084.PDF | 47___084.PDF | 24___084.PDF | 49__B_084.PDF | 33___084.PDF,"De acordo com o manual de manutenção da aeronave Boeing 737, não há informações disponíveis sobre o número da task para a remoção do módulo de separação de ar (Air Separation Module) nos manuais fornecidos (11___084.PDF, 47___084.PDF, 24___084.PDF, 49__B_084.PDF e 33___084.PDF). No entanto, é possível que o número da task esteja listado em outro manual ou documento relacionado à manutenção da aeronave.
+
+Se você tiver acesso a outros manuais ou documentos, recomendo verificar o seguinte:
+
+- Manual de Manutenção da Aeronave Boeing 737 (AMM)
+- Manual de Tarefas da Aeronave Boeing 737 (ATA)
+- Manual de Manutenção da Aeronave Boeing 737 (ATA 29)
+
+Se você não tiver acesso a esses manuais, recomendo entrar em contato com o fabricante da aeronave ou com um profissional de manutenção qualificado para obter a informação necessária.",6.931,0.1042,0.9556,0.6667,1.0,0.5,60.35
+2026-09-19T05:29:40.565194,tfidf,Quais elementos estruturais são reforçados por stringers transversais e quais são reforçados por stiffeners verticais na estrutura da asa?,05___084.PDF | 53___084.PDF | 11___084.PDF | 57___084.PDF | 36___084.PDF,"Resposta direta:
+Os elementos estruturais reforçados por stringers transversais na estrutura da asa são os painéis de asa, enquanto os elementos estruturais reforçados por stiffeners verticais são os painéis de asa e os flanges da asa.
+
+Detalhes técnicos:
+De acordo com o capítulo 57 do manual de manutenção da asa (57___084.PDF), os stringers transversais são utilizados para reforçar os painéis de asa, enquanto os stiffeners verticais são utilizados para reforçar tanto os painéis de asa quanto os flanges da asa. Os stiffeners verticais são projetados para resistir a cargas verticais e horizontais, enquanto os stringers transversais são projetados para resistir a cargas horizontais.
+
+Referência à fonte:
+Capítulo 57 do manual de manutenção da asa (57___084.PDF), páginas 1-2.",20.362,0.0625,0.8956,0.3333,1.0,1.0,55.93
+2026-09-19T05:29:51.611691,tfidf,Qual componente no indicador de tachômetro N1 fornece a luz de aviso de limite superior?,36___084.PDF | 31___084.PDF | 70_C__084.PDF | 11___084.PDF | 80_C__084.PDF,"De acordo com o manual de manutenção da aeronave Boeing 737, específicamente no capítulo 80 ""STARTING"" (CFM56 ENGINES (CFM56-3)), a luz de aviso de limite superior no indicador de tachômetro N1 é fornecida pelo componente ""N1 LIMIT LIGHT"" (Luz de Limite do Tachômetro N1).
+
+Detalhes técnicos:
+
+* O componente N1 LIMIT LIGHT é um indicador de luz que é ativado quando o tachômetro N1 atinge o limite superior permitido.
+* O limite superior permitido para o tachômetro N1 é de 104% da velocidade nominal.
+* A luz de aviso de limite superior é fornecida pelo componente N1 LIMIT LIGHT, que é conectado ao sistema de indicação de tachômetro N1.
+
+Referência à fonte:
+
+* Manual de manutenção da aeronave Boeing 737, capítulo 80 ""STARTING"" (CFM56 ENGINES (CFM56-3)), página 80-11-01, item 401.",11.037,0.0833,0.8585,0.6667,1.0,1.0,62.3
+2026-09-19T05:29:54.997719,tfidf,Qual é o código da tarefa que descreve a 'APU Engine Mount Bracket Removal'?,80_C__084.PDF | 49__D_084.PDF | 79_C__084.PDF | 73_C__084.PDF | 78_C__084.PDF,"De acordo com o manual de manutenção da APU (Auxiliary Power Unit) GTCP85-129 Series Engines, o código da tarefa que descreve a ""APU Engine Mount Bracket Removal"" é 49-00-00 101.
+
+Referência: [Fonte: 49__D_084.PDF (score 0.0480)]",3.372,0.2857,0.89,0.6667,1.0,1.0,69.16
+2026-09-19T05:30:09.789582,tfidf,Quais parafusos e acessórios são usados para fixar os thrust link fittings ao strut?,54___084.PDF | 76_C__084.PDF | 78_C__084.PDF | 11___084.PDF | 53___084.PDF,"De acordo com o manual de manutenção de aeronaves Boeing 737, especificamente no capítulo 53 FUSELAGE, seção 53-05-03, podemos encontrar informações sobre a fixação dos thrust link fittings ao strut.
+
+Os parafusos utilizados para fixar os thrust link fittings ao strut são os parafusos M6x1,5-8.0, conforme especificado no item 53-05-03-01.
+
+Além disso, os acessórios utilizados para fixar os thrust link fittings ao strut incluem:
+
+* Parafusos M6x1,5-8.0
+* Aro de vedação (item 53-05-03-02)
+* Selante de vedação (item 53-05-03-03)
+
+Essas informações são baseadas no manual de manutenção de aeronaves Boeing 737, capítulo 53 FUSELAGE, seção 53-05-03.
+
+Referência:
+* Manual de manutenção de aeronaves Boeing 737, capítulo 53 FUSELAGE, seção 53-05-03.",14.779,0.0286,0.8751,0.6667,0.6667,1.0,56.07
+2026-09-19T05:30:30.172419,tfidf,Qual é o código da tarefa que descreve a 'APU Power Plant Removal (Fishpole Hoist)'?,36___084.PDF | 33___084.PDF | 26___084.PDF | 80_C__084.PDF | 49__D_084.PDF,"De acordo com o manual PJW 49, que trata sobre o Auxiliar Power Unit (APU) GTCP85-129 Series Engines, a tarefa de ""APU Power Plant Removal (Fishpole Hoist)"" é descrita no código 49-00-00 101.
+
+Referência: PJW 49, página 103, setembro de 2015.
+
+Detalhes técnicos:
+
+* Código da tarefa: 49-00-00 101
+* Descrição da tarefa: APU Power Plant Removal (Fishpole Hoist)
+* Referência: PJW 49, página 103, setembro de 2015",20.37,0.0833,0.9111,0.6667,1.0,1.0,63.61
+2026-09-19T05:30:37.000579,tfidf,Qual é o código da tarefa que descreve a 'APU AIR INLET - DESCRIPTION AND OPERATION'?,49__D_084.PDF | 49__B_084.PDF | 21___084.PDF | 36___084.PDF | 80_C__084.PDF,"De acordo com o manual de manutenção da APU GTCP85-129Série, o código da tarefa que descreve a ""APU AIR INLET - DESCRIPTION AND OPERATION"" é 49-11-00.
+
+Detalhes técnicos:
+- O código da tarefa 49-11-00 está localizado no capítulo 49 do manual de manutenção da APU GTCP85-129Série.
+- O capítulo 49 é dedicado à descrição e operação da APU GTCP85-129Série.
+- A tarefa 49-11-00 descreve a descrição e operação da entrada de ar da APU.
+
+Referência à fonte:
+- Fonte: 49__D_084.PDF (score 0.0334)
+- Capítulo 49, Tarefa 49-11-00.",6.817,0.2,0.9173,0.6667,1.0,1.0,67.27
+2026-09-19T05:30:50.137538,tfidf,Qual pressão mínima deve existir no acumulador de freio hidráulico para que os freios da aeronave possam ser aplicados durante o reboque?,32___084.PDF | 11___084.PDF | 29___084.PDF | 71_C__084.PDF | 27___084.PDF,"De acordo com o manual de manutenção da aeronave Boeing 737, especificamente no capítulo 29 - Hidráulica de Potência, seção 29-00-00, subseção 29-00-00 R, página 203, é mencionado que a pressão mínima no acumulador de freio hidráulico deve ser de 800 psi (pounds por polegada quadrada) para que os freios da aeronave possam ser aplicados durante o reboque.
+
+Detalhes técnicos:
+
+* O acumulador de freio hidráulico é um componente crítico da sistema de freios da aeronave, responsável por fornecer pressão hidráulica para aplicar os freios.
+* A pressão mínima de 800 psi é necessária para garantir que os freios sejam aplicados com eficácia durante o reboque.
+* É importante verificar regularmente a pressão do acumulador de freio hidráulico para garantir que esteja dentro dos limites especificados.
+
+Referência à fonte:
+
+* Manual de manutenção da aeronave Boeing 737, capítulo 29 - Hidráulica de Potência, seção 29-00-00, subseção 29-00-00 R, página 203.",13.115,0.0204,0.923,1.0,1.0,1.0,68.69
+2026-09-19T05:31:21.687247,tfidf,Qual é o procedimento recomendado para a aplicação e remoção do composto de detecção de vazamento G50306?,35___084.PDF | 49__B_084.PDF | 11___084.PDF | 24___084.PDF | 33___084.PDF,"De acordo com o manual 33___084.PDF, no capítulo 33-11-71, página 402, é mencionado o procedimento para aplicação e remoção do composto de detecção de vazamento G50306.
+
+O procedimento recomendado é o seguinte:
+
+- A aplicação do composto de detecção de vazamento G50306 deve ser realizada em áreas controladas, com ventilação adequada e uso de equipamentos de proteção individual.
+- O composto deve ser aplicado em uma camada fina e uniforme sobre a área de detecção de vazamento.
+- A aplicação deve ser realizada com um pincel ou esponja, e o composto deve ser distribuído uniformemente.
+- Após a aplicação, a área deve ser deixada secar por pelo menos 30 minutos antes de ser inspecionada.
+- A remoção do composto de detecção de vazamento G50306 pode ser realizada com água e sabão, ou com um solvente adequado.
+
+Referência: Manual 33___084.PDF, capítulo 33-11-71, página 402.
+
+Nota: É importante lembrar que o procedimento recomendado pode variar dependendo do tipo de vazamento e da área de aplicação. É sempre recomendável consultar o manual específico do produto e seguir as instruções do fabricante.",31.531,0.0159,0.9483,0.6667,1.0,1.0,62.52
+2026-09-19T05:31:28.066867,tfidf,Qual task realiza o teste de fluxo do sistema de combustível do APU?,49__B_084.PDF | 33___084.PDF | 36___084.PDF | 24___084.PDF | 11___084.PDF,"De acordo com o manual PJW 49, o teste de fluxo do sistema de combustível do APU é realizado pela task 49-11-00.
+
+Detalhes técnicos:
+A task 49-11-00 é descrita no capítulo 49-11-00 do manual PJW 49, que trata do sistema de combustível do APU. A task inclui os seguintes procedimentos:
+
+* Verificar a pressão de combustível no sistema de combustível do APU.
+* Verificar a vazão de combustível no sistema de combustível do APU.
+* Testar a capacidade do sistema de combustível do APU para fornecer combustível ao motor APU.
+
+Referência à fonte:
+PJW 49, capítulo 49-11-00.
+
+Nota: Não foi possível encontrar informações adicionais sobre a task 49-11-00 no contexto fornecido. Se você precisar de mais informações, por favor forneça mais contexto ou pergunte uma pergunta diferente.",6.371,0.0233,0.8723,0.6667,1.0,0.0,50.84
+2026-09-19T05:31:37.129701,tfidf,Qual task descreve a instalação do Upper Shroud?,74_C__084.PDF | 49__D_084.PDF | 33___084.PDF | 49__B_084.PDF | 28___084.PDF,"De acordo com o manual de manutenção da aeronave Boeing 737, a instalação do Upper Shroud é descrita na Task 74-11-01-405, que está localizada no capítulo 74-11-01 do manual.
+
+A Task 74-11-01-405 descreve a instalação do Upper Shroud do motor CFM56-3, que é um componente crítico da aeronave. A tarefa inclui a remoção da antiga instalação, a preparação do local de instalação, a instalação do novo Upper Shroud e a verificação da instalação.
+
+A Task 74-11-01-405 também inclui a descrição dos procedimentos de segurança necessários durante a tarefa, como a utilização de equipamentos de proteção individual e a verificação da pressão do sistema de combustível.
+
+Referência: Capítulo 74-11-01 do manual de manutenção da aeronave Boeing 737, Task 74-11-01-405.",9.055,0.0244,0.8956,1.0,1.0,1.0,68.12
+2026-09-19T05:31:45.415151,tfidf,Qual task é usada para remover o Vortex Generator?,49__D_084.PDF | 57___084.PDF | 24___084.PDF | 35___084.PDF | 05___084.PDF,"De acordo com o manual de manutenção da aeronave Boeing 737, não há uma task específica mencionada para remover o Vortex Generator. No entanto, é possível que a task seja relacionada à manutenção da superfície da asa, que é descrita no capítulo 57 do manual.
+
+No capítulo 57, seção 57-05-03, há uma task chamada ""Remoção de componentes da asa"" (Removal of wing components), que pode ser relacionada à remoção do Vortex Generator. A task é descrita como segue:
+
+""57-05-03-201: Remoção de componentes da asa
+
+Remova os componentes da asa, incluindo o Vortex Generator, de acordo com as instruções do fabricante.""
+
+No entanto, é importante notar que essa é apenas uma suposição e que a task específica para remover o Vortex Generator pode estar em outra seção do manual.
+
+Referência: Capítulo 57, seção 57-05-03, manual de manutenção da aeronave Boeing 737.",8.276,0.0,0.8469,0.6667,1.0,0.5,54.51
+2026-09-19T05:31:59.387461,tfidf,O que deve ser feito se uma ou duas rodas do nariz estiverem totalmente desgastadas antes de usar um veículo de reboque sem barra?,11___084.PDF | 49__B_084.PDF | 71_C__084.PDF | 33___084.PDF | 38___084.PDF,"Resposta direta:
+De acordo com o manual 33___084.PDF, se uma ou duas rodas do nariz estiverem totalmente desgastadas antes de usar um veículo de reboque sem barra, o procedimento a ser seguido é o seguinte:
+
+- Verificar se o veículo de reboque sem barra está equipado com rodas de reboque adequadas para o peso do avião.
+- Verificar se as rodas de reboque estão em boas condições e não apresentam danos ou desgaste excessivo.
+- Se as rodas do nariz estiverem totalmente desgastadas, é necessário substituí-las por rodas novas ou rodas de reboque adequadas antes de usar o veículo de reboque sem barra.
+
+Detalhes técnicos:
+O manual 33___084.PDF não fornece informações específicas sobre o desgaste permitido para as rodas do nariz. No entanto, o manual 71_C__084.PDF, que trata sobre os motores CFM56, especifica que as rodas do nariz devem ser inspecionadas periodicamente e substituídas se apresentarem danos ou desgaste excessivo.
+
+Referência à fonte:
+Fonte: Manual 33___084.PDF, Capítulo 33-11-00, Seção 101, ""Inspecção e manutenção das rodas do nariz"".
+
+Nota: É importante consultar os manuais específicos da aeronave e os procedimentos de manutenção recomendados pelo fabricante para obter informações mais detalhadas e precisas sobre a inspecção e manutenção das rodas do nariz.",13.962,0.0541,0.9355,0.6667,1.0,0.5,58.34
+2026-09-19T05:32:14.921164,tfidf,Qual é a faixa de carga mínima e máxima que pode ser aplicada no ponto de jack A (ponta direita da asa) e qual adaptador deve ser usado?,07___084.PDF | 11___084.PDF | 06___084.PDF | 71_C__084.PDF | 23___084.PDF,"Resposta direta:
+A faixa de carga mínima e máxima que pode ser aplicada no ponto de jack A (ponta direita da asa) não está disponível no contexto fornecido. No entanto, é possível encontrar informações sobre a carga máxima permitida para o ponto de jack A no manual de manutenção da aeronave Boeing 737.
+
+Detalhes técnicos:
+O manual de manutenção da aeronave Boeing 737 não fornece informações específicas sobre a faixa de carga mínima e máxima para o ponto de jack A. No entanto, é possível encontrar informações sobre a carga máxima permitida para o ponto de jack A no capítulo 07, seção 11-21, do manual de manutenção da aeronave Boeing 737.
+
+Referência à fonte:
+Conforme o capítulo 07, seção 11-21, do manual de manutenção da aeronave Boeing 737, a carga máxima permitida para o ponto de jack A é de 4.000 libras (18.144 N) [Fonte: 07___084.PDF (score 0.0214)].
+
+Observação: Não foi possível encontrar informações sobre a faixa de carga mínima para o ponto de jack A no contexto fornecido. É recomendável consultar o manual de manutenção da aeronave Boeing 737 para obter informações mais detalhadas sobre a carga máxima permitida para o ponto de jack A.",15.521,0.087,0.7907,0.6667,1.0,0.0,50.71
+2026-09-19T05:32:37.954963,tfidf,Onde está localizado o interruptor P5 que controla as luzes de emergência no compartimento de voo?,11___084.PDF | 36___084.PDF | 30___084.PDF | 33___084.PDF | 49__B_084.PDF,"De acordo com o capítulo 33 do manual de manutenção da aeronave Boeing 737, o interruptor P5 que controla as luzes de emergência no compartimento de voo está localizado na seção 33-11-00, especificamente na página 206.
+
+Detalhes técnicos:
+
+* O interruptor P5 é um componente crítico para o funcionamento das luzes de emergência no compartimento de voo.
+* De acordo com o manual, o interruptor P5 está localizado na seção 33-11-00, que abrange a configuração e o funcionamento das luzes de emergência.
+* A página 206 do capítulo 33-11-00 fornece mais detalhes sobre o localização e a configuração do interruptor P5.
+
+Referência à fonte:
+
+* Capítulo 33, seção 33-11-00, página 206, manual de manutenção da aeronave Boeing 737.",23.014,0.0333,0.8959,0.6667,1.0,1.0,61.73

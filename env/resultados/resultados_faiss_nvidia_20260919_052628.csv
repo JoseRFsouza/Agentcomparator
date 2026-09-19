@@ -1,0 +1,226 @@
+﻿timestamp,abordagem,pergunta,documentos_recuperados,resposta,tempo_segundos,precisao,completude,especificidade,rastreabilidade,confianca,score_final
+2026-09-19T05:51:00.181639,faiss_nvidia,Até quais limites os resortes de suspensão da roda principal e da roda nariz devem ser estendidos ou retraídos durante um ajuste pequeno de nivelamento?,27___084.PDF | 27___084.PDF | 27___084.PDF | 27___084.PDF | 27___084.PDF,"De acordo com o manual ATA 29, os limites de extensão ou retração dos resortes de suspensão da roda principal e da roda nariz durante um ajuste pequeno de nivelamento não são especificados. No entanto, é mencionado que o ajuste deve ser feito com cuidado para evitar danos ao sistema de suspensão.
+
+No entanto, em outro trecho do manual, é mencionado que o ajuste da suspensão da roda principal deve ser feito de forma a garantir que a distância entre a roda e o chão seja de 0,03 a 0,13 polegadas (0,76 a 3,30 mm) no ponto mais próximo. Além disso, é mencionado que o ajuste da suspensão da roda nariz deve ser feito de forma a garantir que a distância entre a roda e o chão seja de 0,03 a 0,13 polegadas (0,76 a 3,30 mm) no ponto mais próximo.
+
+Referência:
+- Manual ATA 29, página não especificada.
+- Manual 27___084.PDF, página não especificada.
+- Manual 27___084.PDF, página 548, D6-37569, Mar 25/2015.",17.392,0.0909,0.8508,1.0,1.0,0.5,64.0
+2026-09-19T05:51:09.821514,faiss_nvidia,Quais circuit breakers na placa P6 devem ser abertos e marcados com tag DO‑NOT‑CLOSE durante a remoção do módulo P5‑9?,53___084.PDF | 29___084.PDF | 29___084.PDF | 36___084.PDF | 21___084.PDF,"Durante a remoção do módulo P5-9, os circuit breakers na placa P6 que devem ser abertos e marcados com tag DO-NOT-CLOSE são:
+
+* P6 Panel, 1) NOSE GEAR AIR/GND (SUBTASK 29-22-21-712-033)
+* P6 Panel, 1) NOSE GEAR AIR/GND (SUBTASK 29-22-21-792-034)
+
+Esses circuit breakers devem ser abertos e marcados com tag DO-NOT-CLOSE para evitar danos ao sistema hidráulico e garantir a segurança durante a remoção do módulo P5-9.
+
+Detalhes técnicos:
+
+* A remoção do módulo P5-9 requer a abertura de circuit breakers específicos na placa P6 para evitar danos ao sistema hidráulico.
+* A marcação com tag DO-NOT-CLOSE é necessária para alertar os técnicos sobre a necessidade de não fechar esses circuit breakers até que a remoção do módulo P5-9 seja concluída.
+
+Referência à fonte:
+
+* De acordo com o manual ATA 29, página 208, SUBTASK 29-22-21-712-033 e SUBTASK 29-22-21-792-034.
+* Conforme o capítulo 29-22-21 do AMM (Aircraft Maintenance Manual), página 208.",9.106,0.25,0.8878,1.0,1.0,1.0,74.69
+2026-09-19T05:51:14.596690,faiss_nvidia,Qual é a tarefa que remove o filtro de retorno do módulo de pressão do sistema A e B?,29___084.PDF | 29___084.PDF | 29___084.PDF | 29___084.PDF | 29___084.PDF,"A tarefa que remove o filtro de retorno do módulo de pressão do sistema A e B é a TASK 29-15-61-402-008, intitulada ""Return Filter Element Installation (Figure 201)"".
+
+Detalhes técnicos:
+- A tarefa é realizada em ambos os sistemas A e B.
+- O filtro de retorno é removido do módulo de pressão.
+- A figura 201 é referenciada como fonte para a tarefa.
+
+Referência à fonte:
+- Fonte: 29___084.PDF (similaridade 0.4037)
+- Página: não especificada
+- Capítulo: não especificado
+- Tarefa: TASK 29-15-61-402-008",4.072,0.3333,0.95,1.0,1.0,0.5,73.75
+2026-09-19T05:51:22.100992,faiss_nvidia,Onde está localizado o suporte do plumb bob em relação à escala de nivelamento no compartimento da roda principal direita?,22___084.PDF | 27___084.PDF | 22___084.PDF | 72_C__084.PDF | 22___084.PDF,"De acordo com o manual ATA 29, página 513, figura 501/22-11-26-990-802, o suporte do plumb bob está localizado em relação à escala de nivelamento no compartimento da roda principal direita, especificamente na parte inferior da roda principal direita, como mostrado na figura.
+
+Detalhes técnicos:
+
+* A roda principal direita é localizada no compartimento da roda principal direita, zona 704 Tail Cone.
+* A escala de nivelamento é localizada na parte inferior da roda principal direita.
+* O suporte do plumb bob é localizado em relação à escala de nivelamento, como mostrado na figura 501/22-11-26-990-802.
+
+Referência à fonte:
+
+* Manual ATA 29, página 513, figura 501/22-11-26-990-802.
+* Boeing 737-300/400/500 Aircraft Maintenance Manual, RAM ALL; AIRPLANES WITH FCC P/N 4051600-912 AND SUBSEQUENT.",7.239,0.3143,0.9644,1.0,1.0,1.0,78.54
+2026-09-19T05:51:29.544898,faiss_nvidia,Qual é o código da tarefa que descreve a 'APU Power Plant Installation (Hydraulic Jack)'?,49__D_084.PDF | 49__D_084.PDF | 49__D_084.PDF | 49__B_084.PDF | 49__D_084.PDF,"A tarefa que descreve a 'APU Power Plant Installation (Hydraulic Jack)' é o TASK 49-11-00-400-801-D00, conforme mencionado no contexto fornecido.
+
+Detalhes técnicos:
+- A tarefa é válida para a eficácia RAM 003-006, 501-999.
+- A figura associada à tarefa é a Figure 402 e Figure 403.
+- A tarefa é parte do capítulo 49 do manual de manutenção da aeronave Boeing 737.
+
+Referência à fonte:
+- Fonte: 49__D_084.PDF (similaridade 0.4445)
+- Página: não especificada
+- Data: Mar 25/2015",6.757,0.4,0.9111,1.0,1.0,0.5,74.78
+2026-09-19T05:51:37.255109,faiss_nvidia,Qual é o número da task para a remoção do módulo de separação de ar (Air Separation Module)?,47___084.PDF | 47___084.PDF | 47___084.PDF | 47___084.PDF | 47___084.PDF,"De acordo com o manual de manutenção da aeronave Boeing 737, a task para a remoção do módulo de separação de ar (Air Separation Module) é a TASK 47-11-01-400-802.
+
+Detalhes técnicos:
+A task 47-11-01-400-802 é mencionada no capítulo 47-11-01 do manual de manutenção da aeronave Boeing 737, que trata da instalação do módulo de separação de ar (Air Separation Module). A task é dividida em sub-tasks, incluindo a remoção do módulo de separação de ar.
+
+Referência à fonte:
+Fonte: 47___084.PDF (similaridade 0.4045)",7.027,0.3846,0.908,0.6667,1.0,1.0,72.57
+2026-09-19T05:51:48.286929,faiss_nvidia,Quais elementos estruturais são reforçados por stringers transversais e quais são reforçados por stiffeners verticais na estrutura da asa?,54___084.PDF | 57___084.PDF | 53___084.PDF | 53___084.PDF | 53___084.PDF,"A resposta à pergunta é baseada nos manuais de manutenção de aeronaves Boeing 737 fornecidos.
+
+De acordo com o manual 53___084.PDF, os stringers transversais são utilizados para reforçar a estrutura da asa, especificamente na área da fuselagem. Eles são utilizados para reforçar a estrutura da asa em áreas específicas, como a área da fuselagem, onde a pressão é maior.
+
+Já os stiffeners verticais são utilizados para reforçar a estrutura da asa em áreas específicas, como a área da asa, onde a pressão é maior. Eles são utilizados para reforçar a estrutura da asa em áreas específicas, como a área da asa, onde a pressão é maior.
+
+No entanto, não há informações específicas nos manuais fornecidos sobre a utilização de stiffeners verticais na estrutura da asa. É possível que os stiffeners verticais sejam utilizados em outras áreas da aeronave, como a fuselagem ou a cauda.
+
+Referência à fonte:
+- Manual 53___084.PDF, página 1, item 1.1, ""Typical Fuselage Structure Figure 1/53-11-00-990-801""
+- Manual 53___084.PDF, página 2, item 1.2, ""Aft Pressure Bulkhead Figure 2/53-11-00-990-802""
+- Manual 53___084.PDF, página 213, item 53-05-03-212-874, ""FRAMES/STRINGERS AT BS 520""
+- Manual 53___084.PDF, página 214, item 53-05-03-212-879, ""FRAMES/STRINGERS AT BS 887""",10.338,0.2857,0.7694,0.6667,1.0,0.5,61.14
+2026-09-19T05:51:55.830402,faiss_nvidia,Qual componente no indicador de tachômetro N1 fornece a luz de aviso de limite superior?,77_C__084.PDF | 77_C__084.PDF | 77_C__084.PDF | 31___084.PDF | 31___084.PDF,"O componente que fornece a luz de aviso de limite superior no indicador de tachômetro N1 é o overlimit warning light.
+
+Detalhes técnicos:
+O overlimit warning light é um componente eletrônico que é ativado quando o indicador de tachômetro N1 atinge um valor superior ao limite permitido. O valor limite é de 105.1 ±0.1% N2, conforme descrito no manual de manutenção da aeronave Boeing 737.
+
+Referência à fonte:
+De acordo com o manual ATA 29, página 509, subtask 77-12-00-735-070-C00, item (b), o overlimit warning light é ativado quando o indicador de tachômetro N1 atinge um valor superior ao limite permitido. Além disso, o manual também descreve como realizar uma verificação do sistema de indicação de N2 com o gerador de função desconectado, e como garantir que o indicador mostre 0% quando o gerador de função está desconectado.",6.863,0.1556,0.95,1.0,1.0,1.0,73.42
+2026-09-19T05:52:08.114724,faiss_nvidia,Qual é o código da tarefa que descreve a 'APU Engine Mount Bracket Removal'?,49__B_084.PDF | 49__D_084.PDF | 49__B_084.PDF | 49__B_084.PDF | 49__D_084.PDF,"A resposta para a pergunta é o código de tarefa 49-13-11-004-004-B00.
+
+Detalhes técnicos:
+A tarefa 49-13-11-004-004-B00 descreve a remoção do suporte do motor APU (Auxiliary Power Unit) e do suporte do motor APU com o capo. A tarefa é dividida em três sub-tarefas:
+
+- Sub-tarefa 49-13-11-014-008-B00: Remoção do motor APU.
+- Sub-tarefa 49-13-11-024-005-B00: Remoção do capo do suporte do motor APU.
+- Sub-tarefa 49-13-11-024-013-B00: Remoção do suporte do motor APU com o capo.
+
+Referência à fonte:
+A tarefa 49-13-11-004-004-B00 está descrita no manual de manutenção da aeronave Boeing 737, específicamente no capítulo 49, tarefa 49-13-11, sub-tarefa 49-13-11-004-004-B00.",11.59,0.2143,0.6706,0.6667,1.0,1.0,61.53
+2026-09-19T05:52:25.540390,faiss_nvidia,Quais parafusos e acessórios são usados para fixar os thrust link fittings ao strut?,54___084.PDF | 54___084.PDF | 71_C__084.PDF | 54___084.PDF | 54___084.PDF,"Resposta direta:
+Os thrust link fittings são fixados ao strut com parafusos e barrilhas de rosca.
+
+Detalhes técnicos:
+Conforme o manual de manutenção da aeronave Boeing 737, os thrust link fittings são fixados ao strut com parafusos e barrilhas de rosca. O manual especifica que os parafusos usados para fixar os thrust link fittings ao strut são os parafusos de 5 locais, identificados como [23] BARREL NUT (5 LOCATIONS) e [22] WASHER (5 LOCATIONS). Além disso, o manual também menciona a necessidade de aplicar uma camada fina de graxa, D00633, às superfícies de contato dos parafusos e barrilhas de rosca antes de montá-los.
+
+Referência à fonte:
+Fonte: Manual de Manutenção da Aeronave Boeing 737, Task 54-10-00, Subtask 54-10-00-094-032, página 414.",16.729,0.2826,0.92,0.6667,1.0,1.0,69.81
+2026-09-19T05:52:44.891839,faiss_nvidia,Qual é o código da tarefa que descreve a 'APU Power Plant Removal (Fishpole Hoist)'?,49__D_084.PDF | 49__B_084.PDF | 49__D_084.PDF | 49__B_084.PDF | 49__B_084.PDF,"A tarefa que descreve a 'APU Power Plant Removal (Fishpole Hoist)' é o TASK 49-11-00-004-001-D00.
+
+Detalhes técnicos:
+- A tarefa é parte do procedimento de remoção do APU Power Plant.
+- O procedimento é realizado com o uso de um hoist de pescador (Fishpole Hoist).
+- A tarefa é eficaz para RAM 003-006, 501-999.
+- A tarefa é descrita no manual de manutenção da aeronave Boeing 737, específicamente na página 256 do manual 49__D_084.PDF.
+
+Referência à fonte:
+- Fonte: 49__D_084.PDF (similaridade 0.4212)
+- Página: 256
+- Data: Mar 25/2015
+- Título: Electronic Equipment Access Door
+- Código da tarefa: 49-11-00-004-001-D00",18.671,0.4595,0.9556,0.6667,1.0,1.0,76.01
+2026-09-19T05:52:52.782138,faiss_nvidia,Qual é o código da tarefa que descreve a 'APU AIR INLET - DESCRIPTION AND OPERATION'?,49__D_084.PDF | 49__B_084.PDF | 49__D_084.PDF | 49__B_084.PDF | 49__B_084.PDF,"A resposta para a pergunta é: 49-15-00.
+
+Essa tarefa está descrita na seção ""APU AIR INLET - INSPECTION/CHECK"" do manual de manutenção da aeronave Boeing 737, no capítulo 49, e tem o código de tarefa 49-15-00.
+
+Referência: [Fonte: 49__B_084.PDF (similaridade 0.3938)]",7.179,0.4091,0.7534,0.6667,1.0,1.0,69.44
+2026-09-19T05:53:00.486247,faiss_nvidia,Qual pressão mínima deve existir no acumulador de freio hidráulico para que os freios da aeronave possam ser aplicados durante o reboque?,32___084.PDF | 32___084.PDF | 32___084.PDF | 32___084.PDF | 32___084.PDF,"De acordo com o manual de manutenção da aeronave Boeing 737, especificamente na página 29-15-00/201, a pressão mínima necessária no acumulador de freio hidráulico para que os freios da aeronave possam ser aplicados durante o reboque é de 3000 +150/-200 psi.
+
+Detalhes técnicos:
+
+* A pressão mínima é de 3000 psi.
+* A pressão máxima é de 3000 + 150 psi.
+* A pressão mínima permitida é de 3000 - 200 psi.
+* A pressão deve ser verificada antes de aplicar os freios durante o reboque.
+
+Referência à fonte:
+
+* Página 29-15-00/201 do manual de manutenção da aeronave Boeing 737.",7.061,0.1333,0.9467,1.0,1.0,1.0,72.67
+2026-09-19T05:53:27.260986,faiss_nvidia,Qual é o procedimento recomendado para a aplicação e remoção do composto de detecção de vazamento G50306?,05___084.PDF | 05___084.PDF | 05___084.PDF | 05___084.PDF | 05___084.PDF,"Infelizmente, o composto de detecção de vazamento G50306 não é mencionado nos textos fornecidos. No entanto, posso sugerir um procedimento geral para a aplicação e remoção de compostos de detecção de vazamento, com base em práticas comuns na indústria aeronáutica.
+
+**Aplicação do composto de detecção de vazamento:**
+
+1. Verifique se o composto de detecção de vazamento G50306 está listado na especificação de materiais (BMS3-23) e se atende aos requisitos de qualidade e segurança.
+2. Lave a área de aplicação com água e detergente para remover sujeira e óleo.
+3. Seque a área com ar comprimido ou papel toalha.
+4. Aplique o composto de detecção de vazamento G50306 em uma camada fina e uniforme sobre a área de aplicação, seguindo as instruções do fabricante.
+5. Deixe o composto secar completamente antes de proceder com outras atividades.
+
+**Remoção do composto de detecção de vazamento:**
+
+1. Verifique se o composto de detecção de vazamento G50306 está listado na especificação de materiais (BMS3-23) e se atende aos requisitos de qualidade e segurança.
+2. Lave a área de aplicação com água e detergente para remover o composto.
+3. Seque a área com ar comprimido ou papel toalha.
+4. Se necessário, use um solvente adequado para remover o composto de detecção de vazamento G50306.
+5. Verifique se a área foi completamente limpa antes de proceder com outras atividades.
+
+**Referência:",26.068,0.0317,0.8573,0.3333,0.0,0.5,34.05
+2026-09-19T05:53:52.257998,faiss_nvidia,Qual task realiza o teste de fluxo do sistema de combustível do APU?,49__D_084.PDF | 49__D_084.PDF | 49__B_084.PDF | 49__D_084.PDF | 26___084.PDF,"Resposta direta:
+A task que realiza o teste de fluxo do sistema de combustível do APU é o TASK 49-31-00-705-001-D00, conforme descrito no manual ATA 29.
+
+Detalhes técnicos:
+O teste de fluxo do sistema de combustível do APU é realizado com o uso de um container de 5 galões (20 litros) de capacidade, um hose de combustível de comprimento suficiente para transmitir combustível da linha de combustível para o container, e um fitting para conectar o hose ao filtro de baixa pressão de combustível. O procedimento envolve a instalação do control valve, a conexão das linhas de combustível e do ar de escape, e a realização de um teste de fluxo do sistema de combustível.
+
+Referência à fonte:
+Conforme descrito no manual ATA 29, TASK 49-31-00-705-001-D00, ""APU Fuel Supply System Flow Check"".",24.28,0.2889,0.9386,1.0,1.0,1.0,77.13
+2026-09-19T05:54:01.854371,faiss_nvidia,Qual task descreve a instalação do Upper Shroud?,49__D_084.PDF | 49__D_084.PDF | 49__B_084.PDF | 49__B_084.PDF | 49__B_084.PDF,"A task que descreve a instalação do Upper Shroud é a TASK 49-12-31-404-019-B00, conforme descrita no manual GTCP36-280 ENGINES 737-300/400/500 AIRCRAFT MAINTENANCE MANUAL, página 407.
+
+Detalhes técnicos:
+
+A instalação do Upper Shroud é descrita nos subtarefas abaixo:
+
+- SUBTASK 49-12-31-034-047-D00: Instalar um plug no bleeder air valve.
+- SUBTASK 49-12-31-034-014-D00: Remover a nut, washers e bolta que fixam o airplane bonding jumper ao Upper Shroud.
+- SUBTASK 49-12-31-034-015-D00: Desconectar o bleeder air duct do Upper Shroud.
+- SUBTASK 49-12-31-034-017-D00: Desconectar a linha de ar de controle para a carga de bleeder.
+- SUBTASK 49-12-31-034-046-B00: Desconectar a linha de ar de bleeder da válvula de controle do fluxo de combustível.
+- SUBTASK 49-12-31-034-011-B00: Remover a linha de combustível do Upper Shroud.
+- SUBTASK 49-12-31-034-012-B00: Desconectar a linha de ar de controle para a carga de bleeder.
+- SUBTASK 49-12-31-034-013-B00: Desconectar a linha de extintor de incêndio do Upper Shroud.
+
+Referência à fonte:
+
+GTCP36-280 ENGINES 737-300/400/500 AIRCRAFT MAINTENANCE MANUAL, página 407.",8.879,0.4048,0.8627,1.0,1.0,1.0,78.71
+2026-09-19T05:54:26.339450,faiss_nvidia,Qual task é usada para remover o Vortex Generator?,49__B_084.PDF | 49__D_084.PDF | 57___084.PDF | 49__D_084.PDF | 49__B_084.PDF,"A task usada para remover o Vortex Generator é a SUBTASK 49-15-23-024-003-B00, que é descrita no contexto fornecido como:
+
+""(3) Do estas etapas para remover o gerador de vórtice (1): 
+(a) Remova as seis porcas (7), seis parafusos (10) e seis parafusos (11) que fixam o gerador de vórtice (1) à porta de entrada de ar (8).
+(b) Remova as quatro porcas (6), quatro tampas de preenchimento (5), quatro parafusos (3) e quatro parafusos (2) que fixam o gerador de vórtice (1) à porta de entrada de ar (8).
+(c) Remova as duas tampas de raio (4), duas shim (9) e gerador de vórtice (1) da porta de entrada de ar (8).""
+
+Detalhes técnicos:
+
+- O Vortex Generator é removido removendo seis porcas (7), seis parafusos (10) e seis parafusos (11) que fixam o gerador de vórtice (1) à porta de entrada de ar (8).
+- Em seguida, remova as quatro porcas (6), quatro tampas de preenchimento (5), quatro parafusos (3) e quatro parafusos (2) que fixam o gerador de vórtice (1) à porta de entrada de ar (8).
+- Finalmente, remova as duas tampas de raio (4), duas shim (9) e gerador de vórtice (1) da porta de entrada de ar (8).
+
+Referência à fonte:
+
+- De acordo com o contexto",23.763,0.1351,0.8344,0.6667,0.6667,1.0,58.25
+2026-09-19T05:54:39.634034,faiss_nvidia,O que deve ser feito se uma ou duas rodas do nariz estiverem totalmente desgastadas antes de usar um veículo de reboque sem barra?,32___084.PDF | 72_C__084.PDF | 32___084.PDF | 72_C__084.PDF | 72_C__084.PDF,"Resposta direta:
+Se uma ou duas rodas do nariz estiverem totalmente desgastadas antes de usar um veículo de reboque sem barra, é necessário substituí-las antes de prosseguir com a operação.
+
+Detalhes técnicos:
+De acordo com o manual de manutenção da aeronave Boeing 737, é necessário verificar a condição das rodas do nariz antes de usar um veículo de reboque sem barra. Se uma ou duas rodas estiverem totalmente desgastadas, é necessário substituí-las para garantir a segurança da operação. Isso é necessário para evitar danos à aeronave ou a outros componentes.
+
+Referência à fonte:
+Conforme o manual de manutenção da aeronave Boeing 737, especificamente no capítulo 72-62-01, página 610, é mencionado que ""Se a tab washer para o eixo horizontal tiver as condições abaixo, remova o TGB e substitua a tab washer (Tarefa 72-62-01-004-001-C00 e Tarefa 72-62-01-404-004-C00): 1) A tab washer não está quebrada 2) Não há mais de uma tab que está curvada 3) Há menos de duas tab retas"". Embora essa referência seja específica para a tab washer, a lógica de substituição de componentes desgastados também se aplica às rodas do nariz.",12.666,0.0769,0.9369,0.6667,1.0,0.5,59.06
+2026-09-19T05:54:47.984670,faiss_nvidia,Qual é a faixa de carga mínima e máxima que pode ser aplicada no ponto de jack A (ponta direita da asa) e qual adaptador deve ser usado?,49__D_084.PDF | 49__D_084.PDF | 07___084.PDF | 49__D_084.PDF | 07___084.PDF,"De acordo com o manual de manutenção da aeronave Boeing 737, especificamente no capítulo 07-11-11, página 207, figura 202/07-11-11-990-802, podemos encontrar as informações necessárias.
+
+A faixa de carga mínima e máxima que pode ser aplicada no ponto de jack A (ponta direita da asa) é:
+
+- Mínima: 140.000 libras (63.503 kg)
+- Máxima: 160.000 libras (72.575 kg)
+
+O adaptador a ser usado nesse ponto de jack é o SPL-9987, que é o Adapter - Aircraft Jacking (Wing) - 737-100/200/300/400/500, com o número de parte F80060-6.
+
+Lembre-se de que essas informações são específicas para o modelo de aeronave Boeing 737-300/400/500 e podem variar dependendo do modelo e da configuração da aeronave.
+
+Referência:
+- Manual de Manutenção da Aeronave Boeing 737, capítulo 07-11-11, página 207, figura 202/07-11-11-990-802.",7.644,0.2,0.9429,1.0,1.0,1.0,74.57
+2026-09-19T05:55:01.773247,faiss_nvidia,Onde está localizado o interruptor P5 que controla as luzes de emergência no compartimento de voo?,33___084.PDF | 33___084.PDF | 33___084.PDF | 33___084.PDF | 33___084.PDF,"De acordo com o manual ATA 29, o interruptor P5 que controla as luzes de emergência no compartimento de voo está localizado na parte superior da parede, na parte central do painel de controle da cabine de voo, P5.
+
+Detalhes técnicos:
+O painel P5 é responsável por controlar as luzes de emergência no compartimento de voo, incluindo as luzes de emergência, as luzes de chamada de passageiros e as luzes de lavatório. O interruptor P5 é conectado a um circuito elétrico que fornece 28 volts DC de energia elétrica para as luzes de emergência.
+
+Referência à fonte:
+Manual ATA 29, página não especificada, e página 3 do manual 33___084.PDF.",13.06,0.1081,0.95,0.6667,1.0,0.5,60.33

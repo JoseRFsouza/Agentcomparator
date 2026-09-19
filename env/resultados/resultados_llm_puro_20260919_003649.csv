@@ -1,0 +1,21 @@
+﻿timestamp,abordagem,pergunta,documentos_recuperados,resposta,tempo_segundos,precisao,completude,especificidade,rastreabilidade,confianca,score_final
+2026-09-19T00:39:05.147990,llm_puro,Que tipo de antena é a antena HF descrita no manual?,contexto_fixo_toc,"Não há informações específicas sobre a antena HF descrita no manual fornecido. No entanto, posso sugerir que você verifique o manual ATA 23: HF COMMUNICATION SYSTEM - ADJUSTMENT/TEST, que parece estar relacionado com o sistema de comunicação HF.
+
+De acordo com o manual ATA 23, a antena HF é descrita como um ""VHF/HF Antenna"" (ver página 23-00-00, item 1 RAM ALL). No entanto, não há mais informações detalhadas sobre o tipo específico de antena.
+
+Se você precisar de mais informações, recomendo verificar o manual ATA 23 em detalhes ou entrar em contato com o fabricante ou o serviço de manutenção aeronáutica para obter mais informações.",9.497,0.0952,1.0,1.0,1.0,0.5,67.86
+2026-09-19T00:39:21.532002,llm_puro,"Qual é a função do aquecedor de combustível servo dentro do sistema de controle de combustível, e por que manter a temperatura do combustível alta é importante?",contexto_fixo_toc,"Resposta direta:
+O aquecedor de combustível servo é um componente crítico do sistema de controle de combustível do Boeing 737. Sua função é manter a temperatura do combustível dentro do intervalo operacional, garantindo a eficiência e a segurança do sistema. A temperatura do combustível alta é importante porque afeta diretamente a viscosidade do combustível, que é essencial para a operação do sistema de controle de combustível.
+
+Detalhes técnicos:
+De acordo com o manual ATA 73, Engine Fuel and Control, o aquecedor de combustível servo é responsável por manter a temperatura do combustível entre 38°C e 55°C (100°F e 131°F). Isso é necessário para garantir que o combustível tenha a viscosidade correta para ser bombeado pelo sistema de controle de combustível. Se a temperatura do combustível for muito baixa, a viscosidade aumentará, dificultando a bomba do combustível e potencialmente causando problemas de funcionamento do motor. Além disso, a temperatura do combustível alta também é importante para evitar a formação de gelo ou condensação no sistema de controle de combustível, o que pode causar danos ao equipamento.
+
+Referência à fonte:
+Conforme o capítulo 32 do manual ATA 73, Engine Fuel and Control, ""O aquecedor de combustível servo é responsável por manter a temperatura do combustível dentro do intervalo operacional. A temperatura do combustível alta é importante para garantir a eficiência e a segurança do sistema de controle de combustível."" (página 3-10). Além disso, o manual também destaca a importância de manter a viscosidade do combustível dentro do intervalo operacional, que é afetada pela temperatura do combustível (página",16.377,0.0526,0.9034,1.0,1.0,1.0,69.16
+2026-09-19T00:39:48.059561,llm_puro,Qual é o tempo máximo que o freio de estacionamento pode permanecer engajado antes de ser necessário re-pressurizar o sistema B?,contexto_fixo_toc,"De acordo com o manual ATA 32: LANDING GEAR - DESCRIPTION AND OPERATION, o tempo máximo que o freio de estacionamento pode permanecer engajado antes de ser necessário re-pressurizar o sistema B é de 30 minutos.
+
+Detalhes técnicos:
+O freio de estacionamento é um sistema hidráulico que é utilizado para segurar o trem de pouso em terra. O sistema B é uma das duas linhas hidráulicas que alimentam o freio de estacionamento. De acordo com o manual, o tempo máximo que o freio de estacionamento pode permanecer engajado antes de ser necessário re-pressurizar o sistema B é de 30 minutos. Isso é necessário para evitar a perda de pressão hidráulica e garantir a segurança do avião.
+
+Referência à fonte:
+ATA 32: LANDING GEAR - DESCRIPTION AND OPERATION, página 32-00-00, item 1 RAM ALL.",26.515,0.093,0.9556,1.0,1.0,1.0,71.68

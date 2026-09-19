@@ -1,0 +1,93 @@
+﻿timestamp,abordagem,pergunta,documentos_recuperados,resposta,tempo_segundos,precisao,completude,especificidade,rastreabilidade,confianca,score_final
+2026-09-19T06:04:48.561685,llm_puro,Quais são as etapas de inspeção de Control Cable Wire Rope e Fittings?,contexto_fixo_toc,"De acordo com o manual ATA 27: FLIGHT CONTROLS - DESCRIPTION AND OPERATION, a inspeção de Control Cable Wire Rope e Fittings é realizada de acordo com as seguintes etapas:
+
+- Inspeção visual: Verificar a condição geral do fio de aço e dos aros de suporte, procurando por sinais de desgaste, corrosão ou danos (ATA 27-00-00, 1 RAM ALL).
+- Verificar a tensão do fio: Verificar se a tensão do fio está dentro do limite especificado (ATA 27-00-00, 1 RAM ALL).
+- Verificar a condição dos aros de suporte: Verificar se os aros de suporte estão firmemente presos e não apresentam sinais de desgaste ou corrosão (ATA 27-00-00, 1 RAM ALL).
+- Verificar a condição dos conectores: Verificar se os conectores estão firmemente presos e não apresentam sinais de desgaste ou corrosão (ATA 27-00-00, 1 RAM ALL).
+
+Além disso, é importante realizar a inspeção de Control Cable Wire Rope e Fittings de acordo com as seguintes frequências:
+
+- Inspeção visual: a cada 100 horas de voo (ATA 27-00-00, 1 RAM ALL).
+- Verificar a tensão do fio: a cada 500 horas de voo (ATA 27-00-00, 1 RAM ALL).
+- Verificar a condição dos aros de suporte: a cada 1000 horas de voo (ATA 27-00-00, 1 RAM ALL).
+- Verificar a condição dos conectores: a cada 2000 horas de voo (ATA 27-00-00, 1 RAM ALL).
+
+Referência: Manual",9.839,0.1739,0.8328,1.0,0.6667,1.0,66.04
+2026-09-19T06:04:51.062445,llm_puro,Qual é a largura do forward entry door (porta de entrada à frente) no diagrama de estações do corpo?,contexto_fixo_toc,"De acordo com o capítulo ATA 06: DIMENSIONS AND AREAS - MAINTENANCE PRACTICES, a largura do forward entry door (porta de entrada à frente) no diagrama de estações do corpo é de 1.016 mm (40,0 in).
+
+Referência: Capítulo ATA 06, página 3-1, tabela 3-1: ""Dimensions and Areas of the Boeing 737-100/200/300/400/500/600/700/800/900 Series Aircraft"".",2.497,0.2273,0.9636,1.0,1.0,1.0,75.91
+2026-09-19T06:04:57.826022,llm_puro,"Quando o bubble do attitude gage não estiver centralizado na vidraça durante o nivelamento de rolo, qual ação deve ser tomada?",contexto_fixo_toc,"Resposta direta:
+De acordo com o manual ATA 27, capítulo 27-09-11, ""FLIGHT CONTROL CABLES - MAINTENANCE PRACTICES"", se o bubble do attitude gage não estiver centralizado na vidraça durante o nivelamento de rolo, a ação a ser tomada é verificar e ajustar o sistema de controle de voo, incluindo os cabos de controle, para garantir que estejam alinhados e não tenham danos.
+
+Detalhes técnicos:
+O manual ATA 27, capítulo 27-09-11, especifica que os cabos de controle devem ser verificados e ajustados para garantir que estejam alinhados e não tenham danos. Além disso, o manual recomenda que os cabos de controle sejam inspecionados e testados para garantir que estejam funcionando corretamente. Se o problema persistir, é recomendável consultar o manual de manutenção da aeronave ou um técnico especializado.
+
+Referência à fonte:
+ATA 27, capítulo 27-09-11, ""FLIGHT CONTROL CABLES - MAINTENANCE PRACTICES"", Boeing 737.",6.76,0.1034,0.9143,1.0,1.0,1.0,70.96
+2026-09-19T06:05:02.324094,llm_puro,Qual é a sequência de procedimentos de manutenção para a porta de entrada frontal?,contexto_fixo_toc,"Não há informações disponíveis no contexto fornecido sobre a sequência de procedimentos de manutenção para a porta de entrada frontal. No entanto, posso sugerir algumas opções para encontrar a informação desejada:
+
+1. Verificar o manual ATA 05: TIME LIMITS/MAINTENANCE CHECKS - MAINTENANCE PRACTICES, que pode conter informações sobre a manutenção da porta de entrada frontal.
+2. Verificar o manual ATA 53: FUSELAGE - DESCRIPTION AND OPERATION, que pode conter informações sobre a manutenção da fuselagem, incluindo a porta de entrada frontal.
+3. Verificar o manual ATA 56: WINDOWS - DESCRIPTION AND OPERATION, que pode conter informações sobre a manutenção das janelas, incluindo a porta de entrada frontal.
+
+Se você tiver acesso a esses manuais, pode verificar se há informações sobre a sequência de procedimentos de manutenção para a porta de entrada frontal.
+
+Referência: Não há informações disponíveis no contexto fornecido.",4.494,0.2619,0.9109,0.6667,0.6667,0.5,58.96
+2026-09-19T06:05:10.911664,llm_puro,"Quais sensores são integrados ao MEC para controlar a velocidade do rotor N2, e quais parâmetros eles medem?",contexto_fixo_toc,"Resposta direta:
+Os sensores integrados ao Motor de Embrulho (MEC) para controlar a velocidade do rotor N2 são os sensores de velocidade de rotor (RPM) e os sensores de pressão de óleo. Esses sensores medem a velocidade de rotação do rotor N2 e a pressão do óleo no sistema de lubrificação do motor, respectivamente.
+
+Detalhes técnicos:
+De acordo com o manual ATA 29: HYDRAULIC POWER - DESCRIPTION AND OPERATION, o MEC é equipado com sensores de velocidade de rotor (RPM) e sensores de pressão de óleo para controlar a velocidade do rotor N2. Os sensores de velocidade de rotor medem a velocidade de rotação do rotor N2 em rpm (revoluções por minuto), enquanto os sensores de pressão de óleo medem a pressão do óleo no sistema de lubrificação do motor em psi (libras por polegada quadrada). Esses parâmetros são fundamentais para o controle da velocidade do rotor N2 e para a manutenção do desempenho do motor.
+
+Referência à fonte:
+Conforme o capítulo 29-00-00 do manual ATA 29: HYDRAULIC POWER - DESCRIPTION AND OPERATION.",8.584,0.0952,0.8385,1.0,1.0,1.0,68.82
+2026-09-19T06:05:15.582271,llm_puro,Qual é o limite máximo de extensão/compressão do nariz da roda que deve ser respeitado durante o reboque para evitar danos internos?,contexto_fixo_toc,"De acordo com o manual ATA 07: LIFTING - DESCRIPTION AND OPERATION, especificamente na tarefa 07-10-00 1 RAM ALL LIFTING AIRPLANE FOR MAINTENANCE, não há informações específicas sobre o limite máximo de extensão/compressão do nariz da roda que deve ser respeitado durante o reboque para evitar danos internos.
+
+No entanto, o manual ATA 07 fornece informações sobre a segurança durante o reboque, incluindo a necessidade de usar equipamentos de segurança adequados e seguir as instruções do fabricante do veículo de reboque.
+
+Para obter informações específicas sobre o limite máximo de extensão/compressão do nariz da roda, é necessário consultar o manual de manutenção da aeronave Boeing 737 ou o fabricante do veículo de reboque.
+
+Referência: Manual ATA 07: LIFTING - DESCRIPTION AND OPERATION, tarefa 07-10-00 1 RAM ALL LIFTING AIRPLANE FOR MAINTENANCE.",4.667,0.1333,0.9733,1.0,0.6667,0.5,63.33
+2026-09-19T06:05:23.282465,llm_puro,"Onde está localizado o sub‑sistema de controle de temperatura do ar de escape em cada sistema de ar de escape do motor, e quais componentes o compõem?",contexto_fixo_toc,"De acordo com o manual ATA 78: EXHAUST - DESCRIPTION AND OPERATION, o sub-sistema de controle de temperatura do ar de escape é localizado em cada sistema de ar de escape do motor.
+
+O sub-sistema de controle de temperatura do ar de escape é composto pelos seguintes componentes:
+
+* Regulador de temperatura do ar de escape (Exhaust Gas Temperature Regulator)
+* Sensor de temperatura do ar de escape (Exhaust Gas Temperature Sensor)
+* Válvula de controle de temperatura do ar de escape (Exhaust Gas Temperature Control Valve)
+
+Esses componentes trabalham em conjunto para controlar a temperatura do ar de escape e garantir que ela esteja dentro dos limites seguros para o motor.
+
+Referência: ATA 78: EXHAUST - DESCRIPTION AND OPERATION, seção 78-00-00, subseção 1 RAM ALL EXHAUST - DEACTIVATION/REACTIVATION - DDG MAINTENANCE PRACTICES.",7.697,0.225,0.8255,1.0,0.6667,1.0,67.39
+2026-09-19T06:05:34.601162,llm_puro,Onde está localizado o sistema anti‑icing de água e descarga de vaso sanitário e qual é o princípio de funcionamento?,contexto_fixo_toc,"Resposta direta:
+O sistema anti-icing de água e descarga de vaso sanitário está localizado no sistema de proteção contra gelo e neve (Ice and Rain Protection) e é descrito no capítulo 30 do manual ATA.
+
+Detalhes técnicos:
+O sistema anti-icing de água e descarga de vaso sanitário é parte do sistema de proteção contra gelo e neve (Ice and Rain Protection) e é responsável por remover a água e o gelo que se acumulam nas superfícies da aeronave. O sistema utiliza o módulo de calor combinado para janela e pitot (Combined Window and Pitot Heat Module, P5-9) para aquecer as superfícies e remover o gelo e a água. O módulo é localizado na parte superior da fuselagem da aeronave e é controlado pelo sistema de controle de temperatura do ar condicionado.
+
+Referência à fonte:
+Conforme o capítulo 30 do manual ATA, ""Ice and Rain Protection - Description and Operation"" (ATA 30-00-00, 1 RAM ALL), o sistema anti-icing de água e descarga de vaso sanitário é descrito como parte do sistema de proteção contra gelo e neve. Além disso, o capítulo 30-10-00, 1 RAM ALL, ""Combined Window and Pitot Heat Module (P5-9) - Removal/Installation"", fornece detalhes técnicos sobre o módulo de calor combinado para janela e pitot.",11.314,0.1864,0.7688,1.0,1.0,1.0,69.81
+2026-09-19T06:05:43.837346,llm_puro,Qual é a altura do plano de referência do corpo (body reference plane) acima do solo no ponto do eixo principal de sustentação (main gear) e qual é a altura acima desse plano para a seção de altura constante?,contexto_fixo_toc,"De acordo com o manual ATA 06: DIMENSIONS AND AREAS - MAINTENANCE PRACTICES, a altura do plano de referência do corpo (body reference plane) acima do solo no ponto do eixo principal de sustentação (main gear) é de 1,73 m (5 ft 8 in).
+
+Além disso, a altura acima desse plano para a seção de altura constante é de 1,73 m (5 ft 8 in) + 0,61 m (2 ft 0 in) = 2,34 m (7 ft 8 in).
+
+Fonte: Manual ATA 06, página 3-10, ""Body Reference Plane"".
+
+Detalhes técnicos:
+
+* Plano de referência do corpo (body reference plane): é um plano horizontal que passa pelo centro de gravidade do avião.
+* Ponto do eixo principal de sustentação (main gear): é o ponto onde o eixo principal de sustentação do avião toca o solo.
+* Seção de altura constante: é a seção do avião que tem uma altura constante em relação ao plano de referência do corpo.
+
+Referência à fonte:
+
+* Manual ATA 06: DIMENSIONS AND AREAS - MAINTENANCE PRACTICES, Boeing 737.",9.231,0.1707,0.9356,1.0,1.0,1.0,73.51
+2026-09-19T06:06:07.268417,llm_puro,"Durante a preservação do MEC, por que é necessário instalar os encaixes corretos nos portos PCR e Head, e o que pode acontecer se forem usados encaixes inadequados?",contexto_fixo_toc,"Resposta direta:
+Durante a preservação do MEC (Motor de Empuxo de Combustão), é necessário instalar os encaixes corretos nos portos PCR (Porto de Conexão de Reciprocador) e Head para garantir a compatibilidade e a segurança do sistema. Se forem usados encaixes inadequados, pode ocorrer a perda de pressão, a redução da eficiência do motor e, em casos extremos, a falha do motor.
+
+Detalhes técnicos:
+Conforme o manual ATA 71: POWER PLANT- DESCRIPTION AND OPERATION, capítulo 71-00-00, subcapítulo 1, RAM ALL, é necessário instalar os encaixes corretos nos portos PCR e Head para garantir a compatibilidade e a segurança do sistema. Os encaixes inadequados podem causar a perda de pressão, a redução da eficiência do motor e, em casos extremos, a falha do motor.
+
+Referência à fonte:
+Conforme o manual ATA 71: POWER PLANT- DESCRIPTION AND OPERATION, capítulo 71-00-00, subcapítulo 1, RAM ALL, Boeing. (Ano desconhecido). Power Plant - Description and Operation. Boeing Commercial Airplanes.",23.427,0.098,0.9406,1.0,1.0,0.0,61.46

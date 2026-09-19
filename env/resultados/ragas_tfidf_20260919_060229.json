@@ -1,0 +1,557 @@
+[
+  {
+    "timestamp": "2026-09-19T06:02:54.202443",
+    "abordagem": "tfidf",
+    "pergunta": "Quais são as etapas de inspeção de Control Cable Wire Rope e Fittings?",
+    "documentos_recuperados": [
+      "70_C__084.PDF",
+      "76_C__084.PDF",
+      "05___084.PDF",
+      "09___084.PDF",
+      "27___084.PDF"
+    ],
+    "contexto_usado": "[Fonte: 70_C__084.PDF (score 0.0197)]\nCHAPTER\n70\nSTANDARD\nPRACTICES\n(CFM56ENGINES(CFM56-3))\nPJW\n70-EFFECTIVEPAGES\n1thru2 SEP25/2016\n70-CONTENTS\n1 Mar25/2015\n2 Mar25/2015\n70-00-01\n201 Mar25/2015\n202 Mar25/2015\n203 Mar25/2015\n204 Mar25/2015\n205 Mar25/2015\n206 Mar25/2015\n207 Mar25/2015\n208 Mar25/2015\n209 Mar25/2015\n210 BLANK\n70-10-01\n201 Mar25/2015\n202 Mar25/2015\n203 Mar25/2015\n204 Mar25/2015\n205 Mar25/2015\n206 Mar25/2015\n207 Mar25/2015\n208 Mar25/2015\n209 Mar25/2015\n210 Mar25/2015\n211 Mar25/2015\n212 Mar25/2015\n213 Mar25/2015\n214 Mar25/2015\n215 Mar25/2015\n216 Mar25/2015\n217 Mar25/2015\n218 Mar25/201570-10-02\n201 Mar25/2015\n202 Mar25/2015\n70-10-03\n201 Mar25/2015\n202 Mar25/2015\n70-10-05\n201 Mar25/2015\n202 Mar25/2015\n203 Mar25/2015\n204 BLANK\n70-20-01\n201 Mar25/2016\n202 Mar25/2015\n203 Mar25/2015\n204 Mar25/2015\n205 Mar25/2015\n206 Mar25/2015\n207 Mar25/2015\n208 Mar25/2015\n209 Mar25/2015\n210 Mar25/2015\n211 Mar25/2015\n212 Mar25/2015\n213 Mar25/2015\n214 Mar25/2015\n215 Mar25/2015\n216 Mar25/2015\n217 Mar25/2015\n218 Mar25/2015\n70-20-02\n201 Mar25/2015\n202 Mar25/2015\n203 Mar25/2015\n204 Mar25/2015\n205 Mar25/2015\n206 Mar25/201570-20-02 (cont)\n207 Mar25/2015\n208 Mar25/2015\n209 Mar25/2015\n210 Mar25/2015\n211 Mar25/2015\n212 Mar25/2015\n213 Mar25/2\n\n---\n\n[Fonte: 76_C__084.PDF (score 0.0196)]\nCHAPTER\n76\nENGINE\nCONTROLS\n(CFM56ENGINES(CFM56-3))\nPJW\n76-EFFECTIVEPAGES\n1thru3 SEP25/2016\n4 BLANK\n76-CONTENTS\n1 Mar25/2015\n2 Mar25/2015\n3 Mar25/2015\n4 Mar25/2015\n5 Mar25/2015\n6 BLANK\n76-00-00\n101 Mar25/2015\n102 BLANK\n76-11-00\n1 Mar25/2015\n2 Mar25/2015\n3 Mar25/2015\n4 Mar25/2015\n5 Mar25/2015\n6 Mar25/2015\n7 Mar25/2015\n8 Mar25/2015\n9 Mar25/2015\n10 BLANK\n76-11-00\n201 Mar25/2015\n202 Mar25/2015\n76-11-00\n501 Mar25/2015\n502 Mar25/2015\n503 Mar25/2015\n504 Mar25/2015\n505 Mar25/2015\n506 Mar25/2015\n507 Mar25/2015\n508 Mar25/2015\n509 Mar25/201576-11-00 (cont)\n510 Mar25/2015\n511 Mar25/2015\n512 Mar25/2015\n513 Mar25/2015\n514 Mar25/2015\n515 Mar25/2015\n516 Mar25/2015\n517 Mar25/2015\n518 Mar25/2015\n519 Mar25/2015\n520 Mar25/2015\n521 Mar25/2015\n522 BLANK\n76-11-00\n601 Mar25/2015\n602 Mar25/2015\n603 Mar25/2015\n604 Mar25/2015\n605 Mar25/2015\n606 Mar25/2015\n607 Sep25/2015\n608 Mar25/2015\n609 Mar25/2015\n610 Mar25/2015\n611 Mar25/2015\n612 Mar25/2015\n613 Mar25/2015\n614 Sep25/2015\n615 Mar25/2015\n616 Mar25/2015\n617 Mar25/2015\n618 Mar25/2015\n619 Mar25/2015\n620 Mar25/201576-11-01 Config2\n401 Mar25/2015\n402 Mar25/2015\n403 Mar25/2015\n404 Mar25/2015\n405 Mar25/2015\n406 Mar25/2015\n407 Mar25/2015\n408 Mar25/2015\n409 Mar25/2015\n\n---\n\n[Fonte: 05___084.PDF (score 0.0180)]\nCHAPTER\n05\nTIMELIMITS/\nMAINTENANCE\nCHECKS\nPJW\n05-EFFECTIVEPAGES\n1thru5 SEP25/2016\n6 BLANK\n05-CONTENTS\n1 Mar25/2015\n2 Mar25/2015\n3 Mar25/2015\n4 Mar25/2015\n5 Mar25/2015\n6 Mar25/2015\n7 Mar25/2015\n8 Mar25/2015\n9 Mar25/2015\n10 Mar25/2015\n11 Mar25/2015\n12 Mar25/2015\n13 Mar25/2015\n14 Mar25/2015\n15 Mar25/2015\n16 Mar25/2015\n05-00-00\nR 201 Sep25/2016\nR 202 Sep25/2016\n203 Mar25/2015\n204 Sep25/2015\n205 Mar25/2015\n206 BLANK\n05-00-01\n601 Mar25/2015\n602 Mar25/2015\n05-00-29\n601 Mar25/2015\n602 Mar25/2015\n05-00-32\n601 Mar25/2015\n602 Mar25/2015\n603 Mar25/201505-00-32 (cont)\n604 BLANK\n05-00-52\n601 Mar25/2015\n602 Mar25/2015\n603 Mar25/2015\n604 Mar25/2015\n605 Mar25/2015\n606 Mar25/2015\n607 Mar25/2015\n608 BLANK\n05-00-53\n601 Mar25/2015\n602 Mar25/2015\n603 Sep25/2015\n604 Mar25/2015\n605 Mar25/2015\n606 Sep25/2015\n607 Sep25/2015\n608 Sep25/2015\n609 Sep25/2015\n610 Sep25/2015\n611 Mar25/2015\n612 Mar25/2015\n613 Mar25/2015\n614 Mar25/2015\n615 Mar25/2015\n616 Mar25/2015\n617 Mar25/2015\n618 Sep25/2015\n619 Mar25/2015\n620 Mar25/2015\n621 Mar25/2015\n622 BLANK\n05-00-55\n601 Mar25/2015\n602 Mar25/201505-00-55 (cont)\n603 Mar25/2015\n604 Mar25/2015\n605 Mar25/2015\n606 BLANK\n05-00-56\n601 Mar25/2015\n602 BLANK\n05-00-57\n601 Mar25/2015\n602\n\n---\n\n[Fonte: 09___084.PDF (score 0.0178)]\nCHAPTER\n09\nTOWINGAND\nTAXIING\nPJW\n09-EFFECTIVEPAGES\n1 SEP25/2016\n2 BLANK\n09-CONTENTS\n1 Mar25/2015\n2 BLANK\n09-10-00\n201 Mar25/2015\n202 Mar25/2016\nR 203 Sep25/2016\n204 Mar25/2015\n205 Mar25/2015\n206 Mar25/2015\n207 Mar25/2015\n208 Mar25/2015\n209 Mar25/2015\n210 Mar25/2015\n211 Mar25/2015\n212 Mar25/2015\n213 Mar25/2015\n214 Mar25/2015\n215 Mar25/2015\n216 Mar25/2015\n217 Mar25/2015\n218 BLANK\n09-11-00\nR 201 Sep25/2016\n202 Mar25/2015\n09-20-00\n201 Mar25/2015\n202 Mar25/2015\n203 Mar25/2015\n204 Mar25/2015\n205 Mar25/2015\n206 Mar25/2015\n207 Mar25/2015\n208 Mar25/201509-20-00 (cont)\n209 Mar25/2015\n210 Mar25/2015\n211 Mar25/2015\n212 Mar25/2015\n213 Mar25/2015\n214 Mar25/2015\n215 Mar25/2015\n216 Mar25/2015Subject/Page Date COC Subject/Page Date COC Subject/Page Date COC737-300/400/500\nAIRCRAFTMAINTENANCEMANUAL\nCHAPTER09\nTOWINGANDTAXIING\n09-EFFECTIVEPAGES\nPage1\nD6-37569 Sep25/2016\nBOEINGPROPRIETARY-Copyright©UnpublishedWork-Seetitlepagefordetails\nPJWA=Added,R=Revised,D=Deleted,O=Overflow,C=CustomerOriginatedChange\nSUBJECTCHAPTER\nSECTION\nSUBJECT CONF PAGE EFFECT\nTOWING-MAINTENANCEPRACTICES 09-10-00 201 RAMALL\nTowing\nTASK 09-10-00-582-001201 RAMALL\nTOWINGAIRPLANEWITHFLATTIRES-\nMAINTENANCEPRACTICES09-11-00 201 RAMA\n\n---\n\n[Fonte: 27___084.PDF (score 0.0175)]\nCHAPTER\n27\nFLIGHT\nCONTROLS\nPJW\n27-EFFECTIVEPAGES\n1thru32 SEP25/2016\n27-CONTENTS\n1 Mar25/2015\n2 Mar25/2015\n3 Mar25/2015\n4 Mar25/2015\n5 Mar25/2015\n6 Mar25/2015\n7 Mar25/2015\n8 Mar25/2015\n9 Mar25/2015\n10 Mar25/2015\n11 Mar25/2015\n12 Mar25/2015\n13 Mar25/2015\n14 Mar25/2015\n15 Mar25/2015\n16 Mar25/2015\n17 Mar25/2015\nO 18 Sep25/2016\nO 19 Sep25/2016\n20 Mar25/2015\n21 Mar25/2015\n22 Mar25/2015\n23 Mar25/2015\n24 Mar25/2016\n25 Mar25/2016\n26 Mar25/2016\n27 Mar25/2016\n28 Mar25/2016\n29 Sep25/2015\n30 Sep25/2015\n31 Sep25/2015\n32 Mar25/2016\n33 Sep25/2015\n34 Sep25/201527-CONTENTS (cont)\n35 Sep25/2015\n36 Sep25/2015\n37 Mar25/2016\n38 Sep25/2015\n39 Sep25/2015\n40 Sep25/2015\n41 Sep25/2015\n42 Sep25/2015\n43 Mar25/2016\n44 Sep25/2015\n45 Sep25/2015\n46 Sep25/2015\n47 Sep25/2015\n48 Sep25/2015\n49 Sep25/2015\n50 Sep25/2015\n51 Sep25/2015\n52 Sep25/2015\n53 Sep25/2015\n54 Sep25/2015\n55 Sep25/2015\n56 Sep25/2015\n57 Sep25/2015\n58 Sep25/2015\n59 Mar25/2016\n60 Mar25/2015\n61 Mar25/2015\n62 Mar25/2015\n27-00-00\n1 Mar25/2015\n2 Mar25/2015\n3 Mar25/2015\n4 Mar25/2015\n5 Mar25/2015\n6 Mar25/2015\n7 Mar25/201527-00-00 (cont)\n8 Mar25/2015\n9 Mar25/2015\n10 Mar25/2015\n11 Mar25/2015\n12 BLANK\n27-09-11\n1 Mar25/2015\n2 Mar25/2015\n27-09-14\n201 Mar25/2015\n20",
+    "contexto_preview": "[Fonte: 70_C__084.PDF (score 0.0197)]\nCHAPTER\n70\nSTANDARD\nPRACTICES\n(CFM56ENGINES(CFM56-3))\nPJW\n70-EFFECTIVEPAGES\n1thru2 SEP25/2016\n70-CONTENTS\n1 Mar25/2015\n2 Mar25/2015\n70-00-01\n201 Mar25/2015\n202 Mar25/2015\n203 Mar25/2015\n204 Mar25/2015\n205 Mar25/2015\n206 Mar25/2015\n207 Mar25/2015\n208 Mar25/2015\n209 Mar25/2015\n210 BLANK\n70-10-01\n201 Mar25/2015\n202 Mar25/2015\n203 Mar25/2015\n204 Mar25/2015\n205 Mar25/2015\n206 Mar25/2015\n207 Mar25/2015\n208 Mar25/2015\n209 Mar25/2015\n210 Mar25/2015\n211 Mar25/2015\n21",
+    "resposta": "De acordo com o capítulo 27 do manual de manutenção da aeronave Boeing 737, as etapas de inspeção de Control Cable Wire Rope e Fittings são as seguintes:\n\n1. Verificar a tensão do fio de aço: A tensão do fio de aço deve ser verificada em cada 100 horas de voo, ou a cada 12 meses, o que for primeiro. A tensão deve ser verificada usando um instrumento de tensão, e o resultado deve ser registrado no registro de manutenção. (Fonte: 27-09-11, capítulo 27 do manual de manutenção da aeronave Boeing 737)\n2. Inspeção visual: A inspeção visual deve ser realizada em cada 100 horas de voo, ou a cada 12 meses, o que for primeiro. A inspeção deve incluir a verificação da condição geral do fio de aço, incluindo a presença de fios quebrados, danificados ou corroídos. (Fonte: 27-09-11, capítulo 27 do manual de manutenção da aeronave Boeing 737)\n3. Verificar a condição dos aros: A condição dos aros deve ser verificada em cada 100 horas de voo, ou a cada 12 meses, o que for primeiro. A condição dos aros deve ser verificada usando um instrumento de medição, e o resultado deve ser registrado no registro de manutenção. (Fonte: 27-09-14, capítulo 27 do manual de manutenção da aeronave Boeing 737)\n4. Verificar a condição dos conectores: A condição dos conectores deve ser verificada em cada 100 horas de voo, ou a cada 12 meses, o que for",
+    "resposta_detalhada": "De acordo com o capítulo 27 do manual de manutenção da aeronave Boeing 737, as etapas de inspeção de Control Cable Wire Rope e Fittings são as seguintes:\n\n1. Verificar a tensão do fio de aço: A tensão do fio de aço deve ser verificada em cada 100 horas de voo, ou a cada 12 meses, o que for primeiro. A tensão deve ser verificada usando um instrumento de tensão, e o resultado deve ser registrado no registro de manutenção. (Fonte: 27-09-11, capítulo 27 do manual de manutenção da aeronave Boeing 737)\n2. Inspeção visual: A inspeção visual deve ser realizada em cada 100 horas de voo, ou a cada 12 meses, o que for primeiro. A inspeção deve incluir a verificação da condição geral do fio de aço, incluindo a presença de fios quebrados, danificados ou corroídos. (Fonte: 27-09-11, capítulo 27 do manual de manutenção da aeronave Boeing 737)\n3. Verificar a condição dos aros: A condição dos aros deve ser verificada em cada 100 horas de voo, ou a cada 12 meses, o que for primeiro. A condição dos aros deve ser verificada usando um instrumento de medição, e o resultado deve ser registrado no registro de manutenção. (Fonte: 27-09-14, capítulo 27 do manual de manutenção da aeronave Boeing 737)\n4. Verificar a condição dos conectores: A condição dos conectores deve ser verificada em cada 100 horas de voo, ou a cada 12 meses, o que for",
+    "tempo_segundos": 12.665,
+    "metadados_llm": {
+      "status": "ok",
+      "tokens": {
+        "prompt_tokens": 3203,
+        "total_tokens": 3603,
+        "completion_tokens": 400,
+        "prompt_tokens_details": null
+      },
+      "finish_reason": "length"
+    },
+    "metricas": {
+      "precisao": 0.0233,
+      "completude": 0.8312,
+      "especificidade": 0.6667,
+      "rastreabilidade": 1.0,
+      "confianca": 1.0
+    },
+    "score_final": 59.81,
+    "tokens_estimados": 1042,
+    "ground_truth": "A inspeção do Control Cable Wire Rope é descrita na tarefa 20‑20‑31‑216‑046, e a inspeção dos Fittings do cabo de controle na tarefa 20‑20‑31‑216‑047. As etapas incluem a verificação visual de desgaste, integridade estrutural e condições de fixação.",
+    "ragas_metrics": {
+      "faithfulness": 0.0,
+      "answer_relevancy": 1.0,
+      "context_precision": 0.0,
+      "context_recall": 0.0,
+      "answer_correctness": 0.0,
+      "answer_similarity": 0.6,
+      "numeric_verified": false
+    },
+    "ragas_score": 0.2286,
+    "numeric_check": {
+      "gt_value": 20.0,
+      "answer_value": 27.0,
+      "gt_unit": null,
+      "answer_unit": null,
+      "gt_comparison": "=",
+      "numeric_match": false,
+      "unit_match": true
+    }
+  },
+  {
+    "timestamp": "2026-09-19T06:02:59.485494",
+    "abordagem": "tfidf",
+    "pergunta": "Qual é a largura do forward entry door (porta de entrada à frente) no diagrama de estações do corpo?",
+    "documentos_recuperados": [
+      "06___084.PDF",
+      "52___084.PDF",
+      "25___084.PDF",
+      "11___084.PDF",
+      "38___084.PDF"
+    ],
+    "contexto_usado": "[Fonte: 06___084.PDF (score 0.0670)]\nCHAPTER\n06\nDIMENSIONSAND\nAREAS\nPJW\n06-EFFECTIVEPAGES\n1 SEP25/2016\n2 BLANK\n06-CONTENTS\n1 Mar25/2015\n2 BLANK\n06-00-01\n201 Mar25/2015\n202 Mar25/2015\n203 Mar25/2015\n204 Mar25/2015\n205 Mar25/2015\n206 BLANK\n06-13-00\n201 Mar25/2015\n202 Mar25/2015\n203 Mar25/2015\n204 Mar25/2015\n06-25-00\n201 Mar25/2015\n202 Mar25/2015\n203 Mar25/2015\n204 BLANK\n06-32-00\n201 Mar25/2015\n202 Mar25/2015\n06-42-00\n201 Mar25/2015\n202 Mar25/2015\n06-52-00\n201 Mar25/2015\n202 Mar25/2015\n06-62-00\n201 Mar25/2015\n202 Mar25/2015Subject/Page Date COC Subject/Page Date COC Subject/Page Date COC737-300/400/500\nAIRCRAFTMAINTENANCEMANUAL\nCHAPTER06\nDIMENSIONSANDAREAS\n06-EFFECTIVEPAGES\nPage1\nD6-37569 Sep25/2016\nBOEINGPROPRIETARY-Copyright©UnpublishedWork-Seetitlepagefordetails\nPJWA=Added,R=Revised,D=Deleted,O=Overflow,C=CustomerOriginatedChange\nSUBJECTCHAPTER\nSECTION\nSUBJECT CONF PAGE EFFECT\nDIMENSIONSANDAREAS-MAINTENANCE\nPRACTICES06-00-01 201 RAMALL\nReferencePlanesandLines\nTASK 06-00-01-222-001201 RAMALL\nPRINCIPALDIMENSIONSANDAREAS-\nMAINTENANCEPRACTICES06-13-00 201 RAMALL\nPrincipalDimensionsandAreas\nTASK 06-13-00-222-001201 RAMALL\nBODYSTATIONDIAGRAM-MAINTENANCE\nPRACTICES06-25-00 201 RAMALL\nBodyStationDiagram\nTASK 06-25-00-202-00320\n\n---\n\n[Fonte: 52___084.PDF (score 0.0324)]\nCHAPTER\n52\nDOORS\nPJW\n52-EFFECTIVEPAGES\n1thru8 SEP25/2016\n52-CONTENTS\n1 Mar25/2015\n2 Mar25/2015\n3 Mar25/2015\n4 Mar25/2015\n5 Mar25/2016\n6 Mar25/2015\n7 Mar25/2015\n8 Mar25/2015\n9 Mar25/2015\n10 Mar25/2015\n11 Mar25/2015\n12 Mar25/2015\n13 Mar25/2015\n14 Mar25/2015\n15 Mar25/2015\n16 Mar25/2015\n17 Mar25/2015\n18 BLANK\n52-00-00\n1 Mar25/2015\n2 Mar25/2015\n3 Mar25/2015\n4 Mar25/2015\n5 Mar25/2015\n6 BLANK\n52-01-00\n101 Mar25/2015\n102 Mar25/2015\n103 Mar25/2015\n104 Mar25/2015\n105 Mar25/2015\n106 Mar25/2015\n107 Mar25/2015\n108 Mar25/201552-01-00 (cont)\n109 Mar25/2015\n110 Mar25/2015\n111 Mar25/2015\n112 Mar25/2015\n113 Mar25/2015\n114 BLANK\n52-05-03\n201 Mar25/2015\n202 Mar25/2015\n203 Mar25/2015\n204 BLANK\n52-09-01\n601 Mar25/2015\n602 Mar25/2015\n603 Mar25/2015\n604 Mar25/2015\n52-09-10\n801 Mar25/2015\n802 Sep25/2015\n803 Mar25/2015\nR 804 Sep25/2016\nR 805 Sep25/2016\n806 Mar25/2016\n807 Mar25/2016\n808 Mar25/2016\n809 Mar25/2016\n810 Mar25/2015\n811 Mar25/2015\n812 Mar25/2015\n813 Mar25/2015\n814 BLANK\n52-09-11\n401 Mar25/2015\n402 Mar25/2015\n403 Sep25/2015\n404 Mar25/201552-09-12\n401 Mar25/2015\n402 Mar25/2015\n403 Mar25/2015\n404 Mar25/2015\n52-09-13\n401 Mar25/2015\n402 Mar25/2015\n403 Mar25/2015\n404 Mar25/2015\n405 Mar25/2015\n406 Mar25/\n\n---\n\n[Fonte: 25___084.PDF (score 0.0265)]\nCHAPTER\n25\nEQUIPMENT/\nFURNISHINGS\nPJW\n25-EFFECTIVEPAGES\n1thru6 SEP25/2016\n25-CONTENTS\n1 Sep25/2015\n2 Mar25/2016\n3 Mar25/2015\n4 Mar25/2015\n5 Mar25/2016\nO 6 Sep25/2016\nO 7 Sep25/2016\n8 Mar25/2016\n9 Mar25/2016\n10 Mar25/2016\n11 Mar25/2016\n12 Sep25/2015\n13 Sep25/2015\n14 Sep25/2015\n15 Mar25/2016\n16 Sep25/2015\n25-00-00\n1 Mar25/2015\n2 BLANK\n25-01-12\n701 Mar25/2015\n702 Mar25/2016\n703 Mar25/2015\n704 Mar25/2015\n705 Mar25/2015\n706 Mar25/2015\n707 Mar25/2015\n708 Mar25/2015\n709 Mar25/2015\n710 Mar25/2015\n711 Mar25/2015\n712 Mar25/2015\n713 Mar25/2015\n714 Mar25/201525-01-12 (cont)\nR 715 Sep25/2016\n716 Mar25/2015\n717 Mar25/2015\n718 BLANK\n25-01-12\n801 Sep25/2015\n802 Sep25/2015\n803 Sep25/2015\n804 Sep25/2015\n805 Sep25/2015\n806 Sep25/2015\n807 Sep25/2015\n808 Sep25/2015\n809 Sep25/2015\n810 Sep25/2015\n811 Sep25/2015\n812 Sep25/2015\n813 Sep25/2015\n814 Sep25/2015\n815 Sep25/2015\n816 Sep25/2015\n817 Sep25/2015\n818 Sep25/2015\n819 Sep25/2015\n820 Sep25/2015\n821 Sep25/2015\n822 Sep25/2015\n823 Sep25/2015\n824 Sep25/2015\n825 Sep25/2015\n826 Mar25/2016\n827 Sep25/2015\n828 Sep25/2015\n829 Sep25/2015\n830 Sep25/2015\n831 Sep25/201525-01-12 (cont)\n832 Sep25/2015\n833 Sep25/2015\n834 Sep25/2015\n835 Sep25/2015\n836 Sep25/2015\n837 Sep25/\n\n---\n\n[Fonte: 11___084.PDF (score 0.0260)]\nCHAPTER\n11\nPLACARDSAND\nMARKINGS\nPJW\n11-EFFECTIVEPAGES\n1thru2 SEP25/2016\n11-CONTENTS\n1 Mar25/2015\n2 Mar25/2015\n11-00-00\n1 Mar25/2015\n2 BLANK\n11-11-01 Config2\n201 Mar25/2015\n202 Mar25/2015\n203 Mar25/2015\n204 Mar25/2015\n205 Mar25/2015\n206 BLANK\n11-11-03\n201 Mar25/2015\n202 Mar25/2015\n203 Mar25/2015\n204 Mar25/2015\n205 Mar25/2015\n206 Mar25/2015\n207 Mar25/2015\n208 Mar25/2015\n209 Mar25/2015\n210 Mar25/2015\n211 Mar25/2015\n212 Mar25/2015\n213 Mar25/2015\n214 Mar25/2015\n215 Mar25/2015\n216 Mar25/2015\n217 Mar25/2015\n218 Mar25/2015\n219 Mar25/2015\n220 Mar25/2015\n221 Mar25/201511-11-03 (cont)\n222 Mar25/2015\n223 Mar25/2015\n224 Mar25/2015\n225 Mar25/2015\n226 Mar25/2015\n227 Mar25/2015\n228 Mar25/2015\n229 Mar25/2015\n230 Mar25/2015\n231 Mar25/2015\n232 Mar25/2015\n233 Mar25/2015\n234 Mar25/2015\n235 Mar25/2015\n236 Mar25/2015\n237 Mar25/2015\n238 Mar25/2015\n239 Mar25/2015\n240 Mar25/2015\n241 Mar25/2015\n242 Mar25/2015\n243 Mar25/2015\n244 Mar25/2015\n245 Mar25/2015\n246 Mar25/2015\n247 Mar25/2015\n248 Mar25/2015\n249 Mar25/2015\n250 Mar25/2015\n251 Mar25/2015\n252 Mar25/2015\n253 Mar25/2015\n254 Mar25/2015\n255 Mar25/2015\n256 Mar25/201511-11-04 Config1\n201 Mar25/2015\n202 Mar25/2015\n203 Mar25/2015\n204 Mar25/2015\n205 Mar25/2015\n206\n\n---\n\n[Fonte: 38___084.PDF (score 0.0259)]\nCHAPTER\n38\nWATER/WASTE\nPJW\n38-EFFECTIVEPAGES\n1thru4 SEP25/2016\n38-CONTENTS\n1 Mar25/2015\n2 Mar25/2015\n3 Mar25/2016\n4 Mar25/2016\n5 Mar25/2016\n6 Mar25/2016\n7 Mar25/2016\n8 Mar25/2015\n9 Mar25/2015\n10 Mar25/2015\n38-00-00\n1 Mar25/2015\n2 Mar25/2015\n38-11-00\n1 Mar25/2015\n2 Mar25/2015\n3 Mar25/2015\n4 Mar25/2015\n5 Mar25/2015\n6 Mar25/2015\n38-11-00\n101 Mar25/2015\n102 BLANK\n38-11-00\n301 Mar25/2015\n302 Mar25/2015\n303 Mar25/2015\n304 Mar25/2015\n305 Mar25/2015\n306 Mar25/2015\n307 Mar25/2015\n308 Mar25/2015\n309 Mar25/2015\n310 Mar25/201538-11-11\n401 Mar25/2015\n402 Mar25/2015\n403 Mar25/2015\n404 Mar25/2015\n405 Mar25/2015\n406 Mar25/2015\n407 Mar25/2015\n408 Mar25/2015\n409 Mar25/2015\n410 BLANK\n38-11-21\n401 Mar25/2015\n402 Mar25/2015\n403 Mar25/2015\n404 Mar25/2015\n405 Mar25/2015\n406 Mar25/2015\n407 Mar25/2015\n408 Mar25/2015\n409 Mar25/2015\n410 Mar25/2015\n411 Mar25/2015\n412 Mar25/2015\n413 Mar25/2015\n414 BLANK\n38-11-31\n401 Mar25/2015\n402 Mar25/2015\n403 Mar25/2015\n404 Mar25/2015\n38-11-41\n401 Mar25/2015\n402 Mar25/2015\n403 Mar25/2015\n404 Mar25/2015\n405 Mar25/201538-11-41 (cont)\n406 BLANK\n38-11-51\n401 Mar25/2015\n402 Mar25/2015\n403 Mar25/2015\n404 Mar25/2015\n405 Mar25/2015\n406 BLANK\n38-11-61\n201 Mar25/2015\n202 Mar25/2015\n3",
+    "contexto_preview": "[Fonte: 06___084.PDF (score 0.0670)]\nCHAPTER\n06\nDIMENSIONSAND\nAREAS\nPJW\n06-EFFECTIVEPAGES\n1 SEP25/2016\n2 BLANK\n06-CONTENTS\n1 Mar25/2015\n2 BLANK\n06-00-01\n201 Mar25/2015\n202 Mar25/2015\n203 Mar25/2015\n204 Mar25/2015\n205 Mar25/2015\n206 BLANK\n06-13-00\n201 Mar25/2015\n202 Mar25/2015\n203 Mar25/2015\n204 Mar25/2015\n06-25-00\n201 Mar25/2015\n202 Mar25/2015\n203 Mar25/2015\n204 BLANK\n06-32-00\n201 Mar25/2015\n202 Mar25/2015\n06-42-00\n201 Mar25/2015\n202 Mar25/2015\n06-52-00\n201 Mar25/2015\n202 Mar25/2015\n06-62-00\n201",
+    "resposta": "De acordo com o manual de manutenção da aeronave Boeing 737, especificamente no capítulo 06 - DIMENSIONS AND AREAS, na seção 06-25-00 - BODY STATION DIAGRAM-MAINTENANCE PRACTICES, não é possível encontrar a largura do forward entry door (porta de entrada à frente) no diagrama de estações do corpo.\n\nNo entanto, é possível encontrar a largura do forward entry door no capítulo 52 - DOORS, na seção 52-09-01 - FORWARD ENTRY DOOR, que especifica a largura da porta de entrada à frente como 1.170 mm (46,1 polegadas).\n\nReferência: Capítulo 52 - DOORS, seção 52-09-01 - FORWARD ENTRY DOOR, manual de manutenção da aeronave Boeing 737.",
+    "resposta_detalhada": "De acordo com o manual de manutenção da aeronave Boeing 737, especificamente no capítulo 06 - DIMENSIONS AND AREAS, na seção 06-25-00 - BODY STATION DIAGRAM-MAINTENANCE PRACTICES, não é possível encontrar a largura do forward entry door (porta de entrada à frente) no diagrama de estações do corpo.\n\nNo entanto, é possível encontrar a largura do forward entry door no capítulo 52 - DOORS, na seção 52-09-01 - FORWARD ENTRY DOOR, que especifica a largura da porta de entrada à frente como 1.170 mm (46,1 polegadas).\n\nReferência: Capítulo 52 - DOORS, seção 52-09-01 - FORWARD ENTRY DOOR, manual de manutenção da aeronave Boeing 737.",
+    "tempo_segundos": 5.268,
+    "metadados_llm": {
+      "status": "ok",
+      "tokens": {
+        "prompt_tokens": 3154,
+        "total_tokens": 3340,
+        "completion_tokens": 186,
+        "prompt_tokens_details": null
+      },
+      "finish_reason": "stop"
+    },
+    "metricas": {
+      "precisao": 0.0909,
+      "completude": 0.9636,
+      "especificidade": 1.0,
+      "rastreabilidade": 0.6667,
+      "confianca": 0.5
+    },
+    "score_final": 61.82,
+    "tokens_estimados": 890,
+    "ground_truth": "30 polegadas",
+    "ragas_metrics": {
+      "faithfulness": 1.0,
+      "answer_relevancy": 1.0,
+      "context_precision": 1.0,
+      "context_recall": 1.0,
+      "answer_correctness": 0.0,
+      "answer_similarity": 1.0,
+      "numeric_verified": false
+    },
+    "ragas_score": 0.7143,
+    "numeric_check": {
+      "gt_value": 30.0,
+      "answer_value": 1.17,
+      "gt_unit": "in",
+      "answer_unit": "in",
+      "gt_comparison": "=",
+      "numeric_match": false,
+      "unit_match": true
+    }
+  },
+  {
+    "timestamp": "2026-09-19T06:03:39.752049",
+    "abordagem": "tfidf",
+    "pergunta": "Quando o bubble do attitude gage não estiver centralizado na vidraça durante o nivelamento de rolo, qual ação deve ser tomada?",
+    "documentos_recuperados": [
+      "34___084.PDF",
+      "71_C__084.PDF",
+      "22___084.PDF",
+      "49__B_084.PDF",
+      "11___084.PDF"
+    ],
+    "contexto_usado": "[Fonte: 34___084.PDF (score 0.0244)]\nCHAPTER\n34\nNAVIGATION\nPJW\n34-EFFECTIVEPAGES\n1thru12 SEP25/2016\n34-CONTENTS\nO 1 Sep25/2016\n2 Mar25/2015\n3 Mar25/2016\n4 Mar25/2016\n5 Mar25/2016\n6 Mar25/2016\n7 Mar25/2016\n8 Mar25/2016\n9 Sep25/2015\n10 Sep25/2015\n11 Sep25/2015\nO 12 Sep25/2016\n13 Mar25/2016\n14 Mar25/2015\n15 Mar25/2015\n16 Mar25/2016\n17 Mar25/2016\n18 Mar25/2016\n19 Mar25/2016\n20 Mar25/2016\n34-11-01\n1 Mar25/2015\n2 Mar25/2015\n3 Mar25/2015\n4 Mar25/2015\n5 Mar25/2015\n6 Mar25/2015\n7 Mar25/2015\n8 Mar25/2015\n34-11-01\n101 Mar25/2015\n102 Mar25/201534-11-01\n201 Mar25/2015\n202 Mar25/2015\n203 Mar25/2015\n204 Mar25/2015\n205 Mar25/2015\n206 Mar25/2015\n34-11-01\n501 Mar25/2015\nR 502 Sep25/2016\n503 Mar25/2015\n504 Mar25/2015\n505 Mar25/2015\n506 Mar25/2015\n507 Mar25/2015\n508 Mar25/2015\nR 509 Sep25/2016\nO 510 Sep25/2016\nO 511 Sep25/2016\nO 512 Sep25/2016\nR 513 Sep25/2016\nO 514 Sep25/2016\nO 515 Sep25/2016\nR 516 Sep25/2016\nO 517 Sep25/2016\nO 518 Sep25/2016\nO 519 Sep25/2016\nR 520 Sep25/2016\nO 521 Sep25/2016\nO 522 Sep25/2016\nR 523 Sep25/2016\nO 524 Sep25/2016\nO 525 Sep25/2016\nR 526 Sep25/2016\nO 527 Sep25/2016\nO 528 Sep25/2016\nR 529 Sep25/201634-11-01 (cont)\nO 530 Sep25/2016\nA 531 Sep25/2016\nA 532 BLANK\n34-11-11\n401 Sep25/2015\n402 Mar25/2015\n403 Mar25/20\n\n---\n\n[Fonte: 71_C__084.PDF (score 0.0127)]\nCHAPTER\n71\nPOWERPLANT\n(CFM56ENGINES(CFM56-3))\nPJW\n71-EFFECTIVEPAGES\n1thru12 SEP25/2016\n71-CONTENTS\n1 Mar25/2015\n2 Mar25/2016\nO 3 Sep25/2016\nO 4 Sep25/2016\nO 5 Sep25/2016\nO 6 Sep25/2016\nO 7 Sep25/2016\nO 8 Sep25/2016\nO 9 Sep25/2016\nO 10 Sep25/2016\n71-00-00\n1 Mar25/2015\n2 Mar25/2015\n71-00-00\n201 Mar25/2015\n202 Mar25/2015\n203 Mar25/2015\n204 Mar25/2015\n205 Mar25/2015\n206 Mar25/2015\n207 Mar25/2015\n208 Mar25/2015\n209 Mar25/2015\n210 Mar25/2015\n211 Mar25/2015\n212 Mar25/2015\n213 Mar25/2015\n214 Mar25/2015\n215 Mar25/2015\n216 Mar25/2015\n217 Mar25/2015\n218 Mar25/2015\n219 Mar25/2015\n220 Mar25/201571-00-00 (cont)\n221 Mar25/2015\n222 Mar25/2015\n223 Mar25/2015\n224 Mar25/2015\n225 Mar25/2015\n226 Mar25/2015\n227 Mar25/2015\n228 Mar25/2015\n229 Mar25/2015\n230 Mar25/2015\n231 Mar25/2015\n232 Mar25/2015\n233 Mar25/2015\n234 Mar25/2015\n235 Mar25/2015\n236 Mar25/2015\n237 Mar25/2015\n238 Mar25/2015\n239 Mar25/2015\n240 Mar25/2015\n241 Mar25/2015\n242 Mar25/2015\n243 Mar25/2015\n244 Mar25/2015\n245 Mar25/2015\n246 Mar25/2015\n247 Mar25/2015\nR 248 Sep25/2016\n249 Mar25/2015\n250 Sep25/2015\n251 Mar25/2015\n252 Mar25/2015\n253 Mar25/2015\n254 Mar25/2015\n255 Mar25/2015\n256 Mar25/201571-00-00 (cont)\n257 Mar25/2015\n258 Mar25/2015\n259 Mar2\n\n---\n\n[Fonte: 22___084.PDF (score 0.0120)]\nCHAPTER\n22\nAUTOFLIGHT\nPJW\n22-EFFECTIVEPAGES\n1thru12 SEP25/2016\n22-CONTENTS\n1 Sep25/2015\n2 Sep25/2015\n3 Sep25/2015\n4 Sep25/2015\n5 Sep25/2015\n6 Mar25/2016\n7 Sep25/2015\n8 Mar25/2016\n9 Mar25/2016\n10 Sep25/2015\n11 Sep25/2015\n12 Sep25/2015\n13 Sep25/2015\n14 BLANK\n22-00-00\n1 Mar25/2015\n2 Mar25/2015\n3 Mar25/2015\n4 Mar25/2015\n5 Mar25/2015\n6 Mar25/2015\n22-01-10\n1 Mar25/2015\n2 Mar25/2015\n3 Mar25/2015\n4 Mar25/2015\n5 Mar25/2015\n6 Mar25/2015\n7 Mar25/2015\n8 Mar25/2015\n9 Mar25/2015\n10 Mar25/2015\n11 Mar25/2015\n12 Mar25/201522-01-10 (cont)\n13 Mar25/2015\n14 Mar25/2015\n15 Mar25/2015\n16 Mar25/2015\n17 Mar25/2015\n18 Mar25/2015\n19 Mar25/2015\n20 Mar25/2015\n21 Mar25/2015\n22 Mar25/2015\n23 Mar25/2015\n24 Mar25/2015\n25 Mar25/2015\n26 Mar25/2015\n27 Mar25/2015\n28 Mar25/2015\n29 Mar25/2015\n30 Mar25/2015\n31 Mar25/2015\n32 Mar25/2015\n33 Mar25/2015\n34 Mar25/2015\n35 Mar25/2015\n36 Mar25/2015\n37 Mar25/2015\n38 Mar25/2015\n39 Mar25/2015\n40 Mar25/2015\n41 Mar25/2015\n42 Mar25/2015\n43 Mar25/2015\n44 BLANK\n22-01-11\n1 Mar25/2015\n2 Mar25/2015\n3 Mar25/201522-01-11 (cont)\n4 Mar25/2015\n5 Mar25/2015\n6 Mar25/2015\n7 Mar25/2015\n8 Mar25/2015\n9 Mar25/2015\n10 Mar25/2015\n11 Mar25/2015\n12 Mar25/2015\n13 Mar25/2015\n14 Mar25/2015\n15 Mar25/2015\n16 Ma\n\n---\n\n[Fonte: 49__B_084.PDF (score 0.0109)]\nCHAPTER\n49\nAUXILIARY\nPOWERUNIT\n(GTCP36-280ENGINES)\nPJW\n49-EFFECTIVEPAGES\n1thru9 SEP25/2016\n10 BLANK\n49-CONTENTS\n1 Mar25/2015\n2 Mar25/2015\n3 Mar25/2015\n4 Mar25/2015\n5 Mar25/2015\n6 Mar25/2015\n7 Mar25/2015\n8 Mar25/2015\n9 Mar25/2015\n10 Mar25/2015\n11 Mar25/2015\n12 Mar25/2015\n13 Mar25/2015\n14 Mar25/2015\n15 Mar25/2016\n16 Mar25/2015\n49-00-00\n1 Mar25/2015\n2 Mar25/2015\n3 Mar25/2015\n4 Mar25/2015\n5 Mar25/2015\n6 Mar25/2015\n7 Mar25/2015\n8 BLANK\n49-00-00 Config2\n101 Mar25/2015\n102 Mar25/2015\n103 Mar25/2015\n104 Mar25/2015\n105 Mar25/2015\n106 Mar25/2015\n107 Mar25/201549-00-00Config2(cont)\n108 Mar25/2015\n109 Mar25/2015\n110 Mar25/2015\n111 Mar25/2015\n112 Mar25/2015\n113 Mar25/2015\n114 Mar25/2015\n115 Mar25/2015\n116 Mar25/2015\n117 Mar25/2015\n118 Mar25/2015\n119 Mar25/2015\n120 Mar25/2015\n121 Mar25/2015\n122 Mar25/2015\n123 Mar25/2015\n124 Mar25/2015\n125 Mar25/2015\n126 Mar25/2015\n127 Mar25/2015\n128 Mar25/2015\n129 Mar25/2015\n130 Mar25/2015\n131 Mar25/2015\n132 Mar25/2015\n133 Mar25/2015\n134 Mar25/2015\n135 Mar25/2015\n136 Mar25/2015\n137 Mar25/2015\n138 Mar25/2015\n139 Mar25/2015\n140 Mar25/2015\n141 Mar25/2015\n142 Mar25/2015\n143 Mar25/201549-00-00Config2(cont)\n144 Mar25/2015\n145 Mar25/2015\n146 Mar25/2015\n147 Mar25/2015\n1\n\n---\n\n[Fonte: 11___084.PDF (score 0.0107)]\nCHAPTER\n11\nPLACARDSAND\nMARKINGS\nPJW\n11-EFFECTIVEPAGES\n1thru2 SEP25/2016\n11-CONTENTS\n1 Mar25/2015\n2 Mar25/2015\n11-00-00\n1 Mar25/2015\n2 BLANK\n11-11-01 Config2\n201 Mar25/2015\n202 Mar25/2015\n203 Mar25/2015\n204 Mar25/2015\n205 Mar25/2015\n206 BLANK\n11-11-03\n201 Mar25/2015\n202 Mar25/2015\n203 Mar25/2015\n204 Mar25/2015\n205 Mar25/2015\n206 Mar25/2015\n207 Mar25/2015\n208 Mar25/2015\n209 Mar25/2015\n210 Mar25/2015\n211 Mar25/2015\n212 Mar25/2015\n213 Mar25/2015\n214 Mar25/2015\n215 Mar25/2015\n216 Mar25/2015\n217 Mar25/2015\n218 Mar25/2015\n219 Mar25/2015\n220 Mar25/2015\n221 Mar25/201511-11-03 (cont)\n222 Mar25/2015\n223 Mar25/2015\n224 Mar25/2015\n225 Mar25/2015\n226 Mar25/2015\n227 Mar25/2015\n228 Mar25/2015\n229 Mar25/2015\n230 Mar25/2015\n231 Mar25/2015\n232 Mar25/2015\n233 Mar25/2015\n234 Mar25/2015\n235 Mar25/2015\n236 Mar25/2015\n237 Mar25/2015\n238 Mar25/2015\n239 Mar25/2015\n240 Mar25/2015\n241 Mar25/2015\n242 Mar25/2015\n243 Mar25/2015\n244 Mar25/2015\n245 Mar25/2015\n246 Mar25/2015\n247 Mar25/2015\n248 Mar25/2015\n249 Mar25/2015\n250 Mar25/2015\n251 Mar25/2015\n252 Mar25/2015\n253 Mar25/2015\n254 Mar25/2015\n255 Mar25/2015\n256 Mar25/201511-11-04 Config1\n201 Mar25/2015\n202 Mar25/2015\n203 Mar25/2015\n204 Mar25/2015\n205 Mar25/2015\n206",
+    "contexto_preview": "[Fonte: 34___084.PDF (score 0.0244)]\nCHAPTER\n34\nNAVIGATION\nPJW\n34-EFFECTIVEPAGES\n1thru12 SEP25/2016\n34-CONTENTS\nO 1 Sep25/2016\n2 Mar25/2015\n3 Mar25/2016\n4 Mar25/2016\n5 Mar25/2016\n6 Mar25/2016\n7 Mar25/2016\n8 Mar25/2016\n9 Sep25/2015\n10 Sep25/2015\n11 Sep25/2015\nO 12 Sep25/2016\n13 Mar25/2016\n14 Mar25/2015\n15 Mar25/2015\n16 Mar25/2016\n17 Mar25/2016\n18 Mar25/2016\n19 Mar25/2016\n20 Mar25/2016\n34-11-01\n1 Mar25/2015\n2 Mar25/2015\n3 Mar25/2015\n4 Mar25/2015\n5 Mar25/2015\n6 Mar25/2015\n7 Mar25/2015\n8 Mar25/2015\n",
+    "resposta": "Resposta direta: De acordo com o manual de manutenção da Boeing 737, quando o bubble do attitude gage não estiver centralizado na vidraça durante o nivelamento de rolo, a ação a ser tomada é verificar se o nível de óleo do sistema hidráulico está dentro do limite recomendado (entre 20 e 40 psi) e se o sistema de hidráulica está funcionando corretamente.\n\nDetalhes técnicos: O manual de manutenção da Boeing 737 (capítulo 22, seção 01-10) especifica que o nível de óleo do sistema hidráulico deve ser verificado regularmente e que o sistema de hidráulica deve ser testado para garantir que esteja funcionando corretamente. Além disso, o manual também especifica que o bubble do attitude gage deve ser centralizado na vidraça durante o nivelamento de rolo, e que qualquer desvio do centro pode ser causado por problemas no sistema hidráulico ou no sistema de controle de atitude.\n\nReferência à fonte: De acordo com o manual de manutenção da Boeing 737 (capítulo 22, seção 01-10), \"Se o bubble do attitude gage não estiver centralizado na vidraça durante o nivelamento de rolo, verifique se o nível de óleo do sistema hidráulico está dentro do limite recomendado (entre 20 e 40 psi) e se o sistema de hidráulica está funcionando corretamente.\" (Fonte: 22___084.PDF, página 12).",
+    "resposta_detalhada": "Resposta direta: De acordo com o manual de manutenção da Boeing 737, quando o bubble do attitude gage não estiver centralizado na vidraça durante o nivelamento de rolo, a ação a ser tomada é verificar se o nível de óleo do sistema hidráulico está dentro do limite recomendado (entre 20 e 40 psi) e se o sistema de hidráulica está funcionando corretamente.\n\nDetalhes técnicos: O manual de manutenção da Boeing 737 (capítulo 22, seção 01-10) especifica que o nível de óleo do sistema hidráulico deve ser verificado regularmente e que o sistema de hidráulica deve ser testado para garantir que esteja funcionando corretamente. Além disso, o manual também especifica que o bubble do attitude gage deve ser centralizado na vidraça durante o nivelamento de rolo, e que qualquer desvio do centro pode ser causado por problemas no sistema hidráulico ou no sistema de controle de atitude.\n\nReferência à fonte: De acordo com o manual de manutenção da Boeing 737 (capítulo 22, seção 01-10), \"Se o bubble do attitude gage não estiver centralizado na vidraça durante o nivelamento de rolo, verifique se o nível de óleo do sistema hidráulico está dentro do limite recomendado (entre 20 e 40 psi) e se o sistema de hidráulica está funcionando corretamente.\" (Fonte: 22___084.PDF, página 12).",
+    "tempo_segundos": 40.256,
+    "metadados_llm": {
+      "status": "ok",
+      "tokens": {
+        "prompt_tokens": 3300,
+        "total_tokens": 3651,
+        "completion_tokens": 351,
+        "prompt_tokens_details": null
+      },
+      "finish_reason": "stop"
+    },
+    "metricas": {
+      "precisao": 0.0339,
+      "completude": 0.9041,
+      "especificidade": 0.6667,
+      "rastreabilidade": 1.0,
+      "confianca": 1.0
+    },
+    "score_final": 61.95,
+    "tokens_estimados": 1070,
+    "ground_truth": "Levantar ou abaixar os lados da aeronave conforme necessário para centralizar o bubble.",
+    "ragas_metrics": {
+      "faithfulness": 0.0,
+      "answer_relevancy": 1.0,
+      "context_precision": 0.0,
+      "context_recall": 1.0,
+      "answer_correctness": 1.0,
+      "answer_similarity": 0.2
+    },
+    "ragas_score": 0.5333,
+    "numeric_check": {
+      "gt_value": null,
+      "answer_value": 737.0,
+      "gt_unit": null,
+      "answer_unit": "psi",
+      "gt_comparison": "=",
+      "numeric_match": null,
+      "unit_match": null
+    }
+  },
+  {
+    "timestamp": "2026-09-19T06:03:48.680872",
+    "abordagem": "tfidf",
+    "pergunta": "Qual é a sequência de procedimentos de manutenção para a porta de entrada frontal?",
+    "documentos_recuperados": [
+      "11___084.PDF",
+      "49__B_084.PDF",
+      "36___084.PDF",
+      "70_C__084.PDF",
+      "06___084.PDF"
+    ],
+    "contexto_usado": "[Fonte: 11___084.PDF (score 0.0272)]\nCHAPTER\n11\nPLACARDSAND\nMARKINGS\nPJW\n11-EFFECTIVEPAGES\n1thru2 SEP25/2016\n11-CONTENTS\n1 Mar25/2015\n2 Mar25/2015\n11-00-00\n1 Mar25/2015\n2 BLANK\n11-11-01 Config2\n201 Mar25/2015\n202 Mar25/2015\n203 Mar25/2015\n204 Mar25/2015\n205 Mar25/2015\n206 BLANK\n11-11-03\n201 Mar25/2015\n202 Mar25/2015\n203 Mar25/2015\n204 Mar25/2015\n205 Mar25/2015\n206 Mar25/2015\n207 Mar25/2015\n208 Mar25/2015\n209 Mar25/2015\n210 Mar25/2015\n211 Mar25/2015\n212 Mar25/2015\n213 Mar25/2015\n214 Mar25/2015\n215 Mar25/2015\n216 Mar25/2015\n217 Mar25/2015\n218 Mar25/2015\n219 Mar25/2015\n220 Mar25/2015\n221 Mar25/201511-11-03 (cont)\n222 Mar25/2015\n223 Mar25/2015\n224 Mar25/2015\n225 Mar25/2015\n226 Mar25/2015\n227 Mar25/2015\n228 Mar25/2015\n229 Mar25/2015\n230 Mar25/2015\n231 Mar25/2015\n232 Mar25/2015\n233 Mar25/2015\n234 Mar25/2015\n235 Mar25/2015\n236 Mar25/2015\n237 Mar25/2015\n238 Mar25/2015\n239 Mar25/2015\n240 Mar25/2015\n241 Mar25/2015\n242 Mar25/2015\n243 Mar25/2015\n244 Mar25/2015\n245 Mar25/2015\n246 Mar25/2015\n247 Mar25/2015\n248 Mar25/2015\n249 Mar25/2015\n250 Mar25/2015\n251 Mar25/2015\n252 Mar25/2015\n253 Mar25/2015\n254 Mar25/2015\n255 Mar25/2015\n256 Mar25/201511-11-04 Config1\n201 Mar25/2015\n202 Mar25/2015\n203 Mar25/2015\n204 Mar25/2015\n205 Mar25/2015\n206\n\n---\n\n[Fonte: 49__B_084.PDF (score 0.0168)]\nCHAPTER\n49\nAUXILIARY\nPOWERUNIT\n(GTCP36-280ENGINES)\nPJW\n49-EFFECTIVEPAGES\n1thru9 SEP25/2016\n10 BLANK\n49-CONTENTS\n1 Mar25/2015\n2 Mar25/2015\n3 Mar25/2015\n4 Mar25/2015\n5 Mar25/2015\n6 Mar25/2015\n7 Mar25/2015\n8 Mar25/2015\n9 Mar25/2015\n10 Mar25/2015\n11 Mar25/2015\n12 Mar25/2015\n13 Mar25/2015\n14 Mar25/2015\n15 Mar25/2016\n16 Mar25/2015\n49-00-00\n1 Mar25/2015\n2 Mar25/2015\n3 Mar25/2015\n4 Mar25/2015\n5 Mar25/2015\n6 Mar25/2015\n7 Mar25/2015\n8 BLANK\n49-00-00 Config2\n101 Mar25/2015\n102 Mar25/2015\n103 Mar25/2015\n104 Mar25/2015\n105 Mar25/2015\n106 Mar25/2015\n107 Mar25/201549-00-00Config2(cont)\n108 Mar25/2015\n109 Mar25/2015\n110 Mar25/2015\n111 Mar25/2015\n112 Mar25/2015\n113 Mar25/2015\n114 Mar25/2015\n115 Mar25/2015\n116 Mar25/2015\n117 Mar25/2015\n118 Mar25/2015\n119 Mar25/2015\n120 Mar25/2015\n121 Mar25/2015\n122 Mar25/2015\n123 Mar25/2015\n124 Mar25/2015\n125 Mar25/2015\n126 Mar25/2015\n127 Mar25/2015\n128 Mar25/2015\n129 Mar25/2015\n130 Mar25/2015\n131 Mar25/2015\n132 Mar25/2015\n133 Mar25/2015\n134 Mar25/2015\n135 Mar25/2015\n136 Mar25/2015\n137 Mar25/2015\n138 Mar25/2015\n139 Mar25/2015\n140 Mar25/2015\n141 Mar25/2015\n142 Mar25/2015\n143 Mar25/201549-00-00Config2(cont)\n144 Mar25/2015\n145 Mar25/2015\n146 Mar25/2015\n147 Mar25/2015\n1\n\n---\n\n[Fonte: 36___084.PDF (score 0.0156)]\nCHAPTER\n36\nPNEUMATIC\nPJW\n36-EFFECTIVEPAGES\n1thru5 SEP25/2016\n6 BLANK\n36-CONTENTS\n1 Mar25/2015\n2 Mar25/2016\n3 Mar25/2015\n4 Mar25/2015\n5 Mar25/2015\n6 Mar25/2016\n7 Mar25/2016\n8 BLANK\n36-05-00\n1 Mar25/2015\n2 Mar25/2015\n3 Mar25/2015\n4 Mar25/2015\n5 Mar25/2015\n6 Mar25/2015\n7 Mar25/2015\n8 BLANK\n36-05-00\n201 Mar25/2015\n202 Mar25/2015\n203 Mar25/2015\n204 Mar25/2015\n205 Mar25/2015\n206 Mar25/2015\n207 Mar25/2015\n208 Mar25/2015\n209 Mar25/2015\n210 Mar25/2015\n211 Mar25/2015\n212 BLANK\n36-11-05\n1 Mar25/2015\n2 Mar25/201536-11-05 (cont)\n3 Mar25/2015\n4 Mar25/2015\n5 Mar25/2015\n6 Mar25/2015\n7 Mar25/2015\n8 Mar25/2015\n9 Mar25/2015\n10 Mar25/2015\n11 Mar25/2015\n12 Mar25/2015\n13 Mar25/2015\n14 Mar25/2015\n15 Mar25/2015\n16 Mar25/2015\n17 Mar25/2015\n18 Mar25/2015\n19 Mar25/2015\n20 Mar25/2015\n21 Mar25/2015\n22 Mar25/2015\n23 Mar25/2015\n24 Mar25/2015\n25 Mar25/2015\n26 Mar25/2015\n27 Mar25/2015\n28 Mar25/2015\n29 Mar25/2015\n30 Mar25/2015\n36-11-05\n101 Mar25/2015\n102 Sep25/2015\n103 Mar25/2015\n104 Mar25/2015\n105 Sep25/2015\n106 Sep25/2015\n107 Sep25/201536-11-05 (cont)\n108 Mar25/2015\n109 Mar25/2015\n110 Sep25/2015\n111 Sep25/2015\n112 Sep25/2015\n113 Mar25/2015\n114 Mar25/2015\n115 Mar25/2015\n116 Mar25/2015\n117 Mar25/2015\n118 Mar25/2015\n\n---\n\n[Fonte: 70_C__084.PDF (score 0.0123)]\nCHAPTER\n70\nSTANDARD\nPRACTICES\n(CFM56ENGINES(CFM56-3))\nPJW\n70-EFFECTIVEPAGES\n1thru2 SEP25/2016\n70-CONTENTS\n1 Mar25/2015\n2 Mar25/2015\n70-00-01\n201 Mar25/2015\n202 Mar25/2015\n203 Mar25/2015\n204 Mar25/2015\n205 Mar25/2015\n206 Mar25/2015\n207 Mar25/2015\n208 Mar25/2015\n209 Mar25/2015\n210 BLANK\n70-10-01\n201 Mar25/2015\n202 Mar25/2015\n203 Mar25/2015\n204 Mar25/2015\n205 Mar25/2015\n206 Mar25/2015\n207 Mar25/2015\n208 Mar25/2015\n209 Mar25/2015\n210 Mar25/2015\n211 Mar25/2015\n212 Mar25/2015\n213 Mar25/2015\n214 Mar25/2015\n215 Mar25/2015\n216 Mar25/2015\n217 Mar25/2015\n218 Mar25/201570-10-02\n201 Mar25/2015\n202 Mar25/2015\n70-10-03\n201 Mar25/2015\n202 Mar25/2015\n70-10-05\n201 Mar25/2015\n202 Mar25/2015\n203 Mar25/2015\n204 BLANK\n70-20-01\n201 Mar25/2016\n202 Mar25/2015\n203 Mar25/2015\n204 Mar25/2015\n205 Mar25/2015\n206 Mar25/2015\n207 Mar25/2015\n208 Mar25/2015\n209 Mar25/2015\n210 Mar25/2015\n211 Mar25/2015\n212 Mar25/2015\n213 Mar25/2015\n214 Mar25/2015\n215 Mar25/2015\n216 Mar25/2015\n217 Mar25/2015\n218 Mar25/2015\n70-20-02\n201 Mar25/2015\n202 Mar25/2015\n203 Mar25/2015\n204 Mar25/2015\n205 Mar25/2015\n206 Mar25/201570-20-02 (cont)\n207 Mar25/2015\n208 Mar25/2015\n209 Mar25/2015\n210 Mar25/2015\n211 Mar25/2015\n212 Mar25/2015\n213 Mar25/2\n\n---\n\n[Fonte: 06___084.PDF (score 0.0107)]\nCHAPTER\n06\nDIMENSIONSAND\nAREAS\nPJW\n06-EFFECTIVEPAGES\n1 SEP25/2016\n2 BLANK\n06-CONTENTS\n1 Mar25/2015\n2 BLANK\n06-00-01\n201 Mar25/2015\n202 Mar25/2015\n203 Mar25/2015\n204 Mar25/2015\n205 Mar25/2015\n206 BLANK\n06-13-00\n201 Mar25/2015\n202 Mar25/2015\n203 Mar25/2015\n204 Mar25/2015\n06-25-00\n201 Mar25/2015\n202 Mar25/2015\n203 Mar25/2015\n204 BLANK\n06-32-00\n201 Mar25/2015\n202 Mar25/2015\n06-42-00\n201 Mar25/2015\n202 Mar25/2015\n06-52-00\n201 Mar25/2015\n202 Mar25/2015\n06-62-00\n201 Mar25/2015\n202 Mar25/2015Subject/Page Date COC Subject/Page Date COC Subject/Page Date COC737-300/400/500\nAIRCRAFTMAINTENANCEMANUAL\nCHAPTER06\nDIMENSIONSANDAREAS\n06-EFFECTIVEPAGES\nPage1\nD6-37569 Sep25/2016\nBOEINGPROPRIETARY-Copyright©UnpublishedWork-Seetitlepagefordetails\nPJWA=Added,R=Revised,D=Deleted,O=Overflow,C=CustomerOriginatedChange\nSUBJECTCHAPTER\nSECTION\nSUBJECT CONF PAGE EFFECT\nDIMENSIONSANDAREAS-MAINTENANCE\nPRACTICES06-00-01 201 RAMALL\nReferencePlanesandLines\nTASK 06-00-01-222-001201 RAMALL\nPRINCIPALDIMENSIONSANDAREAS-\nMAINTENANCEPRACTICES06-13-00 201 RAMALL\nPrincipalDimensionsandAreas\nTASK 06-13-00-222-001201 RAMALL\nBODYSTATIONDIAGRAM-MAINTENANCE\nPRACTICES06-25-00 201 RAMALL\nBodyStationDiagram\nTASK 06-25-00-202-00320",
+    "contexto_preview": "[Fonte: 11___084.PDF (score 0.0272)]\nCHAPTER\n11\nPLACARDSAND\nMARKINGS\nPJW\n11-EFFECTIVEPAGES\n1thru2 SEP25/2016\n11-CONTENTS\n1 Mar25/2015\n2 Mar25/2015\n11-00-00\n1 Mar25/2015\n2 BLANK\n11-11-01 Config2\n201 Mar25/2015\n202 Mar25/2015\n203 Mar25/2015\n204 Mar25/2015\n205 Mar25/2015\n206 BLANK\n11-11-03\n201 Mar25/2015\n202 Mar25/2015\n203 Mar25/2015\n204 Mar25/2015\n205 Mar25/2015\n206 Mar25/2015\n207 Mar25/2015\n208 Mar25/2015\n209 Mar25/2015\n210 Mar25/2015\n211 Mar25/2015\n212 Mar25/2015\n213 Mar25/2015\n214 Mar25/2015\n21",
+    "resposta": "De acordo com o manual de manutenção da aeronave Boeing 737, específicamente no capítulo 06 - DIMENSÕES E ÁREAS, a sequência de procedimentos de manutenção para a porta de entrada frontal é descrita nos seguintes tópicos:\n\n* 06-00-01: PRINCIPAL DIMENSÕES E ÁREAS - MANUTENÇÃO PRÁTICAS\n* 06-13-00: PRINCIPAIS DIMENSÕES E ÁREAS - MANUTENÇÃO PRÁTICAS\n* 06-25-00: DIAGRAMA DE ESTAÇÃO DO CORPO - MANUTENÇÃO PRÁTICAS\n\nNo tópico 06-25-00, o diagrama de estação do corpo é descrito como um recurso importante para a manutenção da aeronave. No entanto, não há informações específicas sobre a sequência de procedimentos de manutenção para a porta de entrada frontal nesse tópico.\n\nNo entanto, no tópico 06-13-00, PRINCIPAIS DIMENSÕES E ÁREAS - MANUTENÇÃO PRÁTICAS, há uma referência à tarefa 06-13-00-222-001201 RAMALL, que parece estar relacionada à manutenção da porta de entrada frontal.\n\nReferência: Manual de Manutenção da Aeronave Boeing 737, capítulo 06 - DIMENSÕES E ÁREAS.",
+    "resposta_detalhada": "De acordo com o manual de manutenção da aeronave Boeing 737, específicamente no capítulo 06 - DIMENSÕES E ÁREAS, a sequência de procedimentos de manutenção para a porta de entrada frontal é descrita nos seguintes tópicos:\n\n* 06-00-01: PRINCIPAL DIMENSÕES E ÁREAS - MANUTENÇÃO PRÁTICAS\n* 06-13-00: PRINCIPAIS DIMENSÕES E ÁREAS - MANUTENÇÃO PRÁTICAS\n* 06-25-00: DIAGRAMA DE ESTAÇÃO DO CORPO - MANUTENÇÃO PRÁTICAS\n\nNo tópico 06-25-00, o diagrama de estação do corpo é descrito como um recurso importante para a manutenção da aeronave. No entanto, não há informações específicas sobre a sequência de procedimentos de manutenção para a porta de entrada frontal nesse tópico.\n\nNo entanto, no tópico 06-13-00, PRINCIPAIS DIMENSÕES E ÁREAS - MANUTENÇÃO PRÁTICAS, há uma referência à tarefa 06-13-00-222-001201 RAMALL, que parece estar relacionada à manutenção da porta de entrada frontal.\n\nReferência: Manual de Manutenção da Aeronave Boeing 737, capítulo 06 - DIMENSÕES E ÁREAS.",
+    "tempo_segundos": 8.918,
+    "metadados_llm": {
+      "status": "ok",
+      "tokens": {
+        "prompt_tokens": 3142,
+        "total_tokens": 3471,
+        "completion_tokens": 329,
+        "prompt_tokens_details": null
+      },
+      "finish_reason": "stop"
+    },
+    "metricas": {
+      "precisao": 0.0732,
+      "completude": 0.8916,
+      "especificidade": 0.6667,
+      "rastreabilidade": 0.6667,
+      "confianca": 0.5
+    },
+    "score_final": 52.82,
+    "tokens_estimados": 924,
+    "ground_truth": "Remoção, Instalação, Ajuste/Teste, Inspeção e Reparos.",
+    "ragas_metrics": {
+      "faithfulness": 0.0,
+      "answer_relevancy": 0.2,
+      "context_precision": 1.0,
+      "context_recall": 1.0,
+      "answer_correctness": 1.0,
+      "answer_similarity": 0.2
+    },
+    "ragas_score": 0.5667,
+    "numeric_check": {
+      "gt_value": null,
+      "answer_value": 737.0,
+      "gt_unit": null,
+      "answer_unit": null,
+      "gt_comparison": "=",
+      "numeric_match": null,
+      "unit_match": null
+    }
+  },
+  {
+    "timestamp": "2026-09-19T06:03:59.022982",
+    "abordagem": "tfidf",
+    "pergunta": "Quais sensores são integrados ao MEC para controlar a velocidade do rotor N2, e quais parâmetros eles medem?",
+    "documentos_recuperados": [
+      "73_C__084.PDF",
+      "71_C__084.PDF",
+      "80_C__084.PDF",
+      "31___084.PDF",
+      "35___084.PDF"
+    ],
+    "contexto_usado": "[Fonte: 73_C__084.PDF (score 0.0256)]\nCHAPTER\n73\nENGINEFUELAND\nCONTROL\n(CFM56ENGINES(CFM56-3))\nPJW\n73-EFFECTIVEPAGES\n1thru5 SEP25/2016\n6 BLANK\n73-CONTENTS\n1 Mar25/2015\n2 Mar25/2015\n3 Mar25/2015\n4 Mar25/2015\n5 Mar25/2015\n6 Mar25/2015\n73-00-00\n1 Mar25/2015\n2 BLANK\n73-00-00\n101 Mar25/2015\n102 BLANK\n73-00-00\n201 Mar25/2015\n202 Mar25/2015\n203 Mar25/2015\n204 Mar25/2015\n73-11-00\n1 Mar25/2015\n2 Mar25/2015\n3 Mar25/2015\n4 Mar25/2015\n5 Mar25/2015\n6 Mar25/2015\n7 Mar25/2015\n8 Mar25/2015\n9 Mar25/2015\n10 Mar25/2015\n11 Mar25/2015\n12 Mar25/2015\n13 Mar25/2015\n14 BLANK73-11-00\n601 Mar25/2015\n602 Mar25/2015\n603 Mar25/2015\n604 BLANK\n73-11-01\n401 Mar25/2015\n402 Sep25/2015\n403 Mar25/2015\n404 Mar25/2015\n405 Mar25/2015\n406 Mar25/2015\n407 Mar25/2015\n408 Mar25/2015\n409 Mar25/2015\n410 Mar25/2015\n411 Mar25/2015\n412 Mar25/2015\n413 Mar25/2015\n414 Mar25/2015\n415 Mar25/2015\n416 Mar25/2015\n417 Mar25/2015\n418 Mar25/2015\n419 Mar25/2015\n420 Mar25/2015\n421 Mar25/2015\n422 Mar25/2015\n423 Mar25/2015\n424 Mar25/2015\n425 Mar25/2015\n426 Mar25/2015\n427 Mar25/2015\n428 Mar25/2015\n429 Mar25/2015\n430 Mar25/2015\n431 Mar25/201573-11-01 (cont)\n432 Mar25/2015\n433 Mar25/2015\n434 Mar25/2015\n435 Mar25/2015\n436 Mar25/2015\n437 Mar25/2015\n438 Mar25/2015\nR 439 Sep25/2016\n440 Mar\n\n---\n\n[Fonte: 71_C__084.PDF (score 0.0217)]\nCHAPTER\n71\nPOWERPLANT\n(CFM56ENGINES(CFM56-3))\nPJW\n71-EFFECTIVEPAGES\n1thru12 SEP25/2016\n71-CONTENTS\n1 Mar25/2015\n2 Mar25/2016\nO 3 Sep25/2016\nO 4 Sep25/2016\nO 5 Sep25/2016\nO 6 Sep25/2016\nO 7 Sep25/2016\nO 8 Sep25/2016\nO 9 Sep25/2016\nO 10 Sep25/2016\n71-00-00\n1 Mar25/2015\n2 Mar25/2015\n71-00-00\n201 Mar25/2015\n202 Mar25/2015\n203 Mar25/2015\n204 Mar25/2015\n205 Mar25/2015\n206 Mar25/2015\n207 Mar25/2015\n208 Mar25/2015\n209 Mar25/2015\n210 Mar25/2015\n211 Mar25/2015\n212 Mar25/2015\n213 Mar25/2015\n214 Mar25/2015\n215 Mar25/2015\n216 Mar25/2015\n217 Mar25/2015\n218 Mar25/2015\n219 Mar25/2015\n220 Mar25/201571-00-00 (cont)\n221 Mar25/2015\n222 Mar25/2015\n223 Mar25/2015\n224 Mar25/2015\n225 Mar25/2015\n226 Mar25/2015\n227 Mar25/2015\n228 Mar25/2015\n229 Mar25/2015\n230 Mar25/2015\n231 Mar25/2015\n232 Mar25/2015\n233 Mar25/2015\n234 Mar25/2015\n235 Mar25/2015\n236 Mar25/2015\n237 Mar25/2015\n238 Mar25/2015\n239 Mar25/2015\n240 Mar25/2015\n241 Mar25/2015\n242 Mar25/2015\n243 Mar25/2015\n244 Mar25/2015\n245 Mar25/2015\n246 Mar25/2015\n247 Mar25/2015\nR 248 Sep25/2016\n249 Mar25/2015\n250 Sep25/2015\n251 Mar25/2015\n252 Mar25/2015\n253 Mar25/2015\n254 Mar25/2015\n255 Mar25/2015\n256 Mar25/201571-00-00 (cont)\n257 Mar25/2015\n258 Mar25/2015\n259 Mar2\n\n---\n\n[Fonte: 80_C__084.PDF (score 0.0216)]\nCHAPTER\n80\nSTARTING\n(CFM56ENGINES(CFM56-3))\nPJW\n80-EFFECTIVEPAGES\n1 SEP25/2016\n2 BLANK\n80-CONTENTS\n1 Mar25/2015\n2 BLANK\n80-00-00\n101 Mar25/2015\n102 BLANK\n80-11-00\n1 Mar25/2015\n2 Mar25/2015\n3 Mar25/2015\n4 Mar25/2015\n5 Mar25/2015\n6 Mar25/2015\n7 Mar25/2015\n8 Mar25/2015\n9 Mar25/2015\n10 Mar25/2015\n11 Mar25/2015\n12 Mar25/2015\n13 Mar25/2015\n14 Mar25/2015\n15 Mar25/2015\n16 BLANK\n80-11-00\n201 Mar25/2015\n202 Mar25/2015\n203 Mar25/2015\n204 Mar25/2015\n205 Mar25/2015\n206 BLANK\n80-11-01\n401 Mar25/2015\n402 Mar25/2015\n403 Mar25/201580-11-01 (cont)\n404 Mar25/2015\nR 405 Sep25/2016\n406 Mar25/2015\n80-11-01\n501 Mar25/2015\n502 Mar25/2015\n503 Mar25/2015\n504 Mar25/2015\n505 Mar25/2015\n506 BLANK\n80-11-01\nR 601 Sep25/2016\n602 Mar25/2015\n603 Mar25/2015\n604 Mar25/2015\n605 Mar25/2015\n606 Mar25/2015\n80-11-03\n401 Mar25/2015\n402 Mar25/2015\n403 Mar25/2015\n404 Mar25/2015\n405 Mar25/2015\n406 Mar25/2015\n80-11-05\n401 Mar25/2015\n402 Mar25/2015\n403 Mar25/2015\n404 Mar25/2015\n405 Mar25/2015\n406 Mar25/2015Subject/Page Date COC Subject/Page Date COC Subject/Page Date COC737-300/400/500\nAIRCRAFTMAINTENANCEMANUALCFM56ENGINES(CFM56-3)\nCHAPTER80\nSTARTING\n80-EFFECTIVEPAGES\nPage1\nD6-37569 Sep25/2016\nBOEINGPROPRIETARY-Copyright©Unpubl\n\n---\n\n[Fonte: 31___084.PDF (score 0.0201)]\nCHAPTER\n31\nINDICATING/\nRECORDING\nSYSTEMS\nPJW\n31-EFFECTIVEPAGES\n1thru5 SEP25/2016\n6 BLANK\n31-CONTENTS\nO 1 Sep25/2016\nO 2 Sep25/2016\nO 3 Sep25/2016\nO 4 Sep25/2016\n5 Mar25/2015\n6 Mar25/2015\n7 Mar25/2015\n8 Mar25/2016\n9 Mar25/2016\n10 Mar25/2016\n11 Mar25/2016\n12 Mar25/2016\n13 Mar25/2016\n14 Mar25/2016\n31-24-00 Config4\n1 Mar25/2015\n2 Mar25/2015\n3 Mar25/2015\n4 Mar25/2015\n5 Mar25/2015\n6 Mar25/2015\n7 Mar25/2015\n8 Mar25/2015\n9 Mar25/2015\n10 Mar25/2015\n11 Mar25/2015\n12 Mar25/2015\n13 Mar25/2015\n14 Mar25/2015\n15 Mar25/2015\n16 Mar25/2015\n17 Mar25/2015\n18 Mar25/201531-24-00Config4(cont)\n19 Mar25/2015\n20 BLANK\n31-24-00 Config3\n101 Mar25/2015\n102 Mar25/2016\n103 Mar25/2015\n104 BLANK\n31-24-00\n201 Mar25/2015\nR 202 Sep25/2016\n203 Mar25/2015\n204 Mar25/2015\n205 Mar25/2015\n206 Mar25/2015\n31-24-01 Config8\n501 Mar25/2015\nR 502 Sep25/2016\nR 503 Sep25/2016\nO 504 Sep25/2016\nO 505 Sep25/2016\nO 506 Sep25/2016\nO 507 Sep25/2016\nO 508 Sep25/2016\nO 509 Sep25/2016\nO 510 Sep25/2016\nO 511 Sep25/2016\nO 512 Sep25/2016\nO 513 Sep25/2016\nO 514 Sep25/2016\nO 515 Sep25/2016\nO 516 Sep25/2016\nO 517 Sep25/2016\nO 518 Sep25/2016\nO 519 Sep25/2016\nO 520 Sep25/2016\nO 521 Sep25/201631-24-01Config8(cont)\nO 522 Sep25/2016\nO 523 Sep25/2016\n\n\n---\n\n[Fonte: 35___084.PDF (score 0.0181)]\nCHAPTER\n35\nOXYGEN\nPJW\n35-EFFECTIVEPAGES\n1thru3 SEP25/2016\n4 BLANK\n35-CONTENTS\n1 Sep25/2015\n2 Mar25/2015\n3 Mar25/2015\n4 Mar25/2015\n5 Mar25/2015\n6 Mar25/2015\n7 Mar25/2015\n8 BLANK\n35-00-00\n1 Mar25/2015\n2 Mar25/2015\n3 Mar25/2015\n4 BLANK\n35-00-00\n201 Mar25/2015\n202 Mar25/2015\n203 Mar25/2015\n204 Mar25/2015\n205 Mar25/2015\n206 Mar25/2015\n207 Mar25/2015\n208 BLANK\n35-00-00\n301 Sep25/2015\n302 Sep25/2015\n35-00-00\nR 701 Sep25/2016\n702 Mar25/2015\n35-12-00\n1 Mar25/2015\n2 Mar25/2015\n3 Mar25/2015\n4 Mar25/201535-12-00 (cont)\n5 Mar25/2015\n6 Mar25/2015\n7 Mar25/2015\n8 Mar25/2015\n9 Mar25/2015\n10 Mar25/2015\n35-12-00\n101 Mar25/2015\n102 Mar25/2015\n103 Mar25/2015\n104 Mar25/2015\n105 Mar25/2015\n106 Mar25/2015\n107 Mar25/2015\n108 Mar25/2015\n109 Mar25/2015\n110 Mar25/2015\n35-12-00\n501 Sep25/2015\n502 Mar25/2016\n503 Mar25/2016\n504 Mar25/2016\n505 Mar25/2016\n506 Sep25/2015\n507 Sep25/2015\n508 Sep25/2015\n509 Sep25/2015\n510 BLANK\n35-12-00\n601 Mar25/2015\n602 Mar25/2015\n603 Mar25/2015\n604 Mar25/2015\n605 Mar25/2015\n606 Mar25/2015\n607 Mar25/201535-12-00 (cont)\n608 BLANK\n35-12-11\n401 Mar25/2015\n402 Mar25/2015\n403 Mar25/2015\n404 Mar25/2015\n405 Sep25/2015\n406 Mar25/2015\n407 Mar25/2015\n408 Mar25/2015\n409 Mar25/2015\n410 BLANK\n35",
+    "contexto_preview": "[Fonte: 73_C__084.PDF (score 0.0256)]\nCHAPTER\n73\nENGINEFUELAND\nCONTROL\n(CFM56ENGINES(CFM56-3))\nPJW\n73-EFFECTIVEPAGES\n1thru5 SEP25/2016\n6 BLANK\n73-CONTENTS\n1 Mar25/2015\n2 Mar25/2015\n3 Mar25/2015\n4 Mar25/2015\n5 Mar25/2015\n6 Mar25/2015\n73-00-00\n1 Mar25/2015\n2 BLANK\n73-00-00\n101 Mar25/2015\n102 BLANK\n73-00-00\n201 Mar25/2015\n202 Mar25/2015\n203 Mar25/2015\n204 Mar25/2015\n73-11-00\n1 Mar25/2015\n2 Mar25/2015\n3 Mar25/2015\n4 Mar25/2015\n5 Mar25/2015\n6 Mar25/2015\n7 Mar25/2015\n8 Mar25/2015\n9 Mar25/2015\n10 Mar25",
+    "resposta": "Resposta direta:\nOs sensores integrados ao MEC (Motor-Eixo de Controle) para controlar a velocidade do rotor N2 são os sensores de velocidade do rotor N2 (N2 Rotor Speed Sensor) e os sensores de pressão de óleo do rotor N2 (N2 Oil Pressure Sensor). Esses sensores medem a velocidade do rotor N2 e a pressão de óleo do rotor N2, respectivamente.\n\nDetalhes técnicos:\nDe acordo com o manual de manutenção da aeronave Boeing 737, o MEC é equipado com sensores de velocidade do rotor N2 (N2 Rotor Speed Sensor) e sensores de pressão de óleo do rotor N2 (N2 Oil Pressure Sensor). Esses sensores são integrados ao sistema de controle do MEC e fornecem informações em tempo real sobre a velocidade do rotor N2 e a pressão de óleo do rotor N2. A velocidade do rotor N2 é medida em rpm (revoluções por minuto) e a pressão de óleo do rotor N2 é medida em psi (libras por polegada quadrada). Essas informações são usadas pelo sistema de controle do MEC para ajustar a velocidade do rotor N2 e garantir que o motor esteja funcionando dentro dos parâmetros normais.\n\nReferência à fonte:\nConforme o manual de manutenção da aeronave Boeing 737, especificamente no capítulo 80 - Starting (CFM56 Engines (CFM56-3)), página 1, é mencionado que o MEC é equipado com sensores de velocidade do rotor N2 e sensores de pressão de óleo do rotor N2. Além disso, o manual de manutenção da aeronave Boeing",
+    "resposta_detalhada": "Resposta direta:\nOs sensores integrados ao MEC (Motor-Eixo de Controle) para controlar a velocidade do rotor N2 são os sensores de velocidade do rotor N2 (N2 Rotor Speed Sensor) e os sensores de pressão de óleo do rotor N2 (N2 Oil Pressure Sensor). Esses sensores medem a velocidade do rotor N2 e a pressão de óleo do rotor N2, respectivamente.\n\nDetalhes técnicos:\nDe acordo com o manual de manutenção da aeronave Boeing 737, o MEC é equipado com sensores de velocidade do rotor N2 (N2 Rotor Speed Sensor) e sensores de pressão de óleo do rotor N2 (N2 Oil Pressure Sensor). Esses sensores são integrados ao sistema de controle do MEC e fornecem informações em tempo real sobre a velocidade do rotor N2 e a pressão de óleo do rotor N2. A velocidade do rotor N2 é medida em rpm (revoluções por minuto) e a pressão de óleo do rotor N2 é medida em psi (libras por polegada quadrada). Essas informações são usadas pelo sistema de controle do MEC para ajustar a velocidade do rotor N2 e garantir que o motor esteja funcionando dentro dos parâmetros normais.\n\nReferência à fonte:\nConforme o manual de manutenção da aeronave Boeing 737, especificamente no capítulo 80 - Starting (CFM56 Engines (CFM56-3)), página 1, é mencionado que o MEC é equipado com sensores de velocidade do rotor N2 e sensores de pressão de óleo do rotor N2. Além disso, o manual de manutenção da aeronave Boeing",
+    "tempo_segundos": 10.332,
+    "metadados_llm": {
+      "status": "ok",
+      "tokens": {
+        "prompt_tokens": 3275,
+        "total_tokens": 3675,
+        "completion_tokens": 400,
+        "prompt_tokens_details": null
+      },
+      "finish_reason": "length"
+    },
+    "metricas": {
+      "precisao": 0.0492,
+      "completude": 0.8299,
+      "especificidade": 0.3333,
+      "rastreabilidade": 1.0,
+      "confianca": 1.0
+    },
+    "score_final": 53.89,
+    "tokens_estimados": 1090,
+    "ground_truth": "O MEC integra os seguintes sensores: ângulo do alavanca de potência (PLA), temperatura de entrada do compressor principal (T25), temperatura de entrada do ventilador (T2), pressão de entrada do ventilador (PS12) e velocidade do rotor N2.",
+    "ragas_metrics": {
+      "faithfulness": 1.0,
+      "answer_relevancy": 1.0,
+      "context_precision": 1.0,
+      "context_recall": 1.0,
+      "answer_correctness": 0.0,
+      "answer_similarity": 1.0,
+      "numeric_verified": false
+    },
+    "ragas_score": 0.7143,
+    "numeric_check": {
+      "gt_value": 25.0,
+      "answer_value": 2.0,
+      "gt_unit": null,
+      "answer_unit": "in",
+      "gt_comparison": "=",
+      "numeric_match": false,
+      "unit_match": true
+    }
+  },
+  {
+    "timestamp": "2026-09-19T06:04:05.960027",
+    "abordagem": "tfidf",
+    "pergunta": "Qual é o limite máximo de extensão/compressão do nariz da roda que deve ser respeitado durante o reboque para evitar danos internos?",
+    "documentos_recuperados": [
+      "11___084.PDF",
+      "71_C__084.PDF",
+      "49__B_084.PDF",
+      "32___084.PDF",
+      "33___084.PDF"
+    ],
+    "contexto_usado": "[Fonte: 11___084.PDF (score 0.0193)]\nCHAPTER\n11\nPLACARDSAND\nMARKINGS\nPJW\n11-EFFECTIVEPAGES\n1thru2 SEP25/2016\n11-CONTENTS\n1 Mar25/2015\n2 Mar25/2015\n11-00-00\n1 Mar25/2015\n2 BLANK\n11-11-01 Config2\n201 Mar25/2015\n202 Mar25/2015\n203 Mar25/2015\n204 Mar25/2015\n205 Mar25/2015\n206 BLANK\n11-11-03\n201 Mar25/2015\n202 Mar25/2015\n203 Mar25/2015\n204 Mar25/2015\n205 Mar25/2015\n206 Mar25/2015\n207 Mar25/2015\n208 Mar25/2015\n209 Mar25/2015\n210 Mar25/2015\n211 Mar25/2015\n212 Mar25/2015\n213 Mar25/2015\n214 Mar25/2015\n215 Mar25/2015\n216 Mar25/2015\n217 Mar25/2015\n218 Mar25/2015\n219 Mar25/2015\n220 Mar25/2015\n221 Mar25/201511-11-03 (cont)\n222 Mar25/2015\n223 Mar25/2015\n224 Mar25/2015\n225 Mar25/2015\n226 Mar25/2015\n227 Mar25/2015\n228 Mar25/2015\n229 Mar25/2015\n230 Mar25/2015\n231 Mar25/2015\n232 Mar25/2015\n233 Mar25/2015\n234 Mar25/2015\n235 Mar25/2015\n236 Mar25/2015\n237 Mar25/2015\n238 Mar25/2015\n239 Mar25/2015\n240 Mar25/2015\n241 Mar25/2015\n242 Mar25/2015\n243 Mar25/2015\n244 Mar25/2015\n245 Mar25/2015\n246 Mar25/2015\n247 Mar25/2015\n248 Mar25/2015\n249 Mar25/2015\n250 Mar25/2015\n251 Mar25/2015\n252 Mar25/2015\n253 Mar25/2015\n254 Mar25/2015\n255 Mar25/2015\n256 Mar25/201511-11-04 Config1\n201 Mar25/2015\n202 Mar25/2015\n203 Mar25/2015\n204 Mar25/2015\n205 Mar25/2015\n206\n\n---\n\n[Fonte: 71_C__084.PDF (score 0.0133)]\nCHAPTER\n71\nPOWERPLANT\n(CFM56ENGINES(CFM56-3))\nPJW\n71-EFFECTIVEPAGES\n1thru12 SEP25/2016\n71-CONTENTS\n1 Mar25/2015\n2 Mar25/2016\nO 3 Sep25/2016\nO 4 Sep25/2016\nO 5 Sep25/2016\nO 6 Sep25/2016\nO 7 Sep25/2016\nO 8 Sep25/2016\nO 9 Sep25/2016\nO 10 Sep25/2016\n71-00-00\n1 Mar25/2015\n2 Mar25/2015\n71-00-00\n201 Mar25/2015\n202 Mar25/2015\n203 Mar25/2015\n204 Mar25/2015\n205 Mar25/2015\n206 Mar25/2015\n207 Mar25/2015\n208 Mar25/2015\n209 Mar25/2015\n210 Mar25/2015\n211 Mar25/2015\n212 Mar25/2015\n213 Mar25/2015\n214 Mar25/2015\n215 Mar25/2015\n216 Mar25/2015\n217 Mar25/2015\n218 Mar25/2015\n219 Mar25/2015\n220 Mar25/201571-00-00 (cont)\n221 Mar25/2015\n222 Mar25/2015\n223 Mar25/2015\n224 Mar25/2015\n225 Mar25/2015\n226 Mar25/2015\n227 Mar25/2015\n228 Mar25/2015\n229 Mar25/2015\n230 Mar25/2015\n231 Mar25/2015\n232 Mar25/2015\n233 Mar25/2015\n234 Mar25/2015\n235 Mar25/2015\n236 Mar25/2015\n237 Mar25/2015\n238 Mar25/2015\n239 Mar25/2015\n240 Mar25/2015\n241 Mar25/2015\n242 Mar25/2015\n243 Mar25/2015\n244 Mar25/2015\n245 Mar25/2015\n246 Mar25/2015\n247 Mar25/2015\nR 248 Sep25/2016\n249 Mar25/2015\n250 Sep25/2015\n251 Mar25/2015\n252 Mar25/2015\n253 Mar25/2015\n254 Mar25/2015\n255 Mar25/2015\n256 Mar25/201571-00-00 (cont)\n257 Mar25/2015\n258 Mar25/2015\n259 Mar2\n\n---\n\n[Fonte: 49__B_084.PDF (score 0.0097)]\nCHAPTER\n49\nAUXILIARY\nPOWERUNIT\n(GTCP36-280ENGINES)\nPJW\n49-EFFECTIVEPAGES\n1thru9 SEP25/2016\n10 BLANK\n49-CONTENTS\n1 Mar25/2015\n2 Mar25/2015\n3 Mar25/2015\n4 Mar25/2015\n5 Mar25/2015\n6 Mar25/2015\n7 Mar25/2015\n8 Mar25/2015\n9 Mar25/2015\n10 Mar25/2015\n11 Mar25/2015\n12 Mar25/2015\n13 Mar25/2015\n14 Mar25/2015\n15 Mar25/2016\n16 Mar25/2015\n49-00-00\n1 Mar25/2015\n2 Mar25/2015\n3 Mar25/2015\n4 Mar25/2015\n5 Mar25/2015\n6 Mar25/2015\n7 Mar25/2015\n8 BLANK\n49-00-00 Config2\n101 Mar25/2015\n102 Mar25/2015\n103 Mar25/2015\n104 Mar25/2015\n105 Mar25/2015\n106 Mar25/2015\n107 Mar25/201549-00-00Config2(cont)\n108 Mar25/2015\n109 Mar25/2015\n110 Mar25/2015\n111 Mar25/2015\n112 Mar25/2015\n113 Mar25/2015\n114 Mar25/2015\n115 Mar25/2015\n116 Mar25/2015\n117 Mar25/2015\n118 Mar25/2015\n119 Mar25/2015\n120 Mar25/2015\n121 Mar25/2015\n122 Mar25/2015\n123 Mar25/2015\n124 Mar25/2015\n125 Mar25/2015\n126 Mar25/2015\n127 Mar25/2015\n128 Mar25/2015\n129 Mar25/2015\n130 Mar25/2015\n131 Mar25/2015\n132 Mar25/2015\n133 Mar25/2015\n134 Mar25/2015\n135 Mar25/2015\n136 Mar25/2015\n137 Mar25/2015\n138 Mar25/2015\n139 Mar25/2015\n140 Mar25/2015\n141 Mar25/2015\n142 Mar25/2015\n143 Mar25/201549-00-00Config2(cont)\n144 Mar25/2015\n145 Mar25/2015\n146 Mar25/2015\n147 Mar25/2015\n1\n\n---\n\n[Fonte: 32___084.PDF (score 0.0074)]\nCHAPTER\n32\nLANDINGGEAR\nPJW\n32-EFFECTIVEPAGES\n1thru16 SEP25/2016\n32-CONTENTS\n1 Mar25/2015\n2 Mar25/2015\n3 Mar25/2016\n4 Mar25/2016\n5 Mar25/2016\n6 Mar25/2016\n7 Mar25/2016\n8 Mar25/2016\n9 Mar25/2016\n10 Mar25/2016\n11 Mar25/2016\n12 Mar25/2016\n13 Mar25/2016\n14 Mar25/2015\n15 Mar25/2015\n16 Mar25/2015\n17 Mar25/2015\n18 Mar25/2015\n19 Mar25/2015\n20 Mar25/2015\n21 Mar25/2015\n22 Mar25/2015\n23 Mar25/2015\n24 Mar25/2015\n25 Mar25/2015\n26 Mar25/2015\n27 Mar25/2015\n28 Mar25/2015\n29 Sep25/2015\n30 Sep25/2015\n31 Mar25/2015\n32 Mar25/2015\n33 Mar25/2015\n34 Mar25/201532-CONTENTS (cont)\n35 Mar25/2015\n36 BLANK\n32-00-00\n1 Mar25/2015\n2 Mar25/2015\n3 Mar25/2015\n4 Mar25/2015\n5 Mar25/2015\n6 Mar25/2015\n7 Mar25/2015\n8 Mar25/2015\n32-00-01\n201 Mar25/2015\n202 Mar25/2015\n203 Mar25/2015\n204 Mar25/2015\n32-00-03\n601 Mar25/2015\n602 Mar25/2015\n603 Mar25/2015\n604 BLANK\n32-00-03\n701 Sep25/2015\n702 Mar25/2015\n32-00-03\n801 Mar25/2016\n802 Mar25/2015\n32-09-00\n1 Mar25/2015\n2 Mar25/2015\n3 Mar25/2015\n4 Mar25/2015\n5 Mar25/2015\n6 BLANK32-09-01\n401 Mar25/2015\n402 Mar25/2015\n403 Mar25/2015\n404 Mar25/2015\n405 Mar25/2015\nR 406 Sep25/2016\nR 407 Sep25/2016\n408 Mar25/2015\n32-09-01\n501 Mar25/2015\nR 502 Sep25/2016\nR 503 Sep25/2016\nR 504 Sep25/2016\nR 5\n\n---\n\n[Fonte: 33___084.PDF (score 0.0071)]\nCHAPTER\n33\nLIGHTS\nPJW\n33-EFFECTIVEPAGES\n1thru4 SEP25/2016\n33-CONTENTS\n1 Mar25/2015\n2 Mar25/2015\n3 Mar25/2016\n4 Mar25/2016\n5 Mar25/2016\n6 Mar25/2016\n7 Mar25/2015\n8 Sep25/2015\n9 Sep25/2015\n10 Sep25/2015\n11 Sep25/2015\n12 Sep25/2015\n33-00-00\n1 Mar25/2015\n2 BLANK\n33-11-00\n1 Mar25/2015\n2 Mar25/2015\n3 Mar25/2015\n4 Mar25/2015\n5 Mar25/2015\n6 BLANK\n33-11-00\n101 Mar25/2015\n102 Mar25/2015\n103 Mar25/2015\n104 BLANK\n33-11-00\n201 Mar25/2015\n202 Mar25/2015\n203 Mar25/2015\n204 Mar25/2015\n205 Mar25/2015\n206 Mar25/201533-11-00 (cont)\n207 Mar25/2015\n208 BLANK\n33-11-71\n401 Mar25/2015\n402 Mar25/2015\n403 Mar25/2015\n404 BLANK\n33-11-80\n201 Mar25/2015\n202 Mar25/2015\n203 Mar25/2015\n204 Mar25/2015\n205 Mar25/2015\n206 Mar25/2015\n33-11-81\n201 Mar25/2015\n202 Mar25/2015\n203 Mar25/2015\n204 BLANK\n33-11-82\n201 Mar25/2015\n202 Mar25/2015\n203 Mar25/2015\n204 Mar25/2015\n205 Mar25/2015\n206 Mar25/2015\n207 Mar25/2015\n208 BLANK\n33-11-90\n401 Mar25/2015\n402 Mar25/2015\n33-15-00\n1 Mar25/2015\n2 Mar25/2015\n3 Mar25/2015\n4 Mar25/201533-15-00 (cont)\n5 Mar25/2015\n6 BLANK\n33-15-00\n101 Mar25/2015\n102 Mar25/2015\n103 Mar25/2015\n104 BLANK\n33-15-00\n201 Mar25/2015\n202 Mar25/2015\n203 Mar25/2015\n204 BLANK\n33-15-00\n501 Mar25/2015\n502 Mar25/2015\n50",
+    "contexto_preview": "[Fonte: 11___084.PDF (score 0.0193)]\nCHAPTER\n11\nPLACARDSAND\nMARKINGS\nPJW\n11-EFFECTIVEPAGES\n1thru2 SEP25/2016\n11-CONTENTS\n1 Mar25/2015\n2 Mar25/2015\n11-00-00\n1 Mar25/2015\n2 BLANK\n11-11-01 Config2\n201 Mar25/2015\n202 Mar25/2015\n203 Mar25/2015\n204 Mar25/2015\n205 Mar25/2015\n206 BLANK\n11-11-03\n201 Mar25/2015\n202 Mar25/2015\n203 Mar25/2015\n204 Mar25/2015\n205 Mar25/2015\n206 Mar25/2015\n207 Mar25/2015\n208 Mar25/2015\n209 Mar25/2015\n210 Mar25/2015\n211 Mar25/2015\n212 Mar25/2015\n213 Mar25/2015\n214 Mar25/2015\n21",
+    "resposta": "Resposta direta:\nDe acordo com o capítulo 32 do manual de manutenção (AMM), o limite máximo de extensão/compressão do nariz da roda que deve ser respeitado durante o reboque para evitar danos internos é de 1,5 in (38,1 mm) de extensão ou compressão.\n\nDetalhes técnicos:\nO capítulo 32 do AMM aborda a manutenção e inspeção da roda de pouso principal. A seção 32-09-00 discute a inspeção da roda de pouso principal após o reboque, e a seção 32-09-01 aborda a inspeção da roda de pouso principal após o reboque com extensão ou compressão. De acordo com a seção 32-09-01, a extensão ou compressão do nariz da roda não deve exceder 1,5 in (38,1 mm) para evitar danos internos.\n\nReferência à fonte:\nFonte: Capítulo 32 do manual de manutenção (AMM), seção 32-09-01.",
+    "resposta_detalhada": "Resposta direta:\nDe acordo com o capítulo 32 do manual de manutenção (AMM), o limite máximo de extensão/compressão do nariz da roda que deve ser respeitado durante o reboque para evitar danos internos é de 1,5 in (38,1 mm) de extensão ou compressão.\n\nDetalhes técnicos:\nO capítulo 32 do AMM aborda a manutenção e inspeção da roda de pouso principal. A seção 32-09-00 discute a inspeção da roda de pouso principal após o reboque, e a seção 32-09-01 aborda a inspeção da roda de pouso principal após o reboque com extensão ou compressão. De acordo com a seção 32-09-01, a extensão ou compressão do nariz da roda não deve exceder 1,5 in (38,1 mm) para evitar danos internos.\n\nReferência à fonte:\nFonte: Capítulo 32 do manual de manutenção (AMM), seção 32-09-01.",
+    "tempo_segundos": 6.928,
+    "metadados_llm": {
+      "status": "ok",
+      "tokens": {
+        "prompt_tokens": 3307,
+        "total_tokens": 3563,
+        "completion_tokens": 256,
+        "prompt_tokens_details": null
+      },
+      "finish_reason": "stop"
+    },
+    "metricas": {
+      "precisao": 0.0312,
+      "completude": 0.8942,
+      "especificidade": 1.0,
+      "rastreabilidade": 1.0,
+      "confianca": 1.0
+    },
+    "score_final": 68.29,
+    "tokens_estimados": 974,
+    "ground_truth": "Não deve ser reboque com o nariz da roda totalmente comprimido ou estendido mais do que 23,5 polegadas do fundo do cilindro interno até o fundo da placa de direção.",
+    "ragas_metrics": {
+      "faithfulness": 1.0,
+      "answer_relevancy": 1.0,
+      "context_precision": 1.0,
+      "context_recall": 1.0,
+      "answer_correctness": 1.0,
+      "answer_similarity": 1.0,
+      "numeric_verified": true
+    },
+    "ragas_score": 1.0,
+    "numeric_check": {
+      "gt_value": 23.5,
+      "answer_value": 1.5,
+      "gt_unit": "in",
+      "answer_unit": "in",
+      "gt_comparison": "<=",
+      "numeric_match": true,
+      "unit_match": true
+    }
+  },
+  {
+    "timestamp": "2026-09-19T06:04:13.371000",
+    "abordagem": "tfidf",
+    "pergunta": "Onde está localizado o sub‑sistema de controle de temperatura do ar de escape em cada sistema de ar de escape do motor, e quais componentes o compõem?",
+    "documentos_recuperados": [
+      "11___084.PDF",
+      "77_C__084.PDF",
+      "25___084.PDF",
+      "78_C__084.PDF",
+      "70_C__084.PDF"
+    ],
+    "contexto_usado": "[Fonte: 11___084.PDF (score 0.0373)]\nCHAPTER\n11\nPLACARDSAND\nMARKINGS\nPJW\n11-EFFECTIVEPAGES\n1thru2 SEP25/2016\n11-CONTENTS\n1 Mar25/2015\n2 Mar25/2015\n11-00-00\n1 Mar25/2015\n2 BLANK\n11-11-01 Config2\n201 Mar25/2015\n202 Mar25/2015\n203 Mar25/2015\n204 Mar25/2015\n205 Mar25/2015\n206 BLANK\n11-11-03\n201 Mar25/2015\n202 Mar25/2015\n203 Mar25/2015\n204 Mar25/2015\n205 Mar25/2015\n206 Mar25/2015\n207 Mar25/2015\n208 Mar25/2015\n209 Mar25/2015\n210 Mar25/2015\n211 Mar25/2015\n212 Mar25/2015\n213 Mar25/2015\n214 Mar25/2015\n215 Mar25/2015\n216 Mar25/2015\n217 Mar25/2015\n218 Mar25/2015\n219 Mar25/2015\n220 Mar25/2015\n221 Mar25/201511-11-03 (cont)\n222 Mar25/2015\n223 Mar25/2015\n224 Mar25/2015\n225 Mar25/2015\n226 Mar25/2015\n227 Mar25/2015\n228 Mar25/2015\n229 Mar25/2015\n230 Mar25/2015\n231 Mar25/2015\n232 Mar25/2015\n233 Mar25/2015\n234 Mar25/2015\n235 Mar25/2015\n236 Mar25/2015\n237 Mar25/2015\n238 Mar25/2015\n239 Mar25/2015\n240 Mar25/2015\n241 Mar25/2015\n242 Mar25/2015\n243 Mar25/2015\n244 Mar25/2015\n245 Mar25/2015\n246 Mar25/2015\n247 Mar25/2015\n248 Mar25/2015\n249 Mar25/2015\n250 Mar25/2015\n251 Mar25/2015\n252 Mar25/2015\n253 Mar25/2015\n254 Mar25/2015\n255 Mar25/2015\n256 Mar25/201511-11-04 Config1\n201 Mar25/2015\n202 Mar25/2015\n203 Mar25/2015\n204 Mar25/2015\n205 Mar25/2015\n206\n\n---\n\n[Fonte: 77_C__084.PDF (score 0.0261)]\nCHAPTER\n77\nENGINE\nINDICATING\n(CFM56ENGINES(CFM56-3))\nPJW\n77-EFFECTIVEPAGES\n1thru4 SEP25/2016\n77-CONTENTS\n1 Mar25/2015\n2 Mar25/2015\n3 Mar25/2015\n4 Mar25/2015\nR 5 Sep25/2016\n6 Mar25/2015\n77-00-00\n1 Mar25/2015\n2 Mar25/2015\n77-00-00\n101 Mar25/2015\n102 BLANK\n77-12-00\n1 Mar25/2015\n2 Mar25/2015\n3 Mar25/2015\n4 Mar25/2015\n5 Mar25/2015\n6 Mar25/2015\n7 Mar25/2015\n8 Mar25/2015\n9 Mar25/2015\n10 Mar25/2015\n77-12-00\n501 Mar25/2015\n502 Mar25/2016\n503 Mar25/2015\n504 Mar25/2015\n505 Mar25/2015\n506 Mar25/2015\n507 Mar25/2015\n508 Mar25/2016\n509 Mar25/2015\n510 Mar25/201577-12-00 (cont)\n511 Mar25/2015\n512 BLANK\n77-12-01\n201 Mar25/2015\n202 Mar25/2015\n203 Sep25/2015\n204 Mar25/2015\n205 Mar25/2015\n206 BLANK\n77-21-00\n1 Mar25/2015\n2 Mar25/2015\n3 Mar25/2015\n4 Mar25/2015\n5 Mar25/2015\n6 Mar25/2015\n7 Mar25/2015\n8 Mar25/2015\n9 Mar25/2015\n10 Mar25/2015\n11 Mar25/2015\n12 Mar25/2015\n77-21-00\n501 Mar25/2015\n502 Mar25/2015\n503 Mar25/2016\n504 Mar25/2015\n505 Mar25/2015\n506 Mar25/2015\n507 Mar25/2015\n508 Mar25/2015\n509 Mar25/2015\n510 Mar25/2015\n511 Mar25/2015\n512 Mar25/2015\n513 Mar25/201577-21-00 (cont)\n514 Mar25/2015\n515 Mar25/2015\n516 Mar25/2015\n517 Mar25/2015\n518 Mar25/2015\n519 Mar25/2015\n520 Mar25/2015\n521 Mar25/2015\n522 Ma\n\n---\n\n[Fonte: 25___084.PDF (score 0.0243)]\nCHAPTER\n25\nEQUIPMENT/\nFURNISHINGS\nPJW\n25-EFFECTIVEPAGES\n1thru6 SEP25/2016\n25-CONTENTS\n1 Sep25/2015\n2 Mar25/2016\n3 Mar25/2015\n4 Mar25/2015\n5 Mar25/2016\nO 6 Sep25/2016\nO 7 Sep25/2016\n8 Mar25/2016\n9 Mar25/2016\n10 Mar25/2016\n11 Mar25/2016\n12 Sep25/2015\n13 Sep25/2015\n14 Sep25/2015\n15 Mar25/2016\n16 Sep25/2015\n25-00-00\n1 Mar25/2015\n2 BLANK\n25-01-12\n701 Mar25/2015\n702 Mar25/2016\n703 Mar25/2015\n704 Mar25/2015\n705 Mar25/2015\n706 Mar25/2015\n707 Mar25/2015\n708 Mar25/2015\n709 Mar25/2015\n710 Mar25/2015\n711 Mar25/2015\n712 Mar25/2015\n713 Mar25/2015\n714 Mar25/201525-01-12 (cont)\nR 715 Sep25/2016\n716 Mar25/2015\n717 Mar25/2015\n718 BLANK\n25-01-12\n801 Sep25/2015\n802 Sep25/2015\n803 Sep25/2015\n804 Sep25/2015\n805 Sep25/2015\n806 Sep25/2015\n807 Sep25/2015\n808 Sep25/2015\n809 Sep25/2015\n810 Sep25/2015\n811 Sep25/2015\n812 Sep25/2015\n813 Sep25/2015\n814 Sep25/2015\n815 Sep25/2015\n816 Sep25/2015\n817 Sep25/2015\n818 Sep25/2015\n819 Sep25/2015\n820 Sep25/2015\n821 Sep25/2015\n822 Sep25/2015\n823 Sep25/2015\n824 Sep25/2015\n825 Sep25/2015\n826 Mar25/2016\n827 Sep25/2015\n828 Sep25/2015\n829 Sep25/2015\n830 Sep25/2015\n831 Sep25/201525-01-12 (cont)\n832 Sep25/2015\n833 Sep25/2015\n834 Sep25/2015\n835 Sep25/2015\n836 Sep25/2015\n837 Sep25/\n\n---\n\n[Fonte: 78_C__084.PDF (score 0.0242)]\nCHAPTER\n78\nEXHAUST\n(CFM56ENGINES(CFM56-3))\nPJW\n78-EFFECTIVEPAGES\n1thru6 SEP25/2016\n78-CONTENTS\n1 Mar25/2015\n2 Mar25/2015\n3 Mar25/2016\nR 4 Sep25/2016\nR 5 Sep25/2016\nO 6 Sep25/2016\nO 7 Sep25/2016\nO 8 Sep25/2016\nO 9 Sep25/2016\nO 10 Sep25/2016\nO 11 Sep25/2016\nO 12 Sep25/2016\n78-00-00\n1 Mar25/2015\n2 Mar25/2015\n78-00-00\n901 Mar25/2015\n902 Mar25/2015\n903 Mar25/2015\n904 Mar25/2015\n905 Mar25/2015\n906 Mar25/2015\n907 Mar25/2015\n908 Mar25/2015\n909 Mar25/2015\n910 Mar25/2015\n911 Mar25/2015\n912 BLANK\n78-11-00\n1 Mar25/2015\n2 BLANK\n78-11-00\n601 Mar25/2015\n602 Mar25/201578-11-00 (cont)\n603 Mar25/2015\n604 Mar25/2015\n605 Mar25/2015\n606 Mar25/2015\n607 Mar25/2015\n608 Mar25/2015\n609 Mar25/2015\n610 Mar25/2015\n611 Mar25/2015\n612 Mar25/2015\n78-11-01\n401 Mar25/2016\n402 Mar25/2015\n403 Mar25/2015\n404 Mar25/2015\n405 Mar25/2016\n406 Mar25/2016\n78-11-02\n401 Mar25/2016\n402 Mar25/2015\n403 Mar25/2015\n404 Mar25/2015\n405 Mar25/2016\n406 Mar25/2015\n78-30-00\n1 Mar25/2015\n2 BLANK\n78-31-00\n1 Mar25/2015\n2 Mar25/2015\n3 Mar25/2015\n4 Mar25/2015\n5 Mar25/2015\n6 Mar25/2015\n7 Mar25/2015\n8 Mar25/201578-31-00 (cont)\n9 Mar25/2015\n10 BLANK\n78-31-00\n101 Mar25/2015\n102 BLANK\n78-31-00\n201 Mar25/2015\n202 Mar25/2015\n203 Mar25/2015\n204 Mar25\n\n---\n\n[Fonte: 70_C__084.PDF (score 0.0204)]\nCHAPTER\n70\nSTANDARD\nPRACTICES\n(CFM56ENGINES(CFM56-3))\nPJW\n70-EFFECTIVEPAGES\n1thru2 SEP25/2016\n70-CONTENTS\n1 Mar25/2015\n2 Mar25/2015\n70-00-01\n201 Mar25/2015\n202 Mar25/2015\n203 Mar25/2015\n204 Mar25/2015\n205 Mar25/2015\n206 Mar25/2015\n207 Mar25/2015\n208 Mar25/2015\n209 Mar25/2015\n210 BLANK\n70-10-01\n201 Mar25/2015\n202 Mar25/2015\n203 Mar25/2015\n204 Mar25/2015\n205 Mar25/2015\n206 Mar25/2015\n207 Mar25/2015\n208 Mar25/2015\n209 Mar25/2015\n210 Mar25/2015\n211 Mar25/2015\n212 Mar25/2015\n213 Mar25/2015\n214 Mar25/2015\n215 Mar25/2015\n216 Mar25/2015\n217 Mar25/2015\n218 Mar25/201570-10-02\n201 Mar25/2015\n202 Mar25/2015\n70-10-03\n201 Mar25/2015\n202 Mar25/2015\n70-10-05\n201 Mar25/2015\n202 Mar25/2015\n203 Mar25/2015\n204 BLANK\n70-20-01\n201 Mar25/2016\n202 Mar25/2015\n203 Mar25/2015\n204 Mar25/2015\n205 Mar25/2015\n206 Mar25/2015\n207 Mar25/2015\n208 Mar25/2015\n209 Mar25/2015\n210 Mar25/2015\n211 Mar25/2015\n212 Mar25/2015\n213 Mar25/2015\n214 Mar25/2015\n215 Mar25/2015\n216 Mar25/2015\n217 Mar25/2015\n218 Mar25/2015\n70-20-02\n201 Mar25/2015\n202 Mar25/2015\n203 Mar25/2015\n204 Mar25/2015\n205 Mar25/2015\n206 Mar25/201570-20-02 (cont)\n207 Mar25/2015\n208 Mar25/2015\n209 Mar25/2015\n210 Mar25/2015\n211 Mar25/2015\n212 Mar25/2015\n213 Mar25/2",
+    "contexto_preview": "[Fonte: 11___084.PDF (score 0.0373)]\nCHAPTER\n11\nPLACARDSAND\nMARKINGS\nPJW\n11-EFFECTIVEPAGES\n1thru2 SEP25/2016\n11-CONTENTS\n1 Mar25/2015\n2 Mar25/2015\n11-00-00\n1 Mar25/2015\n2 BLANK\n11-11-01 Config2\n201 Mar25/2015\n202 Mar25/2015\n203 Mar25/2015\n204 Mar25/2015\n205 Mar25/2015\n206 BLANK\n11-11-03\n201 Mar25/2015\n202 Mar25/2015\n203 Mar25/2015\n204 Mar25/2015\n205 Mar25/2015\n206 Mar25/2015\n207 Mar25/2015\n208 Mar25/2015\n209 Mar25/2015\n210 Mar25/2015\n211 Mar25/2015\n212 Mar25/2015\n213 Mar25/2015\n214 Mar25/2015\n21",
+    "resposta": "De acordo com o manual de manutenção da aeronave Boeing 737, o sub-sistema de controle de temperatura do ar de escape está localizado em cada sistema de ar de escape do motor.\n\nNo sistema de ar de escape do motor, o sub-sistema de controle de temperatura do ar de escape é composto por vários componentes, incluindo:\n\n- O sensor de temperatura do ar de escape (TAT)\n- O controlador de temperatura do ar de escape (TAT controller)\n- O regulador de temperatura do ar de escape (TAT regulator)\n- O válvula de controle de temperatura do ar de escape (TAT valve)\n\nEsses componentes trabalham juntos para controlar a temperatura do ar de escape e garantir que ela esteja dentro dos limites seguros para o motor.\n\nNo manual de manutenção da aeronave Boeing 737, o localização desses componentes é descrita no capítulo 78, \"Exaustão (CFM56-3)\".\n\nReferência: \n- Capítulo 78, \"Exaustão (CFM56-3)\", manual de manutenção da aeronave Boeing 737.\n- Página 78-11-00, \"Sub-sistema de controle de temperatura do ar de escape\".\n- Página 78-11-01, \"Componentes do sub-sistema de controle de temperatura do ar de escape\".",
+    "resposta_detalhada": "De acordo com o manual de manutenção da aeronave Boeing 737, o sub-sistema de controle de temperatura do ar de escape está localizado em cada sistema de ar de escape do motor.\n\nNo sistema de ar de escape do motor, o sub-sistema de controle de temperatura do ar de escape é composto por vários componentes, incluindo:\n\n- O sensor de temperatura do ar de escape (TAT)\n- O controlador de temperatura do ar de escape (TAT controller)\n- O regulador de temperatura do ar de escape (TAT regulator)\n- O válvula de controle de temperatura do ar de escape (TAT valve)\n\nEsses componentes trabalham juntos para controlar a temperatura do ar de escape e garantir que ela esteja dentro dos limites seguros para o motor.\n\nNo manual de manutenção da aeronave Boeing 737, o localização desses componentes é descrita no capítulo 78, \"Exaustão (CFM56-3)\".\n\nReferência: \n- Capítulo 78, \"Exaustão (CFM56-3)\", manual de manutenção da aeronave Boeing 737.\n- Página 78-11-00, \"Sub-sistema de controle de temperatura do ar de escape\".\n- Página 78-11-01, \"Componentes do sub-sistema de controle de temperatura do ar de escape\".",
+    "tempo_segundos": 7.4,
+    "metadados_llm": {
+      "status": "ok",
+      "tokens": {
+        "prompt_tokens": 3295,
+        "total_tokens": 3593,
+        "completion_tokens": 298,
+        "prompt_tokens_details": null
+      },
+      "finish_reason": "stop"
+    },
+    "metricas": {
+      "precisao": 0.0238,
+      "completude": 0.7834,
+      "especificidade": 0.6667,
+      "rastreabilidade": 1.0,
+      "confianca": 1.0
+    },
+    "score_final": 58.63,
+    "tokens_estimados": 1017,
+    "ground_truth": "O sub‑sistema de controle de temperatura do ar de escape está localizado dentro do sistema de ar de escape de cada motor e é composto pelo precooler, pelo válvula de controle do precooler e pelo sensor da válvula de controle do precooler.",
+    "ragas_metrics": {
+      "faithfulness": 1.0,
+      "answer_relevancy": 1.0,
+      "context_precision": 1.0,
+      "context_recall": 1.0,
+      "answer_correctness": 1.0,
+      "answer_similarity": 1.0
+    },
+    "ragas_score": 1.0,
+    "numeric_check": {
+      "gt_value": null,
+      "answer_value": 737.0,
+      "gt_unit": null,
+      "answer_unit": null,
+      "gt_comparison": "=",
+      "numeric_match": null,
+      "unit_match": null
+    }
+  },
+  {
+    "timestamp": "2026-09-19T06:04:22.508819",
+    "abordagem": "tfidf",
+    "pergunta": "Onde está localizado o sistema anti‑icing de água e descarga de vaso sanitário e qual é o princípio de funcionamento?",
+    "documentos_recuperados": [
+      "30___084.PDF",
+      "36___084.PDF",
+      "78_C__084.PDF",
+      "11___084.PDF",
+      "49__B_084.PDF"
+    ],
+    "contexto_usado": "[Fonte: 30___084.PDF (score 0.0310)]\nCHAPTER\n30\nICEANDRAIN\nPROTECTION\nPJW\n30-EFFECTIVEPAGES\n1thru4 SEP25/2016\n30-CONTENTS\n1 Mar25/2015\n2 Mar25/2015\n3 Mar25/2015\n4 Sep25/2015\n5 Sep25/2015\n6 Sep25/2015\n7 Sep25/2015\n8 Sep25/2015\n30-00-00\n1 Mar25/2015\n2 Mar25/2015\n3 Mar25/2015\n4 BLANK\n30-09-11\n401 Mar25/2015\n402 Mar25/2015\n403 Mar25/2015\n404 Mar25/2015\n30-11-00\n1 Mar25/2015\n2 Mar25/2015\n3 Mar25/2015\n4 Mar25/2015\n5 Mar25/2015\n6 Mar25/2015\n30-11-00\n101 Mar25/2015\n102 Mar25/2015\n103 Mar25/2015\n104 Mar25/2015\n30-11-00\n201 Mar25/2015\n202 Mar25/2015\n203 Mar25/201530-11-00 (cont)\n204 Mar25/2015\n30-11-00\n501 Mar25/2015\n502 Mar25/2015\n503 Mar25/2016\n504 Mar25/2015\n505 Mar25/2015\n506 Mar25/2015\n507 Mar25/2015\n508 Mar25/2015\n509 Mar25/2015\n510 Mar25/2015\n511 Mar25/2015\n512 BLANK\n30-11-11\n401 Mar25/2015\n402 Mar25/2015\n403 Mar25/2015\n404 Mar25/2015\n405 Mar25/2015\n406 BLANK\n30-11-11\n501 Mar25/2015\n502 Mar25/2015\n30-11-13\n401 Mar25/2015\n402 Mar25/2015\n403 Mar25/2015\n404 Mar25/2015\n405 Mar25/2015\n406 BLANK\n30-11-21\n401 Mar25/2015\n402 Mar25/2015\n403 Mar25/2015\n404 Mar25/201530-11-21 (cont)\n405 Mar25/2015\n406 BLANK\n30-11-31\n401 Mar25/2015\n402 Mar25/2015\n403 Mar25/2015\n404 Mar25/2015\n405 Mar25/2015\n406 Mar25/2015\n407 Mar25/2015\n408 Mar25/20\n\n---\n\n[Fonte: 36___084.PDF (score 0.0191)]\nCHAPTER\n36\nPNEUMATIC\nPJW\n36-EFFECTIVEPAGES\n1thru5 SEP25/2016\n6 BLANK\n36-CONTENTS\n1 Mar25/2015\n2 Mar25/2016\n3 Mar25/2015\n4 Mar25/2015\n5 Mar25/2015\n6 Mar25/2016\n7 Mar25/2016\n8 BLANK\n36-05-00\n1 Mar25/2015\n2 Mar25/2015\n3 Mar25/2015\n4 Mar25/2015\n5 Mar25/2015\n6 Mar25/2015\n7 Mar25/2015\n8 BLANK\n36-05-00\n201 Mar25/2015\n202 Mar25/2015\n203 Mar25/2015\n204 Mar25/2015\n205 Mar25/2015\n206 Mar25/2015\n207 Mar25/2015\n208 Mar25/2015\n209 Mar25/2015\n210 Mar25/2015\n211 Mar25/2015\n212 BLANK\n36-11-05\n1 Mar25/2015\n2 Mar25/201536-11-05 (cont)\n3 Mar25/2015\n4 Mar25/2015\n5 Mar25/2015\n6 Mar25/2015\n7 Mar25/2015\n8 Mar25/2015\n9 Mar25/2015\n10 Mar25/2015\n11 Mar25/2015\n12 Mar25/2015\n13 Mar25/2015\n14 Mar25/2015\n15 Mar25/2015\n16 Mar25/2015\n17 Mar25/2015\n18 Mar25/2015\n19 Mar25/2015\n20 Mar25/2015\n21 Mar25/2015\n22 Mar25/2015\n23 Mar25/2015\n24 Mar25/2015\n25 Mar25/2015\n26 Mar25/2015\n27 Mar25/2015\n28 Mar25/2015\n29 Mar25/2015\n30 Mar25/2015\n36-11-05\n101 Mar25/2015\n102 Sep25/2015\n103 Mar25/2015\n104 Mar25/2015\n105 Sep25/2015\n106 Sep25/2015\n107 Sep25/201536-11-05 (cont)\n108 Mar25/2015\n109 Mar25/2015\n110 Sep25/2015\n111 Sep25/2015\n112 Sep25/2015\n113 Mar25/2015\n114 Mar25/2015\n115 Mar25/2015\n116 Mar25/2015\n117 Mar25/2015\n118 Mar25/2015\n\n---\n\n[Fonte: 78_C__084.PDF (score 0.0162)]\nCHAPTER\n78\nEXHAUST\n(CFM56ENGINES(CFM56-3))\nPJW\n78-EFFECTIVEPAGES\n1thru6 SEP25/2016\n78-CONTENTS\n1 Mar25/2015\n2 Mar25/2015\n3 Mar25/2016\nR 4 Sep25/2016\nR 5 Sep25/2016\nO 6 Sep25/2016\nO 7 Sep25/2016\nO 8 Sep25/2016\nO 9 Sep25/2016\nO 10 Sep25/2016\nO 11 Sep25/2016\nO 12 Sep25/2016\n78-00-00\n1 Mar25/2015\n2 Mar25/2015\n78-00-00\n901 Mar25/2015\n902 Mar25/2015\n903 Mar25/2015\n904 Mar25/2015\n905 Mar25/2015\n906 Mar25/2015\n907 Mar25/2015\n908 Mar25/2015\n909 Mar25/2015\n910 Mar25/2015\n911 Mar25/2015\n912 BLANK\n78-11-00\n1 Mar25/2015\n2 BLANK\n78-11-00\n601 Mar25/2015\n602 Mar25/201578-11-00 (cont)\n603 Mar25/2015\n604 Mar25/2015\n605 Mar25/2015\n606 Mar25/2015\n607 Mar25/2015\n608 Mar25/2015\n609 Mar25/2015\n610 Mar25/2015\n611 Mar25/2015\n612 Mar25/2015\n78-11-01\n401 Mar25/2016\n402 Mar25/2015\n403 Mar25/2015\n404 Mar25/2015\n405 Mar25/2016\n406 Mar25/2016\n78-11-02\n401 Mar25/2016\n402 Mar25/2015\n403 Mar25/2015\n404 Mar25/2015\n405 Mar25/2016\n406 Mar25/2015\n78-30-00\n1 Mar25/2015\n2 BLANK\n78-31-00\n1 Mar25/2015\n2 Mar25/2015\n3 Mar25/2015\n4 Mar25/2015\n5 Mar25/2015\n6 Mar25/2015\n7 Mar25/2015\n8 Mar25/201578-31-00 (cont)\n9 Mar25/2015\n10 BLANK\n78-31-00\n101 Mar25/2015\n102 BLANK\n78-31-00\n201 Mar25/2015\n202 Mar25/2015\n203 Mar25/2015\n204 Mar25\n\n---\n\n[Fonte: 11___084.PDF (score 0.0156)]\nCHAPTER\n11\nPLACARDSAND\nMARKINGS\nPJW\n11-EFFECTIVEPAGES\n1thru2 SEP25/2016\n11-CONTENTS\n1 Mar25/2015\n2 Mar25/2015\n11-00-00\n1 Mar25/2015\n2 BLANK\n11-11-01 Config2\n201 Mar25/2015\n202 Mar25/2015\n203 Mar25/2015\n204 Mar25/2015\n205 Mar25/2015\n206 BLANK\n11-11-03\n201 Mar25/2015\n202 Mar25/2015\n203 Mar25/2015\n204 Mar25/2015\n205 Mar25/2015\n206 Mar25/2015\n207 Mar25/2015\n208 Mar25/2015\n209 Mar25/2015\n210 Mar25/2015\n211 Mar25/2015\n212 Mar25/2015\n213 Mar25/2015\n214 Mar25/2015\n215 Mar25/2015\n216 Mar25/2015\n217 Mar25/2015\n218 Mar25/2015\n219 Mar25/2015\n220 Mar25/2015\n221 Mar25/201511-11-03 (cont)\n222 Mar25/2015\n223 Mar25/2015\n224 Mar25/2015\n225 Mar25/2015\n226 Mar25/2015\n227 Mar25/2015\n228 Mar25/2015\n229 Mar25/2015\n230 Mar25/2015\n231 Mar25/2015\n232 Mar25/2015\n233 Mar25/2015\n234 Mar25/2015\n235 Mar25/2015\n236 Mar25/2015\n237 Mar25/2015\n238 Mar25/2015\n239 Mar25/2015\n240 Mar25/2015\n241 Mar25/2015\n242 Mar25/2015\n243 Mar25/2015\n244 Mar25/2015\n245 Mar25/2015\n246 Mar25/2015\n247 Mar25/2015\n248 Mar25/2015\n249 Mar25/2015\n250 Mar25/2015\n251 Mar25/2015\n252 Mar25/2015\n253 Mar25/2015\n254 Mar25/2015\n255 Mar25/2015\n256 Mar25/201511-11-04 Config1\n201 Mar25/2015\n202 Mar25/2015\n203 Mar25/2015\n204 Mar25/2015\n205 Mar25/2015\n206\n\n---\n\n[Fonte: 49__B_084.PDF (score 0.0148)]\nCHAPTER\n49\nAUXILIARY\nPOWERUNIT\n(GTCP36-280ENGINES)\nPJW\n49-EFFECTIVEPAGES\n1thru9 SEP25/2016\n10 BLANK\n49-CONTENTS\n1 Mar25/2015\n2 Mar25/2015\n3 Mar25/2015\n4 Mar25/2015\n5 Mar25/2015\n6 Mar25/2015\n7 Mar25/2015\n8 Mar25/2015\n9 Mar25/2015\n10 Mar25/2015\n11 Mar25/2015\n12 Mar25/2015\n13 Mar25/2015\n14 Mar25/2015\n15 Mar25/2016\n16 Mar25/2015\n49-00-00\n1 Mar25/2015\n2 Mar25/2015\n3 Mar25/2015\n4 Mar25/2015\n5 Mar25/2015\n6 Mar25/2015\n7 Mar25/2015\n8 BLANK\n49-00-00 Config2\n101 Mar25/2015\n102 Mar25/2015\n103 Mar25/2015\n104 Mar25/2015\n105 Mar25/2015\n106 Mar25/2015\n107 Mar25/201549-00-00Config2(cont)\n108 Mar25/2015\n109 Mar25/2015\n110 Mar25/2015\n111 Mar25/2015\n112 Mar25/2015\n113 Mar25/2015\n114 Mar25/2015\n115 Mar25/2015\n116 Mar25/2015\n117 Mar25/2015\n118 Mar25/2015\n119 Mar25/2015\n120 Mar25/2015\n121 Mar25/2015\n122 Mar25/2015\n123 Mar25/2015\n124 Mar25/2015\n125 Mar25/2015\n126 Mar25/2015\n127 Mar25/2015\n128 Mar25/2015\n129 Mar25/2015\n130 Mar25/2015\n131 Mar25/2015\n132 Mar25/2015\n133 Mar25/2015\n134 Mar25/2015\n135 Mar25/2015\n136 Mar25/2015\n137 Mar25/2015\n138 Mar25/2015\n139 Mar25/2015\n140 Mar25/2015\n141 Mar25/2015\n142 Mar25/2015\n143 Mar25/201549-00-00Config2(cont)\n144 Mar25/2015\n145 Mar25/2015\n146 Mar25/2015\n147 Mar25/2015\n1",
+    "contexto_preview": "[Fonte: 30___084.PDF (score 0.0310)]\nCHAPTER\n30\nICEANDRAIN\nPROTECTION\nPJW\n30-EFFECTIVEPAGES\n1thru4 SEP25/2016\n30-CONTENTS\n1 Mar25/2015\n2 Mar25/2015\n3 Mar25/2015\n4 Sep25/2015\n5 Sep25/2015\n6 Sep25/2015\n7 Sep25/2015\n8 Sep25/2015\n30-00-00\n1 Mar25/2015\n2 Mar25/2015\n3 Mar25/2015\n4 BLANK\n30-09-11\n401 Mar25/2015\n402 Mar25/2015\n403 Mar25/2015\n404 Mar25/2015\n30-11-00\n1 Mar25/2015\n2 Mar25/2015\n3 Mar25/2015\n4 Mar25/2015\n5 Mar25/2015\n6 Mar25/2015\n30-11-00\n101 Mar25/2015\n102 Mar25/2015\n103 Mar25/2015\n104 Mar2",
+    "resposta": "Resposta direta:\nO sistema anti-icing de água e descarga de vaso sanitário está localizado no sistema de proteção contra gelo e chuva da aeronave Boeing 737. De acordo com o manual de manutenção da aeronave, o sistema anti-icing de água e descarga de vaso sanitário é responsável por remover a água e o gelo que se acumulam nos sistemas de descarga de vaso sanitário e nos canos de água da aeronave.\n\nDetalhes técnicos:\nO sistema anti-icing de água e descarga de vaso sanitário é composto por uma série de componentes, incluindo válvulas, tubos e sensores. O sistema é alimentado por um sistema de pressurização de ar, que fornece a pressão necessária para remover a água e o gelo dos sistemas de descarga de vaso sanitário e dos canos de água. O sistema também inclui um sistema de controle eletrônico, que monitora a temperatura e a pressão dos sistemas e ajusta a pressão de acordo com as necessidades.\n\nReferência à fonte:\nDe acordo com o manual de manutenção da aeronave Boeing 737, o sistema anti-icing de água e descarga de vaso sanitário é descrito no capítulo 30, seção 11, subseção 11, página 11-11-11, item 401. Além disso, o manual também fornece informações sobre a manutenção e o reparo do sistema, incluindo a substituição de componentes e a verificação da pressão e da temperatura dos sistemas.",
+    "resposta_detalhada": "Resposta direta:\nO sistema anti-icing de água e descarga de vaso sanitário está localizado no sistema de proteção contra gelo e chuva da aeronave Boeing 737. De acordo com o manual de manutenção da aeronave, o sistema anti-icing de água e descarga de vaso sanitário é responsável por remover a água e o gelo que se acumulam nos sistemas de descarga de vaso sanitário e nos canos de água da aeronave.\n\nDetalhes técnicos:\nO sistema anti-icing de água e descarga de vaso sanitário é composto por uma série de componentes, incluindo válvulas, tubos e sensores. O sistema é alimentado por um sistema de pressurização de ar, que fornece a pressão necessária para remover a água e o gelo dos sistemas de descarga de vaso sanitário e dos canos de água. O sistema também inclui um sistema de controle eletrônico, que monitora a temperatura e a pressão dos sistemas e ajusta a pressão de acordo com as necessidades.\n\nReferência à fonte:\nDe acordo com o manual de manutenção da aeronave Boeing 737, o sistema anti-icing de água e descarga de vaso sanitário é descrito no capítulo 30, seção 11, subseção 11, página 11-11-11, item 401. Além disso, o manual também fornece informações sobre a manutenção e o reparo do sistema, incluindo a substituição de componentes e a verificação da pressão e da temperatura dos sistemas.",
+    "tempo_segundos": 9.126,
+    "metadados_llm": {
+      "status": "ok",
+      "tokens": {
+        "prompt_tokens": 3312,
+        "total_tokens": 3675,
+        "completion_tokens": 363,
+        "prompt_tokens_details": null
+      },
+      "finish_reason": "stop"
+    },
+    "metricas": {
+      "precisao": 0.0159,
+      "completude": 0.7525,
+      "especificidade": 1.0,
+      "rastreabilidade": 1.0,
+      "confianca": 1.0
+    },
+    "score_final": 64.29,
+    "tokens_estimados": 1064,
+    "ground_truth": "Conectores de descarga de vaso sanitário dianteiro e traseiro, com elementos de resistência elétrica integrados no selante do conector, controlados diretamente pelos disjuntores de circuito e aquecidos sempre que a aeronave tem energia elétrica.",
+    "ragas_metrics": {
+      "faithfulness": 1.0,
+      "answer_relevancy": 1.0,
+      "context_precision": 1.0,
+      "context_recall": 1.0,
+      "answer_correctness": 1.0,
+      "answer_similarity": 1.0
+    },
+    "ragas_score": 1.0,
+    "numeric_check": {
+      "gt_value": null,
+      "answer_value": 737.0,
+      "gt_unit": null,
+      "answer_unit": null,
+      "gt_comparison": "=",
+      "numeric_match": null,
+      "unit_match": null
+    }
+  },
+  {
+    "timestamp": "2026-09-19T06:04:29.574632",
+    "abordagem": "tfidf",
+    "pergunta": "Qual é a altura do plano de referência do corpo (body reference plane) acima do solo no ponto do eixo principal de sustentação (main gear) e qual é a altura acima desse plano para a seção de altura constante?",
+    "documentos_recuperados": [
+      "06___084.PDF",
+      "07___084.PDF",
+      "09___084.PDF",
+      "10___084.PDF",
+      "12___084.PDF"
+    ],
+    "contexto_usado": "[Fonte: 06___084.PDF (score 0.0551)]\nCHAPTER\n06\nDIMENSIONSAND\nAREAS\nPJW\n06-EFFECTIVEPAGES\n1 SEP25/2016\n2 BLANK\n06-CONTENTS\n1 Mar25/2015\n2 BLANK\n06-00-01\n201 Mar25/2015\n202 Mar25/2015\n203 Mar25/2015\n204 Mar25/2015\n205 Mar25/2015\n206 BLANK\n06-13-00\n201 Mar25/2015\n202 Mar25/2015\n203 Mar25/2015\n204 Mar25/2015\n06-25-00\n201 Mar25/2015\n202 Mar25/2015\n203 Mar25/2015\n204 BLANK\n06-32-00\n201 Mar25/2015\n202 Mar25/2015\n06-42-00\n201 Mar25/2015\n202 Mar25/2015\n06-52-00\n201 Mar25/2015\n202 Mar25/2015\n06-62-00\n201 Mar25/2015\n202 Mar25/2015Subject/Page Date COC Subject/Page Date COC Subject/Page Date COC737-300/400/500\nAIRCRAFTMAINTENANCEMANUAL\nCHAPTER06\nDIMENSIONSANDAREAS\n06-EFFECTIVEPAGES\nPage1\nD6-37569 Sep25/2016\nBOEINGPROPRIETARY-Copyright©UnpublishedWork-Seetitlepagefordetails\nPJWA=Added,R=Revised,D=Deleted,O=Overflow,C=CustomerOriginatedChange\nSUBJECTCHAPTER\nSECTION\nSUBJECT CONF PAGE EFFECT\nDIMENSIONSANDAREAS-MAINTENANCE\nPRACTICES06-00-01 201 RAMALL\nReferencePlanesandLines\nTASK 06-00-01-222-001201 RAMALL\nPRINCIPALDIMENSIONSANDAREAS-\nMAINTENANCEPRACTICES06-13-00 201 RAMALL\nPrincipalDimensionsandAreas\nTASK 06-13-00-222-001201 RAMALL\nBODYSTATIONDIAGRAM-MAINTENANCE\nPRACTICES06-25-00 201 RAMALL\nBodyStationDiagram\nTASK 06-25-00-202-00320\n\n---\n\n[Fonte: 07___084.PDF (score 0.0498)]\nCHAPTER\n07\nLIFTINGAND\nSHORING\nPJW\n07-EFFECTIVEPAGES\n1 SEP25/2016\n2 BLANK\n07-CONTENTS\n1 Mar25/2015\n2 Mar25/2015\n07-10-00\n1 Mar25/2015\n2 BLANK\n07-11-00\n1 Mar25/2015\n2 BLANK\n07-11-11\n201 Mar25/2015\n202 Mar25/2015\n203 Mar25/2015\n204 Mar25/2015\n205 Mar25/2015\n206 Mar25/2015\n207 Mar25/2015\n208 Mar25/2015\n209 Mar25/2015\n210 Mar25/2015\n211 Mar25/2015\n212 Mar25/2015\n213 Mar25/2015\n214 Mar25/2015\n215 Sep25/2015\n216 Mar25/2015\n07-11-21\n201 Mar25/2015\n202 Mar25/2015\n203 Mar25/2015\n204 Mar25/2015\n07-11-31\n201 Mar25/2015\nR 202 Sep25/201607-11-31 (cont)\n203 Mar25/2016\nR 204 Sep25/2016\n205 Mar25/2016\n206 Mar25/2016\n07-11-41\n201 Mar25/2015\n202 BLANK\n07-12-00\n201 Mar25/2015\n202 BLANK\n07-13-00\n201 Mar25/2015\n202 Mar25/2015\n203 Mar25/2015\n204 Mar25/2015\n205 Mar25/2015\n206 Mar25/2015\n207 Mar25/2015\n208 Mar25/2015\n209 Mar25/2015\n210 Mar25/2015\n211 Mar25/2015\n212 Mar25/2015\n213 Mar25/2015\n214 Mar25/2015\n215 Mar25/2015\n216 Mar25/2015\n217 Mar25/2015\n218 Mar25/2015\n219 Mar25/2015\n220 Mar25/2015\n221 Mar25/2015\n222 BLANK\n07-20-00\n201 Mar25/2015\n202 BLANKSubject/Page Date COC Subject/Page Date COC Subject/Page Date COC737-300/400/500\nAIRCRAFTMAINTENANCEMANUAL\nCHAPTER07\nLIFTINGANDSHORING\n07-EFFECTIVEPAGES\nPage1\n\n---\n\n[Fonte: 09___084.PDF (score 0.0353)]\nCHAPTER\n09\nTOWINGAND\nTAXIING\nPJW\n09-EFFECTIVEPAGES\n1 SEP25/2016\n2 BLANK\n09-CONTENTS\n1 Mar25/2015\n2 BLANK\n09-10-00\n201 Mar25/2015\n202 Mar25/2016\nR 203 Sep25/2016\n204 Mar25/2015\n205 Mar25/2015\n206 Mar25/2015\n207 Mar25/2015\n208 Mar25/2015\n209 Mar25/2015\n210 Mar25/2015\n211 Mar25/2015\n212 Mar25/2015\n213 Mar25/2015\n214 Mar25/2015\n215 Mar25/2015\n216 Mar25/2015\n217 Mar25/2015\n218 BLANK\n09-11-00\nR 201 Sep25/2016\n202 Mar25/2015\n09-20-00\n201 Mar25/2015\n202 Mar25/2015\n203 Mar25/2015\n204 Mar25/2015\n205 Mar25/2015\n206 Mar25/2015\n207 Mar25/2015\n208 Mar25/201509-20-00 (cont)\n209 Mar25/2015\n210 Mar25/2015\n211 Mar25/2015\n212 Mar25/2015\n213 Mar25/2015\n214 Mar25/2015\n215 Mar25/2015\n216 Mar25/2015Subject/Page Date COC Subject/Page Date COC Subject/Page Date COC737-300/400/500\nAIRCRAFTMAINTENANCEMANUAL\nCHAPTER09\nTOWINGANDTAXIING\n09-EFFECTIVEPAGES\nPage1\nD6-37569 Sep25/2016\nBOEINGPROPRIETARY-Copyright©UnpublishedWork-Seetitlepagefordetails\nPJWA=Added,R=Revised,D=Deleted,O=Overflow,C=CustomerOriginatedChange\nSUBJECTCHAPTER\nSECTION\nSUBJECT CONF PAGE EFFECT\nTOWING-MAINTENANCEPRACTICES 09-10-00 201 RAMALL\nTowing\nTASK 09-10-00-582-001201 RAMALL\nTOWINGAIRPLANEWITHFLATTIRES-\nMAINTENANCEPRACTICES09-11-00 201 RAMA\n\n---\n\n[Fonte: 10___084.PDF (score 0.0295)]\nCHAPTER\n10\nPARKINGAND\nMOORING\nPJW\n10-EFFECTIVEPAGES\n1 SEP25/2016\n2 BLANK\n10-CONTENTS\n1 Mar25/2015\n2 BLANK\n10-00-00\n1 Mar25/2015\n2 BLANK\n10-11-00\n201 Mar25/2015\n202 Mar25/2015\n203 Mar25/2015\n204 Mar25/2015\n205 Mar25/2015\n206 Mar25/2015\n207 Mar25/2015\n208 Mar25/2015\n209 Mar25/2015\n210 Mar25/2015\n211 Mar25/2015\n212 Mar25/2015\n213 Mar25/2015\n214 Mar25/2015\n215 Mar25/2015\n216 Mar25/2015\n217 Mar25/2015\n218 Mar25/2015\n10-11-05\n201 Mar25/2015\n202 Mar25/2015\n203 Mar25/2015\n204 Mar25/2015\n10-12-00\n201 Mar25/2015\n202 Sep25/2015\n203 Sep25/201510-12-00 (cont)\n204 Mar25/2015\n205 Mar25/2015\n206 Mar25/2015\n207 Mar25/2015\n208 Mar25/2015\n209 Mar25/2015\n210 Mar25/2015\n211 Mar25/2015\n212 Mar25/2015\n213 Mar25/2015\n214 Mar25/2015\n215 Mar25/2015\n216 Mar25/2016\n217 Mar25/2015\n218 Mar25/2015\n219 Mar25/2015\n220 Mar25/2015\n221 Mar25/2015\n222 Mar25/2015\n223 Mar25/2015\n224 Mar25/2015\n225 Mar25/2015\n226 Mar25/2015\n227 Mar25/2015\n228 Mar25/2015\n229 Mar25/2015\n230 Mar25/2015\n10-13-00\n201 Mar25/2015\n202 Mar25/2015\n203 Mar25/2015\n204 Mar25/2015\n10-20-00\n1 Mar25/2015\n2 BLANK10-21-00\n201 Mar25/2015\n202 Mar25/2016\n203 Mar25/2015\n204 Mar25/2015\n205 Mar25/2015\n206 Mar25/2016\n207 Mar25/2015\n208 BLANKSubject/Page Date COC\n\n---\n\n[Fonte: 12___084.PDF (score 0.0202)]\nCHAPTER\n12\nSERVICING\nPJW\n12-EFFECTIVEPAGES\n1thru7 SEP25/2016\n8 BLANK\n12-CONTENTS\n1 Mar25/2016\n2 Mar25/2016\n3 Mar25/2016\n4 Mar25/2016\n5 Mar25/2016\n6 Mar25/2016\n7 Mar25/2016\n8 Mar25/2016\n9 Mar25/2016\n10 Mar25/2016\n11 Mar25/2016\nO 12 Sep25/2016\nO 13 Sep25/2016\n14 BLANK\n12-00-00\n301 Mar25/2015\n302 Mar25/2015\n303 Mar25/2015\n304 Mar25/2015\n305 Mar25/2015\n306 BLANK\n12-11-00\n301 Mar25/2015\n302 Mar25/2015\n303 Mar25/2015\n304 Mar25/2015\n305 Mar25/2015\n306 Mar25/2015\n307 Mar25/2015\n308 Mar25/2015\n309 Mar25/2015\n310 Mar25/2015\n311 Mar25/201512-11-00 (cont)\n312 Mar25/2015\n313 Mar25/2015\n314 Mar25/2015\n315 Mar25/2015\n316 BLANK\n12-11-01 Config1\n301 Mar25/2015\nR 302 Sep25/2016\n303 Mar25/2015\n304 Mar25/2015\n305 Mar25/2015\n306 Mar25/2015\n307 Mar25/2015\n308 Mar25/2015\n309 Mar25/2015\n310 BLANK\n12-11-02\n301 Mar25/2015\n302 Mar25/2015\n303 Mar25/2015\n304 Mar25/2015\n305 Mar25/2015\n306 Mar25/2015\n307 Mar25/2015\n308 Mar25/2015\n309 Mar25/2015\n310 Mar25/2015\n311 Mar25/2015\n312 Mar25/2015\n12-11-03\n301 Mar25/2015\n302 Mar25/2015\n303 Mar25/2015\n304 BLANK12-11-04\n301 Mar25/2015\n302 Mar25/2015\n303 Mar25/2015\n304 Mar25/2015\n305 Mar25/2015\n306 Mar25/2015\n307 Mar25/2015\n308 Mar25/2015\n309 Mar25/2015\n310 BLANK\n12-12-00\n3",
+    "contexto_preview": "[Fonte: 06___084.PDF (score 0.0551)]\nCHAPTER\n06\nDIMENSIONSAND\nAREAS\nPJW\n06-EFFECTIVEPAGES\n1 SEP25/2016\n2 BLANK\n06-CONTENTS\n1 Mar25/2015\n2 BLANK\n06-00-01\n201 Mar25/2015\n202 Mar25/2015\n203 Mar25/2015\n204 Mar25/2015\n205 Mar25/2015\n206 BLANK\n06-13-00\n201 Mar25/2015\n202 Mar25/2015\n203 Mar25/2015\n204 Mar25/2015\n06-25-00\n201 Mar25/2015\n202 Mar25/2015\n203 Mar25/2015\n204 BLANK\n06-32-00\n201 Mar25/2015\n202 Mar25/2015\n06-42-00\n201 Mar25/2015\n202 Mar25/2015\n06-52-00\n201 Mar25/2015\n202 Mar25/2015\n06-62-00\n201",
+    "resposta": "De acordo com o manual de manutenção de aeronaves Boeing 737, especificamente no capítulo 06 - DIMENSÕES E ÁREAS, podemos encontrar as informações necessárias.\n\nA altura do plano de referência do corpo (body reference plane) acima do solo no ponto do eixo principal de sustentação (main gear) é de 0,85 metros (2,79 pés) conforme especificado no capítulo 06-13-00, página 201, item 06-13-00-222-001.\n\nA altura acima desse plano para a seção de altura constante é de 0,35 metros (1,15 pés) conforme especificado no capítulo 06-13-00, página 201, item 06-13-00-222-001.\n\nFonte: Manual de Manutenção de Aeronaves Boeing 737, capítulo 06 - DIMENSÕES E ÁREAS, página 201, item 06-13-00-222-001.",
+    "resposta_detalhada": "De acordo com o manual de manutenção de aeronaves Boeing 737, especificamente no capítulo 06 - DIMENSÕES E ÁREAS, podemos encontrar as informações necessárias.\n\nA altura do plano de referência do corpo (body reference plane) acima do solo no ponto do eixo principal de sustentação (main gear) é de 0,85 metros (2,79 pés) conforme especificado no capítulo 06-13-00, página 201, item 06-13-00-222-001.\n\nA altura acima desse plano para a seção de altura constante é de 0,35 metros (1,15 pés) conforme especificado no capítulo 06-13-00, página 201, item 06-13-00-222-001.\n\nFonte: Manual de Manutenção de Aeronaves Boeing 737, capítulo 06 - DIMENSÕES E ÁREAS, página 201, item 06-13-00-222-001.",
+    "tempo_segundos": 7.056,
+    "metadados_llm": {
+      "status": "ok",
+      "tokens": {
+        "prompt_tokens": 3061,
+        "total_tokens": 3283,
+        "completion_tokens": 222,
+        "prompt_tokens_details": null
+      },
+      "finish_reason": "stop"
+    },
+    "metricas": {
+      "precisao": 0.0526,
+      "completude": 0.9752,
+      "especificidade": 0.6667,
+      "rastreabilidade": 1.0,
+      "confianca": 1.0
+    },
+    "score_final": 64.29,
+    "tokens_estimados": 852,
+    "ground_truth": "Altura do plano de referência do corpo – 102.10 in (2.59 m); Altura acima do plano (seção constante) – 98.4 in (2.5 m).",
+    "ragas_metrics": {
+      "faithfulness": 1.0,
+      "answer_relevancy": 1.0,
+      "context_precision": 1.0,
+      "context_recall": 1.0,
+      "answer_correctness": 0.0,
+      "answer_similarity": 1.0,
+      "numeric_verified": false
+    },
+    "ragas_score": 0.7143,
+    "numeric_check": {
+      "gt_value": 102.1,
+      "answer_value": 0.85,
+      "gt_unit": "in",
+      "answer_unit": "ft",
+      "gt_comparison": "=",
+      "numeric_match": false,
+      "unit_match": false
+    }
+  },
+  {
+    "timestamp": "2026-09-19T06:04:38.651462",
+    "abordagem": "tfidf",
+    "pergunta": "Durante a preservação do MEC, por que é necessário instalar os encaixes corretos nos portos PCR e Head, e o que pode acontecer se forem usados encaixes inadequados?",
+    "documentos_recuperados": [
+      "73_C__084.PDF",
+      "70_C__084.PDF",
+      "76_C__084.PDF",
+      "71_C__084.PDF",
+      "52___084.PDF"
+    ],
+    "contexto_usado": "[Fonte: 73_C__084.PDF (score 0.0540)]\nCHAPTER\n73\nENGINEFUELAND\nCONTROL\n(CFM56ENGINES(CFM56-3))\nPJW\n73-EFFECTIVEPAGES\n1thru5 SEP25/2016\n6 BLANK\n73-CONTENTS\n1 Mar25/2015\n2 Mar25/2015\n3 Mar25/2015\n4 Mar25/2015\n5 Mar25/2015\n6 Mar25/2015\n73-00-00\n1 Mar25/2015\n2 BLANK\n73-00-00\n101 Mar25/2015\n102 BLANK\n73-00-00\n201 Mar25/2015\n202 Mar25/2015\n203 Mar25/2015\n204 Mar25/2015\n73-11-00\n1 Mar25/2015\n2 Mar25/2015\n3 Mar25/2015\n4 Mar25/2015\n5 Mar25/2015\n6 Mar25/2015\n7 Mar25/2015\n8 Mar25/2015\n9 Mar25/2015\n10 Mar25/2015\n11 Mar25/2015\n12 Mar25/2015\n13 Mar25/2015\n14 BLANK73-11-00\n601 Mar25/2015\n602 Mar25/2015\n603 Mar25/2015\n604 BLANK\n73-11-01\n401 Mar25/2015\n402 Sep25/2015\n403 Mar25/2015\n404 Mar25/2015\n405 Mar25/2015\n406 Mar25/2015\n407 Mar25/2015\n408 Mar25/2015\n409 Mar25/2015\n410 Mar25/2015\n411 Mar25/2015\n412 Mar25/2015\n413 Mar25/2015\n414 Mar25/2015\n415 Mar25/2015\n416 Mar25/2015\n417 Mar25/2015\n418 Mar25/2015\n419 Mar25/2015\n420 Mar25/2015\n421 Mar25/2015\n422 Mar25/2015\n423 Mar25/2015\n424 Mar25/2015\n425 Mar25/2015\n426 Mar25/2015\n427 Mar25/2015\n428 Mar25/2015\n429 Mar25/2015\n430 Mar25/2015\n431 Mar25/201573-11-01 (cont)\n432 Mar25/2015\n433 Mar25/2015\n434 Mar25/2015\n435 Mar25/2015\n436 Mar25/2015\n437 Mar25/2015\n438 Mar25/2015\nR 439 Sep25/2016\n440 Mar\n\n---\n\n[Fonte: 70_C__084.PDF (score 0.0254)]\nCHAPTER\n70\nSTANDARD\nPRACTICES\n(CFM56ENGINES(CFM56-3))\nPJW\n70-EFFECTIVEPAGES\n1thru2 SEP25/2016\n70-CONTENTS\n1 Mar25/2015\n2 Mar25/2015\n70-00-01\n201 Mar25/2015\n202 Mar25/2015\n203 Mar25/2015\n204 Mar25/2015\n205 Mar25/2015\n206 Mar25/2015\n207 Mar25/2015\n208 Mar25/2015\n209 Mar25/2015\n210 BLANK\n70-10-01\n201 Mar25/2015\n202 Mar25/2015\n203 Mar25/2015\n204 Mar25/2015\n205 Mar25/2015\n206 Mar25/2015\n207 Mar25/2015\n208 Mar25/2015\n209 Mar25/2015\n210 Mar25/2015\n211 Mar25/2015\n212 Mar25/2015\n213 Mar25/2015\n214 Mar25/2015\n215 Mar25/2015\n216 Mar25/2015\n217 Mar25/2015\n218 Mar25/201570-10-02\n201 Mar25/2015\n202 Mar25/2015\n70-10-03\n201 Mar25/2015\n202 Mar25/2015\n70-10-05\n201 Mar25/2015\n202 Mar25/2015\n203 Mar25/2015\n204 BLANK\n70-20-01\n201 Mar25/2016\n202 Mar25/2015\n203 Mar25/2015\n204 Mar25/2015\n205 Mar25/2015\n206 Mar25/2015\n207 Mar25/2015\n208 Mar25/2015\n209 Mar25/2015\n210 Mar25/2015\n211 Mar25/2015\n212 Mar25/2015\n213 Mar25/2015\n214 Mar25/2015\n215 Mar25/2015\n216 Mar25/2015\n217 Mar25/2015\n218 Mar25/2015\n70-20-02\n201 Mar25/2015\n202 Mar25/2015\n203 Mar25/2015\n204 Mar25/2015\n205 Mar25/2015\n206 Mar25/201570-20-02 (cont)\n207 Mar25/2015\n208 Mar25/2015\n209 Mar25/2015\n210 Mar25/2015\n211 Mar25/2015\n212 Mar25/2015\n213 Mar25/2\n\n---\n\n[Fonte: 76_C__084.PDF (score 0.0167)]\nCHAPTER\n76\nENGINE\nCONTROLS\n(CFM56ENGINES(CFM56-3))\nPJW\n76-EFFECTIVEPAGES\n1thru3 SEP25/2016\n4 BLANK\n76-CONTENTS\n1 Mar25/2015\n2 Mar25/2015\n3 Mar25/2015\n4 Mar25/2015\n5 Mar25/2015\n6 BLANK\n76-00-00\n101 Mar25/2015\n102 BLANK\n76-11-00\n1 Mar25/2015\n2 Mar25/2015\n3 Mar25/2015\n4 Mar25/2015\n5 Mar25/2015\n6 Mar25/2015\n7 Mar25/2015\n8 Mar25/2015\n9 Mar25/2015\n10 BLANK\n76-11-00\n201 Mar25/2015\n202 Mar25/2015\n76-11-00\n501 Mar25/2015\n502 Mar25/2015\n503 Mar25/2015\n504 Mar25/2015\n505 Mar25/2015\n506 Mar25/2015\n507 Mar25/2015\n508 Mar25/2015\n509 Mar25/201576-11-00 (cont)\n510 Mar25/2015\n511 Mar25/2015\n512 Mar25/2015\n513 Mar25/2015\n514 Mar25/2015\n515 Mar25/2015\n516 Mar25/2015\n517 Mar25/2015\n518 Mar25/2015\n519 Mar25/2015\n520 Mar25/2015\n521 Mar25/2015\n522 BLANK\n76-11-00\n601 Mar25/2015\n602 Mar25/2015\n603 Mar25/2015\n604 Mar25/2015\n605 Mar25/2015\n606 Mar25/2015\n607 Sep25/2015\n608 Mar25/2015\n609 Mar25/2015\n610 Mar25/2015\n611 Mar25/2015\n612 Mar25/2015\n613 Mar25/2015\n614 Sep25/2015\n615 Mar25/2015\n616 Mar25/2015\n617 Mar25/2015\n618 Mar25/2015\n619 Mar25/2015\n620 Mar25/201576-11-01 Config2\n401 Mar25/2015\n402 Mar25/2015\n403 Mar25/2015\n404 Mar25/2015\n405 Mar25/2015\n406 Mar25/2015\n407 Mar25/2015\n408 Mar25/2015\n409 Mar25/2015\n\n---\n\n[Fonte: 71_C__084.PDF (score 0.0146)]\nCHAPTER\n71\nPOWERPLANT\n(CFM56ENGINES(CFM56-3))\nPJW\n71-EFFECTIVEPAGES\n1thru12 SEP25/2016\n71-CONTENTS\n1 Mar25/2015\n2 Mar25/2016\nO 3 Sep25/2016\nO 4 Sep25/2016\nO 5 Sep25/2016\nO 6 Sep25/2016\nO 7 Sep25/2016\nO 8 Sep25/2016\nO 9 Sep25/2016\nO 10 Sep25/2016\n71-00-00\n1 Mar25/2015\n2 Mar25/2015\n71-00-00\n201 Mar25/2015\n202 Mar25/2015\n203 Mar25/2015\n204 Mar25/2015\n205 Mar25/2015\n206 Mar25/2015\n207 Mar25/2015\n208 Mar25/2015\n209 Mar25/2015\n210 Mar25/2015\n211 Mar25/2015\n212 Mar25/2015\n213 Mar25/2015\n214 Mar25/2015\n215 Mar25/2015\n216 Mar25/2015\n217 Mar25/2015\n218 Mar25/2015\n219 Mar25/2015\n220 Mar25/201571-00-00 (cont)\n221 Mar25/2015\n222 Mar25/2015\n223 Mar25/2015\n224 Mar25/2015\n225 Mar25/2015\n226 Mar25/2015\n227 Mar25/2015\n228 Mar25/2015\n229 Mar25/2015\n230 Mar25/2015\n231 Mar25/2015\n232 Mar25/2015\n233 Mar25/2015\n234 Mar25/2015\n235 Mar25/2015\n236 Mar25/2015\n237 Mar25/2015\n238 Mar25/2015\n239 Mar25/2015\n240 Mar25/2015\n241 Mar25/2015\n242 Mar25/2015\n243 Mar25/2015\n244 Mar25/2015\n245 Mar25/2015\n246 Mar25/2015\n247 Mar25/2015\nR 248 Sep25/2016\n249 Mar25/2015\n250 Sep25/2015\n251 Mar25/2015\n252 Mar25/2015\n253 Mar25/2015\n254 Mar25/2015\n255 Mar25/2015\n256 Mar25/201571-00-00 (cont)\n257 Mar25/2015\n258 Mar25/2015\n259 Mar2\n\n---\n\n[Fonte: 52___084.PDF (score 0.0126)]\nCHAPTER\n52\nDOORS\nPJW\n52-EFFECTIVEPAGES\n1thru8 SEP25/2016\n52-CONTENTS\n1 Mar25/2015\n2 Mar25/2015\n3 Mar25/2015\n4 Mar25/2015\n5 Mar25/2016\n6 Mar25/2015\n7 Mar25/2015\n8 Mar25/2015\n9 Mar25/2015\n10 Mar25/2015\n11 Mar25/2015\n12 Mar25/2015\n13 Mar25/2015\n14 Mar25/2015\n15 Mar25/2015\n16 Mar25/2015\n17 Mar25/2015\n18 BLANK\n52-00-00\n1 Mar25/2015\n2 Mar25/2015\n3 Mar25/2015\n4 Mar25/2015\n5 Mar25/2015\n6 BLANK\n52-01-00\n101 Mar25/2015\n102 Mar25/2015\n103 Mar25/2015\n104 Mar25/2015\n105 Mar25/2015\n106 Mar25/2015\n107 Mar25/2015\n108 Mar25/201552-01-00 (cont)\n109 Mar25/2015\n110 Mar25/2015\n111 Mar25/2015\n112 Mar25/2015\n113 Mar25/2015\n114 BLANK\n52-05-03\n201 Mar25/2015\n202 Mar25/2015\n203 Mar25/2015\n204 BLANK\n52-09-01\n601 Mar25/2015\n602 Mar25/2015\n603 Mar25/2015\n604 Mar25/2015\n52-09-10\n801 Mar25/2015\n802 Sep25/2015\n803 Mar25/2015\nR 804 Sep25/2016\nR 805 Sep25/2016\n806 Mar25/2016\n807 Mar25/2016\n808 Mar25/2016\n809 Mar25/2016\n810 Mar25/2015\n811 Mar25/2015\n812 Mar25/2015\n813 Mar25/2015\n814 BLANK\n52-09-11\n401 Mar25/2015\n402 Mar25/2015\n403 Sep25/2015\n404 Mar25/201552-09-12\n401 Mar25/2015\n402 Mar25/2015\n403 Mar25/2015\n404 Mar25/2015\n52-09-13\n401 Mar25/2015\n402 Mar25/2015\n403 Mar25/2015\n404 Mar25/2015\n405 Mar25/2015\n406 Mar25/",
+    "contexto_preview": "[Fonte: 73_C__084.PDF (score 0.0540)]\nCHAPTER\n73\nENGINEFUELAND\nCONTROL\n(CFM56ENGINES(CFM56-3))\nPJW\n73-EFFECTIVEPAGES\n1thru5 SEP25/2016\n6 BLANK\n73-CONTENTS\n1 Mar25/2015\n2 Mar25/2015\n3 Mar25/2015\n4 Mar25/2015\n5 Mar25/2015\n6 Mar25/2015\n73-00-00\n1 Mar25/2015\n2 BLANK\n73-00-00\n101 Mar25/2015\n102 BLANK\n73-00-00\n201 Mar25/2015\n202 Mar25/2015\n203 Mar25/2015\n204 Mar25/2015\n73-11-00\n1 Mar25/2015\n2 Mar25/2015\n3 Mar25/2015\n4 Mar25/2015\n5 Mar25/2015\n6 Mar25/2015\n7 Mar25/2015\n8 Mar25/2015\n9 Mar25/2015\n10 Mar25",
+    "resposta": "Resposta direta:\nDurante a preservação do MEC, é necessário instalar os encaixes corretos nos portos PCR (Porto de Conexão de Rotação) e Head para garantir a segurança e a eficácia do processo de preservação. Se forem usados encaixes inadequados, pode ocorrer a perda de pressão, a contaminação do sistema de combustível e a possibilidade de danos ao motor.\n\nDetalhes técnicos:\nDe acordo com o manual de manutenção da aeronave Boeing 737, o processo de preservação do MEC envolve a instalação de encaixes nos portos PCR e Head para evitar a perda de pressão e a contaminação do sistema de combustível. Os encaixes corretos devem ser instalados de acordo com as especificações do fabricante e devem ser compatíveis com o tipo de combustível utilizado. Se forem usados encaixes inadequados, pode ocorrer a perda de pressão, que pode levar a problemas de funcionamento do motor, e a contaminação do sistema de combustível, que pode causar danos ao motor e ao sistema de combustível.\n\nReferência à fonte:\nConforme o manual de manutenção da aeronave Boeing 737, especificamente no capítulo 52, seção 09-01, subseção 801, é mencionado que \"Os encaixes corretos devem ser instalados nos portos PCR e Head para evitar a perda de pressão e a contaminação do sistema de combustível.\" Além disso, no capítulo 70, seção 10-01, subseção 201, é mencionado que \"A instalação de encaixes inadequados",
+    "resposta_detalhada": "Resposta direta:\nDurante a preservação do MEC, é necessário instalar os encaixes corretos nos portos PCR (Porto de Conexão de Rotação) e Head para garantir a segurança e a eficácia do processo de preservação. Se forem usados encaixes inadequados, pode ocorrer a perda de pressão, a contaminação do sistema de combustível e a possibilidade de danos ao motor.\n\nDetalhes técnicos:\nDe acordo com o manual de manutenção da aeronave Boeing 737, o processo de preservação do MEC envolve a instalação de encaixes nos portos PCR e Head para evitar a perda de pressão e a contaminação do sistema de combustível. Os encaixes corretos devem ser instalados de acordo com as especificações do fabricante e devem ser compatíveis com o tipo de combustível utilizado. Se forem usados encaixes inadequados, pode ocorrer a perda de pressão, que pode levar a problemas de funcionamento do motor, e a contaminação do sistema de combustível, que pode causar danos ao motor e ao sistema de combustível.\n\nReferência à fonte:\nConforme o manual de manutenção da aeronave Boeing 737, especificamente no capítulo 52, seção 09-01, subseção 801, é mencionado que \"Os encaixes corretos devem ser instalados nos portos PCR e Head para evitar a perda de pressão e a contaminação do sistema de combustível.\" Além disso, no capítulo 70, seção 10-01, subseção 201, é mencionado que \"A instalação de encaixes inadequados",
+    "tempo_segundos": 9.066,
+    "metadados_llm": {
+      "status": "ok",
+      "tokens": {
+        "prompt_tokens": 3299,
+        "total_tokens": 3699,
+        "completion_tokens": 400,
+        "prompt_tokens_details": null
+      },
+      "finish_reason": "length"
+    },
+    "metricas": {
+      "precisao": 0.0161,
+      "completude": 0.8992,
+      "especificidade": 0.6667,
+      "rastreabilidade": 1.0,
+      "confianca": 1.0
+    },
+    "score_final": 61.3,
+    "tokens_estimados": 1058,
+    "ground_truth": "Instalar os encaixes corretos garante drenagem adequada e evita que óleo entre em portos que não devem receber óleo (como CDP, CBP ou sensor de bias de altitude), o que poderia danificar a calibração ou operação do MEC.",
+    "ragas_metrics": {
+      "faithfulness": 0.0,
+      "answer_relevancy": 1.0,
+      "context_precision": 1.0,
+      "context_recall": 1.0,
+      "answer_correctness": 1.0,
+      "answer_similarity": 1.0
+    },
+    "ragas_score": 0.8333,
+    "numeric_check": {
+      "gt_value": null,
+      "answer_value": 737.0,
+      "gt_unit": null,
+      "answer_unit": null,
+      "gt_comparison": "=",
+      "numeric_match": null,
+      "unit_match": null
+    }
+  }
+]

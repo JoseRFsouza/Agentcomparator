@@ -1,0 +1,33 @@
+﻿timestamp,abordagem,pergunta,documentos_recuperados,resposta,tempo_segundos,precisao,completude,especificidade,rastreabilidade,confianca,score_final
+2026-09-19T00:38:04.270231,tfidf,Que tipo de antena é a antena HF descrita no manual?,23___084.PDF | 11___084.PDF | 53___084.PDF | 49__B_084.PDF | 30___084.PDF,"Não foi possível encontrar informações específicas sobre a antena HF no contexto fornecido. No entanto, é possível que a antena HF seja descrita em um dos capítulos ou seções dos manuais fornecidos.
+
+No entanto, posso sugerir algumas opções para encontrar a resposta:
+
+* Verificar o capítulo 23, que parece estar relacionado a comunicações, e procurar por informações sobre antenas HF.
+* Verificar o capítulo 11, que parece estar relacionado a placas e marcas, e procurar por informações sobre antenas HF.
+* Verificar o capítulo 49, que parece estar relacionado a unidade de potência auxiliar (APU), e procurar por informações sobre antenas HF.
+* Verificar o capítulo 30, que parece estar relacionado à proteção contra gelo e chuva, e procurar por informações sobre antenas HF.
+
+Se você tiver mais informações ou contexto sobre a antena HF, posso tentar ajudar melhor.",7.662,0.0,0.7844,0.3333,0.3333,0.0,31.28
+2026-09-19T00:38:41.802377,tfidf,"Qual é a função do aquecedor de combustível servo dentro do sistema de controle de combustível, e por que manter a temperatura do combustível alta é importante?",49__B_084.PDF | 11___084.PDF | 73_C__084.PDF | 30___084.PDF | 21___084.PDF,"De acordo com o capítulo 73 do manual de manutenção de aeronaves, ""Engine Fuel and Control (CFM56 Engines (CFM56-3))"" [Fonte: 73_C__084.PDF (score 0.0166)], o aquecedor de combustível servo é um componente importante do sistema de controle de combustível.
+
+A função do aquecedor de combustível servo é manter a temperatura do combustível dentro do intervalo operacional, que é de 38°C a 48°C (100°F a 118°F) [73-11-01, 73-11-01 (cont)]. Isso é importante porque a temperatura do combustível afeta a viscosidade e a pressão do combustível, o que pode afetar a performance do motor.
+
+Manter a temperatura do combustível alta é importante porque:
+
+* Reduz a viscosidade do combustível, o que facilita a sua circulação através do sistema de combustível [73-11-01, 73-11-01 (cont)].
+* Reduz a pressão do combustível, o que pode ajudar a prevenir a formação de bolhas de ar no sistema de combustível [73-11-01, 73-11-01 (cont)].
+* Melhora a ignição do combustível, o que pode ajudar a melhorar a performance do motor [73-11-01, 73-11-01 (cont)].
+
+Além disso, a temperatura do combustível também afeta a formação de gelo no sistema de combustível. Se a temperatura do combustível for muito baixa, o combustível pode gelar e causar problemas no sistema de combustível [73-11-01, 73-11-01 (cont)].
+
+Em resumo, o aquecedor de combustível servo é um componente importante do sistema de controle de",37.243,0.1148,0.8784,1.0,1.0,1.0,70.4
+2026-09-19T00:38:55.050272,tfidf,Qual é o tempo máximo que o freio de estacionamento pode permanecer engajado antes de ser necessário re-pressurizar o sistema B?,11___084.PDF | 49__B_084.PDF | 71_C__084.PDF | 36___084.PDF | 33___084.PDF,"De acordo com o manual de manutenção da aeronave Boeing 737, não há uma informação específica sobre o tempo máximo que o freio de estacionamento pode permanecer engajado antes de ser necessário re-pressurizar o sistema B.
+
+No entanto, é possível encontrar informações sobre o sistema de freios da aeronave no capítulo 36-11-05 do manual de manutenção, que trata sobre o sistema pneumático. Nesse capítulo, não há uma informação específica sobre o tempo máximo que o freio de estacionamento pode permanecer engajado.
+
+No entanto, é possível encontrar uma informação relevante no capítulo 33-11-00 do manual de manutenção, que trata sobre os sistemas de iluminação e alarme. Nesse capítulo, há uma informação sobre o tempo máximo que o freio de estacionamento pode permanecer engajado antes de ser necessário re-pressurizar o sistema B.
+
+De acordo com o capítulo 33-11-00, o tempo máximo que o freio de estacionamento pode permanecer engajado antes de ser necessário re-pressurizar o sistema B é de 30 minutos. No entanto, é importante notar que essa informação pode variar dependendo das condições específicas da aeronave e do ambiente de operação.
+
+Referência: Capítulo 33-11-00 do manual de manutenção da aeronave Boeing 737.",13.187,0.0,0.8627,0.6667,1.0,0.5,54.9

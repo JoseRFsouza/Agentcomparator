@@ -1,62 +1,9 @@
 ﻿timestamp,abordagem,pergunta,documentos_recuperados,resposta,tempo_segundos,precisao,completude,especificidade,rastreabilidade,confianca,score_final
-2026-09-17T04:06:55.982853,toc_chunks,Qual é o código da tarefa que descreve a 'APU Operation Test'?,26___084.PDF,"De acordo com o manual, a tarefa que descreve a ""APU Operation Test"" não é explicitamente mencionada no contexto fornecido. No entanto, a tarefa que se aproxima disso é a ""TestSwitch and Test Lights"" (D), que descreve a verificação da continuidade do squib e a ativação dos test lights.
-
-No entanto, se considerarmos a seção ""5. Operation (Figure1)"" da página 5 do manual, podemos encontrar uma referência à ""APU Operation Test"". Nessa seção, é descrito o procedimento para testar a operação do APU, que inclui a verificação da continuidade do squib e a ativação dos test lights.
-
-Portanto, embora não haja um código de tarefa específico para a ""APU Operation Test"", podemos inferir que a tarefa mais próxima é a ""TestSwitch and Test Lights"" (D).
-
-Referência: [Fonte: 26___084.PDF | score 0.3169]",23.742,0.1556,0.9288,0.6667,1.0,0.5,61.22
-2026-09-17T04:07:08.175478,toc_chunks,Quais componentes são mostrados na Figura 1/51‑00‑00‑990‑801 do manual?,32___084.PDF,"Resposta direta:
-A Figura 1/51-00-00-990-801 do manual mostra os seguintes componentes:
-
-- NOSE GEAR MANUAL EXTENSION HANDLE
-- NOSE GEAR MANUAL EXTENSION CONTROL CABLE
-- NOSE GEAR MANUAL EXTENSION RELEASE MECHANISM
-- NOSE GEAR LOCK STRUT
-- NOSE GEAR LOWER DRAG BRACE
-- NOSE GEAR UPPER DRAG BRACE
+2026-09-17T21:38:24.635872,toc_chunks,Qual é a página que descreve o teste de tela do sistema de controle de voo digital (Digital Flight Control System)?,27___084.PDF | 22___084.PDF,"Resposta direta:
+A página que descreve o teste de tela do sistema de controle de voo digital (Digital Flight Control System) está localizada na página 65 do manual de manutenção do Boeing 737, especificamente no capítulo ""Roll Signal Switching"" (Figura 13/22-11-01-990-834737-300/400/500).
 
 Detalhes técnicos:
-A Figura 1/51-00-00-990-801 é uma ilustração do sistema de extensão manual do trem de pouso dianteiro (nose gear) do Boeing 737-300/400/500. Os componentes mostrados incluem:
-
-- O mancal de extensão manual do trem de pouso dianteiro (Nose Gear Manual Extension Handle)
-- O cabo de controle de extensão manual do trem de pouso dianteiro (Nose Gear Manual Extension Control Cable)
-- O mecanismo de liberação de extensão manual do trem de pouso dianteiro (Nose Gear Manual Extension Release Mechanism)
-- A estrutura de travamento do trem de pouso dianteiro (Nose Gear Lock Strut)
-- O braço de arrasto inferior do trem de pouso dianteiro (Nose Gear Lower Drag Brace)
-- O braço de arrasto superior do trem de pouso dianteiro (Nose Gear Upper Drag Brace)
+O teste de tela do sistema de controle de voo digital é descrito no capítulo ""Roll Signal Switching"" e envolve a verificação da funcionalidade do sistema de controle de voo digital, incluindo a verificação da saída do computador de controle de voo (Flight Control Computer) e a verificação da saída do sistema de controle de voo digital. O teste também envolve a verificação da integridade do sistema de controle de voo digital e a verificação da saída do sistema de controle de voo digital em diferentes condições de voo.
 
 Referência à fonte:
-Fonte: Manual de Manutenção do Boeing 737-300/400/500, página 1, Figura 1/51-00-00-990-801.",12.057,0.3404,0.7576,1.0,1.0,1.0,74.15
-2026-09-17T04:07:20.303762,toc_chunks,"Qual é o ângulo máximo de inclinação do shock strut principal quando a aeronave está levantada, e qual é o deslocamento máximo da roda traseira?",32___084.PDF,"Resposta direta:
-O ângulo máximo de inclinação do shock strut principal quando a aeronave está levantada é de 15 graus, conforme especificado no manual de manutenção da aeronave Boeing 737-300/400/500 (ATA 32-13-11-034-005). O deslocamento máximo da roda traseira não é especificado diretamente no contexto fornecido, mas é possível inferir que ele está relacionado ao deslocamento do shock strut.
-
-Detalhes técnicos:
-O manual de manutenção da aeronave Boeing 737-300/400/500 (ATA 32-13-11-034-005) descreve o sistema de amortecimento da roda traseira, que inclui o shock strut principal e o drag strut. O shock strut principal é responsável por absorver as vibrações e choques da roda traseira, enquanto o drag strut é responsável por manter o shock strut em posição. O ângulo máximo de inclinação do shock strut principal é de 15 graus, o que é importante para garantir a estabilidade e o controle da aeronave.
-
-Referência à fonte:
-Conforme o manual de manutenção da aeronave Boeing 737-300/400/500 (ATA 32-13-11-034-005), página 401, D6-37569, Mar 25/2015.
-
-Observação:
-Não foi possível encontrar informações específicas sobre o deslocamento máximo da roda traseira no contexto fornecido. É possível que essa informação esteja disponível em outro documento ou manual de manutenção da aeronave.",12.02,0.0968,0.9313,1.0,1.0,0.0,61.19
-2026-09-17T04:07:26.193672,toc_chunks,Para que servem os interruptores de corte de ajuste do estabilizador durante a inspeção?,22___084.PDF | 27___084.PDF,"Resposta direta:
-Os interruptores de corte de ajuste do estabilizador servem para limitar o movimento do estabilizador durante a inspeção, evitando danos ao sistema.
-
-Detalhes técnicos:
-De acordo com o manual, os interruptores de corte de ajuste do estabilizador (Stabilizer Trim Limit Switches) são localizados na área de acesso ao estabilizador, a bombordo do jackscrew. Eles são mecanicamente operados por uma cam assembly e movimento do estabilizador, e têm seis unidades, todas conectadas elétrica e indicando quando estão na posição aberta ou fechada. O objetivo desses interruptores é limitar o movimento do estabilizador que pode ser comandado pelos outputs do FCC (Flight Control Computer).
-
-Referência à fonte:
-Conforme o capítulo 27-41-00 do manual de manutenção da aeronave Boeing 737-300/400/500, página 551, D6-37569, Mar 25/2016.",5.782,0.0645,1.0,1.0,1.0,1.0,71.94
-2026-09-17T04:07:50.171181,toc_chunks,Qual é a finalidade de usar a roda de ajuste de estabilizador no stand de controle durante a inspeção?,30___084.PDF | 27___084.PDF,"A finalidade de usar a roda de ajuste de estabilizador no stand de controle durante a inspeção é para garantir que o ponteiro no aft face da alavanca de freio de velocidade esteja alinhado com os detentes corretos. Isso é necessário para garantir que a alavanca de freio de velocidade esteja funcionando corretamente.
-
-Detalhes técnicos:
-- A roda de ajuste de estabilizador é usada para ajustar a posição do ponteiro no aft face da alavanca de freio de velocidade.
-- O ponteiro deve ser alinhado com os detentes corretos, que são:
- + DOWN (baixo)
- + ARMED (armado)
- + FLIGHT DETENT (detent de voo)
- + UP (cima)
-- A alavanca de freio de velocidade deve ter um travel de 48-1/2 ±1/2 graus, que é a distância que a alavanca deve percorrer de um extremo ao outro.
-
-Referência à fonte:
-- De acordo com o manual de manutenção da aeronave Boeing 737, página 27, item (e) e (f).",23.862,0.0385,0.96,1.0,1.0,1.0,70.16
+Fonte: [22___084.PDF | score 0.1933] AIRCRAFTMAINTENANCEMANUAL Page65 D6-37569 Mar25/2015 BOEINGPROPRIETARY-Copyright©UnpublishedWork-SeetitlepagefordetailsEFFECTIVITY RAMALL ROLL RATE LATERAL ACCEL UNIT 1(E3-5) M1162 INERTIAL REF UNIT 2(E3-5) COMPUTED AIRSPEEDALTITUDE SELECTED HEADING DISCRETES M1175 FLIGHT MANAGEMENT DME DISTANCE M1163 DIGITAL ANALOG CROSS CHANNEL DATAM196 DIGITAL AIR DATA CROSS CHANNEL DATA CROSS CHANNEL DATA M923 FLIGHT CONTROL COMPUTER B(",10.177,0.5753,0.9636,1.0,1.0,1.0,86.35

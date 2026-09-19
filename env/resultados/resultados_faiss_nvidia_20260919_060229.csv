@@ -1,0 +1,112 @@
+﻿timestamp,abordagem,pergunta,documentos_recuperados,resposta,tempo_segundos,precisao,completude,especificidade,rastreabilidade,confianca,score_final
+2026-09-19T06:11:44.451334,faiss_nvidia,Quais são as etapas de inspeção de Control Cable Wire Rope e Fittings?,20___084.PDF | 76_C__084.PDF | 20___084.PDF | 76_C__084.PDF | 52___084.PDF,"Resposta direta:
+As etapas de inspeção de Control Cable Wire Rope e Fittings incluem:
+
+1. Exame visual detalhado da cabine de controle para garantir que a cabine não entre em contato com partes outras que não com polias, quadrantes, selos de cabos ou grometas instalados para controlar a rotação do cabo.
+2. Verificação da rotação do cabo para garantir que não haja kinks ou danos.
+3. Verificação da tensão do cabo, utilizando um tensiômetro, STD-871, para garantir que a tensão esteja dentro do intervalo recomendado.
+4. Verificação da instalação do turnbuckle, SPL-5457, para garantir que esteja instalado a uma distância igual em ambos os terminais.
+5. Remoção dos parafusos de cabos e pinos de riga da cabine de controle e dos tambores.
+6. Verificação da instalação da ferramenta de regulador de tensão, se aplicável.
+
+Detalhes técnicos:
+A inspeção de Control Cable Wire Rope e Fittings é importante para garantir a segurança e a eficácia do sistema de controle da aeronave. A cabine de controle deve ser inspecionada regularmente para garantir que esteja em boas condições e não esteja em contato com partes outras que não com polias, quadrantes, selos de cabos ou grometas instalados para controlar a rotação do cabo. Além disso, a tensão do cabo deve ser verificada regularmente para garantir que esteja dentro do intervalo recomendado.
+
+Referência à fonte:
+De acordo com o manual de manutenção da aeronave Boeing 737, especificamente no capítulo 52-31-00, sub",22.235,0.15,0.9313,1.0,1.0,1.0,72.78
+2026-09-19T06:11:51.706230,faiss_nvidia,Qual é a largura do forward entry door (porta de entrada à frente) no diagrama de estações do corpo?,06___084.PDF | 52___084.PDF | 52___084.PDF | 52___084.PDF | 06___084.PDF,"Resposta direta:
+A largura do forward entry door (porta de entrada à frente) no diagrama de estações do corpo é de 30 polegadas.
+
+Detalhes técnicos:
+De acordo com o manual de manutenção da aeronave Boeing 737, a largura do forward entry door é especificada como 30 polegadas (ver página 504 do manual 52___084.PDF). Além disso, o manual também especifica que a porta de entrada à frente tem uma altura de 27 polegadas (ver página 504 do manual 52___084.PDF).
+
+Referência à fonte:
+Fonte: Manual de manutenção da aeronave Boeing 737, página 504 do manual 52___084.PDF.",6.545,0.2258,0.9605,0.3333,1.0,1.0,62.45
+2026-09-19T06:11:58.265515,faiss_nvidia,"Quando o bubble do attitude gage não estiver centralizado na vidraça durante o nivelamento de rolo, qual ação deve ser tomada?",08___084.PDF | 72_C__084.PDF | 32___084.PDF | 72_C__084.PDF | 27___084.PDF,"De acordo com o manual ATA 29, durante o nivelamento de rolo, se o bubble do attitude gage não estiver centralizado na vidraça, é necessário ajustar a inclinação do avião. Isso pode ser feito elevando ou abaixando os lados do avião, conforme necessário, até que o bubble esteja centralizado.
+
+Detalhes técnicos:
+
+* O manual ATA 29 especifica que o bubble deve estar centralizado na vidraça durante o nivelamento de rolo.
+* Se o bubble não estiver centralizado, é necessário ajustar a inclinação do avião.
+* O ajuste pode ser feito elevando ou abaixando os lados do avião, conforme necessário.
+* É importante verificar se o bubble está centralizado antes de prosseguir com o nivelamento de rolo.
+
+Referência à fonte:
+
+* Manual ATA 29, subtask 08-12-00-582-010 (8): ""Do these steps to make the airplane level about its roll axis: ... If the bubble is not in the center of the vial, you must lift or lower the sides of the airplane as it is necessary.""",5.885,0.4038,0.8857,1.0,1.0,1.0,79.26
+2026-09-19T06:12:14.188978,faiss_nvidia,Qual é a sequência de procedimentos de manutenção para a porta de entrada frontal?,52___084.PDF | 52___084.PDF | 52___084.PDF | 52___084.PDF | 52___084.PDF,"A sequência de procedimentos de manutenção para a porta de entrada frontal do Boeing 737 é a seguinte:
+
+1. Verificar se a barra de girt está desengajada da travessa de escape do slide (SUBTASK 52-11-00-862-018).
+2. Abrir a porta de entrada frontal (TASK 52-11-00-705-007):
+ * Virar o mancal 180 graus no sentido anti-horário para desengatar a porta (SUBTASK 52-11-00-434-020).
+ * Usar o mancal de assistência para empurrar a porta para fora e para frente até que a mecanismo de travamento esteja em posição (SUBTASK 52-11-00-434-020).
+3. Instalar a mola de assistência e o tubo de torque (SUBTASK 52-11-00-434-022).
+4. Instalar as coberturas das armas de parafuso, os pinos de parada e o selo da porta (SUBTASK 52-11-00-434-025).
+5. Ajustar a porta de entrada frontal (TASK 52-11-00-705-007):
+ * Verificar a posição dos pinos de parada, a flushness da porta e a torque do mancal (SUBTASK 52-09-16-864-006).
+ * Ajustar os componentes da porta de acordo com as especificações (SUBTASK 52-09-16-864-006).
+6. Instalar o revestimento e a isolamento na porta de entrada frontal (SUBTASK 52-11-00-434-026).
+7. Instalar o slide de escape na porta de entrada frontal (SUBTASK 52-11-00-410-001).
+8. Fechar a porta de entrada frontal (TASK 52-",15.223,0.1481,0.9028,1.0,0.6667,1.0,67.01
+2026-09-19T06:12:42.164581,faiss_nvidia,"Quais sensores são integrados ao MEC para controlar a velocidade do rotor N2, e quais parâmetros eles medem?",73_C__084.PDF | 73_C__084.PDF | 73_C__084.PDF | 77_C__084.PDF | 73_C__084.PDF,"De acordo com o manual ATA 29, os sensores integrados ao MEC para controlar a velocidade do rotor N2 são:
+
+* CDP (Core Engine Speed)
+* N2 (N2 core engine speed)
+* CIT (Compressor Inlet Temperature)
+
+Esses sensores medem os seguintes parâmetros:
+
+* N2: velocidade do rotor N2
+* CIT: temperatura de entrada do compressor
+* CDP: velocidade do motor de combustão interna
+
+Esses parâmetros são usados pelo MEC para controlar a velocidade do rotor N2 e garantir o funcionamento correto do motor.",27.275,0.2857,0.92,0.6667,0.6667,1.0,64.91
+2026-09-19T06:13:02.459818,faiss_nvidia,Qual é o limite máximo de extensão/compressão do nariz da roda que deve ser respeitado durante o reboque para evitar danos internos?,72_C__084.PDF | 72_C__084.PDF | 72_C__084.PDF | 72_C__084.PDF | 72_C__084.PDF,"De acordo com o manual ATA 29, a resposta é que não há um limite máximo de extensão/compressão do nariz da roda que deve ser respeitado durante o reboque para evitar danos internos. No entanto, é importante notar que o manual não fornece informações específicas sobre o nariz da roda.
+
+No entanto, o manual fornece informações sobre a inspeção e reparo de danos na roda, incluindo:
+
+* Para danos na roda com profundidade menor que 0,04 polegadas (1,02 mm), não há limite máximo de número de danos (TASK 72-00-00-308-015-C00).
+* Para danos na roda com profundidade maior que 0,04 polegadas (1,02 mm) mas menor que 0,08 polegadas (2,03 mm), é permitido um máximo de 10 ciclos ou 25 horas de extensão de serviço (TASK 72-00-00-308-015-C00).
+
+Referência:
+* Manual ATA 29, página 620, D6-37569, 25/09/2016.
+* Manual ATA 29, página 607, D6-37569, 25/03/2015.
+* Manual ATA 29, página 618, D6-37569, 25/09/2015.
+* Manual ATA 29, página 637, D6-37569, 25/09/2016.",19.607,0.119,0.9418,1.0,1.0,0.5,67.12
+2026-09-19T06:13:18.211464,faiss_nvidia,"Onde está localizado o sub‑sistema de controle de temperatura do ar de escape em cada sistema de ar de escape do motor, e quais componentes o compõem?",21___084.PDF | 21___084.PDF | 21___084.PDF | 21___084.PDF | 21___084.PDF,"Resposta direta:
+O sub-sistema de controle de temperatura do ar de escape em cada sistema de ar de escape do motor é localizado na parte traseira do ram air system, perto do final da seção de dutos do ram air. Ele é composto por um turbofan, um vaso de controle de temperatura do pack, um vaso de controle de temperatura de reserva, um sistema de separação de água sob pressão, uma máquina de ciclo de ar e um conjunto de dutos para direcionar o ar pressurizado para alimentar o turbofan.
+
+Detalhes técnicos:
+O ram air system fornece um meio de resfriamento para os intercambiadores de calor primário e secundário, que são localizados de forma que o ar passando pelos dutos de ram air deve passar pelos intercambiadores de calor. O turbofan é instalado entre as seções de dutos do ram air, perto do final da seção traseira do ram air system. O sistema de controle de temperatura do ram air modula automaticamente o fluxo de ar através do ram air system durante a voo para minimizar a resistência. O sistema também se move para fornecer o máximo de fluxo para operação no solo e estende uma porta de defletor para prevenir a injeção de neve quando o avião está em movimento no solo.
+
+Referência à fonte:
+De acordo com o capítulo 1 do manual de manutenção do Boeing 737-300/400/500, ""AIRCRAFT MAINTENANCE MANUAL - AIR CYCLE SYSTEM - DESCRIPTION AND OPERATION"" (21___084.PDF).",15.046,0.1412,0.8339,1.0,1.0,1.0,70.08
+2026-09-19T06:13:27.699801,faiss_nvidia,Onde está localizado o sistema anti‑icing de água e descarga de vaso sanitário e qual é o princípio de funcionamento?,30___084.PDF | 30___084.PDF | 30___084.PDF | 30___084.PDF | 30___084.PDF,"De acordo com o manual de manutenção da aeronave Boeing 737, o sistema anti-icing de água e descarga de vaso sanitário está localizado na parte traseira da aeronave.
+
+O princípio de funcionamento do sistema é o seguinte:
+
+- O sistema anti-icing de água é composto por um aquecedor instalado na tampa do vaso sanitário traseiro. O aquecedor opera com corrente elétrica de 115V AC e é controlado pelo circuito de quebra de circuito DRAIN HEATER na placa P18.
+- O sistema anti-icing de descarga de vaso sanitário é composto por um aquecedor instalado na tampa do vaso sanitário traseiro. O aquecedor opera com corrente elétrica de 115V AC e é controlado pelo circuito de quebra de circuito DRAIN HEATER na placa P18.
+
+Referência: 
+- Manual de manutenção da aeronave Boeing 737, página 101, capítulo 30-71-00.
+- Manual de manutenção da aeronave Boeing 737, página 404, capítulo 30-09-11.",8.793,0.1842,0.828,1.0,1.0,1.0,71.23
+2026-09-19T06:13:37.720382,faiss_nvidia,Qual é a altura do plano de referência do corpo (body reference plane) acima do solo no ponto do eixo principal de sustentação (main gear) e qual é a altura acima desse plano para a seção de altura constante?,06___084.PDF | 06___084.PDF | 32___084.PDF | 32___084.PDF | 07___084.PDF,"Resposta direta:
+A altura do plano de referência do corpo (body reference plane) acima do solo no ponto do eixo principal de sustentação (main gear) é de 12,6 polegadas (normal) ou 9,4 polegadas (flat). A altura acima desse plano para a seção de altura constante não é especificada diretamente, mas podemos inferir que ela é de 6,8 polegadas (tire change) ou 7,5 polegadas (flat) para o main gear.
+
+Detalhes técnicos:
+De acordo com o manual de manutenção da aeronave Boeing 737, o plano de referência do corpo (body reference plane) é definido como o plano que passa pelo centro da seção transversal do corpo da aeronave, no nível do eixo principal de sustentação (main gear). A altura do plano de referência acima do solo no ponto do eixo principal de sustentação é de 12,6 polegadas (normal) ou 9,4 polegadas (flat), dependendo da condição do pneu. A altura acima desse plano para a seção de altura constante não é especificada diretamente, mas podemos inferir que ela é de 6,8 polegadas (tire change) ou 7,5 polegadas (flat) para o main gear.
+
+Referência à fonte:
+Fonte: Manual de Manutenção da Aeronave Boeing 737, Seção 07-11-11, Página 207, Figura 202/07-11-11-990-802 (Sheet 2 of 2).",9.32,0.2745,0.9033,0.6667,1.0,1.0,69.15
+2026-09-19T06:13:45.267946,faiss_nvidia,"Durante a preservação do MEC, por que é necessário instalar os encaixes corretos nos portos PCR e Head, e o que pode acontecer se forem usados encaixes inadequados?",73_C__084.PDF | 73_C__084.PDF | 73_C__084.PDF | 73_C__084.PDF | 73_C__084.PDF,"Durante a preservação do MEC, é necessário instalar os encaixes corretos nos portos PCR e Head para evitar danos ao sistema de calibração do MEC ou ao seu funcionamento. De acordo com o manual, o uso de encaixes inadequados pode causar danos ao MEC.
+
+Detalhes técnicos:
+
+* Os encaixes corretos devem ser instalados nos portos PCR e Head, conforme mostrado na Figura 201.
+* O uso de encaixes inadequados pode causar danos ao MEC, incluindo danos ao sistema de calibração ou ao funcionamento do MEC.
+* É importante verificar se os encaixes estão corretamente instalados antes de continuar com a preservação do MEC.
+
+Referência à fonte:
+
+* De acordo com o manual ATA 29, ""Preservação do MEC"", capítulo 73-21-01-034-041-C00.",6.856,0.0556,0.9077,1.0,1.0,1.0,69.36

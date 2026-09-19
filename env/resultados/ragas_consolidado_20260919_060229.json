@@ -1,0 +1,74 @@
+{
+  "tfidf": {
+    "total_questions": 10,
+    "avg_faithfulness": 0.6,
+    "avg_answer_relevancy": 0.92,
+    "avg_context_precision": 0.8,
+    "avg_context_recall": 0.9,
+    "avg_answer_correctness": 0.6,
+    "avg_answer_similarity": 0.8,
+    "avg_ragas_score": 0.7305,
+    "numeric_accuracy": 0.2,
+    "numeric_questions": 5
+  },
+  "llm_puro": {
+    "total_questions": 10,
+    "avg_faithfulness": 1.0,
+    "avg_answer_relevancy": 1.0,
+    "avg_context_precision": 1.0,
+    "avg_context_recall": 1.0,
+    "avg_answer_correctness": 0.6,
+    "avg_answer_similarity": 1.0,
+    "avg_ragas_score": 0.8857,
+    "numeric_accuracy": 0.2,
+    "numeric_questions": 5
+  },
+  "indice_toc": {
+    "total_questions": 10,
+    "avg_faithfulness": 1.0,
+    "avg_answer_relevancy": 1.0,
+    "avg_context_precision": 1.0,
+    "avg_context_recall": 1.0,
+    "avg_answer_correctness": 0.7,
+    "avg_answer_similarity": 1.0,
+    "avg_ragas_score": 0.9143,
+    "numeric_accuracy": 0.25,
+    "numeric_questions": 4
+  },
+  "faiss": {
+    "total_questions": 10,
+    "avg_faithfulness": 1.0,
+    "avg_answer_relevancy": 1.0,
+    "avg_context_precision": 1.0,
+    "avg_context_recall": 1.0,
+    "avg_answer_correctness": 0.7,
+    "avg_answer_similarity": 1.0,
+    "avg_ragas_score": 0.9143,
+    "numeric_accuracy": 0.4,
+    "numeric_questions": 5
+  },
+  "faiss_nvidia": {
+    "total_questions": 10,
+    "avg_faithfulness": 1.0,
+    "avg_answer_relevancy": 1.0,
+    "avg_context_precision": 1.0,
+    "avg_context_recall": 1.0,
+    "avg_answer_correctness": 0.7,
+    "avg_answer_similarity": 1.0,
+    "avg_ragas_score": 0.9143,
+    "numeric_accuracy": 0.4,
+    "numeric_questions": 5
+  },
+  "toc_chunks": {
+    "total_questions": 10,
+    "avg_faithfulness": 1.0,
+    "avg_answer_relevancy": 1.0,
+    "avg_context_precision": 1.0,
+    "avg_context_recall": 1.0,
+    "avg_answer_correctness": 0.6,
+    "avg_answer_similarity": 1.0,
+    "avg_ragas_score": 0.8857,
+    "numeric_accuracy": 0.0,
+    "numeric_questions": 4
+  }
+}

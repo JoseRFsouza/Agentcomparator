@@ -1,0 +1,22 @@
+﻿timestamp,abordagem,pergunta,documentos_recuperados,resposta,tempo_segundos,precisao,completude,especificidade,rastreabilidade,confianca,score_final
+2026-09-18T15:10:33.901302,llm_puro,"Qual é o objetivo do sistema de aviso de bypass de filtro de combustível, e qual componente indica um filtro de combustível entupido?",contexto_fixo_toc,"Resposta direta:
+O objetivo do sistema de aviso de bypass de filtro de combustível é alertar o piloto sobre a possibilidade de um filtro de combustível entupido, o que pode causar problemas de desempenho do motor.
+
+Detalhes técnicos:
+O sistema de aviso de bypass de filtro de combustível é um sistema de detecção que monitora a pressão do filtro de combustível e alerta o piloto se a pressão for inferior a um valor pré-definido. De acordo com o manual ATA 71: POWER PLANT- DESCRIPTION AND OPERATION, o filtro de combustível é um componente crítico do sistema de combustível e sua entupimento pode causar problemas de desempenho do motor, incluindo perda de potência e aumento da temperatura do motor.
+
+O componente que indica um filtro de combustível entupido é o sensor de pressão do filtro de combustível, que é conectado ao sistema de aviso de bypass. O sensor de pressão mede a pressão do filtro de combustível e envia sinais para o sistema de aviso, que então alerta o piloto sobre a possibilidade de um filtro de combustível entupido.
+
+Referência à fonte:
+De acordo com o manual ATA 71: POWER PLANT- DESCRIPTION AND OPERATION, o sistema de aviso de bypass de filtro de combustível é descrito no capítulo 71-11-00: ""Filtro de combustível - sistema de aviso de bypass"".",39.297,0.0755,0.86,1.0,1.0,1.0,68.77
+2026-09-18T15:10:41.444799,llm_puro,"Durante o teste auditivo, quais passos devem ser seguidos para confirmar que o ignitor esquerdo dispara quando o seletor está em IGN L?",contexto_fixo_toc,"De acordo com o manual ATA 21: AIR CONDITIONING - DESCRIPTION AND OPERATION, o teste auditivo do ignitor esquerdo deve ser realizado com o seletor em IGN L. Os passos a seguir devem ser seguidos:
+
+1. Verifique que o seletor esteja em IGN L (ignição esquerda).
+2. Use um multímetro para medir a tensão no ignitor esquerdo. A tensão deve estar dentro do intervalo de 12 a 15 volts.
+3. Verifique que o ignitor esquerdo esteja funcionando corretamente, produzindo um som de chispa audível.
+4. Repita o teste em diferentes condições de temperatura e pressão para garantir que o ignitor esquerdo esteja funcionando corretamente em todas as situações.
+
+Referência: Conforme o capítulo 21-00-00 1 RAM ALL do manual ATA 21: AIR CONDITIONING - DESCRIPTION AND OPERATION.",7.54,0.0682,0.84,1.0,1.0,1.0,68.05
+2026-09-18T15:10:47.320676,llm_puro,Qual tensão de alimentação é usada para as luzes de fundo fluorescentes no compartimento de voo?,contexto_fixo_toc,"De acordo com o manual ATA 25: EQUIPMENT/FURNISHINGS - DESCRIPTION AND OPERATION, capítulo 25-00-00, subcapítulo 1 RAM ALL, EQUIPMENT/FURNISHINGS - CLEANING AND PAINTING, a tensão de alimentação para as luzes de fundo fluorescentes no compartimento de voo é de 28 VDC.
+
+Referência: ATA 25, capítulo 25-00-00, subcapítulo 1 RAM ALL, EQUIPMENT/FURNISHINGS - CLEANING AND PAINTING.",5.858,0.3333,0.9111,1.0,1.0,1.0,77.78

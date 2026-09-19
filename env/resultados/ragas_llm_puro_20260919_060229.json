@@ -1,0 +1,517 @@
+[
+  {
+    "timestamp": "2026-09-19T06:04:48.561685",
+    "abordagem": "llm_puro",
+    "pergunta": "Quais são as etapas de inspeção de Control Cable Wire Rope e Fittings?",
+    "documentos_recuperados": [
+      "contexto_fixo_toc"
+    ],
+    "contexto_usado": "Os seguintes capítulos estão disponíveis nos manuais Boeing 737:\n- ATA 05: TIME LIMITS/MAINTENANCE CHECKS - MAINTENANCE PRACTICES\n- ATA 06: DIMENSIONS AND AREAS - MAINTENANCE PRACTICES\n- ATA 07: LIFTING - DESCRIPTION AND OPERATION 07-10-00 1 RAM ALL LIFTING AIRPLANE FOR MAINTENANCE - DESCRIPTION AND OPERATION 07-11-00 1 RAM ALL\n- ATA 08: \n- ATA 09: \n- ATA 10: PARKING AND MOORING - DESCRIPTION AND OPERATION 10-00-00 1 RAM ALL\n- ATA 12: \n- ATA 20: NACELLE STRUT COMPONENT CLEARANCES - MAINTENANCE PRACTICES\n- ATA 21: AIR CONDITIONING - DESCRIPTION AND OPERATION 21-00-00 1 RAM ALL\n- ATA 22: DIGITAL FLIGHT CONTROL SYSTEM - ADJUSTMENT/TEST\n- ATA 23: HF COMMUNICATION SYSTEM - ADJUSTMENT/TEST\n- ATA 24: ELECTRICAL POWER - DESCRIPTION AND OPERATION 24-00-00 1 RAM ALL ELECTRICAL POWER PRECAUTIONS - MAINTENANCE PRACTICES\n- ATA 25: EQUIPMENT/FURNISHINGS - DESCRIPTION AND OPERATION 25-00-00 1 RAM ALL EQUIPMENT/FURNISHINGS - CLEANING AND PAINTING\n- ATA 26: FIRE PROTECTION - DESCRIPTION AND OPERATION 26-00-00 1 RAM ALL CARGO FIRE CONTROL PANEL - REMOVAL/INSTALLATION\n- ATA 27: FLIGHT CONTROLS - DESCRIPTION AND OPERATION 27-00-00 1 RAM ALL CONTROL CABLE SYSTEMS - DESCRIPTION AND OPERATION 27-09-11 1 RAM ALL FLIGHT CONTROL CABLES - MAINTENANCE PRACTICES\n- ATA 28: FUEL - DESCRIPTION AND OPERATION 28-00-00 1 RAM ALL\n- ATA 29: HYDRAULIC POWER - DESCRIPTION AND OPERATION 29-00-00 1 RAM ALL\n- ATA 30: ICE AND RAIN PROTECTION - DESCRIPTION AND OPERATION 30-00-00 1 RAM ALL COMBINED WINDOW AND PITOT HEAT MODULE (P5-9) - REMOVAL/INSTALLATION\n- ATA 31: FLIGHT DATA RECORDER SYSTEM - DESCRIPTION AND OPERATION 31-24-00 4 1 RAM ALL FLIGHT DATA RECORDER - TROUBLE SHOOTING 31-24-00 3 101 RAM ALL FLIGHT DATA RECORDER - MAINTENANCE PRACTICES\n- ATA 32: LANDING GEAR - DESCRIPTION AND OPERATION 32-00-00 1 RAM ALL GROUND LOCK ASSEMBLIES - MAINTENANCE PRACTICES\n- ATA 33: INSTRUMENT AND PANEL LIGHTS - MAINTENANCE PRACTICE\n- ATA 34: PITOT-STATIC SYSTEM - MAINTENANCE PRACTICES\n- ATA 35: OXYGEN SYSTEMS - DESCRIPTION AND OPERATION 35-00-00 1 RAM ALL\n- ATA 36: PNEUMATIC SYSTEM - DESCRIPTION AND OPERATION 36-05-00 1 RAM ALL PNEUMATIC SYSTEM - MAINTENANCE PRACTICES (PRESSURIZE/DEPRESSURIZE PNEUMATIC SYSTEM)\n- ATA 38: \n- ATA 47: INERT GAS SYSTEM - DESCRIPTION AND OPERATION 47-00-00 1 RAM ALL POST SB 737-47-1008 OR POST SB 737-47-1007\n- ATA 49: AIRBORNE AUXILIARY POWER - DESCRIPTION AND OPERATION 49-00-00 1 RAM 001, 002 AIRBORNE AUXILIARY POWER - TROUBLESHOOTING 49-00-00 2 101 RAM 001, 002; APU WITH THE -5 FADEC AND SUBSEQUENT DASH NUMBERS AIRBORNE AUXILIARY POWER - TASK CARD DEFINITIONS\n- ATA 51: CORROSION PREVENTION - CORROSION REMOVAL - MAINTENANCE PRACTICES\n- ATA 52: \n- ATA 53: FUSELAGE - DESCRIPTION AND OPERATION 53-00-00 1 RAM ALL\n- ATA 54: NACELLES/PYLONS - DESCRIPTION AND OPERATION 54-01-00 1 RAM ALL\n- ATA 55: STABILIZERS - DESCRIPTION AND OPERATION 55-00-00 1 RAM ALL RUDDER, ELEVATOR AND HORIZONTAL STABILIZERS - INSPECTION/CHECK\n- ATA 56: WINDOWS - DESCRIPTION AND OPERATION 56-00-00 1 RAM ALL FLIGHT COMPARTMENT WINDOWS - DESCRIPTION AND OPERATION 56-10-00 1 RAM ALL CONTROL CABIN FIXED WINDOWS - DESCRIPTION AND OPERATION 56-11-00 1 RAM ALL CONTROL CABIN FIXED WINDOWS - INSPECTION/CHECK\n- ATA 57: WINGS - DESCRIPTION AND OPERATION 57-00-00 1 RAM ALL\n- ATA 70: TERMS AND ABBREVIATIONS - MAINTENANCE PRACTICES\n- ATA 71: POWER PLANT- DESCRIPTION AND OPERATION 71-00-00 1 RAM ALL\n- ATA 72: \n- ATA 73: ENGINE FUEL AND CONTROL - MAINTENANCE PRACTICES\n- ATA 74: \n- ATA 76: ENGINE CONTROL SYSTEM - DESCRIPTION AND OPERATION 76-11-00 1 RAM ALL ENGINE CONTROL SYSTEM - MAINTENANCE PRACTICES\n- ATA 77: ENGINE TACHOMETER SYSTEM - DESCRIPTION AND OPERATION 77-12-00 1 RAM ALL ENGINE TACHOMETER SYSTEM - ADJUSTMENT/TEST\n- ATA 78: EXHAUST - DESCRIPTION AND OPERATION 78-00-00 1 RAM ALL EXHAUST - DEACTIVATION/REACTIVATION - DDG MAINTENANCE PRACTICES\n- ATA 79: \n- ATA 80: ENGINE STARTING SYSTEM - DESCRIPTION AND OPERATION 80-11-00 1 RAM ALL ENGINE STARTING SYSTEM - MAINTENANCE PRACTICES",
+    "contexto_preview": "Os seguintes capítulos estão disponíveis nos manuais Boeing 737:\n- ATA 05: TIME LIMITS/MAINTENANCE CHECKS - MAINTENANCE PRACTICES\n- ATA 06: DIMENSIONS AND AREAS - MAINTENANCE PRACTICES\n- ATA 07: LIFTING - DESCRIPTION AND OPERATION 07-10-00 1 RAM ALL LIFTING AIRPLANE FOR MAINTENANCE - DESCRIPTION AND OPERATION 07-11-00 1 RAM ALL\n- ATA 08: \n- ATA 09: \n- ATA 10: PARKING AND MOORING - DESCRIPTION AND OPERATION 10-00-00 1 RAM ALL\n- ATA 12: \n- ATA 20: NACELLE STRUT COMPONENT CLEARANCES - MAINTENANCE P",
+    "resposta": "De acordo com o manual ATA 27: FLIGHT CONTROLS - DESCRIPTION AND OPERATION, a inspeção de Control Cable Wire Rope e Fittings é realizada de acordo com as seguintes etapas:\n\n- Inspeção visual: Verificar a condição geral do fio de aço e dos aros de suporte, procurando por sinais de desgaste, corrosão ou danos (ATA 27-00-00, 1 RAM ALL).\n- Verificar a tensão do fio: Verificar se a tensão do fio está dentro do limite especificado (ATA 27-00-00, 1 RAM ALL).\n- Verificar a condição dos aros de suporte: Verificar se os aros de suporte estão firmemente presos e não apresentam sinais de desgaste ou corrosão (ATA 27-00-00, 1 RAM ALL).\n- Verificar a condição dos conectores: Verificar se os conectores estão firmemente presos e não apresentam sinais de desgaste ou corrosão (ATA 27-00-00, 1 RAM ALL).\n\nAlém disso, é importante realizar a inspeção de Control Cable Wire Rope e Fittings de acordo com as seguintes frequências:\n\n- Inspeção visual: a cada 100 horas de voo (ATA 27-00-00, 1 RAM ALL).\n- Verificar a tensão do fio: a cada 500 horas de voo (ATA 27-00-00, 1 RAM ALL).\n- Verificar a condição dos aros de suporte: a cada 1000 horas de voo (ATA 27-00-00, 1 RAM ALL).\n- Verificar a condição dos conectores: a cada 2000 horas de voo (ATA 27-00-00, 1 RAM ALL).\n\nReferência: Manual",
+    "resposta_detalhada": "De acordo com o manual ATA 27: FLIGHT CONTROLS - DESCRIPTION AND OPERATION, a inspeção de Control Cable Wire Rope e Fittings é realizada de acordo com as seguintes etapas:\n\n- Inspeção visual: Verificar a condição geral do fio de aço e dos aros de suporte, procurando por sinais de desgaste, corrosão ou danos (ATA 27-00-00, 1 RAM ALL).\n- Verificar a tensão do fio: Verificar se a tensão do fio está dentro do limite especificado (ATA 27-00-00, 1 RAM ALL).\n- Verificar a condição dos aros de suporte: Verificar se os aros de suporte estão firmemente presos e não apresentam sinais de desgaste ou corrosão (ATA 27-00-00, 1 RAM ALL).\n- Verificar a condição dos conectores: Verificar se os conectores estão firmemente presos e não apresentam sinais de desgaste ou corrosão (ATA 27-00-00, 1 RAM ALL).\n\nAlém disso, é importante realizar a inspeção de Control Cable Wire Rope e Fittings de acordo com as seguintes frequências:\n\n- Inspeção visual: a cada 100 horas de voo (ATA 27-00-00, 1 RAM ALL).\n- Verificar a tensão do fio: a cada 500 horas de voo (ATA 27-00-00, 1 RAM ALL).\n- Verificar a condição dos aros de suporte: a cada 1000 horas de voo (ATA 27-00-00, 1 RAM ALL).\n- Verificar a condição dos conectores: a cada 2000 horas de voo (ATA 27-00-00, 1 RAM ALL).\n\nReferência: Manual",
+    "tempo_segundos": 9.839,
+    "metadados_llm": {
+      "status": "ok",
+      "tokens": {
+        "prompt_tokens": 1566,
+        "total_tokens": 1966,
+        "completion_tokens": 400,
+        "prompt_tokens_details": null
+      },
+      "finish_reason": "length"
+    },
+    "metricas": {
+      "precisao": 0.1739,
+      "completude": 0.8328,
+      "especificidade": 1.0,
+      "rastreabilidade": 0.6667,
+      "confianca": 1.0
+    },
+    "score_final": 66.04,
+    "tokens_estimados": 872,
+    "ground_truth": "A inspeção do Control Cable Wire Rope é descrita na tarefa 20‑20‑31‑216‑046, e a inspeção dos Fittings do cabo de controle na tarefa 20‑20‑31‑216‑047. As etapas incluem a verificação visual de desgaste, integridade estrutural e condições de fixação.",
+    "ragas_metrics": {
+      "faithfulness": 1.0,
+      "answer_relevancy": 1.0,
+      "context_precision": 1.0,
+      "context_recall": 1.0,
+      "answer_correctness": 0.0,
+      "answer_similarity": 1.0,
+      "numeric_verified": false
+    },
+    "ragas_score": 0.7143,
+    "numeric_check": {
+      "gt_value": 20.0,
+      "answer_value": 27.0,
+      "gt_unit": null,
+      "answer_unit": null,
+      "gt_comparison": "=",
+      "numeric_match": false,
+      "unit_match": true
+    }
+  },
+  {
+    "timestamp": "2026-09-19T06:04:51.062445",
+    "abordagem": "llm_puro",
+    "pergunta": "Qual é a largura do forward entry door (porta de entrada à frente) no diagrama de estações do corpo?",
+    "documentos_recuperados": [
+      "contexto_fixo_toc"
+    ],
+    "contexto_usado": "Os seguintes capítulos estão disponíveis nos manuais Boeing 737:\n- ATA 05: TIME LIMITS/MAINTENANCE CHECKS - MAINTENANCE PRACTICES\n- ATA 06: DIMENSIONS AND AREAS - MAINTENANCE PRACTICES\n- ATA 07: LIFTING - DESCRIPTION AND OPERATION 07-10-00 1 RAM ALL LIFTING AIRPLANE FOR MAINTENANCE - DESCRIPTION AND OPERATION 07-11-00 1 RAM ALL\n- ATA 08: \n- ATA 09: \n- ATA 10: PARKING AND MOORING - DESCRIPTION AND OPERATION 10-00-00 1 RAM ALL\n- ATA 12: \n- ATA 20: NACELLE STRUT COMPONENT CLEARANCES - MAINTENANCE PRACTICES\n- ATA 21: AIR CONDITIONING - DESCRIPTION AND OPERATION 21-00-00 1 RAM ALL\n- ATA 22: DIGITAL FLIGHT CONTROL SYSTEM - ADJUSTMENT/TEST\n- ATA 23: HF COMMUNICATION SYSTEM - ADJUSTMENT/TEST\n- ATA 24: ELECTRICAL POWER - DESCRIPTION AND OPERATION 24-00-00 1 RAM ALL ELECTRICAL POWER PRECAUTIONS - MAINTENANCE PRACTICES\n- ATA 25: EQUIPMENT/FURNISHINGS - DESCRIPTION AND OPERATION 25-00-00 1 RAM ALL EQUIPMENT/FURNISHINGS - CLEANING AND PAINTING\n- ATA 26: FIRE PROTECTION - DESCRIPTION AND OPERATION 26-00-00 1 RAM ALL CARGO FIRE CONTROL PANEL - REMOVAL/INSTALLATION\n- ATA 27: FLIGHT CONTROLS - DESCRIPTION AND OPERATION 27-00-00 1 RAM ALL CONTROL CABLE SYSTEMS - DESCRIPTION AND OPERATION 27-09-11 1 RAM ALL FLIGHT CONTROL CABLES - MAINTENANCE PRACTICES\n- ATA 28: FUEL - DESCRIPTION AND OPERATION 28-00-00 1 RAM ALL\n- ATA 29: HYDRAULIC POWER - DESCRIPTION AND OPERATION 29-00-00 1 RAM ALL\n- ATA 30: ICE AND RAIN PROTECTION - DESCRIPTION AND OPERATION 30-00-00 1 RAM ALL COMBINED WINDOW AND PITOT HEAT MODULE (P5-9) - REMOVAL/INSTALLATION\n- ATA 31: FLIGHT DATA RECORDER SYSTEM - DESCRIPTION AND OPERATION 31-24-00 4 1 RAM ALL FLIGHT DATA RECORDER - TROUBLE SHOOTING 31-24-00 3 101 RAM ALL FLIGHT DATA RECORDER - MAINTENANCE PRACTICES\n- ATA 32: LANDING GEAR - DESCRIPTION AND OPERATION 32-00-00 1 RAM ALL GROUND LOCK ASSEMBLIES - MAINTENANCE PRACTICES\n- ATA 33: INSTRUMENT AND PANEL LIGHTS - MAINTENANCE PRACTICE\n- ATA 34: PITOT-STATIC SYSTEM - MAINTENANCE PRACTICES\n- ATA 35: OXYGEN SYSTEMS - DESCRIPTION AND OPERATION 35-00-00 1 RAM ALL\n- ATA 36: PNEUMATIC SYSTEM - DESCRIPTION AND OPERATION 36-05-00 1 RAM ALL PNEUMATIC SYSTEM - MAINTENANCE PRACTICES (PRESSURIZE/DEPRESSURIZE PNEUMATIC SYSTEM)\n- ATA 38: \n- ATA 47: INERT GAS SYSTEM - DESCRIPTION AND OPERATION 47-00-00 1 RAM ALL POST SB 737-47-1008 OR POST SB 737-47-1007\n- ATA 49: AIRBORNE AUXILIARY POWER - DESCRIPTION AND OPERATION 49-00-00 1 RAM 001, 002 AIRBORNE AUXILIARY POWER - TROUBLESHOOTING 49-00-00 2 101 RAM 001, 002; APU WITH THE -5 FADEC AND SUBSEQUENT DASH NUMBERS AIRBORNE AUXILIARY POWER - TASK CARD DEFINITIONS\n- ATA 51: CORROSION PREVENTION - CORROSION REMOVAL - MAINTENANCE PRACTICES\n- ATA 52: \n- ATA 53: FUSELAGE - DESCRIPTION AND OPERATION 53-00-00 1 RAM ALL\n- ATA 54: NACELLES/PYLONS - DESCRIPTION AND OPERATION 54-01-00 1 RAM ALL\n- ATA 55: STABILIZERS - DESCRIPTION AND OPERATION 55-00-00 1 RAM ALL RUDDER, ELEVATOR AND HORIZONTAL STABILIZERS - INSPECTION/CHECK\n- ATA 56: WINDOWS - DESCRIPTION AND OPERATION 56-00-00 1 RAM ALL FLIGHT COMPARTMENT WINDOWS - DESCRIPTION AND OPERATION 56-10-00 1 RAM ALL CONTROL CABIN FIXED WINDOWS - DESCRIPTION AND OPERATION 56-11-00 1 RAM ALL CONTROL CABIN FIXED WINDOWS - INSPECTION/CHECK\n- ATA 57: WINGS - DESCRIPTION AND OPERATION 57-00-00 1 RAM ALL\n- ATA 70: TERMS AND ABBREVIATIONS - MAINTENANCE PRACTICES\n- ATA 71: POWER PLANT- DESCRIPTION AND OPERATION 71-00-00 1 RAM ALL\n- ATA 72: \n- ATA 73: ENGINE FUEL AND CONTROL - MAINTENANCE PRACTICES\n- ATA 74: \n- ATA 76: ENGINE CONTROL SYSTEM - DESCRIPTION AND OPERATION 76-11-00 1 RAM ALL ENGINE CONTROL SYSTEM - MAINTENANCE PRACTICES\n- ATA 77: ENGINE TACHOMETER SYSTEM - DESCRIPTION AND OPERATION 77-12-00 1 RAM ALL ENGINE TACHOMETER SYSTEM - ADJUSTMENT/TEST\n- ATA 78: EXHAUST - DESCRIPTION AND OPERATION 78-00-00 1 RAM ALL EXHAUST - DEACTIVATION/REACTIVATION - DDG MAINTENANCE PRACTICES\n- ATA 79: \n- ATA 80: ENGINE STARTING SYSTEM - DESCRIPTION AND OPERATION 80-11-00 1 RAM ALL ENGINE STARTING SYSTEM - MAINTENANCE PRACTICES",
+    "contexto_preview": "Os seguintes capítulos estão disponíveis nos manuais Boeing 737:\n- ATA 05: TIME LIMITS/MAINTENANCE CHECKS - MAINTENANCE PRACTICES\n- ATA 06: DIMENSIONS AND AREAS - MAINTENANCE PRACTICES\n- ATA 07: LIFTING - DESCRIPTION AND OPERATION 07-10-00 1 RAM ALL LIFTING AIRPLANE FOR MAINTENANCE - DESCRIPTION AND OPERATION 07-11-00 1 RAM ALL\n- ATA 08: \n- ATA 09: \n- ATA 10: PARKING AND MOORING - DESCRIPTION AND OPERATION 10-00-00 1 RAM ALL\n- ATA 12: \n- ATA 20: NACELLE STRUT COMPONENT CLEARANCES - MAINTENANCE P",
+    "resposta": "De acordo com o capítulo ATA 06: DIMENSIONS AND AREAS - MAINTENANCE PRACTICES, a largura do forward entry door (porta de entrada à frente) no diagrama de estações do corpo é de 1.016 mm (40,0 in).\n\nReferência: Capítulo ATA 06, página 3-1, tabela 3-1: \"Dimensions and Areas of the Boeing 737-100/200/300/400/500/600/700/800/900 Series Aircraft\".",
+    "resposta_detalhada": "De acordo com o capítulo ATA 06: DIMENSIONS AND AREAS - MAINTENANCE PRACTICES, a largura do forward entry door (porta de entrada à frente) no diagrama de estações do corpo é de 1.016 mm (40,0 in).\n\nReferência: Capítulo ATA 06, página 3-1, tabela 3-1: \"Dimensions and Areas of the Boeing 737-100/200/300/400/500/600/700/800/900 Series Aircraft\".",
+    "tempo_segundos": 2.497,
+    "metadados_llm": {
+      "status": "ok",
+      "tokens": {
+        "prompt_tokens": 1573,
+        "total_tokens": 1685,
+        "completion_tokens": 112,
+        "prompt_tokens_details": null
+      },
+      "finish_reason": "stop"
+    },
+    "metricas": {
+      "precisao": 0.2273,
+      "completude": 0.9636,
+      "especificidade": 1.0,
+      "rastreabilidade": 1.0,
+      "confianca": 1.0
+    },
+    "score_final": 75.91,
+    "tokens_estimados": 699,
+    "ground_truth": "30 polegadas",
+    "ragas_metrics": {
+      "faithfulness": 1.0,
+      "answer_relevancy": 1.0,
+      "context_precision": 1.0,
+      "context_recall": 1.0,
+      "answer_correctness": 0.0,
+      "answer_similarity": 1.0,
+      "numeric_verified": false
+    },
+    "ragas_score": 0.7143,
+    "numeric_check": {
+      "gt_value": 30.0,
+      "answer_value": 1.016,
+      "gt_unit": "in",
+      "answer_unit": "in",
+      "gt_comparison": "=",
+      "numeric_match": false,
+      "unit_match": true
+    }
+  },
+  {
+    "timestamp": "2026-09-19T06:04:57.826022",
+    "abordagem": "llm_puro",
+    "pergunta": "Quando o bubble do attitude gage não estiver centralizado na vidraça durante o nivelamento de rolo, qual ação deve ser tomada?",
+    "documentos_recuperados": [
+      "contexto_fixo_toc"
+    ],
+    "contexto_usado": "Os seguintes capítulos estão disponíveis nos manuais Boeing 737:\n- ATA 05: TIME LIMITS/MAINTENANCE CHECKS - MAINTENANCE PRACTICES\n- ATA 06: DIMENSIONS AND AREAS - MAINTENANCE PRACTICES\n- ATA 07: LIFTING - DESCRIPTION AND OPERATION 07-10-00 1 RAM ALL LIFTING AIRPLANE FOR MAINTENANCE - DESCRIPTION AND OPERATION 07-11-00 1 RAM ALL\n- ATA 08: \n- ATA 09: \n- ATA 10: PARKING AND MOORING - DESCRIPTION AND OPERATION 10-00-00 1 RAM ALL\n- ATA 12: \n- ATA 20: NACELLE STRUT COMPONENT CLEARANCES - MAINTENANCE PRACTICES\n- ATA 21: AIR CONDITIONING - DESCRIPTION AND OPERATION 21-00-00 1 RAM ALL\n- ATA 22: DIGITAL FLIGHT CONTROL SYSTEM - ADJUSTMENT/TEST\n- ATA 23: HF COMMUNICATION SYSTEM - ADJUSTMENT/TEST\n- ATA 24: ELECTRICAL POWER - DESCRIPTION AND OPERATION 24-00-00 1 RAM ALL ELECTRICAL POWER PRECAUTIONS - MAINTENANCE PRACTICES\n- ATA 25: EQUIPMENT/FURNISHINGS - DESCRIPTION AND OPERATION 25-00-00 1 RAM ALL EQUIPMENT/FURNISHINGS - CLEANING AND PAINTING\n- ATA 26: FIRE PROTECTION - DESCRIPTION AND OPERATION 26-00-00 1 RAM ALL CARGO FIRE CONTROL PANEL - REMOVAL/INSTALLATION\n- ATA 27: FLIGHT CONTROLS - DESCRIPTION AND OPERATION 27-00-00 1 RAM ALL CONTROL CABLE SYSTEMS - DESCRIPTION AND OPERATION 27-09-11 1 RAM ALL FLIGHT CONTROL CABLES - MAINTENANCE PRACTICES\n- ATA 28: FUEL - DESCRIPTION AND OPERATION 28-00-00 1 RAM ALL\n- ATA 29: HYDRAULIC POWER - DESCRIPTION AND OPERATION 29-00-00 1 RAM ALL\n- ATA 30: ICE AND RAIN PROTECTION - DESCRIPTION AND OPERATION 30-00-00 1 RAM ALL COMBINED WINDOW AND PITOT HEAT MODULE (P5-9) - REMOVAL/INSTALLATION\n- ATA 31: FLIGHT DATA RECORDER SYSTEM - DESCRIPTION AND OPERATION 31-24-00 4 1 RAM ALL FLIGHT DATA RECORDER - TROUBLE SHOOTING 31-24-00 3 101 RAM ALL FLIGHT DATA RECORDER - MAINTENANCE PRACTICES\n- ATA 32: LANDING GEAR - DESCRIPTION AND OPERATION 32-00-00 1 RAM ALL GROUND LOCK ASSEMBLIES - MAINTENANCE PRACTICES\n- ATA 33: INSTRUMENT AND PANEL LIGHTS - MAINTENANCE PRACTICE\n- ATA 34: PITOT-STATIC SYSTEM - MAINTENANCE PRACTICES\n- ATA 35: OXYGEN SYSTEMS - DESCRIPTION AND OPERATION 35-00-00 1 RAM ALL\n- ATA 36: PNEUMATIC SYSTEM - DESCRIPTION AND OPERATION 36-05-00 1 RAM ALL PNEUMATIC SYSTEM - MAINTENANCE PRACTICES (PRESSURIZE/DEPRESSURIZE PNEUMATIC SYSTEM)\n- ATA 38: \n- ATA 47: INERT GAS SYSTEM - DESCRIPTION AND OPERATION 47-00-00 1 RAM ALL POST SB 737-47-1008 OR POST SB 737-47-1007\n- ATA 49: AIRBORNE AUXILIARY POWER - DESCRIPTION AND OPERATION 49-00-00 1 RAM 001, 002 AIRBORNE AUXILIARY POWER - TROUBLESHOOTING 49-00-00 2 101 RAM 001, 002; APU WITH THE -5 FADEC AND SUBSEQUENT DASH NUMBERS AIRBORNE AUXILIARY POWER - TASK CARD DEFINITIONS\n- ATA 51: CORROSION PREVENTION - CORROSION REMOVAL - MAINTENANCE PRACTICES\n- ATA 52: \n- ATA 53: FUSELAGE - DESCRIPTION AND OPERATION 53-00-00 1 RAM ALL\n- ATA 54: NACELLES/PYLONS - DESCRIPTION AND OPERATION 54-01-00 1 RAM ALL\n- ATA 55: STABILIZERS - DESCRIPTION AND OPERATION 55-00-00 1 RAM ALL RUDDER, ELEVATOR AND HORIZONTAL STABILIZERS - INSPECTION/CHECK\n- ATA 56: WINDOWS - DESCRIPTION AND OPERATION 56-00-00 1 RAM ALL FLIGHT COMPARTMENT WINDOWS - DESCRIPTION AND OPERATION 56-10-00 1 RAM ALL CONTROL CABIN FIXED WINDOWS - DESCRIPTION AND OPERATION 56-11-00 1 RAM ALL CONTROL CABIN FIXED WINDOWS - INSPECTION/CHECK\n- ATA 57: WINGS - DESCRIPTION AND OPERATION 57-00-00 1 RAM ALL\n- ATA 70: TERMS AND ABBREVIATIONS - MAINTENANCE PRACTICES\n- ATA 71: POWER PLANT- DESCRIPTION AND OPERATION 71-00-00 1 RAM ALL\n- ATA 72: \n- ATA 73: ENGINE FUEL AND CONTROL - MAINTENANCE PRACTICES\n- ATA 74: \n- ATA 76: ENGINE CONTROL SYSTEM - DESCRIPTION AND OPERATION 76-11-00 1 RAM ALL ENGINE CONTROL SYSTEM - MAINTENANCE PRACTICES\n- ATA 77: ENGINE TACHOMETER SYSTEM - DESCRIPTION AND OPERATION 77-12-00 1 RAM ALL ENGINE TACHOMETER SYSTEM - ADJUSTMENT/TEST\n- ATA 78: EXHAUST - DESCRIPTION AND OPERATION 78-00-00 1 RAM ALL EXHAUST - DEACTIVATION/REACTIVATION - DDG MAINTENANCE PRACTICES\n- ATA 79: \n- ATA 80: ENGINE STARTING SYSTEM - DESCRIPTION AND OPERATION 80-11-00 1 RAM ALL ENGINE STARTING SYSTEM - MAINTENANCE PRACTICES",
+    "contexto_preview": "Os seguintes capítulos estão disponíveis nos manuais Boeing 737:\n- ATA 05: TIME LIMITS/MAINTENANCE CHECKS - MAINTENANCE PRACTICES\n- ATA 06: DIMENSIONS AND AREAS - MAINTENANCE PRACTICES\n- ATA 07: LIFTING - DESCRIPTION AND OPERATION 07-10-00 1 RAM ALL LIFTING AIRPLANE FOR MAINTENANCE - DESCRIPTION AND OPERATION 07-11-00 1 RAM ALL\n- ATA 08: \n- ATA 09: \n- ATA 10: PARKING AND MOORING - DESCRIPTION AND OPERATION 10-00-00 1 RAM ALL\n- ATA 12: \n- ATA 20: NACELLE STRUT COMPONENT CLEARANCES - MAINTENANCE P",
+    "resposta": "Resposta direta:\nDe acordo com o manual ATA 27, capítulo 27-09-11, \"FLIGHT CONTROL CABLES - MAINTENANCE PRACTICES\", se o bubble do attitude gage não estiver centralizado na vidraça durante o nivelamento de rolo, a ação a ser tomada é verificar e ajustar o sistema de controle de voo, incluindo os cabos de controle, para garantir que estejam alinhados e não tenham danos.\n\nDetalhes técnicos:\nO manual ATA 27, capítulo 27-09-11, especifica que os cabos de controle devem ser verificados e ajustados para garantir que estejam alinhados e não tenham danos. Além disso, o manual recomenda que os cabos de controle sejam inspecionados e testados para garantir que estejam funcionando corretamente. Se o problema persistir, é recomendável consultar o manual de manutenção da aeronave ou um técnico especializado.\n\nReferência à fonte:\nATA 27, capítulo 27-09-11, \"FLIGHT CONTROL CABLES - MAINTENANCE PRACTICES\", Boeing 737.",
+    "resposta_detalhada": "Resposta direta:\nDe acordo com o manual ATA 27, capítulo 27-09-11, \"FLIGHT CONTROL CABLES - MAINTENANCE PRACTICES\", se o bubble do attitude gage não estiver centralizado na vidraça durante o nivelamento de rolo, a ação a ser tomada é verificar e ajustar o sistema de controle de voo, incluindo os cabos de controle, para garantir que estejam alinhados e não tenham danos.\n\nDetalhes técnicos:\nO manual ATA 27, capítulo 27-09-11, especifica que os cabos de controle devem ser verificados e ajustados para garantir que estejam alinhados e não tenham danos. Além disso, o manual recomenda que os cabos de controle sejam inspecionados e testados para garantir que estejam funcionando corretamente. Se o problema persistir, é recomendável consultar o manual de manutenção da aeronave ou um técnico especializado.\n\nReferência à fonte:\nATA 27, capítulo 27-09-11, \"FLIGHT CONTROL CABLES - MAINTENANCE PRACTICES\", Boeing 737.",
+    "tempo_segundos": 6.76,
+    "metadados_llm": {
+      "status": "ok",
+      "tokens": {
+        "prompt_tokens": 1579,
+        "total_tokens": 1842,
+        "completion_tokens": 263,
+        "prompt_tokens_details": null
+      },
+      "finish_reason": "stop"
+    },
+    "metricas": {
+      "precisao": 0.1034,
+      "completude": 0.9143,
+      "especificidade": 1.0,
+      "rastreabilidade": 1.0,
+      "confianca": 1.0
+    },
+    "score_final": 70.96,
+    "tokens_estimados": 788,
+    "ground_truth": "Levantar ou abaixar os lados da aeronave conforme necessário para centralizar o bubble.",
+    "ragas_metrics": {
+      "faithfulness": 1.0,
+      "answer_relevancy": 1.0,
+      "context_precision": 1.0,
+      "context_recall": 1.0,
+      "answer_correctness": 1.0,
+      "answer_similarity": 1.0
+    },
+    "ragas_score": 1.0,
+    "numeric_check": {
+      "gt_value": null,
+      "answer_value": 27.0,
+      "gt_unit": null,
+      "answer_unit": null,
+      "gt_comparison": "=",
+      "numeric_match": null,
+      "unit_match": null
+    }
+  },
+  {
+    "timestamp": "2026-09-19T06:05:02.324094",
+    "abordagem": "llm_puro",
+    "pergunta": "Qual é a sequência de procedimentos de manutenção para a porta de entrada frontal?",
+    "documentos_recuperados": [
+      "contexto_fixo_toc"
+    ],
+    "contexto_usado": "Os seguintes capítulos estão disponíveis nos manuais Boeing 737:\n- ATA 05: TIME LIMITS/MAINTENANCE CHECKS - MAINTENANCE PRACTICES\n- ATA 06: DIMENSIONS AND AREAS - MAINTENANCE PRACTICES\n- ATA 07: LIFTING - DESCRIPTION AND OPERATION 07-10-00 1 RAM ALL LIFTING AIRPLANE FOR MAINTENANCE - DESCRIPTION AND OPERATION 07-11-00 1 RAM ALL\n- ATA 08: \n- ATA 09: \n- ATA 10: PARKING AND MOORING - DESCRIPTION AND OPERATION 10-00-00 1 RAM ALL\n- ATA 12: \n- ATA 20: NACELLE STRUT COMPONENT CLEARANCES - MAINTENANCE PRACTICES\n- ATA 21: AIR CONDITIONING - DESCRIPTION AND OPERATION 21-00-00 1 RAM ALL\n- ATA 22: DIGITAL FLIGHT CONTROL SYSTEM - ADJUSTMENT/TEST\n- ATA 23: HF COMMUNICATION SYSTEM - ADJUSTMENT/TEST\n- ATA 24: ELECTRICAL POWER - DESCRIPTION AND OPERATION 24-00-00 1 RAM ALL ELECTRICAL POWER PRECAUTIONS - MAINTENANCE PRACTICES\n- ATA 25: EQUIPMENT/FURNISHINGS - DESCRIPTION AND OPERATION 25-00-00 1 RAM ALL EQUIPMENT/FURNISHINGS - CLEANING AND PAINTING\n- ATA 26: FIRE PROTECTION - DESCRIPTION AND OPERATION 26-00-00 1 RAM ALL CARGO FIRE CONTROL PANEL - REMOVAL/INSTALLATION\n- ATA 27: FLIGHT CONTROLS - DESCRIPTION AND OPERATION 27-00-00 1 RAM ALL CONTROL CABLE SYSTEMS - DESCRIPTION AND OPERATION 27-09-11 1 RAM ALL FLIGHT CONTROL CABLES - MAINTENANCE PRACTICES\n- ATA 28: FUEL - DESCRIPTION AND OPERATION 28-00-00 1 RAM ALL\n- ATA 29: HYDRAULIC POWER - DESCRIPTION AND OPERATION 29-00-00 1 RAM ALL\n- ATA 30: ICE AND RAIN PROTECTION - DESCRIPTION AND OPERATION 30-00-00 1 RAM ALL COMBINED WINDOW AND PITOT HEAT MODULE (P5-9) - REMOVAL/INSTALLATION\n- ATA 31: FLIGHT DATA RECORDER SYSTEM - DESCRIPTION AND OPERATION 31-24-00 4 1 RAM ALL FLIGHT DATA RECORDER - TROUBLE SHOOTING 31-24-00 3 101 RAM ALL FLIGHT DATA RECORDER - MAINTENANCE PRACTICES\n- ATA 32: LANDING GEAR - DESCRIPTION AND OPERATION 32-00-00 1 RAM ALL GROUND LOCK ASSEMBLIES - MAINTENANCE PRACTICES\n- ATA 33: INSTRUMENT AND PANEL LIGHTS - MAINTENANCE PRACTICE\n- ATA 34: PITOT-STATIC SYSTEM - MAINTENANCE PRACTICES\n- ATA 35: OXYGEN SYSTEMS - DESCRIPTION AND OPERATION 35-00-00 1 RAM ALL\n- ATA 36: PNEUMATIC SYSTEM - DESCRIPTION AND OPERATION 36-05-00 1 RAM ALL PNEUMATIC SYSTEM - MAINTENANCE PRACTICES (PRESSURIZE/DEPRESSURIZE PNEUMATIC SYSTEM)\n- ATA 38: \n- ATA 47: INERT GAS SYSTEM - DESCRIPTION AND OPERATION 47-00-00 1 RAM ALL POST SB 737-47-1008 OR POST SB 737-47-1007\n- ATA 49: AIRBORNE AUXILIARY POWER - DESCRIPTION AND OPERATION 49-00-00 1 RAM 001, 002 AIRBORNE AUXILIARY POWER - TROUBLESHOOTING 49-00-00 2 101 RAM 001, 002; APU WITH THE -5 FADEC AND SUBSEQUENT DASH NUMBERS AIRBORNE AUXILIARY POWER - TASK CARD DEFINITIONS\n- ATA 51: CORROSION PREVENTION - CORROSION REMOVAL - MAINTENANCE PRACTICES\n- ATA 52: \n- ATA 53: FUSELAGE - DESCRIPTION AND OPERATION 53-00-00 1 RAM ALL\n- ATA 54: NACELLES/PYLONS - DESCRIPTION AND OPERATION 54-01-00 1 RAM ALL\n- ATA 55: STABILIZERS - DESCRIPTION AND OPERATION 55-00-00 1 RAM ALL RUDDER, ELEVATOR AND HORIZONTAL STABILIZERS - INSPECTION/CHECK\n- ATA 56: WINDOWS - DESCRIPTION AND OPERATION 56-00-00 1 RAM ALL FLIGHT COMPARTMENT WINDOWS - DESCRIPTION AND OPERATION 56-10-00 1 RAM ALL CONTROL CABIN FIXED WINDOWS - DESCRIPTION AND OPERATION 56-11-00 1 RAM ALL CONTROL CABIN FIXED WINDOWS - INSPECTION/CHECK\n- ATA 57: WINGS - DESCRIPTION AND OPERATION 57-00-00 1 RAM ALL\n- ATA 70: TERMS AND ABBREVIATIONS - MAINTENANCE PRACTICES\n- ATA 71: POWER PLANT- DESCRIPTION AND OPERATION 71-00-00 1 RAM ALL\n- ATA 72: \n- ATA 73: ENGINE FUEL AND CONTROL - MAINTENANCE PRACTICES\n- ATA 74: \n- ATA 76: ENGINE CONTROL SYSTEM - DESCRIPTION AND OPERATION 76-11-00 1 RAM ALL ENGINE CONTROL SYSTEM - MAINTENANCE PRACTICES\n- ATA 77: ENGINE TACHOMETER SYSTEM - DESCRIPTION AND OPERATION 77-12-00 1 RAM ALL ENGINE TACHOMETER SYSTEM - ADJUSTMENT/TEST\n- ATA 78: EXHAUST - DESCRIPTION AND OPERATION 78-00-00 1 RAM ALL EXHAUST - DEACTIVATION/REACTIVATION - DDG MAINTENANCE PRACTICES\n- ATA 79: \n- ATA 80: ENGINE STARTING SYSTEM - DESCRIPTION AND OPERATION 80-11-00 1 RAM ALL ENGINE STARTING SYSTEM - MAINTENANCE PRACTICES",
+    "contexto_preview": "Os seguintes capítulos estão disponíveis nos manuais Boeing 737:\n- ATA 05: TIME LIMITS/MAINTENANCE CHECKS - MAINTENANCE PRACTICES\n- ATA 06: DIMENSIONS AND AREAS - MAINTENANCE PRACTICES\n- ATA 07: LIFTING - DESCRIPTION AND OPERATION 07-10-00 1 RAM ALL LIFTING AIRPLANE FOR MAINTENANCE - DESCRIPTION AND OPERATION 07-11-00 1 RAM ALL\n- ATA 08: \n- ATA 09: \n- ATA 10: PARKING AND MOORING - DESCRIPTION AND OPERATION 10-00-00 1 RAM ALL\n- ATA 12: \n- ATA 20: NACELLE STRUT COMPONENT CLEARANCES - MAINTENANCE P",
+    "resposta": "Não há informações disponíveis no contexto fornecido sobre a sequência de procedimentos de manutenção para a porta de entrada frontal. No entanto, posso sugerir algumas opções para encontrar a informação desejada:\n\n1. Verificar o manual ATA 05: TIME LIMITS/MAINTENANCE CHECKS - MAINTENANCE PRACTICES, que pode conter informações sobre a manutenção da porta de entrada frontal.\n2. Verificar o manual ATA 53: FUSELAGE - DESCRIPTION AND OPERATION, que pode conter informações sobre a manutenção da fuselagem, incluindo a porta de entrada frontal.\n3. Verificar o manual ATA 56: WINDOWS - DESCRIPTION AND OPERATION, que pode conter informações sobre a manutenção das janelas, incluindo a porta de entrada frontal.\n\nSe você tiver acesso a esses manuais, pode verificar se há informações sobre a sequência de procedimentos de manutenção para a porta de entrada frontal.\n\nReferência: Não há informações disponíveis no contexto fornecido.",
+    "resposta_detalhada": "Não há informações disponíveis no contexto fornecido sobre a sequência de procedimentos de manutenção para a porta de entrada frontal. No entanto, posso sugerir algumas opções para encontrar a informação desejada:\n\n1. Verificar o manual ATA 05: TIME LIMITS/MAINTENANCE CHECKS - MAINTENANCE PRACTICES, que pode conter informações sobre a manutenção da porta de entrada frontal.\n2. Verificar o manual ATA 53: FUSELAGE - DESCRIPTION AND OPERATION, que pode conter informações sobre a manutenção da fuselagem, incluindo a porta de entrada frontal.\n3. Verificar o manual ATA 56: WINDOWS - DESCRIPTION AND OPERATION, que pode conter informações sobre a manutenção das janelas, incluindo a porta de entrada frontal.\n\nSe você tiver acesso a esses manuais, pode verificar se há informações sobre a sequência de procedimentos de manutenção para a porta de entrada frontal.\n\nReferência: Não há informações disponíveis no contexto fornecido.",
+    "tempo_segundos": 4.494,
+    "metadados_llm": {
+      "status": "ok",
+      "tokens": {
+        "prompt_tokens": 1566,
+        "total_tokens": 1789,
+        "completion_tokens": 223,
+        "prompt_tokens_details": null
+      },
+      "finish_reason": "stop"
+    },
+    "metricas": {
+      "precisao": 0.2619,
+      "completude": 0.9109,
+      "especificidade": 0.6667,
+      "rastreabilidade": 0.6667,
+      "confianca": 0.5
+    },
+    "score_final": 58.96,
+    "tokens_estimados": 786,
+    "ground_truth": "Remoção, Instalação, Ajuste/Teste, Inspeção e Reparos.",
+    "ragas_metrics": {
+      "faithfulness": 1.0,
+      "answer_relevancy": 1.0,
+      "context_precision": 1.0,
+      "context_recall": 1.0,
+      "answer_correctness": 1.0,
+      "answer_similarity": 1.0
+    },
+    "ragas_score": 1.0,
+    "numeric_check": {
+      "gt_value": null,
+      "answer_value": 1.0,
+      "gt_unit": null,
+      "answer_unit": null,
+      "gt_comparison": "=",
+      "numeric_match": null,
+      "unit_match": null
+    }
+  },
+  {
+    "timestamp": "2026-09-19T06:05:10.911664",
+    "abordagem": "llm_puro",
+    "pergunta": "Quais sensores são integrados ao MEC para controlar a velocidade do rotor N2, e quais parâmetros eles medem?",
+    "documentos_recuperados": [
+      "contexto_fixo_toc"
+    ],
+    "contexto_usado": "Os seguintes capítulos estão disponíveis nos manuais Boeing 737:\n- ATA 05: TIME LIMITS/MAINTENANCE CHECKS - MAINTENANCE PRACTICES\n- ATA 06: DIMENSIONS AND AREAS - MAINTENANCE PRACTICES\n- ATA 07: LIFTING - DESCRIPTION AND OPERATION 07-10-00 1 RAM ALL LIFTING AIRPLANE FOR MAINTENANCE - DESCRIPTION AND OPERATION 07-11-00 1 RAM ALL\n- ATA 08: \n- ATA 09: \n- ATA 10: PARKING AND MOORING - DESCRIPTION AND OPERATION 10-00-00 1 RAM ALL\n- ATA 12: \n- ATA 20: NACELLE STRUT COMPONENT CLEARANCES - MAINTENANCE PRACTICES\n- ATA 21: AIR CONDITIONING - DESCRIPTION AND OPERATION 21-00-00 1 RAM ALL\n- ATA 22: DIGITAL FLIGHT CONTROL SYSTEM - ADJUSTMENT/TEST\n- ATA 23: HF COMMUNICATION SYSTEM - ADJUSTMENT/TEST\n- ATA 24: ELECTRICAL POWER - DESCRIPTION AND OPERATION 24-00-00 1 RAM ALL ELECTRICAL POWER PRECAUTIONS - MAINTENANCE PRACTICES\n- ATA 25: EQUIPMENT/FURNISHINGS - DESCRIPTION AND OPERATION 25-00-00 1 RAM ALL EQUIPMENT/FURNISHINGS - CLEANING AND PAINTING\n- ATA 26: FIRE PROTECTION - DESCRIPTION AND OPERATION 26-00-00 1 RAM ALL CARGO FIRE CONTROL PANEL - REMOVAL/INSTALLATION\n- ATA 27: FLIGHT CONTROLS - DESCRIPTION AND OPERATION 27-00-00 1 RAM ALL CONTROL CABLE SYSTEMS - DESCRIPTION AND OPERATION 27-09-11 1 RAM ALL FLIGHT CONTROL CABLES - MAINTENANCE PRACTICES\n- ATA 28: FUEL - DESCRIPTION AND OPERATION 28-00-00 1 RAM ALL\n- ATA 29: HYDRAULIC POWER - DESCRIPTION AND OPERATION 29-00-00 1 RAM ALL\n- ATA 30: ICE AND RAIN PROTECTION - DESCRIPTION AND OPERATION 30-00-00 1 RAM ALL COMBINED WINDOW AND PITOT HEAT MODULE (P5-9) - REMOVAL/INSTALLATION\n- ATA 31: FLIGHT DATA RECORDER SYSTEM - DESCRIPTION AND OPERATION 31-24-00 4 1 RAM ALL FLIGHT DATA RECORDER - TROUBLE SHOOTING 31-24-00 3 101 RAM ALL FLIGHT DATA RECORDER - MAINTENANCE PRACTICES\n- ATA 32: LANDING GEAR - DESCRIPTION AND OPERATION 32-00-00 1 RAM ALL GROUND LOCK ASSEMBLIES - MAINTENANCE PRACTICES\n- ATA 33: INSTRUMENT AND PANEL LIGHTS - MAINTENANCE PRACTICE\n- ATA 34: PITOT-STATIC SYSTEM - MAINTENANCE PRACTICES\n- ATA 35: OXYGEN SYSTEMS - DESCRIPTION AND OPERATION 35-00-00 1 RAM ALL\n- ATA 36: PNEUMATIC SYSTEM - DESCRIPTION AND OPERATION 36-05-00 1 RAM ALL PNEUMATIC SYSTEM - MAINTENANCE PRACTICES (PRESSURIZE/DEPRESSURIZE PNEUMATIC SYSTEM)\n- ATA 38: \n- ATA 47: INERT GAS SYSTEM - DESCRIPTION AND OPERATION 47-00-00 1 RAM ALL POST SB 737-47-1008 OR POST SB 737-47-1007\n- ATA 49: AIRBORNE AUXILIARY POWER - DESCRIPTION AND OPERATION 49-00-00 1 RAM 001, 002 AIRBORNE AUXILIARY POWER - TROUBLESHOOTING 49-00-00 2 101 RAM 001, 002; APU WITH THE -5 FADEC AND SUBSEQUENT DASH NUMBERS AIRBORNE AUXILIARY POWER - TASK CARD DEFINITIONS\n- ATA 51: CORROSION PREVENTION - CORROSION REMOVAL - MAINTENANCE PRACTICES\n- ATA 52: \n- ATA 53: FUSELAGE - DESCRIPTION AND OPERATION 53-00-00 1 RAM ALL\n- ATA 54: NACELLES/PYLONS - DESCRIPTION AND OPERATION 54-01-00 1 RAM ALL\n- ATA 55: STABILIZERS - DESCRIPTION AND OPERATION 55-00-00 1 RAM ALL RUDDER, ELEVATOR AND HORIZONTAL STABILIZERS - INSPECTION/CHECK\n- ATA 56: WINDOWS - DESCRIPTION AND OPERATION 56-00-00 1 RAM ALL FLIGHT COMPARTMENT WINDOWS - DESCRIPTION AND OPERATION 56-10-00 1 RAM ALL CONTROL CABIN FIXED WINDOWS - DESCRIPTION AND OPERATION 56-11-00 1 RAM ALL CONTROL CABIN FIXED WINDOWS - INSPECTION/CHECK\n- ATA 57: WINGS - DESCRIPTION AND OPERATION 57-00-00 1 RAM ALL\n- ATA 70: TERMS AND ABBREVIATIONS - MAINTENANCE PRACTICES\n- ATA 71: POWER PLANT- DESCRIPTION AND OPERATION 71-00-00 1 RAM ALL\n- ATA 72: \n- ATA 73: ENGINE FUEL AND CONTROL - MAINTENANCE PRACTICES\n- ATA 74: \n- ATA 76: ENGINE CONTROL SYSTEM - DESCRIPTION AND OPERATION 76-11-00 1 RAM ALL ENGINE CONTROL SYSTEM - MAINTENANCE PRACTICES\n- ATA 77: ENGINE TACHOMETER SYSTEM - DESCRIPTION AND OPERATION 77-12-00 1 RAM ALL ENGINE TACHOMETER SYSTEM - ADJUSTMENT/TEST\n- ATA 78: EXHAUST - DESCRIPTION AND OPERATION 78-00-00 1 RAM ALL EXHAUST - DEACTIVATION/REACTIVATION - DDG MAINTENANCE PRACTICES\n- ATA 79: \n- ATA 80: ENGINE STARTING SYSTEM - DESCRIPTION AND OPERATION 80-11-00 1 RAM ALL ENGINE STARTING SYSTEM - MAINTENANCE PRACTICES",
+    "contexto_preview": "Os seguintes capítulos estão disponíveis nos manuais Boeing 737:\n- ATA 05: TIME LIMITS/MAINTENANCE CHECKS - MAINTENANCE PRACTICES\n- ATA 06: DIMENSIONS AND AREAS - MAINTENANCE PRACTICES\n- ATA 07: LIFTING - DESCRIPTION AND OPERATION 07-10-00 1 RAM ALL LIFTING AIRPLANE FOR MAINTENANCE - DESCRIPTION AND OPERATION 07-11-00 1 RAM ALL\n- ATA 08: \n- ATA 09: \n- ATA 10: PARKING AND MOORING - DESCRIPTION AND OPERATION 10-00-00 1 RAM ALL\n- ATA 12: \n- ATA 20: NACELLE STRUT COMPONENT CLEARANCES - MAINTENANCE P",
+    "resposta": "Resposta direta:\nOs sensores integrados ao Motor de Embrulho (MEC) para controlar a velocidade do rotor N2 são os sensores de velocidade de rotor (RPM) e os sensores de pressão de óleo. Esses sensores medem a velocidade de rotação do rotor N2 e a pressão do óleo no sistema de lubrificação do motor, respectivamente.\n\nDetalhes técnicos:\nDe acordo com o manual ATA 29: HYDRAULIC POWER - DESCRIPTION AND OPERATION, o MEC é equipado com sensores de velocidade de rotor (RPM) e sensores de pressão de óleo para controlar a velocidade do rotor N2. Os sensores de velocidade de rotor medem a velocidade de rotação do rotor N2 em rpm (revoluções por minuto), enquanto os sensores de pressão de óleo medem a pressão do óleo no sistema de lubrificação do motor em psi (libras por polegada quadrada). Esses parâmetros são fundamentais para o controle da velocidade do rotor N2 e para a manutenção do desempenho do motor.\n\nReferência à fonte:\nConforme o capítulo 29-00-00 do manual ATA 29: HYDRAULIC POWER - DESCRIPTION AND OPERATION.",
+    "resposta_detalhada": "Resposta direta:\nOs sensores integrados ao Motor de Embrulho (MEC) para controlar a velocidade do rotor N2 são os sensores de velocidade de rotor (RPM) e os sensores de pressão de óleo. Esses sensores medem a velocidade de rotação do rotor N2 e a pressão do óleo no sistema de lubrificação do motor, respectivamente.\n\nDetalhes técnicos:\nDe acordo com o manual ATA 29: HYDRAULIC POWER - DESCRIPTION AND OPERATION, o MEC é equipado com sensores de velocidade de rotor (RPM) e sensores de pressão de óleo para controlar a velocidade do rotor N2. Os sensores de velocidade de rotor medem a velocidade de rotação do rotor N2 em rpm (revoluções por minuto), enquanto os sensores de pressão de óleo medem a pressão do óleo no sistema de lubrificação do motor em psi (libras por polegada quadrada). Esses parâmetros são fundamentais para o controle da velocidade do rotor N2 e para a manutenção do desempenho do motor.\n\nReferência à fonte:\nConforme o capítulo 29-00-00 do manual ATA 29: HYDRAULIC POWER - DESCRIPTION AND OPERATION.",
+    "tempo_segundos": 8.584,
+    "metadados_llm": {
+      "status": "ok",
+      "tokens": {
+        "prompt_tokens": 1579,
+        "total_tokens": 1878,
+        "completion_tokens": 299,
+        "prompt_tokens_details": null
+      },
+      "finish_reason": "stop"
+    },
+    "metricas": {
+      "precisao": 0.0952,
+      "completude": 0.8385,
+      "especificidade": 1.0,
+      "rastreabilidade": 1.0,
+      "confianca": 1.0
+    },
+    "score_final": 68.82,
+    "tokens_estimados": 819,
+    "ground_truth": "O MEC integra os seguintes sensores: ângulo do alavanca de potência (PLA), temperatura de entrada do compressor principal (T25), temperatura de entrada do ventilador (T2), pressão de entrada do ventilador (PS12) e velocidade do rotor N2.",
+    "ragas_metrics": {
+      "faithfulness": 1.0,
+      "answer_relevancy": 1.0,
+      "context_precision": 1.0,
+      "context_recall": 1.0,
+      "answer_correctness": 0.0,
+      "answer_similarity": 1.0,
+      "numeric_verified": false
+    },
+    "ragas_score": 0.7143,
+    "numeric_check": {
+      "gt_value": 25.0,
+      "answer_value": 2.0,
+      "gt_unit": null,
+      "answer_unit": "in",
+      "gt_comparison": "=",
+      "numeric_match": false,
+      "unit_match": true
+    }
+  },
+  {
+    "timestamp": "2026-09-19T06:05:15.582271",
+    "abordagem": "llm_puro",
+    "pergunta": "Qual é o limite máximo de extensão/compressão do nariz da roda que deve ser respeitado durante o reboque para evitar danos internos?",
+    "documentos_recuperados": [
+      "contexto_fixo_toc"
+    ],
+    "contexto_usado": "Os seguintes capítulos estão disponíveis nos manuais Boeing 737:\n- ATA 05: TIME LIMITS/MAINTENANCE CHECKS - MAINTENANCE PRACTICES\n- ATA 06: DIMENSIONS AND AREAS - MAINTENANCE PRACTICES\n- ATA 07: LIFTING - DESCRIPTION AND OPERATION 07-10-00 1 RAM ALL LIFTING AIRPLANE FOR MAINTENANCE - DESCRIPTION AND OPERATION 07-11-00 1 RAM ALL\n- ATA 08: \n- ATA 09: \n- ATA 10: PARKING AND MOORING - DESCRIPTION AND OPERATION 10-00-00 1 RAM ALL\n- ATA 12: \n- ATA 20: NACELLE STRUT COMPONENT CLEARANCES - MAINTENANCE PRACTICES\n- ATA 21: AIR CONDITIONING - DESCRIPTION AND OPERATION 21-00-00 1 RAM ALL\n- ATA 22: DIGITAL FLIGHT CONTROL SYSTEM - ADJUSTMENT/TEST\n- ATA 23: HF COMMUNICATION SYSTEM - ADJUSTMENT/TEST\n- ATA 24: ELECTRICAL POWER - DESCRIPTION AND OPERATION 24-00-00 1 RAM ALL ELECTRICAL POWER PRECAUTIONS - MAINTENANCE PRACTICES\n- ATA 25: EQUIPMENT/FURNISHINGS - DESCRIPTION AND OPERATION 25-00-00 1 RAM ALL EQUIPMENT/FURNISHINGS - CLEANING AND PAINTING\n- ATA 26: FIRE PROTECTION - DESCRIPTION AND OPERATION 26-00-00 1 RAM ALL CARGO FIRE CONTROL PANEL - REMOVAL/INSTALLATION\n- ATA 27: FLIGHT CONTROLS - DESCRIPTION AND OPERATION 27-00-00 1 RAM ALL CONTROL CABLE SYSTEMS - DESCRIPTION AND OPERATION 27-09-11 1 RAM ALL FLIGHT CONTROL CABLES - MAINTENANCE PRACTICES\n- ATA 28: FUEL - DESCRIPTION AND OPERATION 28-00-00 1 RAM ALL\n- ATA 29: HYDRAULIC POWER - DESCRIPTION AND OPERATION 29-00-00 1 RAM ALL\n- ATA 30: ICE AND RAIN PROTECTION - DESCRIPTION AND OPERATION 30-00-00 1 RAM ALL COMBINED WINDOW AND PITOT HEAT MODULE (P5-9) - REMOVAL/INSTALLATION\n- ATA 31: FLIGHT DATA RECORDER SYSTEM - DESCRIPTION AND OPERATION 31-24-00 4 1 RAM ALL FLIGHT DATA RECORDER - TROUBLE SHOOTING 31-24-00 3 101 RAM ALL FLIGHT DATA RECORDER - MAINTENANCE PRACTICES\n- ATA 32: LANDING GEAR - DESCRIPTION AND OPERATION 32-00-00 1 RAM ALL GROUND LOCK ASSEMBLIES - MAINTENANCE PRACTICES\n- ATA 33: INSTRUMENT AND PANEL LIGHTS - MAINTENANCE PRACTICE\n- ATA 34: PITOT-STATIC SYSTEM - MAINTENANCE PRACTICES\n- ATA 35: OXYGEN SYSTEMS - DESCRIPTION AND OPERATION 35-00-00 1 RAM ALL\n- ATA 36: PNEUMATIC SYSTEM - DESCRIPTION AND OPERATION 36-05-00 1 RAM ALL PNEUMATIC SYSTEM - MAINTENANCE PRACTICES (PRESSURIZE/DEPRESSURIZE PNEUMATIC SYSTEM)\n- ATA 38: \n- ATA 47: INERT GAS SYSTEM - DESCRIPTION AND OPERATION 47-00-00 1 RAM ALL POST SB 737-47-1008 OR POST SB 737-47-1007\n- ATA 49: AIRBORNE AUXILIARY POWER - DESCRIPTION AND OPERATION 49-00-00 1 RAM 001, 002 AIRBORNE AUXILIARY POWER - TROUBLESHOOTING 49-00-00 2 101 RAM 001, 002; APU WITH THE -5 FADEC AND SUBSEQUENT DASH NUMBERS AIRBORNE AUXILIARY POWER - TASK CARD DEFINITIONS\n- ATA 51: CORROSION PREVENTION - CORROSION REMOVAL - MAINTENANCE PRACTICES\n- ATA 52: \n- ATA 53: FUSELAGE - DESCRIPTION AND OPERATION 53-00-00 1 RAM ALL\n- ATA 54: NACELLES/PYLONS - DESCRIPTION AND OPERATION 54-01-00 1 RAM ALL\n- ATA 55: STABILIZERS - DESCRIPTION AND OPERATION 55-00-00 1 RAM ALL RUDDER, ELEVATOR AND HORIZONTAL STABILIZERS - INSPECTION/CHECK\n- ATA 56: WINDOWS - DESCRIPTION AND OPERATION 56-00-00 1 RAM ALL FLIGHT COMPARTMENT WINDOWS - DESCRIPTION AND OPERATION 56-10-00 1 RAM ALL CONTROL CABIN FIXED WINDOWS - DESCRIPTION AND OPERATION 56-11-00 1 RAM ALL CONTROL CABIN FIXED WINDOWS - INSPECTION/CHECK\n- ATA 57: WINGS - DESCRIPTION AND OPERATION 57-00-00 1 RAM ALL\n- ATA 70: TERMS AND ABBREVIATIONS - MAINTENANCE PRACTICES\n- ATA 71: POWER PLANT- DESCRIPTION AND OPERATION 71-00-00 1 RAM ALL\n- ATA 72: \n- ATA 73: ENGINE FUEL AND CONTROL - MAINTENANCE PRACTICES\n- ATA 74: \n- ATA 76: ENGINE CONTROL SYSTEM - DESCRIPTION AND OPERATION 76-11-00 1 RAM ALL ENGINE CONTROL SYSTEM - MAINTENANCE PRACTICES\n- ATA 77: ENGINE TACHOMETER SYSTEM - DESCRIPTION AND OPERATION 77-12-00 1 RAM ALL ENGINE TACHOMETER SYSTEM - ADJUSTMENT/TEST\n- ATA 78: EXHAUST - DESCRIPTION AND OPERATION 78-00-00 1 RAM ALL EXHAUST - DEACTIVATION/REACTIVATION - DDG MAINTENANCE PRACTICES\n- ATA 79: \n- ATA 80: ENGINE STARTING SYSTEM - DESCRIPTION AND OPERATION 80-11-00 1 RAM ALL ENGINE STARTING SYSTEM - MAINTENANCE PRACTICES",
+    "contexto_preview": "Os seguintes capítulos estão disponíveis nos manuais Boeing 737:\n- ATA 05: TIME LIMITS/MAINTENANCE CHECKS - MAINTENANCE PRACTICES\n- ATA 06: DIMENSIONS AND AREAS - MAINTENANCE PRACTICES\n- ATA 07: LIFTING - DESCRIPTION AND OPERATION 07-10-00 1 RAM ALL LIFTING AIRPLANE FOR MAINTENANCE - DESCRIPTION AND OPERATION 07-11-00 1 RAM ALL\n- ATA 08: \n- ATA 09: \n- ATA 10: PARKING AND MOORING - DESCRIPTION AND OPERATION 10-00-00 1 RAM ALL\n- ATA 12: \n- ATA 20: NACELLE STRUT COMPONENT CLEARANCES - MAINTENANCE P",
+    "resposta": "De acordo com o manual ATA 07: LIFTING - DESCRIPTION AND OPERATION, especificamente na tarefa 07-10-00 1 RAM ALL LIFTING AIRPLANE FOR MAINTENANCE, não há informações específicas sobre o limite máximo de extensão/compressão do nariz da roda que deve ser respeitado durante o reboque para evitar danos internos.\n\nNo entanto, o manual ATA 07 fornece informações sobre a segurança durante o reboque, incluindo a necessidade de usar equipamentos de segurança adequados e seguir as instruções do fabricante do veículo de reboque.\n\nPara obter informações específicas sobre o limite máximo de extensão/compressão do nariz da roda, é necessário consultar o manual de manutenção da aeronave Boeing 737 ou o fabricante do veículo de reboque.\n\nReferência: Manual ATA 07: LIFTING - DESCRIPTION AND OPERATION, tarefa 07-10-00 1 RAM ALL LIFTING AIRPLANE FOR MAINTENANCE.",
+    "resposta_detalhada": "De acordo com o manual ATA 07: LIFTING - DESCRIPTION AND OPERATION, especificamente na tarefa 07-10-00 1 RAM ALL LIFTING AIRPLANE FOR MAINTENANCE, não há informações específicas sobre o limite máximo de extensão/compressão do nariz da roda que deve ser respeitado durante o reboque para evitar danos internos.\n\nNo entanto, o manual ATA 07 fornece informações sobre a segurança durante o reboque, incluindo a necessidade de usar equipamentos de segurança adequados e seguir as instruções do fabricante do veículo de reboque.\n\nPara obter informações específicas sobre o limite máximo de extensão/compressão do nariz da roda, é necessário consultar o manual de manutenção da aeronave Boeing 737 ou o fabricante do veículo de reboque.\n\nReferência: Manual ATA 07: LIFTING - DESCRIPTION AND OPERATION, tarefa 07-10-00 1 RAM ALL LIFTING AIRPLANE FOR MAINTENANCE.",
+    "tempo_segundos": 4.667,
+    "metadados_llm": {
+      "status": "ok",
+      "tokens": {
+        "prompt_tokens": 1584,
+        "total_tokens": 1816,
+        "completion_tokens": 232,
+        "prompt_tokens_details": null
+      },
+      "finish_reason": "stop"
+    },
+    "metricas": {
+      "precisao": 0.1333,
+      "completude": 0.9733,
+      "especificidade": 1.0,
+      "rastreabilidade": 0.6667,
+      "confianca": 0.5
+    },
+    "score_final": 63.33,
+    "tokens_estimados": 777,
+    "ground_truth": "Não deve ser reboque com o nariz da roda totalmente comprimido ou estendido mais do que 23,5 polegadas do fundo do cilindro interno até o fundo da placa de direção.",
+    "ragas_metrics": {
+      "faithfulness": 1.0,
+      "answer_relevancy": 1.0,
+      "context_precision": 1.0,
+      "context_recall": 1.0,
+      "answer_correctness": 1.0,
+      "answer_similarity": 1.0,
+      "numeric_verified": true
+    },
+    "ragas_score": 1.0,
+    "numeric_check": {
+      "gt_value": 23.5,
+      "answer_value": 7.0,
+      "gt_unit": "in",
+      "answer_unit": null,
+      "gt_comparison": "<=",
+      "numeric_match": true,
+      "unit_match": true
+    }
+  },
+  {
+    "timestamp": "2026-09-19T06:05:23.282465",
+    "abordagem": "llm_puro",
+    "pergunta": "Onde está localizado o sub‑sistema de controle de temperatura do ar de escape em cada sistema de ar de escape do motor, e quais componentes o compõem?",
+    "documentos_recuperados": [
+      "contexto_fixo_toc"
+    ],
+    "contexto_usado": "Os seguintes capítulos estão disponíveis nos manuais Boeing 737:\n- ATA 05: TIME LIMITS/MAINTENANCE CHECKS - MAINTENANCE PRACTICES\n- ATA 06: DIMENSIONS AND AREAS - MAINTENANCE PRACTICES\n- ATA 07: LIFTING - DESCRIPTION AND OPERATION 07-10-00 1 RAM ALL LIFTING AIRPLANE FOR MAINTENANCE - DESCRIPTION AND OPERATION 07-11-00 1 RAM ALL\n- ATA 08: \n- ATA 09: \n- ATA 10: PARKING AND MOORING - DESCRIPTION AND OPERATION 10-00-00 1 RAM ALL\n- ATA 12: \n- ATA 20: NACELLE STRUT COMPONENT CLEARANCES - MAINTENANCE PRACTICES\n- ATA 21: AIR CONDITIONING - DESCRIPTION AND OPERATION 21-00-00 1 RAM ALL\n- ATA 22: DIGITAL FLIGHT CONTROL SYSTEM - ADJUSTMENT/TEST\n- ATA 23: HF COMMUNICATION SYSTEM - ADJUSTMENT/TEST\n- ATA 24: ELECTRICAL POWER - DESCRIPTION AND OPERATION 24-00-00 1 RAM ALL ELECTRICAL POWER PRECAUTIONS - MAINTENANCE PRACTICES\n- ATA 25: EQUIPMENT/FURNISHINGS - DESCRIPTION AND OPERATION 25-00-00 1 RAM ALL EQUIPMENT/FURNISHINGS - CLEANING AND PAINTING\n- ATA 26: FIRE PROTECTION - DESCRIPTION AND OPERATION 26-00-00 1 RAM ALL CARGO FIRE CONTROL PANEL - REMOVAL/INSTALLATION\n- ATA 27: FLIGHT CONTROLS - DESCRIPTION AND OPERATION 27-00-00 1 RAM ALL CONTROL CABLE SYSTEMS - DESCRIPTION AND OPERATION 27-09-11 1 RAM ALL FLIGHT CONTROL CABLES - MAINTENANCE PRACTICES\n- ATA 28: FUEL - DESCRIPTION AND OPERATION 28-00-00 1 RAM ALL\n- ATA 29: HYDRAULIC POWER - DESCRIPTION AND OPERATION 29-00-00 1 RAM ALL\n- ATA 30: ICE AND RAIN PROTECTION - DESCRIPTION AND OPERATION 30-00-00 1 RAM ALL COMBINED WINDOW AND PITOT HEAT MODULE (P5-9) - REMOVAL/INSTALLATION\n- ATA 31: FLIGHT DATA RECORDER SYSTEM - DESCRIPTION AND OPERATION 31-24-00 4 1 RAM ALL FLIGHT DATA RECORDER - TROUBLE SHOOTING 31-24-00 3 101 RAM ALL FLIGHT DATA RECORDER - MAINTENANCE PRACTICES\n- ATA 32: LANDING GEAR - DESCRIPTION AND OPERATION 32-00-00 1 RAM ALL GROUND LOCK ASSEMBLIES - MAINTENANCE PRACTICES\n- ATA 33: INSTRUMENT AND PANEL LIGHTS - MAINTENANCE PRACTICE\n- ATA 34: PITOT-STATIC SYSTEM - MAINTENANCE PRACTICES\n- ATA 35: OXYGEN SYSTEMS - DESCRIPTION AND OPERATION 35-00-00 1 RAM ALL\n- ATA 36: PNEUMATIC SYSTEM - DESCRIPTION AND OPERATION 36-05-00 1 RAM ALL PNEUMATIC SYSTEM - MAINTENANCE PRACTICES (PRESSURIZE/DEPRESSURIZE PNEUMATIC SYSTEM)\n- ATA 38: \n- ATA 47: INERT GAS SYSTEM - DESCRIPTION AND OPERATION 47-00-00 1 RAM ALL POST SB 737-47-1008 OR POST SB 737-47-1007\n- ATA 49: AIRBORNE AUXILIARY POWER - DESCRIPTION AND OPERATION 49-00-00 1 RAM 001, 002 AIRBORNE AUXILIARY POWER - TROUBLESHOOTING 49-00-00 2 101 RAM 001, 002; APU WITH THE -5 FADEC AND SUBSEQUENT DASH NUMBERS AIRBORNE AUXILIARY POWER - TASK CARD DEFINITIONS\n- ATA 51: CORROSION PREVENTION - CORROSION REMOVAL - MAINTENANCE PRACTICES\n- ATA 52: \n- ATA 53: FUSELAGE - DESCRIPTION AND OPERATION 53-00-00 1 RAM ALL\n- ATA 54: NACELLES/PYLONS - DESCRIPTION AND OPERATION 54-01-00 1 RAM ALL\n- ATA 55: STABILIZERS - DESCRIPTION AND OPERATION 55-00-00 1 RAM ALL RUDDER, ELEVATOR AND HORIZONTAL STABILIZERS - INSPECTION/CHECK\n- ATA 56: WINDOWS - DESCRIPTION AND OPERATION 56-00-00 1 RAM ALL FLIGHT COMPARTMENT WINDOWS - DESCRIPTION AND OPERATION 56-10-00 1 RAM ALL CONTROL CABIN FIXED WINDOWS - DESCRIPTION AND OPERATION 56-11-00 1 RAM ALL CONTROL CABIN FIXED WINDOWS - INSPECTION/CHECK\n- ATA 57: WINGS - DESCRIPTION AND OPERATION 57-00-00 1 RAM ALL\n- ATA 70: TERMS AND ABBREVIATIONS - MAINTENANCE PRACTICES\n- ATA 71: POWER PLANT- DESCRIPTION AND OPERATION 71-00-00 1 RAM ALL\n- ATA 72: \n- ATA 73: ENGINE FUEL AND CONTROL - MAINTENANCE PRACTICES\n- ATA 74: \n- ATA 76: ENGINE CONTROL SYSTEM - DESCRIPTION AND OPERATION 76-11-00 1 RAM ALL ENGINE CONTROL SYSTEM - MAINTENANCE PRACTICES\n- ATA 77: ENGINE TACHOMETER SYSTEM - DESCRIPTION AND OPERATION 77-12-00 1 RAM ALL ENGINE TACHOMETER SYSTEM - ADJUSTMENT/TEST\n- ATA 78: EXHAUST - DESCRIPTION AND OPERATION 78-00-00 1 RAM ALL EXHAUST - DEACTIVATION/REACTIVATION - DDG MAINTENANCE PRACTICES\n- ATA 79: \n- ATA 80: ENGINE STARTING SYSTEM - DESCRIPTION AND OPERATION 80-11-00 1 RAM ALL ENGINE STARTING SYSTEM - MAINTENANCE PRACTICES",
+    "contexto_preview": "Os seguintes capítulos estão disponíveis nos manuais Boeing 737:\n- ATA 05: TIME LIMITS/MAINTENANCE CHECKS - MAINTENANCE PRACTICES\n- ATA 06: DIMENSIONS AND AREAS - MAINTENANCE PRACTICES\n- ATA 07: LIFTING - DESCRIPTION AND OPERATION 07-10-00 1 RAM ALL LIFTING AIRPLANE FOR MAINTENANCE - DESCRIPTION AND OPERATION 07-11-00 1 RAM ALL\n- ATA 08: \n- ATA 09: \n- ATA 10: PARKING AND MOORING - DESCRIPTION AND OPERATION 10-00-00 1 RAM ALL\n- ATA 12: \n- ATA 20: NACELLE STRUT COMPONENT CLEARANCES - MAINTENANCE P",
+    "resposta": "De acordo com o manual ATA 78: EXHAUST - DESCRIPTION AND OPERATION, o sub-sistema de controle de temperatura do ar de escape é localizado em cada sistema de ar de escape do motor.\n\nO sub-sistema de controle de temperatura do ar de escape é composto pelos seguintes componentes:\n\n* Regulador de temperatura do ar de escape (Exhaust Gas Temperature Regulator)\n* Sensor de temperatura do ar de escape (Exhaust Gas Temperature Sensor)\n* Válvula de controle de temperatura do ar de escape (Exhaust Gas Temperature Control Valve)\n\nEsses componentes trabalham em conjunto para controlar a temperatura do ar de escape e garantir que ela esteja dentro dos limites seguros para o motor.\n\nReferência: ATA 78: EXHAUST - DESCRIPTION AND OPERATION, seção 78-00-00, subseção 1 RAM ALL EXHAUST - DEACTIVATION/REACTIVATION - DDG MAINTENANCE PRACTICES.",
+    "resposta_detalhada": "De acordo com o manual ATA 78: EXHAUST - DESCRIPTION AND OPERATION, o sub-sistema de controle de temperatura do ar de escape é localizado em cada sistema de ar de escape do motor.\n\nO sub-sistema de controle de temperatura do ar de escape é composto pelos seguintes componentes:\n\n* Regulador de temperatura do ar de escape (Exhaust Gas Temperature Regulator)\n* Sensor de temperatura do ar de escape (Exhaust Gas Temperature Sensor)\n* Válvula de controle de temperatura do ar de escape (Exhaust Gas Temperature Control Valve)\n\nEsses componentes trabalham em conjunto para controlar a temperatura do ar de escape e garantir que ela esteja dentro dos limites seguros para o motor.\n\nReferência: ATA 78: EXHAUST - DESCRIPTION AND OPERATION, seção 78-00-00, subseção 1 RAM ALL EXHAUST - DEACTIVATION/REACTIVATION - DDG MAINTENANCE PRACTICES.",
+    "tempo_segundos": 7.697,
+    "metadados_llm": {
+      "status": "ok",
+      "tokens": {
+        "prompt_tokens": 1585,
+        "total_tokens": 1792,
+        "completion_tokens": 207,
+        "prompt_tokens_details": null
+      },
+      "finish_reason": "stop"
+    },
+    "metricas": {
+      "precisao": 0.225,
+      "completude": 0.8255,
+      "especificidade": 1.0,
+      "rastreabilidade": 0.6667,
+      "confianca": 1.0
+    },
+    "score_final": 67.39,
+    "tokens_estimados": 779,
+    "ground_truth": "O sub‑sistema de controle de temperatura do ar de escape está localizado dentro do sistema de ar de escape de cada motor e é composto pelo precooler, pelo válvula de controle do precooler e pelo sensor da válvula de controle do precooler.",
+    "ragas_metrics": {
+      "faithfulness": 1.0,
+      "answer_relevancy": 1.0,
+      "context_precision": 1.0,
+      "context_recall": 1.0,
+      "answer_correctness": 1.0,
+      "answer_similarity": 1.0
+    },
+    "ragas_score": 1.0,
+    "numeric_check": {
+      "gt_value": null,
+      "answer_value": 78.0,
+      "gt_unit": null,
+      "answer_unit": null,
+      "gt_comparison": "=",
+      "numeric_match": null,
+      "unit_match": null
+    }
+  },
+  {
+    "timestamp": "2026-09-19T06:05:34.601162",
+    "abordagem": "llm_puro",
+    "pergunta": "Onde está localizado o sistema anti‑icing de água e descarga de vaso sanitário e qual é o princípio de funcionamento?",
+    "documentos_recuperados": [
+      "contexto_fixo_toc"
+    ],
+    "contexto_usado": "Os seguintes capítulos estão disponíveis nos manuais Boeing 737:\n- ATA 05: TIME LIMITS/MAINTENANCE CHECKS - MAINTENANCE PRACTICES\n- ATA 06: DIMENSIONS AND AREAS - MAINTENANCE PRACTICES\n- ATA 07: LIFTING - DESCRIPTION AND OPERATION 07-10-00 1 RAM ALL LIFTING AIRPLANE FOR MAINTENANCE - DESCRIPTION AND OPERATION 07-11-00 1 RAM ALL\n- ATA 08: \n- ATA 09: \n- ATA 10: PARKING AND MOORING - DESCRIPTION AND OPERATION 10-00-00 1 RAM ALL\n- ATA 12: \n- ATA 20: NACELLE STRUT COMPONENT CLEARANCES - MAINTENANCE PRACTICES\n- ATA 21: AIR CONDITIONING - DESCRIPTION AND OPERATION 21-00-00 1 RAM ALL\n- ATA 22: DIGITAL FLIGHT CONTROL SYSTEM - ADJUSTMENT/TEST\n- ATA 23: HF COMMUNICATION SYSTEM - ADJUSTMENT/TEST\n- ATA 24: ELECTRICAL POWER - DESCRIPTION AND OPERATION 24-00-00 1 RAM ALL ELECTRICAL POWER PRECAUTIONS - MAINTENANCE PRACTICES\n- ATA 25: EQUIPMENT/FURNISHINGS - DESCRIPTION AND OPERATION 25-00-00 1 RAM ALL EQUIPMENT/FURNISHINGS - CLEANING AND PAINTING\n- ATA 26: FIRE PROTECTION - DESCRIPTION AND OPERATION 26-00-00 1 RAM ALL CARGO FIRE CONTROL PANEL - REMOVAL/INSTALLATION\n- ATA 27: FLIGHT CONTROLS - DESCRIPTION AND OPERATION 27-00-00 1 RAM ALL CONTROL CABLE SYSTEMS - DESCRIPTION AND OPERATION 27-09-11 1 RAM ALL FLIGHT CONTROL CABLES - MAINTENANCE PRACTICES\n- ATA 28: FUEL - DESCRIPTION AND OPERATION 28-00-00 1 RAM ALL\n- ATA 29: HYDRAULIC POWER - DESCRIPTION AND OPERATION 29-00-00 1 RAM ALL\n- ATA 30: ICE AND RAIN PROTECTION - DESCRIPTION AND OPERATION 30-00-00 1 RAM ALL COMBINED WINDOW AND PITOT HEAT MODULE (P5-9) - REMOVAL/INSTALLATION\n- ATA 31: FLIGHT DATA RECORDER SYSTEM - DESCRIPTION AND OPERATION 31-24-00 4 1 RAM ALL FLIGHT DATA RECORDER - TROUBLE SHOOTING 31-24-00 3 101 RAM ALL FLIGHT DATA RECORDER - MAINTENANCE PRACTICES\n- ATA 32: LANDING GEAR - DESCRIPTION AND OPERATION 32-00-00 1 RAM ALL GROUND LOCK ASSEMBLIES - MAINTENANCE PRACTICES\n- ATA 33: INSTRUMENT AND PANEL LIGHTS - MAINTENANCE PRACTICE\n- ATA 34: PITOT-STATIC SYSTEM - MAINTENANCE PRACTICES\n- ATA 35: OXYGEN SYSTEMS - DESCRIPTION AND OPERATION 35-00-00 1 RAM ALL\n- ATA 36: PNEUMATIC SYSTEM - DESCRIPTION AND OPERATION 36-05-00 1 RAM ALL PNEUMATIC SYSTEM - MAINTENANCE PRACTICES (PRESSURIZE/DEPRESSURIZE PNEUMATIC SYSTEM)\n- ATA 38: \n- ATA 47: INERT GAS SYSTEM - DESCRIPTION AND OPERATION 47-00-00 1 RAM ALL POST SB 737-47-1008 OR POST SB 737-47-1007\n- ATA 49: AIRBORNE AUXILIARY POWER - DESCRIPTION AND OPERATION 49-00-00 1 RAM 001, 002 AIRBORNE AUXILIARY POWER - TROUBLESHOOTING 49-00-00 2 101 RAM 001, 002; APU WITH THE -5 FADEC AND SUBSEQUENT DASH NUMBERS AIRBORNE AUXILIARY POWER - TASK CARD DEFINITIONS\n- ATA 51: CORROSION PREVENTION - CORROSION REMOVAL - MAINTENANCE PRACTICES\n- ATA 52: \n- ATA 53: FUSELAGE - DESCRIPTION AND OPERATION 53-00-00 1 RAM ALL\n- ATA 54: NACELLES/PYLONS - DESCRIPTION AND OPERATION 54-01-00 1 RAM ALL\n- ATA 55: STABILIZERS - DESCRIPTION AND OPERATION 55-00-00 1 RAM ALL RUDDER, ELEVATOR AND HORIZONTAL STABILIZERS - INSPECTION/CHECK\n- ATA 56: WINDOWS - DESCRIPTION AND OPERATION 56-00-00 1 RAM ALL FLIGHT COMPARTMENT WINDOWS - DESCRIPTION AND OPERATION 56-10-00 1 RAM ALL CONTROL CABIN FIXED WINDOWS - DESCRIPTION AND OPERATION 56-11-00 1 RAM ALL CONTROL CABIN FIXED WINDOWS - INSPECTION/CHECK\n- ATA 57: WINGS - DESCRIPTION AND OPERATION 57-00-00 1 RAM ALL\n- ATA 70: TERMS AND ABBREVIATIONS - MAINTENANCE PRACTICES\n- ATA 71: POWER PLANT- DESCRIPTION AND OPERATION 71-00-00 1 RAM ALL\n- ATA 72: \n- ATA 73: ENGINE FUEL AND CONTROL - MAINTENANCE PRACTICES\n- ATA 74: \n- ATA 76: ENGINE CONTROL SYSTEM - DESCRIPTION AND OPERATION 76-11-00 1 RAM ALL ENGINE CONTROL SYSTEM - MAINTENANCE PRACTICES\n- ATA 77: ENGINE TACHOMETER SYSTEM - DESCRIPTION AND OPERATION 77-12-00 1 RAM ALL ENGINE TACHOMETER SYSTEM - ADJUSTMENT/TEST\n- ATA 78: EXHAUST - DESCRIPTION AND OPERATION 78-00-00 1 RAM ALL EXHAUST - DEACTIVATION/REACTIVATION - DDG MAINTENANCE PRACTICES\n- ATA 79: \n- ATA 80: ENGINE STARTING SYSTEM - DESCRIPTION AND OPERATION 80-11-00 1 RAM ALL ENGINE STARTING SYSTEM - MAINTENANCE PRACTICES",
+    "contexto_preview": "Os seguintes capítulos estão disponíveis nos manuais Boeing 737:\n- ATA 05: TIME LIMITS/MAINTENANCE CHECKS - MAINTENANCE PRACTICES\n- ATA 06: DIMENSIONS AND AREAS - MAINTENANCE PRACTICES\n- ATA 07: LIFTING - DESCRIPTION AND OPERATION 07-10-00 1 RAM ALL LIFTING AIRPLANE FOR MAINTENANCE - DESCRIPTION AND OPERATION 07-11-00 1 RAM ALL\n- ATA 08: \n- ATA 09: \n- ATA 10: PARKING AND MOORING - DESCRIPTION AND OPERATION 10-00-00 1 RAM ALL\n- ATA 12: \n- ATA 20: NACELLE STRUT COMPONENT CLEARANCES - MAINTENANCE P",
+    "resposta": "Resposta direta:\nO sistema anti-icing de água e descarga de vaso sanitário está localizado no sistema de proteção contra gelo e neve (Ice and Rain Protection) e é descrito no capítulo 30 do manual ATA.\n\nDetalhes técnicos:\nO sistema anti-icing de água e descarga de vaso sanitário é parte do sistema de proteção contra gelo e neve (Ice and Rain Protection) e é responsável por remover a água e o gelo que se acumulam nas superfícies da aeronave. O sistema utiliza o módulo de calor combinado para janela e pitot (Combined Window and Pitot Heat Module, P5-9) para aquecer as superfícies e remover o gelo e a água. O módulo é localizado na parte superior da fuselagem da aeronave e é controlado pelo sistema de controle de temperatura do ar condicionado.\n\nReferência à fonte:\nConforme o capítulo 30 do manual ATA, \"Ice and Rain Protection - Description and Operation\" (ATA 30-00-00, 1 RAM ALL), o sistema anti-icing de água e descarga de vaso sanitário é descrito como parte do sistema de proteção contra gelo e neve. Além disso, o capítulo 30-10-00, 1 RAM ALL, \"Combined Window and Pitot Heat Module (P5-9) - Removal/Installation\", fornece detalhes técnicos sobre o módulo de calor combinado para janela e pitot.",
+    "resposta_detalhada": "Resposta direta:\nO sistema anti-icing de água e descarga de vaso sanitário está localizado no sistema de proteção contra gelo e neve (Ice and Rain Protection) e é descrito no capítulo 30 do manual ATA.\n\nDetalhes técnicos:\nO sistema anti-icing de água e descarga de vaso sanitário é parte do sistema de proteção contra gelo e neve (Ice and Rain Protection) e é responsável por remover a água e o gelo que se acumulam nas superfícies da aeronave. O sistema utiliza o módulo de calor combinado para janela e pitot (Combined Window and Pitot Heat Module, P5-9) para aquecer as superfícies e remover o gelo e a água. O módulo é localizado na parte superior da fuselagem da aeronave e é controlado pelo sistema de controle de temperatura do ar condicionado.\n\nReferência à fonte:\nConforme o capítulo 30 do manual ATA, \"Ice and Rain Protection - Description and Operation\" (ATA 30-00-00, 1 RAM ALL), o sistema anti-icing de água e descarga de vaso sanitário é descrito como parte do sistema de proteção contra gelo e neve. Além disso, o capítulo 30-10-00, 1 RAM ALL, \"Combined Window and Pitot Heat Module (P5-9) - Removal/Installation\", fornece detalhes técnicos sobre o módulo de calor combinado para janela e pitot.",
+    "tempo_segundos": 11.314,
+    "metadados_llm": {
+      "status": "ok",
+      "tokens": {
+        "prompt_tokens": 1579,
+        "total_tokens": 1920,
+        "completion_tokens": 341,
+        "prompt_tokens_details": null
+      },
+      "finish_reason": "stop"
+    },
+    "metricas": {
+      "precisao": 0.1864,
+      "completude": 0.7688,
+      "especificidade": 1.0,
+      "rastreabilidade": 1.0,
+      "confianca": 1.0
+    },
+    "score_final": 69.81,
+    "tokens_estimados": 852,
+    "ground_truth": "Conectores de descarga de vaso sanitário dianteiro e traseiro, com elementos de resistência elétrica integrados no selante do conector, controlados diretamente pelos disjuntores de circuito e aquecidos sempre que a aeronave tem energia elétrica.",
+    "ragas_metrics": {
+      "faithfulness": 1.0,
+      "answer_relevancy": 1.0,
+      "context_precision": 1.0,
+      "context_recall": 1.0,
+      "answer_correctness": 1.0,
+      "answer_similarity": 1.0
+    },
+    "ragas_score": 1.0,
+    "numeric_check": {
+      "gt_value": null,
+      "answer_value": 30.0,
+      "gt_unit": null,
+      "answer_unit": null,
+      "gt_comparison": "=",
+      "numeric_match": null,
+      "unit_match": null
+    }
+  },
+  {
+    "timestamp": "2026-09-19T06:05:43.837346",
+    "abordagem": "llm_puro",
+    "pergunta": "Qual é a altura do plano de referência do corpo (body reference plane) acima do solo no ponto do eixo principal de sustentação (main gear) e qual é a altura acima desse plano para a seção de altura constante?",
+    "documentos_recuperados": [
+      "contexto_fixo_toc"
+    ],
+    "contexto_usado": "Os seguintes capítulos estão disponíveis nos manuais Boeing 737:\n- ATA 05: TIME LIMITS/MAINTENANCE CHECKS - MAINTENANCE PRACTICES\n- ATA 06: DIMENSIONS AND AREAS - MAINTENANCE PRACTICES\n- ATA 07: LIFTING - DESCRIPTION AND OPERATION 07-10-00 1 RAM ALL LIFTING AIRPLANE FOR MAINTENANCE - DESCRIPTION AND OPERATION 07-11-00 1 RAM ALL\n- ATA 08: \n- ATA 09: \n- ATA 10: PARKING AND MOORING - DESCRIPTION AND OPERATION 10-00-00 1 RAM ALL\n- ATA 12: \n- ATA 20: NACELLE STRUT COMPONENT CLEARANCES - MAINTENANCE PRACTICES\n- ATA 21: AIR CONDITIONING - DESCRIPTION AND OPERATION 21-00-00 1 RAM ALL\n- ATA 22: DIGITAL FLIGHT CONTROL SYSTEM - ADJUSTMENT/TEST\n- ATA 23: HF COMMUNICATION SYSTEM - ADJUSTMENT/TEST\n- ATA 24: ELECTRICAL POWER - DESCRIPTION AND OPERATION 24-00-00 1 RAM ALL ELECTRICAL POWER PRECAUTIONS - MAINTENANCE PRACTICES\n- ATA 25: EQUIPMENT/FURNISHINGS - DESCRIPTION AND OPERATION 25-00-00 1 RAM ALL EQUIPMENT/FURNISHINGS - CLEANING AND PAINTING\n- ATA 26: FIRE PROTECTION - DESCRIPTION AND OPERATION 26-00-00 1 RAM ALL CARGO FIRE CONTROL PANEL - REMOVAL/INSTALLATION\n- ATA 27: FLIGHT CONTROLS - DESCRIPTION AND OPERATION 27-00-00 1 RAM ALL CONTROL CABLE SYSTEMS - DESCRIPTION AND OPERATION 27-09-11 1 RAM ALL FLIGHT CONTROL CABLES - MAINTENANCE PRACTICES\n- ATA 28: FUEL - DESCRIPTION AND OPERATION 28-00-00 1 RAM ALL\n- ATA 29: HYDRAULIC POWER - DESCRIPTION AND OPERATION 29-00-00 1 RAM ALL\n- ATA 30: ICE AND RAIN PROTECTION - DESCRIPTION AND OPERATION 30-00-00 1 RAM ALL COMBINED WINDOW AND PITOT HEAT MODULE (P5-9) - REMOVAL/INSTALLATION\n- ATA 31: FLIGHT DATA RECORDER SYSTEM - DESCRIPTION AND OPERATION 31-24-00 4 1 RAM ALL FLIGHT DATA RECORDER - TROUBLE SHOOTING 31-24-00 3 101 RAM ALL FLIGHT DATA RECORDER - MAINTENANCE PRACTICES\n- ATA 32: LANDING GEAR - DESCRIPTION AND OPERATION 32-00-00 1 RAM ALL GROUND LOCK ASSEMBLIES - MAINTENANCE PRACTICES\n- ATA 33: INSTRUMENT AND PANEL LIGHTS - MAINTENANCE PRACTICE\n- ATA 34: PITOT-STATIC SYSTEM - MAINTENANCE PRACTICES\n- ATA 35: OXYGEN SYSTEMS - DESCRIPTION AND OPERATION 35-00-00 1 RAM ALL\n- ATA 36: PNEUMATIC SYSTEM - DESCRIPTION AND OPERATION 36-05-00 1 RAM ALL PNEUMATIC SYSTEM - MAINTENANCE PRACTICES (PRESSURIZE/DEPRESSURIZE PNEUMATIC SYSTEM)\n- ATA 38: \n- ATA 47: INERT GAS SYSTEM - DESCRIPTION AND OPERATION 47-00-00 1 RAM ALL POST SB 737-47-1008 OR POST SB 737-47-1007\n- ATA 49: AIRBORNE AUXILIARY POWER - DESCRIPTION AND OPERATION 49-00-00 1 RAM 001, 002 AIRBORNE AUXILIARY POWER - TROUBLESHOOTING 49-00-00 2 101 RAM 001, 002; APU WITH THE -5 FADEC AND SUBSEQUENT DASH NUMBERS AIRBORNE AUXILIARY POWER - TASK CARD DEFINITIONS\n- ATA 51: CORROSION PREVENTION - CORROSION REMOVAL - MAINTENANCE PRACTICES\n- ATA 52: \n- ATA 53: FUSELAGE - DESCRIPTION AND OPERATION 53-00-00 1 RAM ALL\n- ATA 54: NACELLES/PYLONS - DESCRIPTION AND OPERATION 54-01-00 1 RAM ALL\n- ATA 55: STABILIZERS - DESCRIPTION AND OPERATION 55-00-00 1 RAM ALL RUDDER, ELEVATOR AND HORIZONTAL STABILIZERS - INSPECTION/CHECK\n- ATA 56: WINDOWS - DESCRIPTION AND OPERATION 56-00-00 1 RAM ALL FLIGHT COMPARTMENT WINDOWS - DESCRIPTION AND OPERATION 56-10-00 1 RAM ALL CONTROL CABIN FIXED WINDOWS - DESCRIPTION AND OPERATION 56-11-00 1 RAM ALL CONTROL CABIN FIXED WINDOWS - INSPECTION/CHECK\n- ATA 57: WINGS - DESCRIPTION AND OPERATION 57-00-00 1 RAM ALL\n- ATA 70: TERMS AND ABBREVIATIONS - MAINTENANCE PRACTICES\n- ATA 71: POWER PLANT- DESCRIPTION AND OPERATION 71-00-00 1 RAM ALL\n- ATA 72: \n- ATA 73: ENGINE FUEL AND CONTROL - MAINTENANCE PRACTICES\n- ATA 74: \n- ATA 76: ENGINE CONTROL SYSTEM - DESCRIPTION AND OPERATION 76-11-00 1 RAM ALL ENGINE CONTROL SYSTEM - MAINTENANCE PRACTICES\n- ATA 77: ENGINE TACHOMETER SYSTEM - DESCRIPTION AND OPERATION 77-12-00 1 RAM ALL ENGINE TACHOMETER SYSTEM - ADJUSTMENT/TEST\n- ATA 78: EXHAUST - DESCRIPTION AND OPERATION 78-00-00 1 RAM ALL EXHAUST - DEACTIVATION/REACTIVATION - DDG MAINTENANCE PRACTICES\n- ATA 79: \n- ATA 80: ENGINE STARTING SYSTEM - DESCRIPTION AND OPERATION 80-11-00 1 RAM ALL ENGINE STARTING SYSTEM - MAINTENANCE PRACTICES",
+    "contexto_preview": "Os seguintes capítulos estão disponíveis nos manuais Boeing 737:\n- ATA 05: TIME LIMITS/MAINTENANCE CHECKS - MAINTENANCE PRACTICES\n- ATA 06: DIMENSIONS AND AREAS - MAINTENANCE PRACTICES\n- ATA 07: LIFTING - DESCRIPTION AND OPERATION 07-10-00 1 RAM ALL LIFTING AIRPLANE FOR MAINTENANCE - DESCRIPTION AND OPERATION 07-11-00 1 RAM ALL\n- ATA 08: \n- ATA 09: \n- ATA 10: PARKING AND MOORING - DESCRIPTION AND OPERATION 10-00-00 1 RAM ALL\n- ATA 12: \n- ATA 20: NACELLE STRUT COMPONENT CLEARANCES - MAINTENANCE P",
+    "resposta": "De acordo com o manual ATA 06: DIMENSIONS AND AREAS - MAINTENANCE PRACTICES, a altura do plano de referência do corpo (body reference plane) acima do solo no ponto do eixo principal de sustentação (main gear) é de 1,73 m (5 ft 8 in).\n\nAlém disso, a altura acima desse plano para a seção de altura constante é de 1,73 m (5 ft 8 in) + 0,61 m (2 ft 0 in) = 2,34 m (7 ft 8 in).\n\nFonte: Manual ATA 06, página 3-10, \"Body Reference Plane\".\n\nDetalhes técnicos:\n\n* Plano de referência do corpo (body reference plane): é um plano horizontal que passa pelo centro de gravidade do avião.\n* Ponto do eixo principal de sustentação (main gear): é o ponto onde o eixo principal de sustentação do avião toca o solo.\n* Seção de altura constante: é a seção do avião que tem uma altura constante em relação ao plano de referência do corpo.\n\nReferência à fonte:\n\n* Manual ATA 06: DIMENSIONS AND AREAS - MAINTENANCE PRACTICES, Boeing 737.",
+    "resposta_detalhada": "De acordo com o manual ATA 06: DIMENSIONS AND AREAS - MAINTENANCE PRACTICES, a altura do plano de referência do corpo (body reference plane) acima do solo no ponto do eixo principal de sustentação (main gear) é de 1,73 m (5 ft 8 in).\n\nAlém disso, a altura acima desse plano para a seção de altura constante é de 1,73 m (5 ft 8 in) + 0,61 m (2 ft 0 in) = 2,34 m (7 ft 8 in).\n\nFonte: Manual ATA 06, página 3-10, \"Body Reference Plane\".\n\nDetalhes técnicos:\n\n* Plano de referência do corpo (body reference plane): é um plano horizontal que passa pelo centro de gravidade do avião.\n* Ponto do eixo principal de sustentação (main gear): é o ponto onde o eixo principal de sustentação do avião toca o solo.\n* Seção de altura constante: é a seção do avião que tem uma altura constante em relação ao plano de referência do corpo.\n\nReferência à fonte:\n\n* Manual ATA 06: DIMENSIONS AND AREAS - MAINTENANCE PRACTICES, Boeing 737.",
+    "tempo_segundos": 9.231,
+    "metadados_llm": {
+      "status": "ok",
+      "tokens": {
+        "prompt_tokens": 1600,
+        "total_tokens": 1880,
+        "completion_tokens": 280,
+        "prompt_tokens_details": null
+      },
+      "finish_reason": "stop"
+    },
+    "metricas": {
+      "precisao": 0.1707,
+      "completude": 0.9356,
+      "especificidade": 1.0,
+      "rastreabilidade": 1.0,
+      "confianca": 1.0
+    },
+    "score_final": 73.51,
+    "tokens_estimados": 818,
+    "ground_truth": "Altura do plano de referência do corpo – 102.10 in (2.59 m); Altura acima do plano (seção constante) – 98.4 in (2.5 m).",
+    "ragas_metrics": {
+      "faithfulness": 1.0,
+      "answer_relevancy": 1.0,
+      "context_precision": 1.0,
+      "context_recall": 1.0,
+      "answer_correctness": 0.0,
+      "answer_similarity": 1.0,
+      "numeric_verified": false
+    },
+    "ragas_score": 0.7143,
+    "numeric_check": {
+      "gt_value": 102.1,
+      "answer_value": 1.73,
+      "gt_unit": "in",
+      "answer_unit": "in",
+      "gt_comparison": "=",
+      "numeric_match": false,
+      "unit_match": true
+    }
+  },
+  {
+    "timestamp": "2026-09-19T06:06:07.268417",
+    "abordagem": "llm_puro",
+    "pergunta": "Durante a preservação do MEC, por que é necessário instalar os encaixes corretos nos portos PCR e Head, e o que pode acontecer se forem usados encaixes inadequados?",
+    "documentos_recuperados": [
+      "contexto_fixo_toc"
+    ],
+    "contexto_usado": "Os seguintes capítulos estão disponíveis nos manuais Boeing 737:\n- ATA 05: TIME LIMITS/MAINTENANCE CHECKS - MAINTENANCE PRACTICES\n- ATA 06: DIMENSIONS AND AREAS - MAINTENANCE PRACTICES\n- ATA 07: LIFTING - DESCRIPTION AND OPERATION 07-10-00 1 RAM ALL LIFTING AIRPLANE FOR MAINTENANCE - DESCRIPTION AND OPERATION 07-11-00 1 RAM ALL\n- ATA 08: \n- ATA 09: \n- ATA 10: PARKING AND MOORING - DESCRIPTION AND OPERATION 10-00-00 1 RAM ALL\n- ATA 12: \n- ATA 20: NACELLE STRUT COMPONENT CLEARANCES - MAINTENANCE PRACTICES\n- ATA 21: AIR CONDITIONING - DESCRIPTION AND OPERATION 21-00-00 1 RAM ALL\n- ATA 22: DIGITAL FLIGHT CONTROL SYSTEM - ADJUSTMENT/TEST\n- ATA 23: HF COMMUNICATION SYSTEM - ADJUSTMENT/TEST\n- ATA 24: ELECTRICAL POWER - DESCRIPTION AND OPERATION 24-00-00 1 RAM ALL ELECTRICAL POWER PRECAUTIONS - MAINTENANCE PRACTICES\n- ATA 25: EQUIPMENT/FURNISHINGS - DESCRIPTION AND OPERATION 25-00-00 1 RAM ALL EQUIPMENT/FURNISHINGS - CLEANING AND PAINTING\n- ATA 26: FIRE PROTECTION - DESCRIPTION AND OPERATION 26-00-00 1 RAM ALL CARGO FIRE CONTROL PANEL - REMOVAL/INSTALLATION\n- ATA 27: FLIGHT CONTROLS - DESCRIPTION AND OPERATION 27-00-00 1 RAM ALL CONTROL CABLE SYSTEMS - DESCRIPTION AND OPERATION 27-09-11 1 RAM ALL FLIGHT CONTROL CABLES - MAINTENANCE PRACTICES\n- ATA 28: FUEL - DESCRIPTION AND OPERATION 28-00-00 1 RAM ALL\n- ATA 29: HYDRAULIC POWER - DESCRIPTION AND OPERATION 29-00-00 1 RAM ALL\n- ATA 30: ICE AND RAIN PROTECTION - DESCRIPTION AND OPERATION 30-00-00 1 RAM ALL COMBINED WINDOW AND PITOT HEAT MODULE (P5-9) - REMOVAL/INSTALLATION\n- ATA 31: FLIGHT DATA RECORDER SYSTEM - DESCRIPTION AND OPERATION 31-24-00 4 1 RAM ALL FLIGHT DATA RECORDER - TROUBLE SHOOTING 31-24-00 3 101 RAM ALL FLIGHT DATA RECORDER - MAINTENANCE PRACTICES\n- ATA 32: LANDING GEAR - DESCRIPTION AND OPERATION 32-00-00 1 RAM ALL GROUND LOCK ASSEMBLIES - MAINTENANCE PRACTICES\n- ATA 33: INSTRUMENT AND PANEL LIGHTS - MAINTENANCE PRACTICE\n- ATA 34: PITOT-STATIC SYSTEM - MAINTENANCE PRACTICES\n- ATA 35: OXYGEN SYSTEMS - DESCRIPTION AND OPERATION 35-00-00 1 RAM ALL\n- ATA 36: PNEUMATIC SYSTEM - DESCRIPTION AND OPERATION 36-05-00 1 RAM ALL PNEUMATIC SYSTEM - MAINTENANCE PRACTICES (PRESSURIZE/DEPRESSURIZE PNEUMATIC SYSTEM)\n- ATA 38: \n- ATA 47: INERT GAS SYSTEM - DESCRIPTION AND OPERATION 47-00-00 1 RAM ALL POST SB 737-47-1008 OR POST SB 737-47-1007\n- ATA 49: AIRBORNE AUXILIARY POWER - DESCRIPTION AND OPERATION 49-00-00 1 RAM 001, 002 AIRBORNE AUXILIARY POWER - TROUBLESHOOTING 49-00-00 2 101 RAM 001, 002; APU WITH THE -5 FADEC AND SUBSEQUENT DASH NUMBERS AIRBORNE AUXILIARY POWER - TASK CARD DEFINITIONS\n- ATA 51: CORROSION PREVENTION - CORROSION REMOVAL - MAINTENANCE PRACTICES\n- ATA 52: \n- ATA 53: FUSELAGE - DESCRIPTION AND OPERATION 53-00-00 1 RAM ALL\n- ATA 54: NACELLES/PYLONS - DESCRIPTION AND OPERATION 54-01-00 1 RAM ALL\n- ATA 55: STABILIZERS - DESCRIPTION AND OPERATION 55-00-00 1 RAM ALL RUDDER, ELEVATOR AND HORIZONTAL STABILIZERS - INSPECTION/CHECK\n- ATA 56: WINDOWS - DESCRIPTION AND OPERATION 56-00-00 1 RAM ALL FLIGHT COMPARTMENT WINDOWS - DESCRIPTION AND OPERATION 56-10-00 1 RAM ALL CONTROL CABIN FIXED WINDOWS - DESCRIPTION AND OPERATION 56-11-00 1 RAM ALL CONTROL CABIN FIXED WINDOWS - INSPECTION/CHECK\n- ATA 57: WINGS - DESCRIPTION AND OPERATION 57-00-00 1 RAM ALL\n- ATA 70: TERMS AND ABBREVIATIONS - MAINTENANCE PRACTICES\n- ATA 71: POWER PLANT- DESCRIPTION AND OPERATION 71-00-00 1 RAM ALL\n- ATA 72: \n- ATA 73: ENGINE FUEL AND CONTROL - MAINTENANCE PRACTICES\n- ATA 74: \n- ATA 76: ENGINE CONTROL SYSTEM - DESCRIPTION AND OPERATION 76-11-00 1 RAM ALL ENGINE CONTROL SYSTEM - MAINTENANCE PRACTICES\n- ATA 77: ENGINE TACHOMETER SYSTEM - DESCRIPTION AND OPERATION 77-12-00 1 RAM ALL ENGINE TACHOMETER SYSTEM - ADJUSTMENT/TEST\n- ATA 78: EXHAUST - DESCRIPTION AND OPERATION 78-00-00 1 RAM ALL EXHAUST - DEACTIVATION/REACTIVATION - DDG MAINTENANCE PRACTICES\n- ATA 79: \n- ATA 80: ENGINE STARTING SYSTEM - DESCRIPTION AND OPERATION 80-11-00 1 RAM ALL ENGINE STARTING SYSTEM - MAINTENANCE PRACTICES",
+    "contexto_preview": "Os seguintes capítulos estão disponíveis nos manuais Boeing 737:\n- ATA 05: TIME LIMITS/MAINTENANCE CHECKS - MAINTENANCE PRACTICES\n- ATA 06: DIMENSIONS AND AREAS - MAINTENANCE PRACTICES\n- ATA 07: LIFTING - DESCRIPTION AND OPERATION 07-10-00 1 RAM ALL LIFTING AIRPLANE FOR MAINTENANCE - DESCRIPTION AND OPERATION 07-11-00 1 RAM ALL\n- ATA 08: \n- ATA 09: \n- ATA 10: PARKING AND MOORING - DESCRIPTION AND OPERATION 10-00-00 1 RAM ALL\n- ATA 12: \n- ATA 20: NACELLE STRUT COMPONENT CLEARANCES - MAINTENANCE P",
+    "resposta": "Resposta direta:\nDurante a preservação do MEC (Motor de Empuxo de Combustão), é necessário instalar os encaixes corretos nos portos PCR (Porto de Conexão de Reciprocador) e Head para garantir a compatibilidade e a segurança do sistema. Se forem usados encaixes inadequados, pode ocorrer a perda de pressão, a redução da eficiência do motor e, em casos extremos, a falha do motor.\n\nDetalhes técnicos:\nConforme o manual ATA 71: POWER PLANT- DESCRIPTION AND OPERATION, capítulo 71-00-00, subcapítulo 1, RAM ALL, é necessário instalar os encaixes corretos nos portos PCR e Head para garantir a compatibilidade e a segurança do sistema. Os encaixes inadequados podem causar a perda de pressão, a redução da eficiência do motor e, em casos extremos, a falha do motor.\n\nReferência à fonte:\nConforme o manual ATA 71: POWER PLANT- DESCRIPTION AND OPERATION, capítulo 71-00-00, subcapítulo 1, RAM ALL, Boeing. (Ano desconhecido). Power Plant - Description and Operation. Boeing Commercial Airplanes.",
+    "resposta_detalhada": "Resposta direta:\nDurante a preservação do MEC (Motor de Empuxo de Combustão), é necessário instalar os encaixes corretos nos portos PCR (Porto de Conexão de Reciprocador) e Head para garantir a compatibilidade e a segurança do sistema. Se forem usados encaixes inadequados, pode ocorrer a perda de pressão, a redução da eficiência do motor e, em casos extremos, a falha do motor.\n\nDetalhes técnicos:\nConforme o manual ATA 71: POWER PLANT- DESCRIPTION AND OPERATION, capítulo 71-00-00, subcapítulo 1, RAM ALL, é necessário instalar os encaixes corretos nos portos PCR e Head para garantir a compatibilidade e a segurança do sistema. Os encaixes inadequados podem causar a perda de pressão, a redução da eficiência do motor e, em casos extremos, a falha do motor.\n\nReferência à fonte:\nConforme o manual ATA 71: POWER PLANT- DESCRIPTION AND OPERATION, capítulo 71-00-00, subcapítulo 1, RAM ALL, Boeing. (Ano desconhecido). Power Plant - Description and Operation. Boeing Commercial Airplanes.",
+    "tempo_segundos": 23.427,
+    "metadados_llm": {
+      "status": "ok",
+      "tokens": {
+        "prompt_tokens": 1597,
+        "total_tokens": 1884,
+        "completion_tokens": 287,
+        "prompt_tokens_details": null
+      },
+      "finish_reason": "stop"
+    },
+    "metricas": {
+      "precisao": 0.098,
+      "completude": 0.9406,
+      "especificidade": 1.0,
+      "rastreabilidade": 1.0,
+      "confianca": 0.0
+    },
+    "score_final": 61.46,
+    "tokens_estimados": 800,
+    "ground_truth": "Instalar os encaixes corretos garante drenagem adequada e evita que óleo entre em portos que não devem receber óleo (como CDP, CBP ou sensor de bias de altitude), o que poderia danificar a calibração ou operação do MEC.",
+    "ragas_metrics": {
+      "faithfulness": 1.0,
+      "answer_relevancy": 1.0,
+      "context_precision": 1.0,
+      "context_recall": 1.0,
+      "answer_correctness": 1.0,
+      "answer_similarity": 1.0
+    },
+    "ragas_score": 1.0,
+    "numeric_check": {
+      "gt_value": null,
+      "answer_value": 71.0,
+      "gt_unit": null,
+      "answer_unit": null,
+      "gt_comparison": "=",
+      "numeric_match": null,
+      "unit_match": null
+    }
+  }
+]

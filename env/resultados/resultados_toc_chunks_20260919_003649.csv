@@ -1,0 +1,25 @@
+﻿timestamp,abordagem,pergunta,documentos_recuperados,resposta,tempo_segundos,precisao,completude,especificidade,rastreabilidade,confianca,score_final
+2026-09-19T00:43:13.777596,toc_chunks,Que tipo de antena é a antena HF descrita no manual?,27___084.PDF | 32___084.PDF,"Infelizmente, não há nenhuma menção à antena HF no contexto fornecido. O contexto parece se referir exclusivamente à manutenção e funcionamento do sistema de spoilers e flaps do Boeing 737. Não há informações sobre antenas HF ou qualquer outro tipo de equipamento de comunicação.",16.332,0.0,0.764,0.3333,0.0,1.0,35.77
+2026-09-19T00:43:19.514665,toc_chunks,"Qual é a função do aquecedor de combustível servo dentro do sistema de controle de combustível, e por que manter a temperatura do combustível alta é importante?",49__B_084.PDF,"Resposta direta:
+O aquecedor de combustível servo (Fuel Torque Motor) é responsável por controlar a abertura da válvula de corte de combustível (Fuel Shutoff Solenoid Valve). A temperatura do combustível alta é importante para garantir a operação correta do sistema de controle de combustível.
+
+Detalhes técnicos:
+De acordo com o manual GTCP 36-280, o aquecedor de combustível servo é controlado pelo FADEC (Full Authority Digital Engine Control) e é responsável por modulá-lo para controlar a abertura da válvula de corte de combustível. A temperatura do combustível alta é importante para garantir que o combustível seja bombeado corretamente para o motor, evitando problemas de funcionamento e garantindo a segurança do avião.
+
+Referência à fonte:
+GTCP 36-280, Boeing 737 Aircraft Maintenance Manual, página 4, D6-37569, Março 2015.",5.523,0.193,0.8667,0.3333,1.0,1.0,59.12
+2026-09-19T00:43:30.392450,toc_chunks,Qual é o tempo máximo que o freio de estacionamento pode permanecer engajado antes de ser necessário re-pressurizar o sistema B?,12___084.PDF | 27___084.PDF,"De acordo com o manual [Fonte: 12___084.PDF | score 0.2439], não há uma especificação direta para o tempo máximo que o freio de estacionamento pode permanecer engajado antes de ser necessário re-pressurizar o sistema B. No entanto, é mencionado que o freio de estacionamento deve ser desengajado após o tempo de estacionamento, e que o sistema B deve ser re-pressurizado antes de o avião partir.
+
+No entanto, é possível encontrar uma referência para o tempo de estacionamento em outro manual. De acordo com o manual [Fonte: 27___084.PDF | score 0.1383], o tempo de estacionamento é de até 30 minutos. Além disso, o manual também menciona que o freio de estacionamento pode permanecer engajado por até 30 minutos antes de ser necessário re-pressurizar o sistema B.
+
+Detalhes técnicos:
+
+* O freio de estacionamento deve ser desengajado após o tempo de estacionamento.
+* O sistema B deve ser re-pressurizado antes de o avião partir.
+* O tempo de estacionamento é de até 30 minutos.
+* O freio de estacionamento pode permanecer engajado por até 30 minutos antes de ser necessário re-pressurizar o sistema B.
+
+Referência à fonte:
+
+* [Fonte: 12___084.PDF | score 0.2439]
+* [Fonte: 27___084.PDF | score 0.1383]",10.67,0.1463,0.8467,0.3333,1.0,0.5,52.22

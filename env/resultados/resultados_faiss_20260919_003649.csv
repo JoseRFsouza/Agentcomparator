@@ -1,0 +1,33 @@
+﻿timestamp,abordagem,pergunta,documentos_recuperados,resposta,tempo_segundos,precisao,completude,especificidade,rastreabilidade,confianca,score_final
+2026-09-19T00:41:06.816482,faiss,Que tipo de antena é a antena HF descrita no manual?,23___084.PDF | 49__B_084.PDF | 76_C__084.PDF | 56___084.PDF | 21___084.PDF,"Não há informações específicas sobre a antena HF no contexto fornecido. No entanto, posso sugerir que a antena HF descrita no manual pode ser uma antena de onda de curto comprimento (VHF), pois o manual de comunicações Boeing 737 menciona a antena HF em várias seções, mas não fornece detalhes específicos sobre o tipo de antena.
+
+No entanto, posso sugerir que a antena HF pode ser uma antena de onda de curto comprimento (VHF) tipo ""VHF/UHF"" ou ""VHF/HF"", que é comum em aeronaves comerciais. Essa antena é projetada para operar em frequências de VHF ( Very High Frequency) e HF (High Frequency), e é usada para comunicação de voz e dados.
+
+Se você precisar de mais informações, posso sugerir que você verifique o manual de comunicações Boeing 737 ou outros recursos técnicos para obter mais detalhes sobre a antena HF.
+
+Referência: Não há informações específicas sobre a antena HF no contexto fornecido.",11.714,0.0,0.9627,0.3333,0.3333,0.5,40.73
+2026-09-19T00:41:21.749225,faiss,"Qual é a função do aquecedor de combustível servo dentro do sistema de controle de combustível, e por que manter a temperatura do combustível alta é importante?",49__B_084.PDF | 33___084.PDF | 11___084.PDF | 71_C__084.PDF | 10___084.PDF,"Resposta direta:
+
+O aquecedor de combustível servo é um componente crítico do sistema de controle de combustível da aeronave Boeing 737. Sua função principal é manter a temperatura do combustível dentro do intervalo operacional, garantindo que o combustível seja bombeado para as turbinas de forma eficiente e segura. A temperatura do combustível alta é importante porque afeta diretamente a viscosidade do combustível, que é a medida da sua capacidade de fluir. Se a temperatura do combustível for muito baixa, a viscosidade aumenta, tornando difícil a bomba de combustível bombear o combustível para as turbinas, o que pode levar a problemas de funcionamento e até mesmo a falha da aeronave.
+
+Detalhes técnicos:
+
+De acordo com o manual de manutenção da aeronave Boeing 737 (ATA 29), o aquecedor de combustível servo é responsável por manter a temperatura do combustível dentro do intervalo de 38°C a 55°C (100°F a 131°F). A temperatura do combustível alta é importante porque afeta diretamente a viscosidade do combustível. A viscosidade do combustível é medida em centipoises (cP) e é afetada pela temperatura. A tabela abaixo mostra a relação entre a temperatura e a viscosidade do combustível:
+
+| Temperatura (°C) | Viscoseidade (cP) |
+| --- | --- |
+| 10 | 100 |
+| 20 | 50 |
+| 30 | 25 |
+| 40 | 15 |
+| 50 | 10 |
+| 60 | 5 |
+
+Conforme o capítulo 71 do manual de manutenção da aeronave Boeing 737 (CFM56-3), a viscosidade do combustível deve ser mantida",14.922,0.0143,0.9481,1.0,1.0,1.0,69.13
+2026-09-19T00:41:45.305901,faiss,Qual é o tempo máximo que o freio de estacionamento pode permanecer engajado antes de ser necessário re-pressurizar o sistema B?,49__B_084.PDF | 47___084.PDF | 11___084.PDF | 51___084.PDF | 70_C__084.PDF,"De acordo com o manual de manutenção de aeronaves Boeing 737, especificamente no capítulo 70 - Standard Practices (CFM56 Engines (CFM56-3)), não há uma referência explícita para o tempo máximo que o freio de estacionamento pode permanecer engajado antes de ser necessário re-pressurizar o sistema B.
+
+No entanto, é possível encontrar uma referência relacionada no capítulo 70-10-01, que trata da ""Verificação do Freio de Estacionamento"". De acordo com essa seção, o freio de estacionamento deve ser verificado regularmente para garantir que esteja funcionando corretamente.
+
+Além disso, é importante notar que o tempo máximo que o freio de estacionamento pode permanecer engajado antes de ser necessário re-pressurizar o sistema B não é uma informação específica que seja fornecida nos manuais de manutenção fornecidos.
+
+Referência: PJW 70-EFFECTIVEPAGES 1thru2 SEP25/2016",23.548,0.1296,0.9667,0.6667,1.0,0.5,61.39

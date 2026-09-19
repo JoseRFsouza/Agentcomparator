@@ -1,0 +1,557 @@
+[
+  {
+    "timestamp": "2026-09-19T06:11:44.451334",
+    "abordagem": "faiss_nvidia",
+    "pergunta": "Quais são as etapas de inspeção de Control Cable Wire Rope e Fittings?",
+    "documentos_recuperados": [
+      "20___084.PDF",
+      "76_C__084.PDF",
+      "20___084.PDF",
+      "76_C__084.PDF",
+      "52___084.PDF"
+    ],
+    "contexto_usado": "[Fonte: 20___084.PDF (similaridade 0.4031)]\nLb-In. 10-60779-178 0.2500 1 to 8 10-60779-208 0.1900 1 to 7 10-60779-179 0.4375 1 to 8 10-60779-209 0.2500 1 to 7 10-60779-180 0.4375 1 to 8 10-60779-210 0.3125 2 to 10 10-60779-181 0.2500 1 to 8 10-60779-211 0.3750 2 to 10 10-60779-182 0.7500 1 to 8 10-60779-212 0.4375 3 to 13 10-60779-183 0.6250 1 to 8 10-60779-213 0.5000 3 to 13 10-60779-184 0.6250 1 to 8 10-60779-214 0.6250 3 to 13 10-60779-185 0.2500 1 to 8 10-60779-215 0.7500 4 to 16 10-60779-186 0.5000 1 to 8 10-60779-216 0.3125 1 to 8 10-60779-187 0.6250 1 to 8 10-60779-217 0.2500 1 to 7 10-60779-188 0.6250 1 to 8 10-60779-218 0.5000 1 to 8 10-60779-189 0.6250 1 to 8 10-60779-219 0.5000 1 to 8 10-60779-200 0.1900 1 to 8 10-60779-220 0.3125 1 to 8 10-60779-201 0.2500 1 to 8 10-60779-221 0.3125 2 to 1 10-60779-202 0.3125 1 to 8 10-60779-222 0.4375 1 to 8 10-60779-203 0.3750 1 to 8 10-60779-223 0.3125 2 to 1 10-60779-204 0.4375 1 to 8 10-60779-224 0.3750 1 to 8 10-60779-205 0.5000 1 to 8 10-60779-301 0.2500 1 to 6 10-60779-206 0.6250 1 to 8 10-60779-302 0.3125 1 to 8 10-60779-207 0.7500 1 to 8 END OF TASK EFFECTIVITY RAM ALL 20-20-21 Page 607 D6-37569 Mar 25/2015 BOEING PROPRIETARY - Copyright © Unpublished Work - See title p\n\n---\n\n[Fonte: 76_C__084.PDF (similaridade 0.3474)]\nREMOVES GREASE FROM INSIDE CABLE STRANDS. DO NOT APPLY OR SPRAY BMS 3-23 ON CONTROL CABLES. (5) Use a lint-free cloth that is clean and dry to clean the control cables. NOTE: Remove the old grease and dirt from the surface of the control cable. Clean the control cable for the full length of the cable for the full length of travel through fairleads, air pressure seals, over pulleys, quadrants, and drums. G. Engine Control Cables (Non-Exposed Wing Forward Of The Front Spar) Inspection SUBTASK 76-11-00-210-005-C00 (1) Examine the control cable: (a) Do a detailed visual inspection to make sure that the cable does not contact parts other than pulleys, quadrants, cable seals or grommets installed to control the cable routing. The minimum cable clearance from other parts is 0.20 inches except 0.10 inches within 10 inches of a pulley or quadrant. Look for evidence of contact with other parts. Correct the condition if evidence of contact is found. (b) Perform a detailed visual inspection of the cable runs for incorrect routing, kinks in the wire rope, or other damage. 1) Replace the cable assembly if: a) The individual wires in a strand appear to blend together (outer wires worn 40 to 50 pe\n\n---\n\n[Fonte: 20___084.PDF (similaridade 0.3273)]\n grease, D00633 (preferred) or grease, D00015 (optional) grease to carbon steel cables, then wipe the cable with a clean rag to leave a thin film of grease between the wires on the cable. Do not grease cres cables, it may be only cleaned with clean rag. (c) Install the Turnbuckle, SPL-5457, with the turnbuckle barrel installed an equal distance on the two terminals. NOTE: Do not let more than three threads show out of the barrel. (d) Remove the cable clamps and rig pins from the control cable and the drums. (e) If applicable, remove the tension regulator tool from the elevator control cable. EFFECTIVITY RAM ALL 20-10-91 Page 404 D6-37569 Mar 25/2015 BOEING PROPRIETARY - Copyright © Unpublished Work - See title page for details 737-300/400/500 AIRCRAFT MAINTENANCE MANUAL (f) To tighten the cable, refer to the Temperature - Tension chart in the system chapter. NOTE: Use a tensiometer, STD-871 to do a check on the cable tension. Apply the tensiometer to the cable a minimum of 6 in. (152 mm) from the turnbuckle terminal or other fittings. To make sure you get the correct cable tension, permit a minimum of one hour at constant ambient temperature (± 5°F (-15°C)) for the airplane tempera\n\n---\n\n[Fonte: 76_C__084.PDF (similaridade 0.3168)]\n Including Slats 507 Strut 607 Strut E. Access Panels Number Name/Location 3378 Forward Upper Fairing - Wing To Body Left Side Removable Panel 3478 Forward Upper Fairing - Wing To Body Right Side Removable Panel 5726 Strut Access Door LH Side (NAC STA 239) 5729 Strut Access Door Top (NAC STA 240) 5731 Strut Access Door RH Side (NAC STA 229) 5746 Fan Cowl LH Side Engine No.1 5826 Strut Access Door LH Side (NAC STA 239) 5829 Strut Access Door Top (NAC STA 240) 5831 Strut Access Door RH Side (NAC STA 229) 5846 Fan Cowl LH Side Engine No. 2 6303 Left Wing Boost Pump Door 6403 Right Wing Boost Pump Door F. Prepare for the Inspection SUBTASK 76-11-00-040-009-C00 WARNING: DO THE DEACTIVATION PROCEDURE FOR THE THRUST REVERSER TO PREVENT THE OPERATION OF THE THRUST REVERSER. ACCIDENTAL OPERATION OF THE THRUST REVERSER CAN CAUSE INJURIES TO PERSONS OR DAMAGE TO EQUIPMENT. (1) Do the deactivation procedure for the thrust reverser for ground maintenance (TASK 78-31-00-042-001-C00). EFFECTIVITY RAM ALL 76-11-00 Page 607 D6-37569 Sep 25/2015 BOEING PROPRIETARY - Copyright © Unpublished Work - See title page for details CFM56 ENGINES (CFM56-3) 737-300/400/500 AIRCRAFT MAINTENANCE MANUAL SUBTASK 7\n\n---\n\n[Fonte: 52___084.PDF (similaridade 0.3092)]\n. 1) Look for cracks. 2) Look for corrosion. 3) Make sure the frames attach correctly. (b) Look at the pulley brackets. 1) Look for cracks. 2) Look for corrosion. 3) Make sure the brackets attach correctly. EFFECTIVITY RAM ALL 52-31-00 Page 601 D6-37569 Mar 25/2015 BOEING PROPRIETARY - Copyright © Unpublished Work - See title page for details 737-300/400/500 AIRCRAFT MAINTENANCE MANUAL SUBTASK 52-31-00-216-007 (6) Examine the hinge parts. (a) Look at the hinge arms. 1) Look for cracks. 2) Look for corrosion. (b) Make sure the hinge arms attach correctly. 1) Examine the bolts in the hinge arms. a) Make sure the bolts fully engage the nuts. b) Make sure the bolt threads are satisfactory. c) If the nuts and the bolts are not satisfactory, replace them. SUBTASK 52-31-00-216-008 (7) Examine the handle mechanism. (a) Look at the handle. 1) Look for cracks. 2) Look for corrosion. 3) Make sure the handle attaches correctly. (b) Look at the handle housing. 1) Look for cracks. 2) Look for corrosion. SUBTASK 52-31-00-216-009 (8) Examine the door latch mechanism. (a) Look at the latch rollers. 1) Look for cracks. 2) Look for corrosion. 3) Remove unwanted material. (b) Look at the latch fitting",
+    "contexto_preview": "[Fonte: 20___084.PDF (similaridade 0.4031)]\nLb-In. 10-60779-178 0.2500 1 to 8 10-60779-208 0.1900 1 to 7 10-60779-179 0.4375 1 to 8 10-60779-209 0.2500 1 to 7 10-60779-180 0.4375 1 to 8 10-60779-210 0.3125 2 to 10 10-60779-181 0.2500 1 to 8 10-60779-211 0.3750 2 to 10 10-60779-182 0.7500 1 to 8 10-60779-212 0.4375 3 to 13 10-60779-183 0.6250 1 to 8 10-60779-213 0.5000 3 to 13 10-60779-184 0.6250 1 to 8 10-60779-214 0.6250 3 to 13 10-60779-185 0.2500 1 to 8 10-60779-215 0.7500 4 to 16 10-60779-18",
+    "resposta": "Resposta direta:\nAs etapas de inspeção de Control Cable Wire Rope e Fittings incluem:\n\n1. Exame visual detalhado da cabine de controle para garantir que a cabine não entre em contato com partes outras que não com polias, quadrantes, selos de cabos ou grometas instalados para controlar a rotação do cabo.\n2. Verificação da rotação do cabo para garantir que não haja kinks ou danos.\n3. Verificação da tensão do cabo, utilizando um tensiômetro, STD-871, para garantir que a tensão esteja dentro do intervalo recomendado.\n4. Verificação da instalação do turnbuckle, SPL-5457, para garantir que esteja instalado a uma distância igual em ambos os terminais.\n5. Remoção dos parafusos de cabos e pinos de riga da cabine de controle e dos tambores.\n6. Verificação da instalação da ferramenta de regulador de tensão, se aplicável.\n\nDetalhes técnicos:\nA inspeção de Control Cable Wire Rope e Fittings é importante para garantir a segurança e a eficácia do sistema de controle da aeronave. A cabine de controle deve ser inspecionada regularmente para garantir que esteja em boas condições e não esteja em contato com partes outras que não com polias, quadrantes, selos de cabos ou grometas instalados para controlar a rotação do cabo. Além disso, a tensão do cabo deve ser verificada regularmente para garantir que esteja dentro do intervalo recomendado.\n\nReferência à fonte:\nDe acordo com o manual de manutenção da aeronave Boeing 737, especificamente no capítulo 52-31-00, sub",
+    "resposta_detalhada": "Resposta direta:\nAs etapas de inspeção de Control Cable Wire Rope e Fittings incluem:\n\n1. Exame visual detalhado da cabine de controle para garantir que a cabine não entre em contato com partes outras que não com polias, quadrantes, selos de cabos ou grometas instalados para controlar a rotação do cabo.\n2. Verificação da rotação do cabo para garantir que não haja kinks ou danos.\n3. Verificação da tensão do cabo, utilizando um tensiômetro, STD-871, para garantir que a tensão esteja dentro do intervalo recomendado.\n4. Verificação da instalação do turnbuckle, SPL-5457, para garantir que esteja instalado a uma distância igual em ambos os terminais.\n5. Remoção dos parafusos de cabos e pinos de riga da cabine de controle e dos tambores.\n6. Verificação da instalação da ferramenta de regulador de tensão, se aplicável.\n\nDetalhes técnicos:\nA inspeção de Control Cable Wire Rope e Fittings é importante para garantir a segurança e a eficácia do sistema de controle da aeronave. A cabine de controle deve ser inspecionada regularmente para garantir que esteja em boas condições e não esteja em contato com partes outras que não com polias, quadrantes, selos de cabos ou grometas instalados para controlar a rotação do cabo. Além disso, a tensão do cabo deve ser verificada regularmente para garantir que esteja dentro do intervalo recomendado.\n\nReferência à fonte:\nDe acordo com o manual de manutenção da aeronave Boeing 737, especificamente no capítulo 52-31-00, sub",
+    "tempo_segundos": 22.235,
+    "metadados_llm": {
+      "status": "ok",
+      "tokens": {
+        "prompt_tokens": 2423,
+        "total_tokens": 2823,
+        "completion_tokens": 400,
+        "prompt_tokens_details": null
+      },
+      "finish_reason": "length"
+    },
+    "metricas": {
+      "precisao": 0.15,
+      "completude": 0.9313,
+      "especificidade": 1.0,
+      "rastreabilidade": 1.0,
+      "confianca": 1.0
+    },
+    "score_final": 72.78,
+    "tokens_estimados": 1289,
+    "ground_truth": "A inspeção do Control Cable Wire Rope é descrita na tarefa 20‑20‑31‑216‑046, e a inspeção dos Fittings do cabo de controle na tarefa 20‑20‑31‑216‑047. As etapas incluem a verificação visual de desgaste, integridade estrutural e condições de fixação.",
+    "ragas_metrics": {
+      "faithfulness": 1.0,
+      "answer_relevancy": 1.0,
+      "context_precision": 1.0,
+      "context_recall": 1.0,
+      "answer_correctness": 0.0,
+      "answer_similarity": 1.0,
+      "numeric_verified": false
+    },
+    "ragas_score": 0.7143,
+    "numeric_check": {
+      "gt_value": 20.0,
+      "answer_value": 1.0,
+      "gt_unit": null,
+      "answer_unit": null,
+      "gt_comparison": "=",
+      "numeric_match": false,
+      "unit_match": true
+    }
+  },
+  {
+    "timestamp": "2026-09-19T06:11:51.706230",
+    "abordagem": "faiss_nvidia",
+    "pergunta": "Qual é a largura do forward entry door (porta de entrada à frente) no diagrama de estações do corpo?",
+    "documentos_recuperados": [
+      "06___084.PDF",
+      "52___084.PDF",
+      "52___084.PDF",
+      "52___084.PDF",
+      "06___084.PDF"
+    ],
+    "contexto_usado": "[Fonte: 06___084.PDF (similaridade 0.3458)]\nPPER 74.0 R LOBE WL 246.1 WINDOWS UPPER RADII CREASE LINE WL 208.1 WL 208.1 TOP OF FLOOR BEAM LOWER LOBE WL 148.5 FORWARD ACCESS DOOR 14 X 27 CARGO DOOR 35 X 48 ELECTRONIC NOSE GEAR ABOVE WL 208.1 UPPER LOBE FROM STA ACCESS DOOR PRODUCTION BREAK WHEEL WELL 480 TO STA 808 30.5 X 24.5 BELOW WL 208.1 LOWER LOBE FROM STA Body Station Diagram DOOR 737-300/400/500 390 TO STA 540 AND FROM STA 727 TO STA 727G+3 SECTION 41 SECTION 43 REAR VIEW 20 INCH USUAL SPACING 22 INCH USUAL SPACING PRESSURE BULKHEAD 20 INCH SPACING D6-37569 1006 540 559 578 601 616 639 663.75 685 706 727 727A 727B 727C 727D 727E 727F 727G 747 767 787 807 827 847 867 887 907 927 947.5 967 986.5 1016 1040 1064 1088 1104 1121 1138 1156 1217 EXHAUST SHIELD PRESSURE TAILCONE LEVEL ACCESS Figure 201/06-25-00-990-801 (Sheet 1 of 2) WING CENTER APU DOOR (RIGHT) AIRCRAFT MAINTENANCE MANUAL BOEING PROPRIETARY - Copyright © Unpublished Work - See title page for details SECTION ACCESS ACCESS DOOR DOOR ENTRY DOOR (LEFT) ESCAPE HATCH WHEEL CARGO DOOR 30 X 72 20 X 38 WELL 33 X 48 GALLEY DOOR (RIGHT) 30 X 65 SECTION 46 SECTION 48 737-400 (LEFT SIDE VIEW) Page 202 Mar 25/2015 06-25-00 590786 S00041199946_V1 EFFECTIVITY RAM 501-999 PROD\n\n---\n\n[Fonte: 52___084.PDF (similaridade 0.3444)]\npyright © Unpublished Work - See title page for details 737-300/400/500 AIRCRAFT MAINTENANCE MANUAL FORWARD ENTRY DOOR EXTERNAL HANDLE AIRSTAIR DOOR FORWARD ENTRY DOOR (EXTERNAL VIEW - DOOR IN COCKED POSITION) INTERNAL HANDLE FORWARD ENTRY DOOR (INTERNAL VIEW-DOOR IN COCKED POSITION) A D36038 S00041246172_V1 Forward Entry Door Operation Figure 501/52-11-00-990-810 EFFECTIVITY RAM ALL 52-11-00 Page 504 D6-37569 Mar 25/2015 BOEING PROPRIETARY - Copyright © Unpublished Work - See title page for details 737-300/400/500 AIRCRAFT MAINTENANCE MANUAL TASK 52-11-00-705-007 3. Forward Entry Door Adjustment (Figure 502) A. General (1) It is best to adjust the door when the airplane is on its wheels. It is possible to adjust the door with the airplane on jacks. But, if the airplane is on jacks, it is necessary to complete the adjustment with the airplane on its wheels. Check the adjustment of the stop pins, the door flushness and the handle torque only when the airplane is on its wheels. (2) The adjustments for the guide arm, horizontal control rod, door vertical, latch cams, upper and lower gate flushness, and stop pins are related. Changing one of the adjustments may effect the other adjustm\n\n---\n\n[Fonte: 52___084.PDF (similaridade 0.3438)]\n-11-00-434-020 (4) Install the assist spring and the torque tube (PAGEBLOCK 52-11-41/401). RAM ALL SUBTASK 52-11-00-434-022 (5) Install the hinge arm covers, the stop pins, and the door seal. NOTE: It is only necessary to install these parts on a new door. (a) Install the hinge arm covers 1) Put primer, C00259 on the bolts that hold the hinge covers to the hinge arms. 2) Attach the hinge covers to the hinge arms with the bolts. (b) Install the stop pins on the edges of the door. 1) Put a layer of corrosion preventive compound, C00174 on the threads of the stop pins. 2) Put the stop pins on the door. (c) Install the door seal (PAGEBLOCK 52-09-13/401). SUBTASK 52-11-00-824-023 (6) Do this task: (Forward Entry Door Adjustment, TASK 52-11-00-705-007). SUBTASK 52-11-00-434-025 (7) Install the lining and the insulation on the forward entry door (PAGEBLOCK 52-11-31/401). SUBTASK 52-11-00-434-026 (8) Install the escape slide on the forward entry door (PAGEBLOCK 25-61-35/201). SUBTASK 52-11-00-410-001 (9) Close the Entry Door: Number Name/Location 4201 Forward Entry Door END OF TASK EFFECTIVITY RAM ALL 52-11-00 Page 411 D6-37569 Mar 25/2015 BOEING PROPRIETARY - Copyright © Unpublished Work \n\n---\n\n[Fonte: 52___084.PDF (similaridade 0.3393)]\nlide assembly (PAGEBLOCK 25-61-35/201). SUBTASK 52-11-00-750-001 (5) Do this task: (Forward Entry Door Test, TASK 52-11-00-755-051). END OF TASK EFFECTIVITY RAM ALL 52-11-00 Page 510 D6-37569 Mar 25/2015 BOEING PROPRIETARY - Copyright © Unpublished Work - See title page for details 737-300/400/500 AIRCRAFT MAINTENANCE MANUAL TOP GATE 1. DOOR STOP PIN GATE STOP RODS SEE A STOP ROD BEARING PLATE GATE CONTROL ROD STOP FITTING (EXAMPLE) 2. LATCH CAM FITTING SEE B TOP HINGE SEE D 4. ACCESS PANEL HANDLE MECHANISM 3. GUIDE TRACK SEE G SEE F BOTTOM HINGE SEE E 2. LATCH CAM FITTING BOTTOM GATE FORWARD ENTRY DOOR ____ NOTE: DOOR GATE LINING AND DOOR INTERIOR TRIM PANELS REMOVED. 87423 S00041246177_V1 Forward Entry Door Adjustment Figure 502/52-11-00-990-811 (Sheet 1 of 5) EFFECTIVITY RAM ALL 52-11-00 Page 511 D6-37569 Mar 25/2015 BOEING PROPRIETARY - Copyright © Unpublished Work - See title page for details 737-300/400/500 AIRCRAFT MAINTENANCE MANUAL 1. DOOR STOP PIN C/L OF STOP FITTINGS 6. DOOR STOP FITTING THREADED BUSHING 0.20 INCH 5. LOCK FWD (5.08 mm) SPRING A DIAMETER 0.10 INCH STOP (2.54 mm) AFT STOPS FORWARD STOPS A 0.75 INCH (19.05 mm) DOOR STOP PIN DIAMETER STOP FITTINGS A-A A 0.09\n\n---\n\n[Fonte: 06___084.PDF (similaridade 0.3317)]\n BWL BRP BWL 208.10 225.267 BWL BWL 195.331 BWL 193.679 TRAILING 183.888 BWL 179.762 EDGE AT WCP BBL 70.85 B STA 1 ˚ INCIDENCE B STA 516.253 752.63 BBL 0.00 LEFT SIDE VIEW OF BODY AT WING WBL 71.24 WBL 571.5 WCP CENTER SECTION WCP WBL OUTBD RS 6 ˚ DIHEDRAL 0.00 BBL 70.85 ENG NAC BL 0 EXTENDED W BL 191.00 TRAILING WING EDGE STATIONS INBD (W STA) RSS OUTBD PS (WRP) WING REF PLANE INBD RS 25% CHORD LINE OUTBD PSS EXTENDED 25 ˚ LEADING EDGE INBD PSS VIEW 1 W STA 0.00 PLANE VIEW OF WING 0.00 WBL (NORMAL TO WING CHORD PLANE) 0.00 100050 S00041199928_V1 Reference Planes and Lines Figure 201/06-00-01-990-801 (Sheet 2 of 2) EFFECTIVITY RAM ALL 06-00-01 Page 205 D6-37569 Mar 25/2015 BOEING PROPRIETARY - Copyright © Unpublished Work - See title page for details 737-300/400/500 AIRCRAFT MAINTENANCE MANUAL PRINCIPAL DIMENSIONS AND AREAS - MAINTENANCE PRACTICES 1. General A. Dimensions are included for the wing, ailerons, flaps, horizontal stabilizer surfaces, vertical stabilizer surfaces and body. Areas are included for the wing and stabilizer surfaces. TASK 06-13-00-222-001 2. Principal Dimensions and Areas (Figure 201) A. General (1) Dimensions RAM 001-006 (2) Overall Airplane • Length -- 119",
+    "contexto_preview": "[Fonte: 06___084.PDF (similaridade 0.3458)]\nPPER 74.0 R LOBE WL 246.1 WINDOWS UPPER RADII CREASE LINE WL 208.1 WL 208.1 TOP OF FLOOR BEAM LOWER LOBE WL 148.5 FORWARD ACCESS DOOR 14 X 27 CARGO DOOR 35 X 48 ELECTRONIC NOSE GEAR ABOVE WL 208.1 UPPER LOBE FROM STA ACCESS DOOR PRODUCTION BREAK WHEEL WELL 480 TO STA 808 30.5 X 24.5 BELOW WL 208.1 LOWER LOBE FROM STA Body Station Diagram DOOR 737-300/400/500 390 TO STA 540 AND FROM STA 727 TO STA 727G+3 SECTION 41 SECTION 43 REAR VIEW 20 INCH USUAL SPA",
+    "resposta": "Resposta direta:\nA largura do forward entry door (porta de entrada à frente) no diagrama de estações do corpo é de 30 polegadas.\n\nDetalhes técnicos:\nDe acordo com o manual de manutenção da aeronave Boeing 737, a largura do forward entry door é especificada como 30 polegadas (ver página 504 do manual 52___084.PDF). Além disso, o manual também especifica que a porta de entrada à frente tem uma altura de 27 polegadas (ver página 504 do manual 52___084.PDF).\n\nReferência à fonte:\nFonte: Manual de manutenção da aeronave Boeing 737, página 504 do manual 52___084.PDF.",
+    "resposta_detalhada": "Resposta direta:\nA largura do forward entry door (porta de entrada à frente) no diagrama de estações do corpo é de 30 polegadas.\n\nDetalhes técnicos:\nDe acordo com o manual de manutenção da aeronave Boeing 737, a largura do forward entry door é especificada como 30 polegadas (ver página 504 do manual 52___084.PDF). Além disso, o manual também especifica que a porta de entrada à frente tem uma altura de 27 polegadas (ver página 504 do manual 52___084.PDF).\n\nReferência à fonte:\nFonte: Manual de manutenção da aeronave Boeing 737, página 504 do manual 52___084.PDF.",
+    "tempo_segundos": 6.545,
+    "metadados_llm": {
+      "status": "ok",
+      "tokens": {
+        "prompt_tokens": 2397,
+        "total_tokens": 2561,
+        "completion_tokens": 164,
+        "prompt_tokens_details": null
+      },
+      "finish_reason": "stop"
+    },
+    "metricas": {
+      "precisao": 0.2258,
+      "completude": 0.9605,
+      "especificidade": 0.3333,
+      "rastreabilidade": 1.0,
+      "confianca": 1.0
+    },
+    "score_final": 62.45,
+    "tokens_estimados": 1120,
+    "ground_truth": "30 polegadas",
+    "ragas_metrics": {
+      "faithfulness": 1.0,
+      "answer_relevancy": 1.0,
+      "context_precision": 1.0,
+      "context_recall": 1.0,
+      "answer_correctness": 1.0,
+      "answer_similarity": 1.0,
+      "numeric_verified": true
+    },
+    "ragas_score": 1.0,
+    "numeric_check": {
+      "gt_value": 30.0,
+      "answer_value": 30.0,
+      "gt_unit": "in",
+      "answer_unit": "in",
+      "gt_comparison": "=",
+      "numeric_match": true,
+      "unit_match": true
+    }
+  },
+  {
+    "timestamp": "2026-09-19T06:11:58.265515",
+    "abordagem": "faiss_nvidia",
+    "pergunta": "Quando o bubble do attitude gage não estiver centralizado na vidraça durante o nivelamento de rolo, qual ação deve ser tomada?",
+    "documentos_recuperados": [
+      "08___084.PDF",
+      "72_C__084.PDF",
+      "32___084.PDF",
+      "72_C__084.PDF",
+      "27___084.PDF"
+    ],
+    "contexto_usado": "[Fonte: 08___084.PDF (similaridade 0.4312)]\n roll direction. NOTE: Make sure the alignment tube tips are on a flat surface of the wheel well ceiling. SUBTASK 08-12-00-822-009 (7) Set the screw adjuster on top of the attitude gage until the pointer is on zero. NOTE: If the bubble is not in the center of the vial, you must lift or lower the sides of the airplane as it is necessary. The bubble will move to the high side of the airplane. SUBTASK 08-12-00-582-010 (8) Do these steps to make the airplane level about its roll axis: WARNING: DO NOT PRESSURIZE THE SHOCK STRUTS TO MORE THAN USUAL SERVICING PRESSURE. IF YOU DO, INJURY TO PERSONS AND DAMAGE TO SHOCK STRUTS CAN OCCUR. (a) For small adjustments, extend or retract the main landing gear shock struts to usual service band limits (PAGEBLOCK 12-15-31/301). CAUTION: ALL OF THE JACKS MUST HAVE PRESSURE GAGES. DO NOT USE MORE PRESSURE THAN THE LIMITS PERMIT. DAMAGE TO EQUIPMENT CAN OCCUR. (b) For large adjustments, do these steps: 1) Put the applicable jack pad adapters and jacks at jacking points A and B (PAGEBLOCK 07-11-11/201). 2) Lift or lower the jacks until the bubble is in the center of the vial. SUBTASK 08-12-00-582-007 (9) Do the longitudinal and lateral leveling procedur\n\n---\n\n[Fonte: 72_C__084.PDF (similaridade 0.2526)]\n at the origin, with a radius that is related to the initial imbalance (U0) before you added other weights (Figure 525). 2) Make an arc with a radius that is related to the imbalance U1 (Figure 526). NOTE: The center of the arc is on the circumference of the circle. The center of the arc is at the location of the center of the three P05 screws that were installed for the first engine run. 3) Make an arc with a radius that is related to the imbalance U2 (Figure 527). NOTE: The center of the arc is on the circumference of the circle. The center of the arc is at the location of the center of the three P05 screws that were installed for the second engine run. 4) Make an arc with a radius that is related to the imbalance U3 (Figure 528). NOTE: The center of the arc is on the circumference of the circle. The center of the arc is at the location of the center of the three P05 screws that were installed for the third engine run. 5) Make a vector, R1, from the origin of the graph to the one point that the three arcs go through (Figure 529). NOTE: If the three arcs do not go through one point, use a a point that is approximately in the center of the triangle made by the three arcs. 6) Measur\n\n---\n\n[Fonte: 32___084.PDF (similaridade 0.2473)]\nOCKNUT ON THE CONTROL ROD AT THE CRANK END. AN INTERFERENCE AND A POSSIBLE ROD FAILURE CAN OCCUR. (17) If the steering control rod of the rudder pedal is disconnected, do the steps that follow: (a) Adjust the steering control rod of the rudder pedal. (b) Make sure the attach bolt will install correctly through the control rod and the input rod. (c) Install the attach bolt. SUBTASK 32-51-00-095-033 (18) Remove all the rigging pins, rig pin kit, SPL-9682. SUBTASK 32-51-00-705-081 (19) Make sure that the position to center the nose landing gear is zero (with the possibilities given on the shock strut of the nose landing gear). (a) If it is necessary, adjust the input rod of the steering metering valve. NOTE: The shoulder bolt must install correctly without the movement of the metering valve (spring loaded) from its neutral position. SUBTASK 32-51-00-080-001 (20) Remove the aluminum sheet, 2.0 in. (50.8 mm) X 1.0 in. (25.4 mm) X 0.05 ±0.02 in. (1.27 ±0.51 mm) inch thick between the proximity switch and its target. SUBTASK 32-51-00-735-034 (21) Do a test on the steering system of the nose wheel (TASK 32-51-00-705-061). END OF TASK EFFECTIVITY RAM ALL 32-51-00 Page 510 D6-37569 Sep 25/20\n\n---\n\n[Fonte: 72_C__084.PDF (similaridade 0.2462)]\non at A = ---------------------------------------------------------------------- Sensitivity at A 5) Optimize the residual vibration level as follows: NOTE: After the calculation, some of the residual vibration can be too high. If this occurs, you must make the balance weight better to make all the residual vibration amplitudes satisfactory. a) Around each of the changed points, draw a circle whose radius (g-cm) is equivalent to the sensitivity at each point multiplied by the vibration amplitude. Sensitivity (g-cm) x Vibration amplitude (mils) R (g-cm) = ----------------------------------------------------------------------------------------- mils EFFECTIVITY RAM ALL 72-31-00 Page 519 D6-37569 Mar 25/2015 BOEING PROPRIETARY - Copyright © Unpublished Work - See title page for details CFM56 ENGINES (CFM56-3) 737-300/400/500 AIRCRAFT MAINTENANCE MANUAL RAM ALL; 856A2633, 856A2605G22/G18/G17/G13, AND 856A2605G20/G12 (Continued) b) Use the same formula given above to draw a circle around each of the other points until the area that is common to the intersecting circles is found. NOTE: Because it is near to the common area, the location of W1 can help you find the common area. This commo\n\n---\n\n[Fonte: 27___084.PDF (similaridade 0.2449)]\nn the rod end points down. d) Install the tension rod with the bolt, washer, nut, and cotter pin. e) Tighten the checknuts. 7) Remove the rig pins R-1, R-2, R-3, R-4, and R-5. 8) Operate the rudder pedals through one full travel cycle. a) Make sure the tension of the control cables RA and RB are the same as shown on table 1, Figure 501. 9) Loosen the seal retainer bolt. 10) Align the pressure seals at the aft pressure bulkhead with the RA and RB cables (PAGEBLOCK 27-09-17/201). 11) Install the turnbuckle locking clips. 12) Apply a thin layer of grease, D00633 to the threads. 13) Make sure the threads engage correctly on the tension rods and bus rod. 14) Make sure the rod ends covers at least 50 percent of the inspection holes at two end of the rods (10 locations). SUBTASK 27-21-00-825-006-001 (6) Adjust the input rod of the rudder PCU: EFFECTIVITY RAM ALL PRE SB 737-27-1255 27-21-00 Config 1 Page 505 D6-37569 Mar 25/2015 BOEING PROPRIETARY - Copyright © Unpublished Work - See title page for details 737-300/400/500 AIRCRAFT MAINTENANCE MANUAL WARNING: MAKE SURE THAT PERSONS AND EQUIPMENT ARE CLEAR OF ALL CONTROL SURFACES BEFORE YOU SUPPLY HYDRAULIC POWER. AILERONS, RUDDERS, ELEVATOR",
+    "contexto_preview": "[Fonte: 08___084.PDF (similaridade 0.4312)]\n roll direction. NOTE: Make sure the alignment tube tips are on a flat surface of the wheel well ceiling. SUBTASK 08-12-00-822-009 (7) Set the screw adjuster on top of the attitude gage until the pointer is on zero. NOTE: If the bubble is not in the center of the vial, you must lift or lower the sides of the airplane as it is necessary. The bubble will move to the high side of the airplane. SUBTASK 08-12-00-582-010 (8) Do these steps to make the airpla",
+    "resposta": "De acordo com o manual ATA 29, durante o nivelamento de rolo, se o bubble do attitude gage não estiver centralizado na vidraça, é necessário ajustar a inclinação do avião. Isso pode ser feito elevando ou abaixando os lados do avião, conforme necessário, até que o bubble esteja centralizado.\n\nDetalhes técnicos:\n\n* O manual ATA 29 especifica que o bubble deve estar centralizado na vidraça durante o nivelamento de rolo.\n* Se o bubble não estiver centralizado, é necessário ajustar a inclinação do avião.\n* O ajuste pode ser feito elevando ou abaixando os lados do avião, conforme necessário.\n* É importante verificar se o bubble está centralizado antes de prosseguir com o nivelamento de rolo.\n\nReferência à fonte:\n\n* Manual ATA 29, subtask 08-12-00-582-010 (8): \"Do these steps to make the airplane level about its roll axis: ... If the bubble is not in the center of the vial, you must lift or lower the sides of the airplane as it is necessary.\"",
+    "resposta_detalhada": "De acordo com o manual ATA 29, durante o nivelamento de rolo, se o bubble do attitude gage não estiver centralizado na vidraça, é necessário ajustar a inclinação do avião. Isso pode ser feito elevando ou abaixando os lados do avião, conforme necessário, até que o bubble esteja centralizado.\n\nDetalhes técnicos:\n\n* O manual ATA 29 especifica que o bubble deve estar centralizado na vidraça durante o nivelamento de rolo.\n* Se o bubble não estiver centralizado, é necessário ajustar a inclinação do avião.\n* O ajuste pode ser feito elevando ou abaixando os lados do avião, conforme necessário.\n* É importante verificar se o bubble está centralizado antes de prosseguir com o nivelamento de rolo.\n\nReferência à fonte:\n\n* Manual ATA 29, subtask 08-12-00-582-010 (8): \"Do these steps to make the airplane level about its roll axis: ... If the bubble is not in the center of the vial, you must lift or lower the sides of the airplane as it is necessary.\"",
+    "tempo_segundos": 5.885,
+    "metadados_llm": {
+      "status": "ok",
+      "tokens": {
+        "prompt_tokens": 2021,
+        "total_tokens": 2272,
+        "completion_tokens": 251,
+        "prompt_tokens_details": null
+      },
+      "finish_reason": "stop"
+    },
+    "metricas": {
+      "precisao": 0.4038,
+      "completude": 0.8857,
+      "especificidade": 1.0,
+      "rastreabilidade": 1.0,
+      "confianca": 1.0
+    },
+    "score_final": 79.26,
+    "tokens_estimados": 1214,
+    "ground_truth": "Levantar ou abaixar os lados da aeronave conforme necessário para centralizar o bubble.",
+    "ragas_metrics": {
+      "faithfulness": 1.0,
+      "answer_relevancy": 1.0,
+      "context_precision": 1.0,
+      "context_recall": 1.0,
+      "answer_correctness": 1.0,
+      "answer_similarity": 1.0
+    },
+    "ragas_score": 1.0,
+    "numeric_check": {
+      "gt_value": null,
+      "answer_value": 29.0,
+      "gt_unit": null,
+      "answer_unit": "in",
+      "gt_comparison": "=",
+      "numeric_match": null,
+      "unit_match": null
+    }
+  },
+  {
+    "timestamp": "2026-09-19T06:12:14.188978",
+    "abordagem": "faiss_nvidia",
+    "pergunta": "Qual é a sequência de procedimentos de manutenção para a porta de entrada frontal?",
+    "documentos_recuperados": [
+      "52___084.PDF",
+      "52___084.PDF",
+      "52___084.PDF",
+      "52___084.PDF",
+      "52___084.PDF"
+    ],
+    "contexto_usado": "[Fonte: 52___084.PDF (similaridade 0.3694)]\norkstand in front of the door. WARNING: MAKE SURE THAT THE GIRT BAR IS NOT ENGAGED IN THE FLOOR MOUNT ESCAPE SLIDE BRACKET. IF THE GIRT BAR IS ENGAGED IN THE BRACKET, THE ESCAPE SYSTEM CAN DEPLOY WHEN YOU OPEN THE DOOR. THIS CAN CAUSE INJURIES TO PERSONS AND DAMAGE TO THE EQUIPMENT. (b) Make sure that the girt bar is not engaged in the floor mounted escape slide bracket. SUBTASK 52-11-00-862-018 WARNING: BE CAREFUL WHEN YOU OPERATE THE DOOR WITH A MAINTENANCE WORKSTAND. IT IS NOT EASY TO OPERATE THE DOOR WITH THE SMALL PLATFORM AREA, ESPECIALLY DURING BAD WEATHER CONDITIONS. INJURIES TO PERSONS AND DAMAGE TO THE EQUIPMENT CAN OCCUR. (2) Open the Entry Door: Number Name/Location 4201 Forward Entry Door EFFECTIVITY RAM ALL 52-11-00 Page 205 D6-37569 Mar 25/2015 BOEING PROPRIETARY - Copyright © Unpublished Work - See title page for details 737-300/400/500 AIRCRAFT MAINTENANCE MANUAL (a) Turn the handle 180 degrees counterclockwise to unlatch the door. NOTE: The initial movement of the door is inward. 1) When you turn the handle 180 degrees, the latch rollers disengage with the latch fittings. (b) Use the door assist handle to push the door outboard and forward until the latch mechanis\n\n---\n\n[Fonte: 52___084.PDF (similaridade 0.3556)]\n-11-00-434-020 (4) Install the assist spring and the torque tube (PAGEBLOCK 52-11-41/401). RAM ALL SUBTASK 52-11-00-434-022 (5) Install the hinge arm covers, the stop pins, and the door seal. NOTE: It is only necessary to install these parts on a new door. (a) Install the hinge arm covers 1) Put primer, C00259 on the bolts that hold the hinge covers to the hinge arms. 2) Attach the hinge covers to the hinge arms with the bolts. (b) Install the stop pins on the edges of the door. 1) Put a layer of corrosion preventive compound, C00174 on the threads of the stop pins. 2) Put the stop pins on the door. (c) Install the door seal (PAGEBLOCK 52-09-13/401). SUBTASK 52-11-00-824-023 (6) Do this task: (Forward Entry Door Adjustment, TASK 52-11-00-705-007). SUBTASK 52-11-00-434-025 (7) Install the lining and the insulation on the forward entry door (PAGEBLOCK 52-11-31/401). SUBTASK 52-11-00-434-026 (8) Install the escape slide on the forward entry door (PAGEBLOCK 25-61-35/201). SUBTASK 52-11-00-410-001 (9) Close the Entry Door: Number Name/Location 4201 Forward Entry Door END OF TASK EFFECTIVITY RAM ALL 52-11-00 Page 411 D6-37569 Mar 25/2015 BOEING PROPRIETARY - Copyright © Unpublished Work \n\n---\n\n[Fonte: 52___084.PDF (similaridade 0.3385)]\npyright © Unpublished Work - See title page for details 737-300/400/500 AIRCRAFT MAINTENANCE MANUAL FORWARD ENTRY DOOR EXTERNAL HANDLE AIRSTAIR DOOR FORWARD ENTRY DOOR (EXTERNAL VIEW - DOOR IN COCKED POSITION) INTERNAL HANDLE FORWARD ENTRY DOOR (INTERNAL VIEW-DOOR IN COCKED POSITION) A D36038 S00041246172_V1 Forward Entry Door Operation Figure 501/52-11-00-990-810 EFFECTIVITY RAM ALL 52-11-00 Page 504 D6-37569 Mar 25/2015 BOEING PROPRIETARY - Copyright © Unpublished Work - See title page for details 737-300/400/500 AIRCRAFT MAINTENANCE MANUAL TASK 52-11-00-705-007 3. Forward Entry Door Adjustment (Figure 502) A. General (1) It is best to adjust the door when the airplane is on its wheels. It is possible to adjust the door with the airplane on jacks. But, if the airplane is on jacks, it is necessary to complete the adjustment with the airplane on its wheels. Check the adjustment of the stop pins, the door flushness and the handle torque only when the airplane is on its wheels. (2) The adjustments for the guide arm, horizontal control rod, door vertical, latch cams, upper and lower gate flushness, and stop pins are related. Changing one of the adjustments may effect the other adjustm\n\n---\n\n[Fonte: 52___084.PDF (similaridade 0.3361)]\nZones Zone Area 105 Forward Entry Door 106 Forward Galley Service Door 110 Aft Entry Door 112 Aft Galley Service Door C. Procedure SUBTASK 52-09-16-864-006 (1) Open the door sufficiently to install the seal. SUBTASK 52-09-16-424-007 (2) Install the part of the seal that is on the lining of the door. (a) Make holes in the seal that align with the holes in the trim. (b) Put the seal below the trim. (c) Install the screws in the trim and through the seal. SUBTASK 52-09-16-424-008 (3) Install the part of the seal that is on the lining of the door opening. (a) Push one side of the seal into the flange. (b) Use the special tool to push the other side of the seal into the flange. SUBTASK 52-09-16-864-009 (4) Close the door. END OF TASK EFFECTIVITY RAM ALL 52-09-16 Page 403 D6-37569 Mar 25/2015 BOEING PROPRIETARY - Copyright © Unpublished Work - See title page for details 737-300/400/500 AIRCRAFT MAINTENANCE MANUAL LIGHT SEALS - REMOVAL/INSTALLATION 1. General A. Light seals keep light out of the control cabin. There are two alternatives to attach these seals: (1) The seal is bonded to the hinge (2) A retainer holds the seal on the structure. B. This procedure contains two tasks: (1) The i\n\n---\n\n[Fonte: 52___084.PDF (similaridade 0.3331)]\ns position. (2) Make sure that the hinge locking levers are in the open position. C. Install the Door: SUBTASK 52-48-21-400-002 (1) Move the door horizontally and engage the hinges. SUBTASK 52-48-21-400-003 (2) Close the lock levers and install the lock pins. SUBTASK 52-48-21-400-004 (3) Install the bond strap to the door if installed. D. Check the door operation: SUBTASK 52-48-21-410-001 (1) Close the door. (a) Fully close the latch levers. (2) Examine the latch levers to be sure that they are in the fully locked position. SUBTASK 52-48-21-410-002 (3) Close this access panel: Number Name/Location 3804 APU Cowl Door - Left END OF TASK EFFECTIVITY RAM ALL 52-48-21 Page 403 D6-37569 Mar 25/2015 BOEING PROPRIETARY - Copyright © Unpublished Work - See title page for details 737-300/400/500 AIRCRAFT MAINTENANCE MANUAL DRAIN MAST APU DOOR LATCH SEE A (3 PLACES) APU COOLING AIR EXHAUST EXIT DOOR SILL AND SUPPORT STRUCTURE APU DOOR HINGE ASSEMBLY DOOR SUPPORT RODS (SHOWN IN STOWED POSITION) APU DOOR HINGE ASSEMBLY DRAIN CUP APU COOLING AIR EXHAUST DUCT SEE B FLUID LINE TUBE DRAIN MAST FLANGE 91268 S00041246761_V1 APU Access Door Figure 402/52-48-21-990-802 EFFECTIVITY RAM ALL 52-48-21 Page",
+    "contexto_preview": "[Fonte: 52___084.PDF (similaridade 0.3694)]\norkstand in front of the door. WARNING: MAKE SURE THAT THE GIRT BAR IS NOT ENGAGED IN THE FLOOR MOUNT ESCAPE SLIDE BRACKET. IF THE GIRT BAR IS ENGAGED IN THE BRACKET, THE ESCAPE SYSTEM CAN DEPLOY WHEN YOU OPEN THE DOOR. THIS CAN CAUSE INJURIES TO PERSONS AND DAMAGE TO THE EQUIPMENT. (b) Make sure that the girt bar is not engaged in the floor mounted escape slide bracket. SUBTASK 52-11-00-862-018 WARNING: BE CAREFUL WHEN YOU OPERATE THE DOOR WITH A MAIN",
+    "resposta": "A sequência de procedimentos de manutenção para a porta de entrada frontal do Boeing 737 é a seguinte:\n\n1. Verificar se a barra de girt está desengajada da travessa de escape do slide (SUBTASK 52-11-00-862-018).\n2. Abrir a porta de entrada frontal (TASK 52-11-00-705-007):\n * Virar o mancal 180 graus no sentido anti-horário para desengatar a porta (SUBTASK 52-11-00-434-020).\n * Usar o mancal de assistência para empurrar a porta para fora e para frente até que a mecanismo de travamento esteja em posição (SUBTASK 52-11-00-434-020).\n3. Instalar a mola de assistência e o tubo de torque (SUBTASK 52-11-00-434-022).\n4. Instalar as coberturas das armas de parafuso, os pinos de parada e o selo da porta (SUBTASK 52-11-00-434-025).\n5. Ajustar a porta de entrada frontal (TASK 52-11-00-705-007):\n * Verificar a posição dos pinos de parada, a flushness da porta e a torque do mancal (SUBTASK 52-09-16-864-006).\n * Ajustar os componentes da porta de acordo com as especificações (SUBTASK 52-09-16-864-006).\n6. Instalar o revestimento e a isolamento na porta de entrada frontal (SUBTASK 52-11-00-434-026).\n7. Instalar o slide de escape na porta de entrada frontal (SUBTASK 52-11-00-410-001).\n8. Fechar a porta de entrada frontal (TASK 52-",
+    "resposta_detalhada": "A sequência de procedimentos de manutenção para a porta de entrada frontal do Boeing 737 é a seguinte:\n\n1. Verificar se a barra de girt está desengajada da travessa de escape do slide (SUBTASK 52-11-00-862-018).\n2. Abrir a porta de entrada frontal (TASK 52-11-00-705-007):\n * Virar o mancal 180 graus no sentido anti-horário para desengatar a porta (SUBTASK 52-11-00-434-020).\n * Usar o mancal de assistência para empurrar a porta para fora e para frente até que a mecanismo de travamento esteja em posição (SUBTASK 52-11-00-434-020).\n3. Instalar a mola de assistência e o tubo de torque (SUBTASK 52-11-00-434-022).\n4. Instalar as coberturas das armas de parafuso, os pinos de parada e o selo da porta (SUBTASK 52-11-00-434-025).\n5. Ajustar a porta de entrada frontal (TASK 52-11-00-705-007):\n * Verificar a posição dos pinos de parada, a flushness da porta e a torque do mancal (SUBTASK 52-09-16-864-006).\n * Ajustar os componentes da porta de acordo com as especificações (SUBTASK 52-09-16-864-006).\n6. Instalar o revestimento e a isolamento na porta de entrada frontal (SUBTASK 52-11-00-434-026).\n7. Instalar o slide de escape na porta de entrada frontal (SUBTASK 52-11-00-410-001).\n8. Fechar a porta de entrada frontal (TASK 52-",
+    "tempo_segundos": 15.223,
+    "metadados_llm": {
+      "status": "ok",
+      "tokens": {
+        "prompt_tokens": 2137,
+        "total_tokens": 2537,
+        "completion_tokens": 400,
+        "prompt_tokens_details": null
+      },
+      "finish_reason": "length"
+    },
+    "metricas": {
+      "precisao": 0.1481,
+      "completude": 0.9028,
+      "especificidade": 1.0,
+      "rastreabilidade": 0.6667,
+      "confianca": 1.0
+    },
+    "score_final": 67.01,
+    "tokens_estimados": 1206,
+    "ground_truth": "Remoção, Instalação, Ajuste/Teste, Inspeção e Reparos.",
+    "ragas_metrics": {
+      "faithfulness": 1.0,
+      "answer_relevancy": 1.0,
+      "context_precision": 1.0,
+      "context_recall": 1.0,
+      "answer_correctness": 1.0,
+      "answer_similarity": 1.0
+    },
+    "ragas_score": 1.0,
+    "numeric_check": {
+      "gt_value": null,
+      "answer_value": 737.0,
+      "gt_unit": null,
+      "answer_unit": "deg",
+      "gt_comparison": "=",
+      "numeric_match": null,
+      "unit_match": null
+    }
+  },
+  {
+    "timestamp": "2026-09-19T06:12:42.164581",
+    "abordagem": "faiss_nvidia",
+    "pergunta": "Quais sensores são integrados ao MEC para controlar a velocidade do rotor N2, e quais parâmetros eles medem?",
+    "documentos_recuperados": [
+      "73_C__084.PDF",
+      "73_C__084.PDF",
+      "73_C__084.PDF",
+      "77_C__084.PDF",
+      "73_C__084.PDF"
+    ],
+    "contexto_usado": "[Fonte: 73_C__084.PDF (similaridade 0.3896)]\ns and provide stage 5, stage 9 or a combination of stage 5 and stage 9 HPC bleed air needed to optimize the HPT clearances. The HPTCCV timer, on signal from the MEC, controls the operation of the HPTCCV during the first 182 seconds (nominal) of engine operation more than 13,800 rpm (95% N2) on takeoff roll. On liftoff, the HPTCCV timer solenoids are de-energized to prevent the timer from being activated if 95% N2 was not achieved during takeoff. RAM ALL (d) Primary Engine Parameter Inputs 1) There are 3 primary engine parameters measured for use by the MEC for fuel scheduling and engine thrust control: EFFECTIVITY RAM ALL 73-21-00 Page 23 D6-37569 Mar 25/2015 BOEING PROPRIETARY - Copyright © Unpublished Work - See title page for details CFM56 ENGINES (CFM56-3) 737-300/400/500 AIRCRAFT MAINTENANCE MANUAL CDP, CIT, and N2 core engine speed. Two of these parameters, N2 and CIT, position the 3D cam, and the third, CDP, establishes the position of the CDP cam. The positioning of the 3D cam establishes the positioning of the VSV's and VBV's and in conjunction with computing linkages and the CDP cam position, establish a schedule of fuel flow for the engine. These parameter inputs have th\n\n---\n\n[Fonte: 73_C__084.PDF (similaridade 0.3670)]\n the servo pressure, PC, and the bypass valve is opened to a bypass position. c) MEC Case Pressure Relief (Figure 7). <1> Another relief valve is provided between the MEC intermediate servo pressure regulating valve, PCR, which controls the case pressure of the MEC, and the fuel bypass valve to prevent excessive pressure in the control case. (b) Fuel Metering System (Figure 8) 1) Fuel is supplied to the MEC at fuel pump discharge pressure, PS. The pump supplies more fuel than is necessary for all engine operating condition. Required fuel flow, WF, is determined by the metering valve orifice area with excess fuel being directed through the bypass valve back to the fuel pump high pressure (HP) inlet. The fuel metering system establishes and keeps the necessary fuel flow, WF, through the functions that follow: EFFECTIVITY RAM ALL 73-21-00 Page 19 D6-37569 Mar 25/2015 BOEING PROPRIETARY - Copyright © Unpublished Work - See title page for details CFM56 ENGINES (CFM56-3) 737-300/400/500 AIRCRAFT MAINTENANCE MANUAL a) Power/Fuel Command Input <1> The MEC incorporates 2 concentric control shafts: the power lever shaft and the fuel shutoff shaft. This feature allows manipulation of N2 core \n\n---\n\n[Fonte: 73_C__084.PDF (similaridade 0.3567)]\n (75 degrees Forward Thrust, and 45 degrees Reverse Thrust) (b) Fuel Shutoff Shaft Rotation travel arc of 45 degrees (c) Drive Shaft Rotation is counterclockwise viewed looking forward. (d) Drive Shaft Speed is 6111 rpm at 100 percent N2 rotor speed. (e) VSV Feedback Cable retracts toward the MEC at the open VSV (rig) position. (f) VBV Feedback Cable moves toward the MEC at the closed VBV (rig) position. EFFECTIVITY RAM ALL 73-21-00 Page 2 D6-37569 Mar 25/2015 BOEING PROPRIETARY - Copyright © Unpublished Work - See title page for details CFM56 ENGINES (CFM56-3) 737-300/400/500 AIRCRAFT MAINTENANCE MANUAL T2 TEMPERATURE SENSOR SEE A SEE C MEC SEE B FUEL CONTROL BOX MAX REVERSE THRUST POSITION A FUEL SHUT-OFF LEVER FWD IDLE 130 ˚ 45 ˚ HPTCC 75 ˚ TIMER FUEL DISCHARGE PORT MAX FWD THRUST POWER POSITION LEVER IDLE RESET SOLENOID FUEL FLOW TRANSMITTER B FWD C 594592 S00041251368_V1 Main Engine Control Location Figure 1/73-21-00-990-801-C00 (Sheet 1 of 2) EFFECTIVITY RAM ALL; ENGINES WITH THE HPTCC TIMER 73-21-00 Page 3 D6-37569 Mar 25/2015 BOEING PROPRIETARY - Copyright © Unpublished Work - See title page for details CFM56 ENGINES (CFM56-3) 737-300/400/500 AIRCRAFT MAINTENANCE MANUAL T2 \n\n---\n\n[Fonte: 77_C__084.PDF (similaridade 0.3459)]\ner and numeric readouts. It includes index marker (bug) normally set by a command input signal, but which may also be set manually. The command N1 is also indicated by the 7-bar numeric readout in manual mode. The actual N1 numeric is indicated by means of a display which simulates the action, appearance and counting of a four drum mechanical counter. In addition, the N1 tachometer indicator provides a signal to the Idle Control System. B. The indicator consists of a graduated dial face, main indicator pointer, index marker (bug), command N1 numerics, actual N1 numerics, overlimit warning light, manual set knob, and indicator circuits assembled in a case which is integrally lit and not hermetically sealed. RAM ALL EFFECTIVITY RAM ALL 77-12-00 Page 3 D6-37569 Mar 25/2015 BOEING PROPRIETARY - Copyright © Unpublished Work - See title page for details EFFECTIVITY 28V DC 4-16 LINE 4-BIT BATT-BUS POWER DECODER COUNTER 24-55-00 C1182 SUPPLY 1 LOW TO EGT VOLTS N2 CONTROL MAINT. EIS-PRI 1 MODULE 7-BAR INDEX MARKER ROW SINKS POINTER PHOTO DIODE INTERFACE DRIVE (BUG) SOURCE TO N1 IN10 (MUX) SOURCE DRIVE AMPLIFIER COMMAND N1 DRIVE OTHER ENG 7-BAR MAINT. BUS DISPLAY MODULE CFM56 ENGINES (CFM56-\n\n---\n\n[Fonte: 73_C__084.PDF (similaridade 0.3280)]\n to the MEC be made for reliable operation of the engine. The accurate correlation between adjustments (rigging) of the cable for specified vane position and the MEC identification is very important. A tension load is applied to the VSV feedback cable during engine operation by a hydraulic load cylinder in the control that is coupled to the feedback linkage. This tension load must be simulated during adjustment rigging of the VSV feedback cable to the MEC (PAGEBLOCK 75-31-02/501). b) VBV Feedback System (Figure 9) EFFECTIVITY RAM ALL 73-21-00 Page 25 D6-37569 Mar 25/2015 BOEING PROPRIETARY - Copyright © Unpublished Work - See title page for details CFM56 ENGINES (CFM56-3) 737-300/400/500 AIRCRAFT MAINTENANCE MANUAL <1> The VBV feedback cable is a flexible cable which connects the MEC VBV feedback system lever to the VBV actuation system at the master valve at the 9 o'clock position. VBV feedback cable movement transmits the position of the VBV's to the MEC while the VBV hydraulic motor and drive system operate them. The position signal is compared in the MEC through a comparative linkage system to the position command established in the MEC through linkage with the VSV feedback sys",
+    "contexto_preview": "[Fonte: 73_C__084.PDF (similaridade 0.3896)]\ns and provide stage 5, stage 9 or a combination of stage 5 and stage 9 HPC bleed air needed to optimize the HPT clearances. The HPTCCV timer, on signal from the MEC, controls the operation of the HPTCCV during the first 182 seconds (nominal) of engine operation more than 13,800 rpm (95% N2) on takeoff roll. On liftoff, the HPTCCV timer solenoids are de-energized to prevent the timer from being activated if 95% N2 was not achieved during takeoff. RAM A",
+    "resposta": "De acordo com o manual ATA 29, os sensores integrados ao MEC para controlar a velocidade do rotor N2 são:\n\n* CDP (Core Engine Speed)\n* N2 (N2 core engine speed)\n* CIT (Compressor Inlet Temperature)\n\nEsses sensores medem os seguintes parâmetros:\n\n* N2: velocidade do rotor N2\n* CIT: temperatura de entrada do compressor\n* CDP: velocidade do motor de combustão interna\n\nEsses parâmetros são usados pelo MEC para controlar a velocidade do rotor N2 e garantir o funcionamento correto do motor.",
+    "resposta_detalhada": "De acordo com o manual ATA 29, os sensores integrados ao MEC para controlar a velocidade do rotor N2 são:\n\n* CDP (Core Engine Speed)\n* N2 (N2 core engine speed)\n* CIT (Compressor Inlet Temperature)\n\nEsses sensores medem os seguintes parâmetros:\n\n* N2: velocidade do rotor N2\n* CIT: temperatura de entrada do compressor\n* CDP: velocidade do motor de combustão interna\n\nEsses parâmetros são usados pelo MEC para controlar a velocidade do rotor N2 e garantir o funcionamento correto do motor.",
+    "tempo_segundos": 27.275,
+    "metadados_llm": {
+      "status": "ok",
+      "tokens": {
+        "prompt_tokens": 2018,
+        "total_tokens": 2156,
+        "completion_tokens": 138,
+        "prompt_tokens_details": null
+      },
+      "finish_reason": "stop"
+    },
+    "metricas": {
+      "precisao": 0.2857,
+      "completude": 0.92,
+      "especificidade": 0.6667,
+      "rastreabilidade": 0.6667,
+      "confianca": 1.0
+    },
+    "score_final": 64.91,
+    "tokens_estimados": 1090,
+    "ground_truth": "O MEC integra os seguintes sensores: ângulo do alavanca de potência (PLA), temperatura de entrada do compressor principal (T25), temperatura de entrada do ventilador (T2), pressão de entrada do ventilador (PS12) e velocidade do rotor N2.",
+    "ragas_metrics": {
+      "faithfulness": 1.0,
+      "answer_relevancy": 1.0,
+      "context_precision": 1.0,
+      "context_recall": 1.0,
+      "answer_correctness": 0.0,
+      "answer_similarity": 1.0,
+      "numeric_verified": false
+    },
+    "ragas_score": 0.7143,
+    "numeric_check": {
+      "gt_value": 25.0,
+      "answer_value": 29.0,
+      "gt_unit": null,
+      "answer_unit": null,
+      "gt_comparison": "=",
+      "numeric_match": false,
+      "unit_match": true
+    }
+  },
+  {
+    "timestamp": "2026-09-19T06:13:02.459818",
+    "abordagem": "faiss_nvidia",
+    "pergunta": "Qual é o limite máximo de extensão/compressão do nariz da roda que deve ser respeitado durante o reboque para evitar danos internos?",
+    "documentos_recuperados": [
+      "72_C__084.PDF",
+      "72_C__084.PDF",
+      "72_C__084.PDF",
+      "72_C__084.PDF",
+      "72_C__084.PDF"
+    ],
+    "contexto_usado": "[Fonte: 72_C__084.PDF (similaridade 0.2897)]\nru 9th-stage rotor blades and the vane segments have moved to a position to cover the borescope holes, do these steps as follows: (a) If the diameter of the borescope holes are larger than 0.24 inch (6 mm), use the 6 mm direct view flexible borescope, STD-1399. (b) If the diameter of the borescope holes are less than 0.24 inch (6 mm), do these steps: 1) Put a locally available alignment rod in the hole for the vane segment. 2) Apply a light, downward force on the end of the rod to move the vane up in the case. NOTE: The aluminum rod has a diameter of 0.375 inch (9.93 mm), with a length of 18 inches (460 mm). There is a 4 inch (100 mm) taper at one end. Because of this taper, the diameter of the rod decreases to 0.062 inch (1.6 mm) at that end). (c) If the 7th-stage borescope hole is closed, do a borescope inspection of the aft end of the compressor through the 8th or 6th-stage blades, in that sequence. SUBTASK 72-00-00-486-016-C00 (4) Use the applicable rigid borescope (with a 90° right angle viewer and a 60° field of vision), and install it in the applicable borescope hole. NOTE: To get access at the SIGV borescope port, put the borescope in the cooling air hole in the inner flang\n\n---\n\n[Fonte: 72_C__084.PDF (similaridade 0.2838)]\nf the damage is more than 0.04 inch (1.02 mm) but less than 0.08 inch (2.03 mm) in depth. b) Do the approved repairs (TASK 72-00-00-308-015-C00). 2) No maximum number of dents if the damage is less than 0.04 inch (1.02 mm) maximum depth and 0.06 inch (1.52 mm) deflection from original contour. a) A maximum service extension of 10 cycles or 25 hours is permitted if the damage is more than 0.04 inch (1.02 mm) but less than 0.08 inch (2.03 mm) in depth, and less than 0.08 inch (2.03 mm) deflection from original contour. b) Conditions in the maximum service extension limits can be repaired (TASK 72-00-00-308-015-C00). (l) Tears, nicks, dents, missing material and erosion on the leading and trailing edge of stages 5-9 compressor blade found in DIM A. 1) No maximum number of tears, nicks, and dents if the damage is less than 0.15 inch (3.8 mm) in depth. a) A maximum service extension of 10 cycles or 25 hours is permitted if the damage is more than 0.15 inch (3.8 mm) but less than 0.20 inch (5.1 mm) in depth. EFFECTIVITY RAM ALL 72-00-00 Page 620 D6-37569 Sep 25/2016 BOEING PROPRIETARY - Copyright © Unpublished Work - See title page for details CFM56 ENGINES (CFM56-3) 737-300/400/500 AIRC\n\n---\n\n[Fonte: 72_C__084.PDF (similaridade 0.2746)]\namage is less than 0.157 inch (4 mm) in depth. b) For damage that exceeds the above limit, a maximum service extension of 50 cycles/75 hours is permitted if the damage is less than 0.236 inch (6 mm) in depth. c) Protrusions are permitted if they do not go through the metal. 6) Look for nicks, dents and scratches on the leading and trailing edges and not in Area E. EFFECTIVITY RAM ALL 72-00-00 Page 607 D6-37569 Mar 25/2015 BOEING PROPRIETARY - Copyright © Unpublished Work - See title page for details CFM56 ENGINES (CFM56-3) 737-300/400/500 AIRCRAFT MAINTENANCE MANUAL a) The maximum axial length is 0.039 inch (1 mm). b) For damage that exceeds the above limit a maximum service extension of 50 cycles/75 hours is permitted if the axial length is less than 0.059 inch (1.5 mm). 7) Look for distortion to the leading and trailing edges and not in Area E. a) The maximum axial length is 0.197 inch (5 mm) and the maximum radial length is 0.59 inch (15 mm). b) For damage that exceeds the above limit a maximum service extension of 50 cycles/75 hours is permitted if the maximum circumference is 0.275 inch (7 mm) and the radial length is 0.708 inch (18 mm). 8) Nicks, dents and scratches on the le\n\n---\n\n[Fonte: 72_C__084.PDF (similaridade 0.2698)]\non the adjacent HPC inner shroud lip. (f) Wear or scratches in the trailing edge platform of stage 2 and stage 3 compressor blades. 1) No maximum limit if the wear or scratches are less than 0.03 inch (0.8 mm) in depth. 2) A maximum service extension of 10 cycles or 25 hours is permitted if the wear or scratches are more than 0.03 inch (0.8 mm) in depth but less than 0.08 inch (2.0 mm) in depth. 3) There is no maximum limit to the amount of wear on the adjacent HPC inner shroud lip. (g) Tears, nicks, dents, and missing material on the leading and trailing edge of stages 1 thru 9 compressor blades found in the lower 25% of the airfoil (but not in the root radius). 1) Tears are not permitted. 2) No maximum number of nicks, dents and missing material if the damage is less than 0.03 inch (0.76 mm) in depth. 3) For Stage 5 HPC Blades (2D Aero Blades only): No maximum number of nicks, dents, and missing material if the damage is less than 0.02 inch (0.51 mm) in depth. 4) A maximum service extension of 10 cycles or 25 hours is permitted if the wear or scratches are more than 0.03 inch (0.76 mm) but less than 0.08 inch (2.03 mm). EFFECTIVITY RAM ALL 72-00-00 Page 618 D6-37569 Sep 25/2015 B\n\n---\n\n[Fonte: 72_C__084.PDF (similaridade 0.2667)]\nted if the diameter is not more than 0.50 inch (12.7 mm). 3) Material with burns is permitted. (c) The trailing edge of the airfoil on the NGV's. 1) Axial cracks are permitted. 2) Areas with buckled or bowled material are permitted. 3) Missing material or burned through a) Missing material is permitted if the maximum area for each airfoil is 1.0 sq. inch (6.5 sq. cm), and the maximum area for the engine is 4.0 sq. inch (25.8 sq. cm) b) If the missing material or burn through exceeds the above limits, a maximum service extension of 25 cycles is permitted. (d) All airfoil surfaces on the NGV's 1) Areas with craze cracks are permitted. NOTE: Craze cracks have many surface cracks with no width or depth that you can see. 2) Areas with nicks, marks, scratches and dents are permitted. 3) Areas with metal splatter are permitted. 4) Areas where the layer of Codep is missing are permitted. (e) Inner and outer platforms of the NGV's, but not inner platform Area A: 1) Cracks are permitted. 2) Cracks in the braze joints of the airfoil-to-platform surfaces are permitted. 3) Material with burns is permitted. EFFECTIVITY RAM ALL 72-00-00 Page 637 D6-37569 Sep 25/2016 BOEING PROPRIETARY - Copyright",
+    "contexto_preview": "[Fonte: 72_C__084.PDF (similaridade 0.2897)]\nru 9th-stage rotor blades and the vane segments have moved to a position to cover the borescope holes, do these steps as follows: (a) If the diameter of the borescope holes are larger than 0.24 inch (6 mm), use the 6 mm direct view flexible borescope, STD-1399. (b) If the diameter of the borescope holes are less than 0.24 inch (6 mm), do these steps: 1) Put a locally available alignment rod in the hole for the vane segment. 2) Apply a light, downward ",
+    "resposta": "De acordo com o manual ATA 29, a resposta é que não há um limite máximo de extensão/compressão do nariz da roda que deve ser respeitado durante o reboque para evitar danos internos. No entanto, é importante notar que o manual não fornece informações específicas sobre o nariz da roda.\n\nNo entanto, o manual fornece informações sobre a inspeção e reparo de danos na roda, incluindo:\n\n* Para danos na roda com profundidade menor que 0,04 polegadas (1,02 mm), não há limite máximo de número de danos (TASK 72-00-00-308-015-C00).\n* Para danos na roda com profundidade maior que 0,04 polegadas (1,02 mm) mas menor que 0,08 polegadas (2,03 mm), é permitido um máximo de 10 ciclos ou 25 horas de extensão de serviço (TASK 72-00-00-308-015-C00).\n\nReferência:\n* Manual ATA 29, página 620, D6-37569, 25/09/2016.\n* Manual ATA 29, página 607, D6-37569, 25/03/2015.\n* Manual ATA 29, página 618, D6-37569, 25/09/2015.\n* Manual ATA 29, página 637, D6-37569, 25/09/2016.",
+    "resposta_detalhada": "De acordo com o manual ATA 29, a resposta é que não há um limite máximo de extensão/compressão do nariz da roda que deve ser respeitado durante o reboque para evitar danos internos. No entanto, é importante notar que o manual não fornece informações específicas sobre o nariz da roda.\n\nNo entanto, o manual fornece informações sobre a inspeção e reparo de danos na roda, incluindo:\n\n* Para danos na roda com profundidade menor que 0,04 polegadas (1,02 mm), não há limite máximo de número de danos (TASK 72-00-00-308-015-C00).\n* Para danos na roda com profundidade maior que 0,04 polegadas (1,02 mm) mas menor que 0,08 polegadas (2,03 mm), é permitido um máximo de 10 ciclos ou 25 horas de extensão de serviço (TASK 72-00-00-308-015-C00).\n\nReferência:\n* Manual ATA 29, página 620, D6-37569, 25/09/2016.\n* Manual ATA 29, página 607, D6-37569, 25/03/2015.\n* Manual ATA 29, página 618, D6-37569, 25/09/2015.\n* Manual ATA 29, página 637, D6-37569, 25/09/2016.",
+    "tempo_segundos": 19.607,
+    "metadados_llm": {
+      "status": "ok",
+      "tokens": {
+        "prompt_tokens": 2159,
+        "total_tokens": 2488,
+        "completion_tokens": 329,
+        "prompt_tokens_details": null
+      },
+      "finish_reason": "stop"
+    },
+    "metricas": {
+      "precisao": 0.119,
+      "completude": 0.9418,
+      "especificidade": 1.0,
+      "rastreabilidade": 1.0,
+      "confianca": 0.5
+    },
+    "score_final": 67.12,
+    "tokens_estimados": 1275,
+    "ground_truth": "Não deve ser reboque com o nariz da roda totalmente comprimido ou estendido mais do que 23,5 polegadas do fundo do cilindro interno até o fundo da placa de direção.",
+    "ragas_metrics": {
+      "faithfulness": 1.0,
+      "answer_relevancy": 1.0,
+      "context_precision": 1.0,
+      "context_recall": 1.0,
+      "answer_correctness": 1.0,
+      "answer_similarity": 1.0,
+      "numeric_verified": true
+    },
+    "ragas_score": 1.0,
+    "numeric_check": {
+      "gt_value": 23.5,
+      "answer_value": 0.04,
+      "gt_unit": "in",
+      "answer_unit": "in",
+      "gt_comparison": "<=",
+      "numeric_match": true,
+      "unit_match": true
+    }
+  },
+  {
+    "timestamp": "2026-09-19T06:13:18.211464",
+    "abordagem": "faiss_nvidia",
+    "pergunta": "Onde está localizado o sub‑sistema de controle de temperatura do ar de escape em cada sistema de ar de escape do motor, e quais componentes o compõem?",
+    "documentos_recuperados": [
+      "21___084.PDF",
+      "21___084.PDF",
+      "21___084.PDF",
+      "21___084.PDF",
+      "21___084.PDF"
+    ],
+    "contexto_usado": "[Fonte: 21___084.PDF (similaridade 0.3385)]\nator. The automatic temperature regulating components include a temperature selector assembly, a controller, cabin temperature sensor, anticipator sensor, and a duct temperature limiting sensor. EFFECTIVITY RAM 501-999 21-61-00 Page 1 D6-37569 Mar 25/2015 BOEING PROPRIETARY - Copyright © Unpublished Work - See title page for details 737-300/400/500 AIRCRAFT MAINTENANCE MANUAL PASSENGER CABIN OVERHEAD TEMPERATURE SENSOR DISTRIBUTION SEE A MANIFOLD PASSENGER CABIN SEE E MIX VALVE CONTROL CABIN TEMPERATURE SENSOR SEE D CABIN TEMPERATURE CONTROL CABIN MODULE (P5-17) MIX VALVE SEE C MAIN DISTRIBUTION MANIFOLD SEE B TEMPERATURE CONTROLLER PASSENGER CABIN TEMPERATURE SENSOR ASSEMBLY TEMPERATURE BULB PASSENGER CABIN FWD TEMPERATURE TEMPERATURE SENSOR ASSEMBLY SENSOR TEMPERATURE SENSOR FAN PASSENGER CABIN TEMPERATURE SENSOR A 1 TEMPERATURE TEMPERATURE SENSOR FAN SENSOR TEMPERATURE BULB FWD PASSENGER CABIN TEMPERATURE SENSOR 1 AIRPLANES WITH 18-INCH AISLE A 2 2 AIRPLANES WITH 20-INCH AISLE 1358025 S00041207495_V1 Conditioned Air Temperature Control Systems - Component Location Figure 1/21-61-00-990-802 (Sheet 1 of 4) EFFECTIVITY RAM 501-504 21-61-00 Page 2 D6-37569 Mar 25/2015 BOEING PROPRIE\n\n---\n\n[Fonte: 21___084.PDF (similaridade 0.3335)]\nels to the mixing chamber. G. When the air conditioning switches are turned off, the pack valves close and the mix valve drive to full cold. EFFECTIVITY RAM 501-999 21-51-00 Page 11 D6-37569 Mar 25/2015 BOEING PROPRIETARY - Copyright © Unpublished Work - See title page for details 737-300/400/500 AIRCRAFT MAINTENANCE MANUAL AIR CYCLE SYSTEM - DESCRIPTION AND OPERATION 1. General (Figure 1 ) A. Conditioned air for heating and cooling is provided by two air cycle systems. These systems also remove the excess moisture by passing through a high pressure water separator system contained within each air cycle system. B. The air cycle systems are contained in equipment bays located on either side of the airplane centerline on the underside of the fuselage. C. In each air cycle system, air is metered through a Flow Control and Shut Off Valve (Pack Valve). The air cycle system consists of a primary heat exchanger, a secondary heat exchanger, a pack temperature control valve, a conditioned air check valve a standby pack temperature control valve, a high pressure water separator system, and an air cycle machine. The heat exchangers are of the air-to-air type, with heat being transferred from \n\n---\n\n[Fonte: 21___084.PDF (similaridade 0.3213)]\nretracted. A ram air system is included for each air cycle system (Figure 1 ). B. The ram air system provides a cooling medium for the air-to-air primary and secondary heat exchangers. The heat exchangers are located so that air passing through the ram air ducts must pass through the heat exchangers. A turbofan is installed between duct sections near the aft end of the ram air system. C. A ram air modulation system automatically regulates airflow through the ram air system during flight to minimize drag. The system also moves to provide maximum flow for ground operation and extends a deflector door to prevent slush injection when the airplane is moving on the ground. RAM 501-999 PRE SB 737-21-1123; AIRPLANES WITH RAM AIR EXHAUST LOUVERS D. The ram air modulation system equipment includes the ram air inlet modulation panel, a deflector door, ram air exhaust louvers and their operating mechanism, a ram air actuator, a cable system for the ram air inlet modulation panel, a ram air controller, a control module, and a ram air temperature sensor (Figure 2 ). Air cycle system equipment includes a turbofan, a turbofan valve, and the related ducting for routing pressurized air to run the tu\n\n---\n\n[Fonte: 21___084.PDF (similaridade 0.3160)]\nm A. The ram air inlet modulation panel and the deflector door are mechanically linked together and are operated by the ram air actuator through a cable system. The ram air actuator rod connects to a crank on the ram air modulation torque shaft quadrant assembly to drive the cable system. B. Two cables extend forward from the torque shaft quadrant along the inboard side of the ram air duct cavity to the forward end of the cavity. The cables then pass through the forward end of the cavity and are secured to the ram air inlet modulation panel quadrant. The ram air inlet modulation panel quadrant drives the inlet modulation panel shaft which moves the inlet panels. C. The deflector door is also driven by the ram air inlet modulation panel quadrant. An arm assembly which drives the deflector linkage is mounted beside the inlet modulating panel quadrant on the inlet modulating panel shaft. A lug on the shoulder of the arm assembly fits into a cutout in the shoulder of the quadrant. A cam link and torsion spring allows additional movement of the quadrant for modulating the inlet panel after the deflector linkage permits continued movement of the quadrant to the full extend position shoul\n\n---\n\n[Fonte: 21___084.PDF (similaridade 0.3124)]\nnormally open. At a predetermined temperature the contacts will close. A 190°F ((88°C) passenger cabin duct overheat thermal switch and a 250°F (121°C) passenger cabin duct overheat thermal switch are used in each control system. The switches are mounted in the main distribution manifold and in the overhead distribution manifold adjacent to its union with the RH riser duct (Figure 1 ). C. Temperature bulbs consist of a temperature sensitive resistance element within a tube. As the temperature of the element changes, its resistance changes accordingly to cause movement of an indicator pointer. (1) The passenger cabin temperature bulb is installed with the passenger cabin temperature sensor inside a duct located below the stowage compartment (Detail A, Figure 1). An in-line fan downstream of the bulb and sensor draws air from the cabin across the bulb and sensor. (2) The passenger cabin supply duct temperature bulb is mounted in the main distribution manifold. D. The temperature sensors also untilize variable resistance type elements. As temperature increases their resistance decreases and vice versa. The sensors form a part of the automatic regulation system network to maintain sele",
+    "contexto_preview": "[Fonte: 21___084.PDF (similaridade 0.3385)]\nator. The automatic temperature regulating components include a temperature selector assembly, a controller, cabin temperature sensor, anticipator sensor, and a duct temperature limiting sensor. EFFECTIVITY RAM 501-999 21-61-00 Page 1 D6-37569 Mar 25/2015 BOEING PROPRIETARY - Copyright © Unpublished Work - See title page for details 737-300/400/500 AIRCRAFT MAINTENANCE MANUAL PASSENGER CABIN OVERHEAD TEMPERATURE SENSOR DISTRIBUTION SEE A MANIFOLD PASSE",
+    "resposta": "Resposta direta:\nO sub-sistema de controle de temperatura do ar de escape em cada sistema de ar de escape do motor é localizado na parte traseira do ram air system, perto do final da seção de dutos do ram air. Ele é composto por um turbofan, um vaso de controle de temperatura do pack, um vaso de controle de temperatura de reserva, um sistema de separação de água sob pressão, uma máquina de ciclo de ar e um conjunto de dutos para direcionar o ar pressurizado para alimentar o turbofan.\n\nDetalhes técnicos:\nO ram air system fornece um meio de resfriamento para os intercambiadores de calor primário e secundário, que são localizados de forma que o ar passando pelos dutos de ram air deve passar pelos intercambiadores de calor. O turbofan é instalado entre as seções de dutos do ram air, perto do final da seção traseira do ram air system. O sistema de controle de temperatura do ram air modula automaticamente o fluxo de ar através do ram air system durante a voo para minimizar a resistência. O sistema também se move para fornecer o máximo de fluxo para operação no solo e estende uma porta de defletor para prevenir a injeção de neve quando o avião está em movimento no solo.\n\nReferência à fonte:\nDe acordo com o capítulo 1 do manual de manutenção do Boeing 737-300/400/500, \"AIRCRAFT MAINTENANCE MANUAL - AIR CYCLE SYSTEM - DESCRIPTION AND OPERATION\" (21___084.PDF).",
+    "resposta_detalhada": "Resposta direta:\nO sub-sistema de controle de temperatura do ar de escape em cada sistema de ar de escape do motor é localizado na parte traseira do ram air system, perto do final da seção de dutos do ram air. Ele é composto por um turbofan, um vaso de controle de temperatura do pack, um vaso de controle de temperatura de reserva, um sistema de separação de água sob pressão, uma máquina de ciclo de ar e um conjunto de dutos para direcionar o ar pressurizado para alimentar o turbofan.\n\nDetalhes técnicos:\nO ram air system fornece um meio de resfriamento para os intercambiadores de calor primário e secundário, que são localizados de forma que o ar passando pelos dutos de ram air deve passar pelos intercambiadores de calor. O turbofan é instalado entre as seções de dutos do ram air, perto do final da seção traseira do ram air system. O sistema de controle de temperatura do ram air modula automaticamente o fluxo de ar através do ram air system durante a voo para minimizar a resistência. O sistema também se move para fornecer o máximo de fluxo para operação no solo e estende uma porta de defletor para prevenir a injeção de neve quando o avião está em movimento no solo.\n\nReferência à fonte:\nDe acordo com o capítulo 1 do manual de manutenção do Boeing 737-300/400/500, \"AIRCRAFT MAINTENANCE MANUAL - AIR CYCLE SYSTEM - DESCRIPTION AND OPERATION\" (21___084.PDF).",
+    "tempo_segundos": 15.046,
+    "metadados_llm": {
+      "status": "ok",
+      "tokens": {
+        "prompt_tokens": 1734,
+        "total_tokens": 2092,
+        "completion_tokens": 358,
+        "prompt_tokens_details": null
+      },
+      "finish_reason": "stop"
+    },
+    "metricas": {
+      "precisao": 0.1412,
+      "completude": 0.8339,
+      "especificidade": 1.0,
+      "rastreabilidade": 1.0,
+      "confianca": 1.0
+    },
+    "score_final": 70.08,
+    "tokens_estimados": 1221,
+    "ground_truth": "O sub‑sistema de controle de temperatura do ar de escape está localizado dentro do sistema de ar de escape de cada motor e é composto pelo precooler, pelo válvula de controle do precooler e pelo sensor da válvula de controle do precooler.",
+    "ragas_metrics": {
+      "faithfulness": 1.0,
+      "answer_relevancy": 1.0,
+      "context_precision": 1.0,
+      "context_recall": 1.0,
+      "answer_correctness": 1.0,
+      "answer_similarity": 1.0
+    },
+    "ragas_score": 1.0,
+    "numeric_check": {
+      "gt_value": null,
+      "answer_value": 1.0,
+      "gt_unit": null,
+      "answer_unit": null,
+      "gt_comparison": "=",
+      "numeric_match": null,
+      "unit_match": null
+    }
+  },
+  {
+    "timestamp": "2026-09-19T06:13:27.699801",
+    "abordagem": "faiss_nvidia",
+    "pergunta": "Onde está localizado o sistema anti‑icing de água e descarga de vaso sanitário e qual é o princípio de funcionamento?",
+    "documentos_recuperados": [
+      "30___084.PDF",
+      "30___084.PDF",
+      "30___084.PDF",
+      "30___084.PDF",
+      "30___084.PDF"
+    ],
+    "contexto_usado": "[Fonte: 30___084.PDF (similaridade 0.3322)]\nPRE SB OPERATION 737-30-1043 RAIN REPELLENT SYSTEM - TROUBLESHOOTING 30-43-00 101 RAM ALL PRE SB 737-30-1043 RAIN REPELLENT SYSTEM - MAINTENANCE 30-43-00 1 201 RAM ALL PRE SB PRACTICES 737-30-1043 Rain Repellent Container Replacement 1 201 RAM ALL PRE SB TASK 30-43-00-902-001-001 737-30-1043 Release the Pressure in the Rain Repellent 1 203 RAM ALL PRE SB System 737-30-1043 TASK 30-43-00-802-004-001 Clean Dried Rain Repellent Fluid from Windshield 1 203 RAM ALL PRE SB TASK 30-43-00-102-008-001 737-30-1043 Flush the Rain Repellent System 1 204 RAM ALL PRE SB TASK 30-43-00-102-011-001 737-30-1043 WINDSHIELD RAIN REPELLENT SYSTEM - 30-43-00 2 201 RAM ALL PRE SB MAINTENANCE PRACTICES 737-30-1043 Hydrophobic Coating Maintenance Practices 2 201 RAM ALL PRE SB TASK 30-43-00-302-001-002 737-30-1043 RAIN REPELLENT SYSTEM - ADJUSTMENT/TEST 30-43-00 501 RAM ALL PRE SB 737-30-1043 Operational Test - Rain Repellent System 501 RAM ALL PRE SB TASK 30-43-00-715-012 737-30-1043 RAIN REPELLENT SPRAY NOZZLE - 30-43-11 401 RAM ALL PRE SB REMOVAL/INSTALLATION 737-30-1043 Rain Repellent Spray Nozzle Removal 401 RAM ALL PRE SB TASK 30-43-11-004-001 737-30-1043 Rain Repellent Spray Nozzle Installation 404 \n\n---\n\n[Fonte: 30___084.PDF (similaridade 0.3089)]\nid is on the forward side of the valve. (c) Make sure that the flow direction arrow points up. SUBTASK 30-43-21-434-011 (3) Connect the supply line to the coupling on the valve. SUBTASK 30-43-21-864-012 (4) Remove the DO-NOT-CLOSE tags and close these circuit breakers: (a) P18 Panel 1) RAIN REPELLENT L 2) RAIN REPELLENT R SUBTASK 30-43-21-424-013 (5) Install the rain repellent spray nozzle (PAGEBLOCK 30-43-11/401). SUBTASK 30-43-21-714-014 (6) Do this task: \"Operational Test - Rain Repellent System\" (PAGEBLOCK 30-43-00/501). END OF TASK EFFECTIVITY RAM ALL PRE SB 737-30-1043 30-43-21 Page 404 D6-37569 Mar 25/2015 BOEING PROPRIETARY - Copyright © Unpublished Work - See title page for details 737-300/400/500 AIRCRAFT MAINTENANCE MANUAL WATER AND TOILET DRAIN ANTI-ICING SYSTEM - DESCRIPTION AND OPERATION 1. General A. Toilet Drain Heaters (1) The aft toilet drain has a heater to stop ice formation. The heater is in the drain gasket. The heater operates with 115v ac current. The DRAIN HEATER circuit breaker on the P18 panel controls the heater. RAM 001, 002 PRE SB 737-38-1026; AIRPLANES WITHOUT BALL VALVE (2) The forward toilet drain has a heater in the drain gasket. The DRAIN HEATER c\n\n---\n\n[Fonte: 30___084.PDF (similaridade 0.3071)]\nace relay sensing relay in E11 landing gear R282. logic shelf. Check electrical conti- nuity from Repair circuit as relay R47 to R282. necessary or replace relays R47 and/or R282. Check electrical conti- nuity from Repair circuit as R282 to drain heater(s). necessary or replace drain heater(s). Defective drain mast heater Check if drain mast is cold. Check applicable circuit breakers are closed. Check if electrical con- tinuity exists Replace drain mast heater to drain mast heater. (SUBJECT 38-31-21) if continuity exists to heater. Galley drain line frozen Loss of electrical continuity Check electrical conti- nuity from Repair circuit as from circuit breaker to galley applicable breaker galley drain necessary. drain heater heater. EFFECTIVITY RAM ALL 30-71-00 Page 101 D6-37569 Mar 25/2015 BOEING PROPRIETARY - Copyright © Unpublished Work - See title page for details 737-300/400/500 AIRCRAFT MAINTENANCE MANUAL Table 101/30-71-00-993-802 (Continued) TROUBLE PROBABLE CAUSE ISOLATION PROCEDURE REMEDY Drain mast overheating Relay R282 malfunction in P6 Drain mast heater is hot to touch Replace relay R282. load control center-right WARNING: BE VERY CAREFUL WHEN YOU DO A CHECK OF THE HEAT\n\n---\n\n[Fonte: 30___084.PDF (similaridade 0.3055)]\n - See title page for details 737-300/400/500 AIRCRAFT MAINTENANCE MANUAL 2. Wing Anti-Ice Ducting A. The pneumatic air duct is connected to each of the wing leading edge supply ducts through a control valve located in the wing leading edge just inboard of the wing strut closure rib on each side of the airplane (Figure 1). The wing supply ducts are connected to each of the wing leading edge slats by telescoping ducts. The telescoping ducts consists of two tubes, one of which slides within the other as the slats are extended or retracted, and are sealed by an O-ring between them. The inner telescoping duct is connected to the wing TAI supply manifold ducts by a swivel T-connection to allow rotational movement of the telescoping duct around the wing supply duct. The T-connection is sealed by an O-ring between each end of the T and the supply duct. The outer telescoping duct is connected to a slat anti-icing spray duct by a swivel T-connection to allow rotational movement of the telescoping duct about the slat anti-icing spray duct. A support bracket in the slat leading edge supports the ends of the slat spray ducts and the telescoping duct and prevents the TAI air from flowing back t\n\n---\n\n[Fonte: 30___084.PDF (similaridade 0.3035)]\nhts come on. (g) See that the MASTER CAUTION lights and the ANTI-ICE annunciator lights are on. (h) See that the ON lights go off. (i) Put the WINDOW HEAT switches in the OFF position. (j) Reset the MASTER CAUTION lights and the ANTI-ICE annunciator lights. (k) See that the ON lights, the MASTER CAUTION lights and the ANTI-ICE annunciator lights are off. SUBTASK 30-09-11-864-012 (11) Remove electrical power if it is not necessary (PAGEBLOCK 24-22-00/201). END OF TASK EFFECTIVITY RAM ALL 30-09-11 Page 404 D6-37569 Mar 25/2015 BOEING PROPRIETARY - Copyright © Unpublished Work - See title page for details 737-300/400/500 AIRCRAFT MAINTENANCE MANUAL WING THERMAL ANTI-ICING SYSTEM - DESCRIPTION AND OPERATION 1. General A. The Wing Thermal Anti-Icing (TAI) System is subject to ground and flight operation. The system may be operated continuously on the ground or inflight. During ground operation, with the wing TAI system on, the wing leading edge is protected from overheat by two 125°C thermal switches which automatically close the wing TAI system shutoff valves if the air temperature is greater than 125°C. The wing TAI shutoff valves are automatically closed when the left or right thrott",
+    "contexto_preview": "[Fonte: 30___084.PDF (similaridade 0.3322)]\nPRE SB OPERATION 737-30-1043 RAIN REPELLENT SYSTEM - TROUBLESHOOTING 30-43-00 101 RAM ALL PRE SB 737-30-1043 RAIN REPELLENT SYSTEM - MAINTENANCE 30-43-00 1 201 RAM ALL PRE SB PRACTICES 737-30-1043 Rain Repellent Container Replacement 1 201 RAM ALL PRE SB TASK 30-43-00-902-001-001 737-30-1043 Release the Pressure in the Rain Repellent 1 203 RAM ALL PRE SB System 737-30-1043 TASK 30-43-00-802-004-001 Clean Dried Rain Repellent Fluid from Windshield 1 203",
+    "resposta": "De acordo com o manual de manutenção da aeronave Boeing 737, o sistema anti-icing de água e descarga de vaso sanitário está localizado na parte traseira da aeronave.\n\nO princípio de funcionamento do sistema é o seguinte:\n\n- O sistema anti-icing de água é composto por um aquecedor instalado na tampa do vaso sanitário traseiro. O aquecedor opera com corrente elétrica de 115V AC e é controlado pelo circuito de quebra de circuito DRAIN HEATER na placa P18.\n- O sistema anti-icing de descarga de vaso sanitário é composto por um aquecedor instalado na tampa do vaso sanitário traseiro. O aquecedor opera com corrente elétrica de 115V AC e é controlado pelo circuito de quebra de circuito DRAIN HEATER na placa P18.\n\nReferência: \n- Manual de manutenção da aeronave Boeing 737, página 101, capítulo 30-71-00.\n- Manual de manutenção da aeronave Boeing 737, página 404, capítulo 30-09-11.",
+    "resposta_detalhada": "De acordo com o manual de manutenção da aeronave Boeing 737, o sistema anti-icing de água e descarga de vaso sanitário está localizado na parte traseira da aeronave.\n\nO princípio de funcionamento do sistema é o seguinte:\n\n- O sistema anti-icing de água é composto por um aquecedor instalado na tampa do vaso sanitário traseiro. O aquecedor opera com corrente elétrica de 115V AC e é controlado pelo circuito de quebra de circuito DRAIN HEATER na placa P18.\n- O sistema anti-icing de descarga de vaso sanitário é composto por um aquecedor instalado na tampa do vaso sanitário traseiro. O aquecedor opera com corrente elétrica de 115V AC e é controlado pelo circuito de quebra de circuito DRAIN HEATER na placa P18.\n\nReferência: \n- Manual de manutenção da aeronave Boeing 737, página 101, capítulo 30-71-00.\n- Manual de manutenção da aeronave Boeing 737, página 404, capítulo 30-09-11.",
+    "tempo_segundos": 8.793,
+    "metadados_llm": {
+      "status": "ok",
+      "tokens": {
+        "prompt_tokens": 2109,
+        "total_tokens": 2373,
+        "completion_tokens": 264,
+        "prompt_tokens_details": null
+      },
+      "finish_reason": "stop"
+    },
+    "metricas": {
+      "precisao": 0.1842,
+      "completude": 0.828,
+      "especificidade": 1.0,
+      "rastreabilidade": 1.0,
+      "confianca": 1.0
+    },
+    "score_final": 71.23,
+    "tokens_estimados": 1121,
+    "ground_truth": "Conectores de descarga de vaso sanitário dianteiro e traseiro, com elementos de resistência elétrica integrados no selante do conector, controlados diretamente pelos disjuntores de circuito e aquecidos sempre que a aeronave tem energia elétrica.",
+    "ragas_metrics": {
+      "faithfulness": 1.0,
+      "answer_relevancy": 1.0,
+      "context_precision": 1.0,
+      "context_recall": 1.0,
+      "answer_correctness": 1.0,
+      "answer_similarity": 1.0
+    },
+    "ragas_score": 1.0,
+    "numeric_check": {
+      "gt_value": null,
+      "answer_value": 737.0,
+      "gt_unit": null,
+      "answer_unit": null,
+      "gt_comparison": "=",
+      "numeric_match": null,
+      "unit_match": null
+    }
+  },
+  {
+    "timestamp": "2026-09-19T06:13:37.720382",
+    "abordagem": "faiss_nvidia",
+    "pergunta": "Qual é a altura do plano de referência do corpo (body reference plane) acima do solo no ponto do eixo principal de sustentação (main gear) e qual é a altura acima desse plano para a seção de altura constante?",
+    "documentos_recuperados": [
+      "06___084.PDF",
+      "06___084.PDF",
+      "32___084.PDF",
+      "32___084.PDF",
+      "07___084.PDF"
+    ],
+    "contexto_usado": "[Fonte: 06___084.PDF (similaridade 0.3171)]\n BWL BRP BWL 208.10 225.267 BWL BWL 195.331 BWL 193.679 TRAILING 183.888 BWL 179.762 EDGE AT WCP BBL 70.85 B STA 1 ˚ INCIDENCE B STA 516.253 752.63 BBL 0.00 LEFT SIDE VIEW OF BODY AT WING WBL 71.24 WBL 571.5 WCP CENTER SECTION WCP WBL OUTBD RS 6 ˚ DIHEDRAL 0.00 BBL 70.85 ENG NAC BL 0 EXTENDED W BL 191.00 TRAILING WING EDGE STATIONS INBD (W STA) RSS OUTBD PS (WRP) WING REF PLANE INBD RS 25% CHORD LINE OUTBD PSS EXTENDED 25 ˚ LEADING EDGE INBD PSS VIEW 1 W STA 0.00 PLANE VIEW OF WING 0.00 WBL (NORMAL TO WING CHORD PLANE) 0.00 100050 S00041199928_V1 Reference Planes and Lines Figure 201/06-00-01-990-801 (Sheet 2 of 2) EFFECTIVITY RAM ALL 06-00-01 Page 205 D6-37569 Mar 25/2015 BOEING PROPRIETARY - Copyright © Unpublished Work - See title page for details 737-300/400/500 AIRCRAFT MAINTENANCE MANUAL PRINCIPAL DIMENSIONS AND AREAS - MAINTENANCE PRACTICES 1. General A. Dimensions are included for the wing, ailerons, flaps, horizontal stabilizer surfaces, vertical stabilizer surfaces and body. Areas are included for the wing and stabilizer surfaces. TASK 06-13-00-222-001 2. Principal Dimensions and Areas (Figure 201) A. General (1) Dimensions RAM 001-006 (2) Overall Airplane • Length -- 119\n\n---\n\n[Fonte: 06___084.PDF (similaridade 0.2725)]\nPPER 74.0 R LOBE WL 246.1 WINDOWS UPPER RADII CREASE LINE WL 208.1 WL 208.1 TOP OF FLOOR BEAM LOWER LOBE WL 148.5 FORWARD ACCESS DOOR 14 X 27 CARGO DOOR 35 X 48 ELECTRONIC NOSE GEAR ABOVE WL 208.1 UPPER LOBE FROM STA ACCESS DOOR PRODUCTION BREAK WHEEL WELL 480 TO STA 808 30.5 X 24.5 BELOW WL 208.1 LOWER LOBE FROM STA Body Station Diagram DOOR 737-300/400/500 390 TO STA 540 AND FROM STA 727 TO STA 727G+3 SECTION 41 SECTION 43 REAR VIEW 20 INCH USUAL SPACING 22 INCH USUAL SPACING PRESSURE BULKHEAD 20 INCH SPACING D6-37569 1006 540 559 578 601 616 639 663.75 685 706 727 727A 727B 727C 727D 727E 727F 727G 747 767 787 807 827 847 867 887 907 927 947.5 967 986.5 1016 1040 1064 1088 1104 1121 1138 1156 1217 EXHAUST SHIELD PRESSURE TAILCONE LEVEL ACCESS Figure 201/06-25-00-990-801 (Sheet 1 of 2) WING CENTER APU DOOR (RIGHT) AIRCRAFT MAINTENANCE MANUAL BOEING PROPRIETARY - Copyright © Unpublished Work - See title page for details SECTION ACCESS ACCESS DOOR DOOR ENTRY DOOR (LEFT) ESCAPE HATCH WHEEL CARGO DOOR 30 X 72 20 X 38 WELL 33 X 48 GALLEY DOOR (RIGHT) 30 X 65 SECTION 46 SECTION 48 737-400 (LEFT SIDE VIEW) Page 202 Mar 25/2015 06-25-00 590786 S00041199946_V1 EFFECTIVITY RAM 501-999 PROD\n\n---\n\n[Fonte: 32___084.PDF (similaridade 0.2676)]\namper A. The main gear damper prevents excessive vibration buildup in landing gear during high speed taxi and under heavy braking. The damper is a hydraulic unit containing an actuator, a compensator, and relief and check valves (Figure 4). The main body of the damper is attached to the forward end of the upper torsion link. The actuator piston rod passes through the forward ends of both upper and lower links to provide an apex bolt. Rotary oscillation between the shock strut inner and outer cylinders is absorbed by the actuator piston displacing hydraulic fluid in the cylinder. The rate of displacement is controlled by the damping orifice in the actuator piston. The compensator is provided to maintain a pressure of 30 to 70 psi on the fluid contained in the actuator. A 3000 psi relief valve protects the actuator from very high pressures caused by thermal expansion of hydraulic fluid. A 70 psi relief valve protects the compensator from thermal expansion damage. Two check valves are provided to allow hydraulic fluid to enter the actuator and make up for slight leakage or to compensate for fluid contraction. A third check valve permits fluid to enter the unit from the hydraulic syste\n\n---\n\n[Fonte: 32___084.PDF (similaridade 0.2636)]\n are necessary to do this procedure. • Mastinox 6856 K, C00913 • grease, D00013 B. References Reference Title 12-20-00 P/B 301 AIRPLANE LUBRICATION - SERVICING 32-11-00 P/B 401 MAIN LANDING GEAR - REMOVAL/INSTALLATION EFFECTIVITY RAM ALL 32-11-21 Page 407 D6-37569 Mar 25/2015 BOEING PROPRIETARY - Copyright © Unpublished Work - See title page for details 737-300/400/500 AIRCRAFT MAINTENANCE MANUAL (Continued) Reference Title 32-11-11 P/B 401 MAIN LANDING GEAR TRUNNION LINK - REMOVAL/INSTALLATION 32-11-31 P/B 401 MAIN GEAR UPPER DRAG STRUT - REMOVAL/INSTALLATION 32-11-41 P/B 401 MAIN GEAR LOWER DRAG STRUT - REMOVAL/INSTALLATION 32-11-51 P/B 401 MAIN GEAR TORSION LINKS - REMOVAL/INSTALLATION 32-45-11 P/B 401 MAIN GEAR WHEEL AND TIRE - REMOVAL/INSTALLATION C. Tools/Equipment NOTE: When more than one tool part number is listed under the same \"Reference\" number, the tools shown are alternates to each other within the same airplane series. Tool part numbers that are replaced or non-procurable are preceded by \"Opt:\", which stands for Optional. Reference Description SPL-9685 Strap - Retention, NLG/MLG Inner Cylinder 737-400HGW, -500 Part #: C32030-10 Supplier: 81205 Opt Part #: F80234-1 Sup\n\n---\n\n[Fonte: 07___084.PDF (similaridade 0.2627)]\n294.5 47.5L 58 83.5 13,890 F80000-7 NAS1305-14 5 E NOSE GEAR AXLE 287.8 0 16,300 NONE NONE F MAIN GEAR AXLE 698 103 SEE CHART BELOW 67,100 NONE NONE JACK POINT DATA DISTANCE FROM THE CLEARANCE TIRE SIZE CONDITION GROUND TO THE BOTTOM BETWEEN OF THE JACK PAD THE TIRES NORMAL 12.6 14.3 FLAT 9.4 10.0 MAIN GEAR H40 X 14.5-19 ON RIM 6.8 TIRE CHANGE 17.9 4 NORMAL 9.6 7.2 FLAT 7.5 4.2 NOSE GEAR 27 X 7.75-15 ON RIM 6.3 TIRE CHANGE 13.3 4 LANDING GEAR TIRE DATA 1 THE SHOCK STRUTS ARE DEFLATED AND THE WHEELS ON RIM. 2 THE AIRPLANE IS ON JACKS WITH A 2.5-INCH CLEARANCE BELOW THE MAIN GEAR. 3 737-400 AIRPLANES; THE SUM OF THE JACK LOADS AT POINTS A THRU D MUST BE LESS THAN 111,000 POUNDS. 4 IF THERE IS A 2-INCH TIRE CLEARANCE 5 TIGHTEN BOLTS AT 160 TO 200 POUND-INCHES. 591061 S00041199990_V1 Jack Points and Landing Gear Tire Data Figure 202/07-11-11-990-802 (Sheet 2 of 2) EFFECTIVITY RAM 001-006 07-11-11 Page 207 D6-37569 Mar 25/2015 BOEING PROPRIETARY - Copyright © Unpublished Work - See title page for details 737-300/400/500 AIRCRAFT MAINTENANCE MANUAL 160,000 72,575 144,000 LB 140,000 LB 143,000 LB (65,317 KG) 150,000 (63,502 KG) (64,863 KG) 68,039 AT 24.0% AT 6.2% AT 28.0% 140,000 63,503 G",
+    "contexto_preview": "[Fonte: 06___084.PDF (similaridade 0.3171)]\n BWL BRP BWL 208.10 225.267 BWL BWL 195.331 BWL 193.679 TRAILING 183.888 BWL 179.762 EDGE AT WCP BBL 70.85 B STA 1 ˚ INCIDENCE B STA 516.253 752.63 BBL 0.00 LEFT SIDE VIEW OF BODY AT WING WBL 71.24 WBL 571.5 WCP CENTER SECTION WCP WBL OUTBD RS 6 ˚ DIHEDRAL 0.00 BBL 70.85 ENG NAC BL 0 EXTENDED W BL 191.00 TRAILING WING EDGE STATIONS INBD (W STA) RSS OUTBD PS (WRP) WING REF PLANE INBD RS 25% CHORD LINE OUTBD PSS EXTENDED 25 ˚ LEADING EDGE INBD PSS VIEW 1",
+    "resposta": "Resposta direta:\nA altura do plano de referência do corpo (body reference plane) acima do solo no ponto do eixo principal de sustentação (main gear) é de 12,6 polegadas (normal) ou 9,4 polegadas (flat). A altura acima desse plano para a seção de altura constante não é especificada diretamente, mas podemos inferir que ela é de 6,8 polegadas (tire change) ou 7,5 polegadas (flat) para o main gear.\n\nDetalhes técnicos:\nDe acordo com o manual de manutenção da aeronave Boeing 737, o plano de referência do corpo (body reference plane) é definido como o plano que passa pelo centro da seção transversal do corpo da aeronave, no nível do eixo principal de sustentação (main gear). A altura do plano de referência acima do solo no ponto do eixo principal de sustentação é de 12,6 polegadas (normal) ou 9,4 polegadas (flat), dependendo da condição do pneu. A altura acima desse plano para a seção de altura constante não é especificada diretamente, mas podemos inferir que ela é de 6,8 polegadas (tire change) ou 7,5 polegadas (flat) para o main gear.\n\nReferência à fonte:\nFonte: Manual de Manutenção da Aeronave Boeing 737, Seção 07-11-11, Página 207, Figura 202/07-11-11-990-802 (Sheet 2 of 2).",
+    "resposta_detalhada": "Resposta direta:\nA altura do plano de referência do corpo (body reference plane) acima do solo no ponto do eixo principal de sustentação (main gear) é de 12,6 polegadas (normal) ou 9,4 polegadas (flat). A altura acima desse plano para a seção de altura constante não é especificada diretamente, mas podemos inferir que ela é de 6,8 polegadas (tire change) ou 7,5 polegadas (flat) para o main gear.\n\nDetalhes técnicos:\nDe acordo com o manual de manutenção da aeronave Boeing 737, o plano de referência do corpo (body reference plane) é definido como o plano que passa pelo centro da seção transversal do corpo da aeronave, no nível do eixo principal de sustentação (main gear). A altura do plano de referência acima do solo no ponto do eixo principal de sustentação é de 12,6 polegadas (normal) ou 9,4 polegadas (flat), dependendo da condição do pneu. A altura acima desse plano para a seção de altura constante não é especificada diretamente, mas podemos inferir que ela é de 6,8 polegadas (tire change) ou 7,5 polegadas (flat) para o main gear.\n\nReferência à fonte:\nFonte: Manual de Manutenção da Aeronave Boeing 737, Seção 07-11-11, Página 207, Figura 202/07-11-11-990-802 (Sheet 2 of 2).",
+    "tempo_segundos": 9.32,
+    "metadados_llm": {
+      "status": "ok",
+      "tokens": {
+        "prompt_tokens": 2424,
+        "total_tokens": 2786,
+        "completion_tokens": 362,
+        "prompt_tokens_details": null
+      },
+      "finish_reason": "stop"
+    },
+    "metricas": {
+      "precisao": 0.2745,
+      "completude": 0.9033,
+      "especificidade": 0.6667,
+      "rastreabilidade": 1.0,
+      "confianca": 1.0
+    },
+    "score_final": 69.15,
+    "tokens_estimados": 1244,
+    "ground_truth": "Altura do plano de referência do corpo – 102.10 in (2.59 m); Altura acima do plano (seção constante) – 98.4 in (2.5 m).",
+    "ragas_metrics": {
+      "faithfulness": 1.0,
+      "answer_relevancy": 1.0,
+      "context_precision": 1.0,
+      "context_recall": 1.0,
+      "answer_correctness": 0.0,
+      "answer_similarity": 1.0,
+      "numeric_verified": false
+    },
+    "ragas_score": 0.7143,
+    "numeric_check": {
+      "gt_value": 102.1,
+      "answer_value": 12.6,
+      "gt_unit": "in",
+      "answer_unit": "in",
+      "gt_comparison": "=",
+      "numeric_match": false,
+      "unit_match": true
+    }
+  },
+  {
+    "timestamp": "2026-09-19T06:13:45.267946",
+    "abordagem": "faiss_nvidia",
+    "pergunta": "Durante a preservação do MEC, por que é necessário instalar os encaixes corretos nos portos PCR e Head, e o que pode acontecer se forem usados encaixes inadequados?",
+    "documentos_recuperados": [
+      "73_C__084.PDF",
+      "73_C__084.PDF",
+      "73_C__084.PDF",
+      "73_C__084.PDF",
+      "73_C__084.PDF"
+    ],
+    "contexto_usado": "[Fonte: 73_C__084.PDF (similaridade 0.3660)]\nOR THE ALTITUDE BIAS SENSOR PORTS WITH OIL. OIL CAN CAUSE DAMAGE TO THE MEC CALIBRATION OR CAUSE DAMAGE TO THE MEC OPERATION. CAUTION: DO NOT USE TAPE AS A COVER FOR THE PORTS ON THE MEC. THE TAPE CAN CAUSE DAMAGE TO THE MEC. CAUTION: SHIPPING AN MEC THAT HAS NOT BEEN DRAINED OF FUEL IS CONSIDERED CLASS 3 HAZARDOUS MATERIAL. WHEN YOU DO THIS PROCEDURE, DRAIN AND DILUTE THE FUEL TO PREVENT LEAKAGE DURING SHIPMENT AND REMOVE THE HAZARDOUS MATERIAL CLASSIFICATION. (1) Do these steps to flush and preserve the MEC: (a) Drain all fuel or calibrating fluid from the MEC as much as possible. (b) Install all protective plugs and caps except on the PCR and Head ports (Figure 201). (c) Install the correct fittings on the PCR and Head ports (Figure 201). (d) Put the MEC in a vertical position (Head port at the top) . (e) Connect a drain hose to the Head port fitting and point the hose into an applicable oil resistant container (5 gal), STD-2484 to catch fuel/oil. (f) Put lubricating oil, D00623 [CP5066] filtered through a 10-micron filter, or better, into the PCR port until oil comes out of the Head port. (g) Disconnect the hoses from the PCR and Head port fittings. (h) Connect a drain hose to \n\n---\n\n[Fonte: 73_C__084.PDF (similaridade 0.2643)]\n0672 [CP5070], on each hex-head plug. (b) Install the plugs in the TC3 and/or the PC ports. (c) Tighten the plugs to 40-60 pound-inches (4.5-6.8 Newton meters). RAM ALL SUBTASK 73-21-01-034-041-C00 (7) Remove the blanking plate from the fuel DISCHARGE port on the MEC to be installed. SUBTASK 73-21-01-434-042-C00 (8) Install the blanking plate on the MEC that you removed. (a) Tighten the bolts to 55-65 pound-inches (6-7 Newton meters). SUBTASK 73-21-01-864-044-C00 (9) Make sure that there are protective caps installed on all the open ports of the MEC that you removed. SUBTASK 73-21-01-434-045-C00 (10) If it is necessary, do the steps that follow to install the MEC on the fuel pump: (a) Remove the coverplate from the forward face of the MEC. (b) Examine the sleeve splines in the MEC for damage. 1) Lubricate the sleeve splines with engine oil, D00599 [CP2442]. (c) Examine the drive shaft splines of the fuel pump drive for damage. 1) Lubricate the shaft splines with engine oil, D00599 [CP2442]. (d) Examine the mating surfaces of the MEC and the fuel pump for damage. (e) Apply a thin layer of engine oil, D00599 [CP2442] on the seal gasket. (f) Install the seal gasket on the rear face of\n\n---\n\n[Fonte: 73_C__084.PDF (similaridade 0.2465)]\nlow to remove the MEC from the fuel pump package: (a) Remove the heated servo supply (FUEL-OUT) line that goes from the servo fuel heater to the MEC. (b) Remove the six MEC mounting nuts and washers that attach the MEC to the fuel pump. CAUTION: BE CAREFUL WHEN YOU REMOVE THE MEC. KEEP THE DRIVE SHAFT PERPENDICULAR TO THE SURFACE OF THE FUEL PUMP MOUNT. DO NOT USE THE DRIVE SHAFT TO SUPPORT THE WEIGHT OF THE MEC. THE MEC WEIGHS APPROXIMATELY 57 POUNDS (26 KG). MOVE ALL THE PLUMBING LINES OR THE CABLES TO THE SIDE. USE YOUR HAND TO SUPPORT THE WEIGHT OF THE MEC. MAKE SURE THAT THE THROTTLE LEVER, FUEL SHUTOFF LEVER, ELECTRICAL CABLES AND THE DISCONNECTED PLUMBING LINES ARE NOT SQUEEZED OR STRAINED. THIS WILL PREVENT DAMAGE TO THESE PARTS. (c) Carefully remove the MEC from the fuel pump. NOTE: Do not cause damage to the drive shaft. (d) Move the MEC aft, then left and forward until it is away from the engine. (e) Remove the seal gasket from the mounting flange. (f) Replace the gasket if it is damaged (TASK 70-30-01-912-002-C00). (g) Install the overplate on the forward face of the MEC. SUBTASK 73-11-01-624-031-C00 (22) If it is necessary, do the MEC preservation procedure (TASK 73-00\n\n---\n\n[Fonte: 73_C__084.PDF (similaridade 0.2450)]\nthe PCR line to the fitting on the MEC. 1) Tighten the coupling nut to 135-150 pound-inches (15-17 Newton meters). (g) Connect the end of the flexible hose with the elbow to the VBV CLOSE fitting on the MEC. 1) Tighten the coupling nuts to 270-300 pound-inches (30-34 Newton meters). (h) Connect the other end of the flexible hose to the VBV CLOSE line. 1) Tighten the coupling nuts to 270-300 pound-inches (30-34 Newton meters). (i) Connect the end of the flexible hose with the elbow to the VBV OPEN fitting on the MEC. 1) Tighten the elbow to 450-500 pound-inches (51-56 Newton meters). (j) Connect the other end of the flexible hose to the VBV OPEN line. 1) Tighten the hose end to 270-300 pound-inches (30-34 Newton meters). (k) Connect the CDP line to the fitting on the MEC. 1) Tighten the coupling nut to 270-300 pound-inches (30-34 Newton meters). 2) Install the lockwire, G02495 [CP8002]. (l) Connect the CBP line to the fitting on the MEC. 1) Tighten the coupling nut to 135-150 pound-inches (15-17 Newton meters). 2) Install the lockwire, G02495 [CP8002]. 3) Connect the clamps that attach the CDP and CBP lines to the bracket below the MEC. (m) Connect the flexible hose from the TC1 fit\n\n---\n\n[Fonte: 73_C__084.PDF (similaridade 0.2425)]\nure, PS3 (CDP port), line from the MEC. (n) Disconnect the clamp that attaches the PS3 line to the bracket below the MEC. 1) Move the line down and attach it to the lines removed above. (o) Disconnect the bleed bias line for the compressor bias pressure (CBP) from the MEC. 1) Move the line down and attach it to the lines removed above. RAM ALL; ENGINES WITHOUT THE HPTCC TIMER (p) Disconnect the clamps that attach the TC1 and TC2 turbine clearance control lines. RAM ALL; ENGINES WITH THE HPTCC TIMER (q) Disconnect the clamps that attach the TC1, TC2 and TC3 turbine clearance control lines. RAM ALL (r) Disconnect the TC1 line from the lower end of the flexible hose. (s) Disconnect the TC2 line from the lower end of the flexible hose. RAM ALL; ENGINES WITH THE HPTCC TIMER (t) Disconnect the TC3 line from the lower end of the flexible hose. RAM ALL SUBTASK 73-21-01-034-024-C00 (13) Disconnect these plumbing lines from the lower side of the MEC (Figure 406): (a) The PS12 pneumatic line from the POC port. (b) The T2 (P7) fuel line. SUBTASK 73-21-01-034-025-C00 (14) Put the protective caps on all the open plumbing lines. SUBTASK 73-21-01-024-026-C00 (15) Remove the servo fuel heater to ge",
+    "contexto_preview": "[Fonte: 73_C__084.PDF (similaridade 0.3660)]\nOR THE ALTITUDE BIAS SENSOR PORTS WITH OIL. OIL CAN CAUSE DAMAGE TO THE MEC CALIBRATION OR CAUSE DAMAGE TO THE MEC OPERATION. CAUTION: DO NOT USE TAPE AS A COVER FOR THE PORTS ON THE MEC. THE TAPE CAN CAUSE DAMAGE TO THE MEC. CAUTION: SHIPPING AN MEC THAT HAS NOT BEEN DRAINED OF FUEL IS CONSIDERED CLASS 3 HAZARDOUS MATERIAL. WHEN YOU DO THIS PROCEDURE, DRAIN AND DILUTE THE FUEL TO PREVENT LEAKAGE DURING SHIPMENT AND REMOVE THE HAZARDOUS MATERIAL CLASS",
+    "resposta": "Durante a preservação do MEC, é necessário instalar os encaixes corretos nos portos PCR e Head para evitar danos ao sistema de calibração do MEC ou ao seu funcionamento. De acordo com o manual, o uso de encaixes inadequados pode causar danos ao MEC.\n\nDetalhes técnicos:\n\n* Os encaixes corretos devem ser instalados nos portos PCR e Head, conforme mostrado na Figura 201.\n* O uso de encaixes inadequados pode causar danos ao MEC, incluindo danos ao sistema de calibração ou ao funcionamento do MEC.\n* É importante verificar se os encaixes estão corretamente instalados antes de continuar com a preservação do MEC.\n\nReferência à fonte:\n\n* De acordo com o manual ATA 29, \"Preservação do MEC\", capítulo 73-21-01-034-041-C00.",
+    "resposta_detalhada": "Durante a preservação do MEC, é necessário instalar os encaixes corretos nos portos PCR e Head para evitar danos ao sistema de calibração do MEC ou ao seu funcionamento. De acordo com o manual, o uso de encaixes inadequados pode causar danos ao MEC.\n\nDetalhes técnicos:\n\n* Os encaixes corretos devem ser instalados nos portos PCR e Head, conforme mostrado na Figura 201.\n* O uso de encaixes inadequados pode causar danos ao MEC, incluindo danos ao sistema de calibração ou ao funcionamento do MEC.\n* É importante verificar se os encaixes estão corretamente instalados antes de continuar com a preservação do MEC.\n\nReferência à fonte:\n\n* De acordo com o manual ATA 29, \"Preservação do MEC\", capítulo 73-21-01-034-041-C00.",
+    "tempo_segundos": 6.856,
+    "metadados_llm": {
+      "status": "ok",
+      "tokens": {
+        "prompt_tokens": 2174,
+        "total_tokens": 2390,
+        "completion_tokens": 216,
+        "prompt_tokens_details": null
+      },
+      "finish_reason": "stop"
+    },
+    "metricas": {
+      "precisao": 0.0556,
+      "completude": 0.9077,
+      "especificidade": 1.0,
+      "rastreabilidade": 1.0,
+      "confianca": 1.0
+    },
+    "score_final": 69.36,
+    "tokens_estimados": 1201,
+    "ground_truth": "Instalar os encaixes corretos garante drenagem adequada e evita que óleo entre em portos que não devem receber óleo (como CDP, CBP ou sensor de bias de altitude), o que poderia danificar a calibração ou operação do MEC.",
+    "ragas_metrics": {
+      "faithfulness": 1.0,
+      "answer_relevancy": 1.0,
+      "context_precision": 1.0,
+      "context_recall": 1.0,
+      "answer_correctness": 1.0,
+      "answer_similarity": 1.0
+    },
+    "ragas_score": 1.0,
+    "numeric_check": {
+      "gt_value": null,
+      "answer_value": 201.0,
+      "gt_unit": null,
+      "answer_unit": null,
+      "gt_comparison": "=",
+      "numeric_match": null,
+      "unit_match": null
+    }
+  }
+]

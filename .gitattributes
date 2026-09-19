@@ -1,3 +1,4 @@
-env/base_chunks.json filter=lfs diff=lfs merge=lfs -text
-env/base_conhecimento_indice.json filter=lfs diff=lfs merge=lfs -text
+env/base/base_chunks.json filter=lfs diff=lfs merge=lfs -text
+env/base/base_conhecimento_indice.json filter=lfs diff=lfs merge=lfs -text
 env/dados_treino.json filter=lfs diff=lfs merge=lfs -text
+env/base/base_conhecimento.json filter=lfs diff=lfs merge=lfs -text

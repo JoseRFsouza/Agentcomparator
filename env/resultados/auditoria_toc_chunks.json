@@ -1,146 +1,29 @@
 [
   {
-    "timestamp": "2026-09-17T04:06:55.982853",
+    "timestamp": "2026-09-17T21:38:24.635872",
     "abordagem": "toc_chunks",
-    "pergunta": "Qual é o código da tarefa que descreve a 'APU Operation Test'?",
+    "pergunta": "Qual é a página que descreve o teste de tela do sistema de controle de voo digital (Digital Flight Control System)?",
     "documentos_recuperados": [
-      "26___084.PDF"
+      "27___084.PDF",
+      "22___084.PDF"
     ],
-    "contexto_usado": "[Fonte: 26___084.PDF | score 0.3169]\neinthecenterposition.Thefireswitchhandlecan\nbemanuallyunlockedbypressingthebuttonbehindthehandle.\nC. BottleDischargeLights\n(1) Thebottledischargelightsareactivatedbythepressureswitches.Whenthebottledischarges\norbottlepressuredecreases,thepressureswitchclosesandthebottledischargelightcomes\non.\nD. TestSwitchandTestLights\n(1) Thetestswitchchecksextinguisherbottlesquibcontinuity.Whensetto1or2,thetestswitch\ncheckscircuitcontinuitythroughthesquibandtheLandRtestligh",
-    "resposta": "De acordo com o manual, a tarefa que descreve a \"APU Operation Test\" não é explicitamente mencionada no contexto fornecido. No entanto, a tarefa que se aproxima disso é a \"TestSwitch and Test Lights\" (D), que descreve a verificação da continuidade do squib e a ativação dos test lights.\n\nNo entanto, se considerarmos a seção \"5. Operation (Figure1)\" da página 5 do manual, podemos encontrar uma referência à \"APU Operation Test\". Nessa seção, é descrito o procedimento para testar a operação do APU, que inclui a verificação da continuidade do squib e a ativação dos test lights.\n\nPortanto, embora não haja um código de tarefa específico para a \"APU Operation Test\", podemos inferir que a tarefa mais próxima é a \"TestSwitch and Test Lights\" (D).\n\nReferência: [Fonte: 26___084.PDF | score 0.3169]",
-    "tempo_segundos": 23.742,
+    "contexto_usado": "[Fonte: 27___084.PDF | score 0.2272]\ningvalveis\nusedforhydraulicsystemBwhilethesecondblockingvalveisusedforthestandbyhydraulic\nsystem.\nB. Externalportsintheactuatorhousingareprovidedforanactuatorretractpressureline,anactuator\nextendpressureline,andastandbysystempressureline.Theactuatorretractpressureisprovided\nbyBsystempressure.Withthehydraulicsystempressurized,systemBpressureisportedatall\ntimestotheretractsideoftheactuatorpiston.SystemBhydraulicpressurefromthecontrolvalve\nextendstheactuatorbyac",
+    "resposta": "Resposta direta:\nA página que descreve o teste de tela do sistema de controle de voo digital (Digital Flight Control System) está localizada na página 65 do manual de manutenção do Boeing 737, especificamente no capítulo \"Roll Signal Switching\" (Figura 13/22-11-01-990-834737-300/400/500).\n\nDetalhes técnicos:\nO teste de tela do sistema de controle de voo digital é descrito no capítulo \"Roll Signal Switching\" e envolve a verificação da funcionalidade do sistema de controle de voo digital, incluindo a verificação da saída do computador de controle de voo (Flight Control Computer) e a verificação da saída do sistema de controle de voo digital. O teste também envolve a verificação da integridade do sistema de controle de voo digital e a verificação da saída do sistema de controle de voo digital em diferentes condições de voo.\n\nReferência à fonte:\nFonte: [22___084.PDF | score 0.1933] AIRCRAFTMAINTENANCEMANUAL Page65 D6-37569 Mar25/2015 BOEINGPROPRIETARY-Copyright©UnpublishedWork-SeetitlepagefordetailsEFFECTIVITY RAMALL ROLL RATE LATERAL ACCEL UNIT 1(E3-5) M1162 INERTIAL REF UNIT 2(E3-5) COMPUTED AIRSPEEDALTITUDE SELECTED HEADING DISCRETES M1175 FLIGHT MANAGEMENT DME DISTANCE M1163 DIGITAL ANALOG CROSS CHANNEL DATAM196 DIGITAL AIR DATA CROSS CHANNEL DATA CROSS CHANNEL DATA M923 FLIGHT CONTROL COMPUTER B(",
+    "tempo_segundos": 10.177,
     "metadados_llm": {
       "status": "ok",
       "tokens": {
-        "prompt_tokens": 1164,
-        "total_tokens": 1392,
-        "completion_tokens": 228,
-        "prompt_tokens_details": null
-      },
-      "finish_reason": "stop",
-      "atas_identificados": [
-        "ATA 49: General Task Instructions (49-00-00-800-803)",
-        "ATA 49: Visual Check Inspection (49-00-00-210-803)",
-        "ATA 26: Cargo Fire Control Panel Removal (26-00-02-004-001)",
-        "ATA 26: Cargo Fire Control Panel Installation (26-00-02-044-006)"
-      ],
-      "arquivos_alvo": [
-        "49__B_084.PDF",
-        "26___084.PDF"
-      ]
-    },
-    "metricas": {
-      "precisao": 0.1556,
-      "completude": 0.9288,
-      "especificidade": 0.6667,
-      "rastreabilidade": 1.0,
-      "confianca": 0.5
-    },
-    "score_final": 61.22
-  },
-  {
-    "timestamp": "2026-09-17T04:07:08.175478",
-    "abordagem": "toc_chunks",
-    "pergunta": "Quais componentes são mostrados na Figura 1/51‑00‑00‑990‑801 do manual?",
-    "documentos_recuperados": [
-      "32___084.PDF"
-    ],
-    "contexto_usado": "[Fonte: 32___084.PDF | score 0.1344]\nlandinggearpositionandwarninglightsfunctionnormallyduringmanual\nextensionoperation.737-300/400/500\nAIRCRAFTMAINTENANCEMANUAL\nPage1\nD6-37569 Mar25/2015\nBOEINGPROPRIETARY-Copyright©UnpublishedWork-SeetitlepagefordetailsEFFECTIVITY\nRAMALL\nLEFT MAIN GEAR\nMANUAL EXTENSION\nHANDLENOSE GEAR\nMANUAL EXTENSION\nHANDLE\nRIGHT MAIN GEAR\nMANUAL EXTENSION\nHANDLE\nNOSE GEAR\nMANUAL EXTENSION\nCONTROL CABLEMANUAL\nEXTENSION\nCONTROLNOSE GEAR\nMANUAL EXTENSION\nRELEASE MECHANISMNOSE GE",
-    "resposta": "Resposta direta:\nA Figura 1/51-00-00-990-801 do manual mostra os seguintes componentes:\n\n- NOSE GEAR MANUAL EXTENSION HANDLE\n- NOSE GEAR MANUAL EXTENSION CONTROL CABLE\n- NOSE GEAR MANUAL EXTENSION RELEASE MECHANISM\n- NOSE GEAR LOCK STRUT\n- NOSE GEAR LOWER DRAG BRACE\n- NOSE GEAR UPPER DRAG BRACE\n\nDetalhes técnicos:\nA Figura 1/51-00-00-990-801 é uma ilustração do sistema de extensão manual do trem de pouso dianteiro (nose gear) do Boeing 737-300/400/500. Os componentes mostrados incluem:\n\n- O mancal de extensão manual do trem de pouso dianteiro (Nose Gear Manual Extension Handle)\n- O cabo de controle de extensão manual do trem de pouso dianteiro (Nose Gear Manual Extension Control Cable)\n- O mecanismo de liberação de extensão manual do trem de pouso dianteiro (Nose Gear Manual Extension Release Mechanism)\n- A estrutura de travamento do trem de pouso dianteiro (Nose Gear Lock Strut)\n- O braço de arrasto inferior do trem de pouso dianteiro (Nose Gear Lower Drag Brace)\n- O braço de arrasto superior do trem de pouso dianteiro (Nose Gear Upper Drag Brace)\n\nReferência à fonte:\nFonte: Manual de Manutenção do Boeing 737-300/400/500, página 1, Figura 1/51-00-00-990-801.",
-    "tempo_segundos": 12.057,
-    "metadados_llm": {
-      "status": "ok",
-      "tokens": {
-        "prompt_tokens": 1591,
-        "total_tokens": 1950,
-        "completion_tokens": 359,
-        "prompt_tokens_details": null
-      },
-      "finish_reason": "stop",
-      "atas_identificados": [
-        "ATA 27: Aileron Balance T ab Adjustment to Equalize Lateral Manual Reversion Forces (27-09-71-825-056)",
-        "ATA 27: Operational T est - Elevator Manual Control System (27-31-00-715-097)",
-        "ATA 32: Main Gear Manual Extension System Adjustment (32-34-00-825-001)",
-        "ATA 32: Main Gear Manual Extension System Operational T est (Airplane on Jacks) (32-34-00-705-007)"
-      ],
-      "arquivos_alvo": [
-        "27___084.PDF",
-        "32___084.PDF"
-      ]
-    },
-    "metricas": {
-      "precisao": 0.3404,
-      "completude": 0.7576,
-      "especificidade": 1.0,
-      "rastreabilidade": 1.0,
-      "confianca": 1.0
-    },
-    "score_final": 74.15
-  },
-  {
-    "timestamp": "2026-09-17T04:07:20.303762",
-    "abordagem": "toc_chunks",
-    "pergunta": "Qual é o ângulo máximo de inclinação do shock strut principal quando a aeronave está levantada, e qual é o deslocamento máximo da roda traseira?",
-    "documentos_recuperados": [
-      "32___084.PDF"
-    ],
-    "contexto_usado": "[Fonte: 32___084.PDF | score 0.2757]\nhelowershockstrutdoorsupport(8)\nfromtheclamp(9).\nSUBTASK32-13-11-034-005\n(5) Removethedoorassemblyfromtheairplane.\nENDOFTASK737-300/400/500\nAIRCRAFTMAINTENANCEMANUAL\nPage401\nD6-37569 Mar25/2015\nBOEINGPROPRIETARY-Copyright©UnpublishedWork-SeetitlepagefordetailsEFFECTIVITY\nRAMALL\nSEE A\n11SEE B\nSEE D\nSEE E\nSEE C\nSEE F1\nINBD FWD1.CLAMP\n3.UPPER DRAG STRUT\nDOOR SUPPORT\n4.CLAMP\n5.LOWER DRAG STRUT\nDOOR SUPPORT\nHINGE\n6.CONTROL\nROD SUPPORT\n7.ADJUSTABLE\nCONTROL\nROD8.LOW",
-    "resposta": "Resposta direta:\nO ângulo máximo de inclinação do shock strut principal quando a aeronave está levantada é de 15 graus, conforme especificado no manual de manutenção da aeronave Boeing 737-300/400/500 (ATA 32-13-11-034-005). O deslocamento máximo da roda traseira não é especificado diretamente no contexto fornecido, mas é possível inferir que ele está relacionado ao deslocamento do shock strut.\n\nDetalhes técnicos:\nO manual de manutenção da aeronave Boeing 737-300/400/500 (ATA 32-13-11-034-005) descreve o sistema de amortecimento da roda traseira, que inclui o shock strut principal e o drag strut. O shock strut principal é responsável por absorver as vibrações e choques da roda traseira, enquanto o drag strut é responsável por manter o shock strut em posição. O ângulo máximo de inclinação do shock strut principal é de 15 graus, o que é importante para garantir a estabilidade e o controle da aeronave.\n\nReferência à fonte:\nConforme o manual de manutenção da aeronave Boeing 737-300/400/500 (ATA 32-13-11-034-005), página 401, D6-37569, Mar 25/2015.\n\nObservação:\nNão foi possível encontrar informações específicas sobre o deslocamento máximo da roda traseira no contexto fornecido. É possível que essa informação esteja disponível em outro documento ou manual de manutenção da aeronave.",
-    "tempo_segundos": 12.02,
-    "metadados_llm": {
-      "status": "ok",
-      "tokens": {
-        "prompt_tokens": 1339,
-        "total_tokens": 1703,
+        "prompt_tokens": 1560,
+        "total_tokens": 1924,
         "completion_tokens": 364,
-        "prompt_tokens_details": null
-      },
-      "finish_reason": "stop",
-      "atas_identificados": [
-        "ATA 32: Inspection for Cracking and Chipping on the Shock Strut Inner Cylinder Chrome (32-00-03-206-001)",
-        "ATA 32: Landing Gear Inner Cylinder Chrome Cleaning (32-00-03-107-001)",
-        "ATA 12: Refuel Operation When the Fuel Quantity Indicating System Is Inoperative (12-11-04-653-060)",
-        "ATA 12: Landing Gear Shock Strut Fluids (12-15-02-613-001)"
-      ],
-      "arquivos_alvo": [
-        "32___084.PDF",
-        "12___084.PDF"
-      ]
-    },
-    "metricas": {
-      "precisao": 0.0968,
-      "completude": 0.9313,
-      "especificidade": 1.0,
-      "rastreabilidade": 1.0,
-      "confianca": 0.0
-    },
-    "score_final": 61.19
-  },
-  {
-    "timestamp": "2026-09-17T04:07:26.193672",
-    "abordagem": "toc_chunks",
-    "pergunta": "Para que servem os interruptores de corte de ajuste do estabilizador durante a inspeção?",
-    "documentos_recuperados": [
-      "22___084.PDF",
-      "27___084.PDF"
-    ],
-    "contexto_usado": "[Fonte: 22___084.PDF | score 0.1646]\nde.\n(v) PushtheLSKadjacentto<YESontheCDUsecondscreenofthetest51.26.737-300/400/500\nAIRCRAFTMAINTENANCEMANUAL\nPage551\nD6-37569 Mar25/2016\nBOEINGPROPRIETARY-Copyright©UnpublishedWork-SeetitlepagefordetailsEFFECTIVITY\nRAMALL\n(w) PushtheLSKadjacentto<CONTINUEonthetests51.20and51.21andkeepthesame\npitotpressureandstabilizerBdimension.\n(x) PressurizethehydraulicsystemAandB(PAGEBLOCK29-15-00/201).\n(y) EngagetheautopilotchannelBtoCMDmode.\n(z) Makesurethatthevaluesfort",
-    "resposta": "Resposta direta:\nOs interruptores de corte de ajuste do estabilizador servem para limitar o movimento do estabilizador durante a inspeção, evitando danos ao sistema.\n\nDetalhes técnicos:\nDe acordo com o manual, os interruptores de corte de ajuste do estabilizador (Stabilizer Trim Limit Switches) são localizados na área de acesso ao estabilizador, a bombordo do jackscrew. Eles são mecanicamente operados por uma cam assembly e movimento do estabilizador, e têm seis unidades, todas conectadas elétrica e indicando quando estão na posição aberta ou fechada. O objetivo desses interruptores é limitar o movimento do estabilizador que pode ser comandado pelos outputs do FCC (Flight Control Computer).\n\nReferência à fonte:\nConforme o capítulo 27-41-00 do manual de manutenção da aeronave Boeing 737-300/400/500, página 551, D6-37569, Mar 25/2016.",
-    "tempo_segundos": 5.782,
-    "metadados_llm": {
-      "status": "ok",
-      "tokens": {
-        "prompt_tokens": 1506,
-        "total_tokens": 1735,
-        "completion_tokens": 229,
         "prompt_tokens_details": null
       },
       "finish_reason": "stop",
       "atas_identificados": [
         "ATA 22: Operational T est - Digital Flight Control System (22-11-01-715-002)",
         "ATA 22: System T est - Digital Flight Control System (22-11-01-735-019)",
-        "ATA 27: Flight Controls Hydraulic Modular Package T est (27-09-21-705-028)",
-        "ATA 27: Flight Controls Shutoff Valve - Operational T est (27-09-31-705-018)"
+        "ATA 27: Control Cables Identification and Assembly Specifications (27-09-14-862-007)",
+        "ATA 27: Control Cables Rigging (27-09-14-832-008)"
       ],
       "arquivos_alvo": [
         "22___084.PDF",
@@ -148,52 +31,12 @@
       ]
     },
     "metricas": {
-      "precisao": 0.0645,
-      "completude": 1.0,
+      "precisao": 0.5753,
+      "completude": 0.9636,
       "especificidade": 1.0,
       "rastreabilidade": 1.0,
       "confianca": 1.0
     },
-    "score_final": 71.94
-  },
-  {
-    "timestamp": "2026-09-17T04:07:50.171181",
-    "abordagem": "toc_chunks",
-    "pergunta": "Qual é a finalidade de usar a roda de ajuste de estabilizador no stand de controle durante a inspeção?",
-    "documentos_recuperados": [
-      "30___084.PDF",
-      "27___084.PDF"
-    ],
-    "contexto_usado": "[Fonte: 30___084.PDF | score 0.4165]\naftertherequiredamountofrepellent\nhasbeensprayedonthewindow,allowingthevalvetoclose.\n6. Operation\nA. Withthepressurizedfluidcontainerinstalledinthesystemreceptacle,theshutoffvalveintheopen\nposition,and28-voltdcpoweravailableontheNo.1andNo.2dcbus,thesystemisreadyforuse.\nTheoperationoftherainrepellentsystemforeachwindowisindividuallycontrolledbypushingthe\nrespectivecontrolswitch(Figure2).Pushingthecontrolswitchcompletesacircuitfromthe\nrespectiveRAINREPELLENTcir",
-    "resposta": "A finalidade de usar a roda de ajuste de estabilizador no stand de controle durante a inspeção é para garantir que o ponteiro no aft face da alavanca de freio de velocidade esteja alinhado com os detentes corretos. Isso é necessário para garantir que a alavanca de freio de velocidade esteja funcionando corretamente.\n\nDetalhes técnicos:\n- A roda de ajuste de estabilizador é usada para ajustar a posição do ponteiro no aft face da alavanca de freio de velocidade.\n- O ponteiro deve ser alinhado com os detentes corretos, que são:\n + DOWN (baixo)\n + ARMED (armado)\n + FLIGHT DETENT (detent de voo)\n + UP (cima)\n- A alavanca de freio de velocidade deve ter um travel de 48-1/2 ±1/2 graus, que é a distância que a alavanca deve percorrer de um extremo ao outro.\n\nReferência à fonte:\n- De acordo com o manual de manutenção da aeronave Boeing 737, página 27, item (e) e (f).",
-    "tempo_segundos": 23.862,
-    "metadados_llm": {
-      "status": "ok",
-      "tokens": {
-        "prompt_tokens": 1589,
-        "total_tokens": 1856,
-        "completion_tokens": 267,
-        "prompt_tokens_details": null
-      },
-      "finish_reason": "stop",
-      "atas_identificados": [
-        "ATA 30: WITHOUT GROUND TEST SWITCH Wing TAI Ground Operational T est (30-11-00-705-001)",
-        "ATA 30: WITHOUT GROUND TEST SWITCH Wing TAI System Functional T est (30-11-00-705-003)",
-        "ATA 27: Flight Controls Hydraulic Modular Package T est (27-09-21-705-028)",
-        "ATA 27: Flight Controls Shutoff Valve - Operational T est (27-09-31-705-018)"
-      ],
-      "arquivos_alvo": [
-        "30___084.PDF",
-        "27___084.PDF"
-      ]
-    },
-    "metricas": {
-      "precisao": 0.0385,
-      "completude": 0.96,
-      "especificidade": 1.0,
-      "rastreabilidade": 1.0,
-      "confianca": 1.0
-    },
-    "score_final": 70.16
+    "score_final": 86.35
   }
 ]

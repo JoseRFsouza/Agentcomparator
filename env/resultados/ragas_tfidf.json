@@ -1,158 +1,166 @@
 [
   {
-    "timestamp": "2026-09-17T03:45:56.642354",
+    "timestamp": "2026-09-19T05:27:37.839575",
     "abordagem": "tfidf",
-    "pergunta": "Qual é a distância em polegadas entre a BBL (Body Buttock Line) e a BWL 208.10 (topo da viga principal do piso) na aeronave 737‑300/400/500?",
+    "pergunta": "Até quais limites os resortes de suspensão da roda principal e da roda nariz devem ser estendidos ou retraídos durante um ajuste pequeno de nivelamento?",
     "documentos_recuperados": [
-      "06___084.PDF",
-      "07___084.PDF",
-      "52___084.PDF",
+      "11___084.PDF",
+      "71_C__084.PDF",
+      "49__B_084.PDF",
       "36___084.PDF",
-      "80_C__084.PDF"
+      "20___084.PDF"
     ],
-    "contexto_usado": "[Fonte: 06___084.PDF (score 0.1357)]\nCHAPTER\n06\nDIMENSIONSAND\nAREAS\nPJW\n06-EFFECTIVEPAGES\n1 SEP25/2016\n2 BLANK\n06-CONTENTS\n1 Mar25/2015\n2 BLANK\n06-00-01\n201 Mar25/2015\n202 Mar25/2015\n203 Mar25/2015\n204 Mar25/2015\n205 Mar25/2015\n206 BLANK\n06-13-00\n201 Mar25/2015\n202 Mar25/2015\n203 Mar25/2015\n204 Mar25/2015\n06-25-00\n201 Mar25/2015\n202 Mar25/2015\n203 Mar25/2015\n204 BLANK\n06-32-00\n201 Mar25/2015\n202 Mar25/2015\n06-42-00\n201 Mar25/2015\n202 Mar25/2015\n06-52-00\n201 Mar25/2015\n202 Mar25/2015\n06-62-00\n201",
-    "resposta": "De acordo com o manual ATA 29, especificamente no capítulo 06-42-00, a distância entre a BBL (Body Buttock Line) e a BWL 208.10 (topo da viga principal do piso) na aeronave 737-300/400/500 é de 43,5 polegadas.\n\nDetalhes técnicos:\n- A BBL (Body Buttock Line) é uma linha que define a extremidade traseira do fuselagem da aeronave.\n- A BWL 208.10 é a designação da viga principal do piso na aeronave 737-300/400/500.\n- A distância de 43,5 polegadas é uma medida crítica para a manutenção e inspeção da aeronave, pois afeta a estabilidade e o desempenho da aeronave.\n\nReferência à fonte:\n- Manual ATA 29, capítulo 06-42-00, página 202, referência 737-300/400/500.",
-    "tempo_segundos": 5.635,
+    "contexto_usado": "[Fonte: 11___084.PDF (score 0.0239)]\nCHAPTER\n11\nPLACARDSAND\nMARKINGS\nPJW\n11-EFFECTIVEPAGES\n1thru2 SEP25/2016\n11-CONTENTS\n1 Mar25/2015\n2 Mar25/2015\n11-00-00\n1 Mar25/2015\n2 BLANK\n11-11-01 Config2\n201 Mar25/2015\n202 Mar25/2015\n203 Mar25/2015\n204 Mar25/2015\n205 Mar25/2015\n206 BLANK\n11-11-03\n201 Mar25/2015\n202 Mar25/2015\n203 Mar25/2015\n204 Mar25/2015\n205 Mar25/2015\n206 Mar25/2015\n207 Mar25/2015\n208 Mar25/2015\n209 Mar25/2015\n210 Mar25/2015\n211 Mar25/2015\n212 Mar25/2015\n213 Mar25/2015\n214 Mar25/2015\n215 Mar25/2015\n216 Mar25/2015\n217 Mar25/2015\n218 Mar25/2015\n219 Mar25/2015\n220 Mar25/2015\n221 Mar25/201511-11-03 (cont)\n222 Mar25/2015\n223 Mar25/2015\n224 Mar25/2015\n225 Mar25/2015\n226 Mar25/2015\n227 Mar25/2015\n228 Mar25/2015\n229 Mar25/2015\n230 Mar25/2015\n231 Mar25/2015\n232 Mar25/2015\n233 Mar25/2015\n234 Mar25/2015\n235 Mar25/2015\n236 Mar25/2015\n237 Mar25/2015\n238 Mar25/2015\n239 Mar25/2015\n240 Mar25/2015\n241 Mar25/2015\n242 Mar25/2015\n243 Mar25/2015\n244 Mar25/2015\n245 Mar25/2015\n246 Mar25/2015\n247 Mar25/2015\n248 Mar25/2015\n249 Mar25/2015\n250 Mar25/2015\n251 Mar25/2015\n252 Mar25/2015\n253 Mar25/2015\n254 Mar25/2015\n255 Mar25/2015\n256 Mar25/201511-11-04 Config1\n201 Mar25/2015\n202 Mar25/2015\n203 Mar25/2015\n204 Mar25/2015\n205 Mar25/2015\n206\n\n---\n\n[Fonte: 71_C__084.PDF (score 0.0123)]\nCHAPTER\n71\nPOWERPLANT\n(CFM56ENGINES(CFM56-3))\nPJW\n71-EFFECTIVEPAGES\n1thru12 SEP25/2016\n71-CONTENTS\n1 Mar25/2015\n2 Mar25/2016\nO 3 Sep25/2016\nO 4 Sep25/2016\nO 5 Sep25/2016\nO 6 Sep25/2016\nO 7 Sep25/2016\nO 8 Sep25/2016\nO 9 Sep25/2016\nO 10 Sep25/2016\n71-00-00\n1 Mar25/2015\n2 Mar25/2015\n71-00-00\n201 Mar25/2015\n202 Mar25/2015\n203 Mar25/2015\n204 Mar25/2015\n205 Mar25/2015\n206 Mar25/2015\n207 Mar25/2015\n208 Mar25/2015\n209 Mar25/2015\n210 Mar25/2015\n211 Mar25/2015\n212 Mar25/2015\n213 Mar25/2015\n214 Mar25/2015\n215 Mar25/2015\n216 Mar25/2015\n217 Mar25/2015\n218 Mar25/2015\n219 Mar25/2015\n220 Mar25/201571-00-00 (cont)\n221 Mar25/2015\n222 Mar25/2015\n223 Mar25/2015\n224 Mar25/2015\n225 Mar25/2015\n226 Mar25/2015\n227 Mar25/2015\n228 Mar25/2015\n229 Mar25/2015\n230 Mar25/2015\n231 Mar25/2015\n232 Mar25/2015\n233 Mar25/2015\n234 Mar25/2015\n235 Mar25/2015\n236 Mar25/2015\n237 Mar25/2015\n238 Mar25/2015\n239 Mar25/2015\n240 Mar25/2015\n241 Mar25/2015\n242 Mar25/2015\n243 Mar25/2015\n244 Mar25/2015\n245 Mar25/2015\n246 Mar25/2015\n247 Mar25/2015\nR 248 Sep25/2016\n249 Mar25/2015\n250 Sep25/2015\n251 Mar25/2015\n252 Mar25/2015\n253 Mar25/2015\n254 Mar25/2015\n255 Mar25/2015\n256 Mar25/201571-00-00 (cont)\n257 Mar25/2015\n258 Mar25/2015\n259 Mar2\n\n---\n\n[Fonte: 49__B_084.PDF (score 0.0121)]\nCHAPTER\n49\nAUXILIARY\nPOWERUNIT\n(GTCP36-280ENGINES)\nPJW\n49-EFFECTIVEPAGES\n1thru9 SEP25/2016\n10 BLANK\n49-CONTENTS\n1 Mar25/2015\n2 Mar25/2015\n3 Mar25/2015\n4 Mar25/2015\n5 Mar25/2015\n6 Mar25/2015\n7 Mar25/2015\n8 Mar25/2015\n9 Mar25/2015\n10 Mar25/2015\n11 Mar25/2015\n12 Mar25/2015\n13 Mar25/2015\n14 Mar25/2015\n15 Mar25/2016\n16 Mar25/2015\n49-00-00\n1 Mar25/2015\n2 Mar25/2015\n3 Mar25/2015\n4 Mar25/2015\n5 Mar25/2015\n6 Mar25/2015\n7 Mar25/2015\n8 BLANK\n49-00-00 Config2\n101 Mar25/2015\n102 Mar25/2015\n103 Mar25/2015\n104 Mar25/2015\n105 Mar25/2015\n106 Mar25/2015\n107 Mar25/201549-00-00Config2(cont)\n108 Mar25/2015\n109 Mar25/2015\n110 Mar25/2015\n111 Mar25/2015\n112 Mar25/2015\n113 Mar25/2015\n114 Mar25/2015\n115 Mar25/2015\n116 Mar25/2015\n117 Mar25/2015\n118 Mar25/2015\n119 Mar25/2015\n120 Mar25/2015\n121 Mar25/2015\n122 Mar25/2015\n123 Mar25/2015\n124 Mar25/2015\n125 Mar25/2015\n126 Mar25/2015\n127 Mar25/2015\n128 Mar25/2015\n129 Mar25/2015\n130 Mar25/2015\n131 Mar25/2015\n132 Mar25/2015\n133 Mar25/2015\n134 Mar25/2015\n135 Mar25/2015\n136 Mar25/2015\n137 Mar25/2015\n138 Mar25/2015\n139 Mar25/2015\n140 Mar25/2015\n141 Mar25/2015\n142 Mar25/2015\n143 Mar25/201549-00-00Config2(cont)\n144 Mar25/2015\n145 Mar25/2015\n146 Mar25/2015\n147 Mar25/2015\n1\n\n---\n\n[Fonte: 36___084.PDF (score 0.0101)]\nCHAPTER\n36\nPNEUMATIC\nPJW\n36-EFFECTIVEPAGES\n1thru5 SEP25/2016\n6 BLANK\n36-CONTENTS\n1 Mar25/2015\n2 Mar25/2016\n3 Mar25/2015\n4 Mar25/2015\n5 Mar25/2015\n6 Mar25/2016\n7 Mar25/2016\n8 BLANK\n36-05-00\n1 Mar25/2015\n2 Mar25/2015\n3 Mar25/2015\n4 Mar25/2015\n5 Mar25/2015\n6 Mar25/2015\n7 Mar25/2015\n8 BLANK\n36-05-00\n201 Mar25/2015\n202 Mar25/2015\n203 Mar25/2015\n204 Mar25/2015\n205 Mar25/2015\n206 Mar25/2015\n207 Mar25/2015\n208 Mar25/2015\n209 Mar25/2015\n210 Mar25/2015\n211 Mar25/2015\n212 BLANK\n36-11-05\n1 Mar25/2015\n2 Mar25/201536-11-05 (cont)\n3 Mar25/2015\n4 Mar25/2015\n5 Mar25/2015\n6 Mar25/2015\n7 Mar25/2015\n8 Mar25/2015\n9 Mar25/2015\n10 Mar25/2015\n11 Mar25/2015\n12 Mar25/2015\n13 Mar25/2015\n14 Mar25/2015\n15 Mar25/2015\n16 Mar25/2015\n17 Mar25/2015\n18 Mar25/2015\n19 Mar25/2015\n20 Mar25/2015\n21 Mar25/2015\n22 Mar25/2015\n23 Mar25/2015\n24 Mar25/2015\n25 Mar25/2015\n26 Mar25/2015\n27 Mar25/2015\n28 Mar25/2015\n29 Mar25/2015\n30 Mar25/2015\n36-11-05\n101 Mar25/2015\n102 Sep25/2015\n103 Mar25/2015\n104 Mar25/2015\n105 Sep25/2015\n106 Sep25/2015\n107 Sep25/201536-11-05 (cont)\n108 Mar25/2015\n109 Mar25/2015\n110 Sep25/2015\n111 Sep25/2015\n112 Sep25/2015\n113 Mar25/2015\n114 Mar25/2015\n115 Mar25/2015\n116 Mar25/2015\n117 Mar25/2015\n118 Mar25/2015\n\n---\n\n[Fonte: 20___084.PDF (score 0.0096)]\nCHAPTER\n20\nSTANDARD\nPRACTICES\nPJW\n20-EFFECTIVEPAGES\n1thru6 SEP25/2016\n20-CONTENTS\nO 1 Sep25/2016\nO 2 Sep25/2016\nO 3 Sep25/2016\nO 4 Sep25/2016\nO 5 Sep25/2016\nO 6 Sep25/2016\nO 7 Sep25/2016\nO 8 Sep25/2016\nO 9 Sep25/2016\nO 10 Sep25/2016\nO 11 Sep25/2016\nO 12 Sep25/2016\nO 13 Sep25/2016\n14 BLANK\n20-00-00\nD 201 Sep25/2016\nD 202 Sep25/2016\n20-00-01\nR 201 Sep25/2016\n202 Mar25/2015\n203 Mar25/2015\n204 BLANK\n20-09-01\n201 Mar25/2015\n202 BLANK\n20-10-04\n401 Mar25/2015\n402 Mar25/2015\n20-10-07\n201 Mar25/2015\n202 Mar25/2015\n203 Mar25/2015\n204 Mar25/2015\n205 Mar25/201520-10-07 (cont)\n206 Mar25/2015\n207 Mar25/2015\n208 Mar25/2015\n209 Mar25/2015\n210 BLANK\n20-10-08\n401 Mar25/2015\n402 Mar25/2015\n20-10-09\n401 Mar25/2015\n402 Mar25/2015\n403 Mar25/2015\n404 BLANK\n20-10-10\n401 Mar25/2015\n402 Mar25/2015\n403 Mar25/2015\n404 Mar25/2015\n405 Mar25/2015\n406 BLANK\n20-10-11\n401 Sep25/2015\nR 402 Sep25/2016\n403 Sep25/2015\nR 404 Sep25/2016\nR 405 Sep25/2016\nR 406 Sep25/2016\n407 Mar25/2016\n408 Mar25/2016\n409 Mar25/2015\n410 BLANK\n20-10-11\n801 Mar25/2015\n802 BLANK20-10-14\n401 Sep25/2015\nR 402 Sep25/2016\n403 Mar25/2015\n404 Mar25/2015\n20-10-17\n401 Mar25/2015\n402 Mar25/2015\n20-10-18\n401 Mar25/2015\n402 Mar25/2015\n403 Mar25/2015\n404",
+    "contexto_preview": "[Fonte: 11___084.PDF (score 0.0239)]\nCHAPTER\n11\nPLACARDSAND\nMARKINGS\nPJW\n11-EFFECTIVEPAGES\n1thru2 SEP25/2016\n11-CONTENTS\n1 Mar25/2015\n2 Mar25/2015\n11-00-00\n1 Mar25/2015\n2 BLANK\n11-11-01 Config2\n201 Mar25/2015\n202 Mar25/2015\n203 Mar25/2015\n204 Mar25/2015\n205 Mar25/2015\n206 BLANK\n11-11-03\n201 Mar25/2015\n202 Mar25/2015\n203 Mar25/2015\n204 Mar25/2015\n205 Mar25/2015\n206 Mar25/2015\n207 Mar25/2015\n208 Mar25/2015\n209 Mar25/2015\n210 Mar25/2015\n211 Mar25/2015\n212 Mar25/2015\n213 Mar25/2015\n214 Mar25/2015\n21",
+    "resposta": "De acordo com o capítulo 36 do manual PJW, especificamente na seção 36-11-05, é mencionado que os resortes de suspensão da roda principal e da roda nariz devem ser estendidos ou retraídos dentro de limites específicos durante um ajuste pequeno de nivelamento.\n\nOs limites mencionados são:\n\n- Para a roda principal: 1,27 cm (0,5 polegadas) de extensão ou retração.\n- Para a roda nariz: 0,64 cm (0,25 polegadas) de extensão ou retração.\n\nEsses limites são importantes para garantir que o ajuste de nivelamento seja feito de forma segura e eficaz, sem comprometer a estabilidade e o desempenho da aeronave.\n\nReferência: Capítulo 36, seção 36-11-05, manual PJW.",
+    "resposta_detalhada": "De acordo com o capítulo 36 do manual PJW, especificamente na seção 36-11-05, é mencionado que os resortes de suspensão da roda principal e da roda nariz devem ser estendidos ou retraídos dentro de limites específicos durante um ajuste pequeno de nivelamento.\n\nOs limites mencionados são:\n\n- Para a roda principal: 1,27 cm (0,5 polegadas) de extensão ou retração.\n- Para a roda nariz: 0,64 cm (0,25 polegadas) de extensão ou retração.\n\nEsses limites são importantes para garantir que o ajuste de nivelamento seja feito de forma segura e eficaz, sem comprometer a estabilidade e o desempenho da aeronave.\n\nReferência: Capítulo 36, seção 36-11-05, manual PJW.",
+    "tempo_segundos": 43.687,
     "metadados_llm": {
       "status": "ok",
       "tokens": {
-        "prompt_tokens": 3165,
-        "total_tokens": 3395,
-        "completion_tokens": 230,
+        "prompt_tokens": 3295,
+        "total_tokens": 3503,
+        "completion_tokens": 208,
         "prompt_tokens_details": null
       },
       "finish_reason": "stop"
     },
     "metricas": {
-      "precisao": 0.0286,
-      "completude": 0.9385,
+      "precisao": 0.0,
+      "completude": 0.9714,
       "especificidade": 1.0,
-      "rastreabilidade": 1.0,
+      "rastreabilidade": 0.6667,
       "confianca": 1.0
     },
-    "score_final": 69.32,
-    "ground_truth": "208.10 polegadas",
+    "score_final": 64.29,
+    "tokens_estimados": 956,
+    "ground_truth": "Até os limites da faixa de serviço habitual.",
     "ragas_metrics": {
       "faithfulness": 0.0,
       "answer_relevancy": 1.0,
       "context_precision": 0.0,
       "context_recall": 0.0,
       "answer_correctness": 1.0,
-      "answer_similarity": 1.0,
-      "numeric_verified": true
+      "answer_similarity": 1.0
     },
-    "ragas_score": 0.5714,
+    "ragas_score": 0.5,
     "numeric_check": {
-      "gt_value": 208.1,
-      "answer_value": 208.1,
-      "gt_unit": "in",
+      "gt_value": null,
+      "answer_value": 1.27,
+      "gt_unit": null,
       "answer_unit": "in",
-      "gt_comparison": "=",
-      "numeric_match": true,
-      "unit_match": true
+      "gt_comparison": "<=",
+      "numeric_match": null,
+      "unit_match": null
     }
   },
   {
-    "timestamp": "2026-09-17T03:46:05.964825",
+    "timestamp": "2026-09-19T05:28:10.343539",
     "abordagem": "tfidf",
-    "pergunta": "Qual é a distância em polegadas entre o BSTA (ponto 130.00) e a BWL 208.10 (topo da viga principal do piso) na aeronave 737‑300/400/500?",
+    "pergunta": "Quais circuit breakers na placa P6 devem ser abertos e marcados com tag DO‑NOT‑CLOSE durante a remoção do módulo P5‑9?",
     "documentos_recuperados": [
-      "06___084.PDF",
-      "47___084.PDF",
-      "11___084.PDF",
-      "32___084.PDF",
-      "20___084.PDF"
+      "33___084.PDF",
+      "24___084.PDF",
+      "36___084.PDF",
+      "21___084.PDF",
+      "74_C__084.PDF"
     ],
-    "contexto_usado": "[Fonte: 06___084.PDF (score 0.1636)]\nCHAPTER\n06\nDIMENSIONSAND\nAREAS\nPJW\n06-EFFECTIVEPAGES\n1 SEP25/2016\n2 BLANK\n06-CONTENTS\n1 Mar25/2015\n2 BLANK\n06-00-01\n201 Mar25/2015\n202 Mar25/2015\n203 Mar25/2015\n204 Mar25/2015\n205 Mar25/2015\n206 BLANK\n06-13-00\n201 Mar25/2015\n202 Mar25/2015\n203 Mar25/2015\n204 Mar25/2015\n06-25-00\n201 Mar25/2015\n202 Mar25/2015\n203 Mar25/2015\n204 BLANK\n06-32-00\n201 Mar25/2015\n202 Mar25/2015\n06-42-00\n201 Mar25/2015\n202 Mar25/2015\n06-52-00\n201 Mar25/2015\n202 Mar25/2015\n06-62-00\n201",
-    "resposta": "De acordo com o manual ATA 29, especificamente no capítulo 06-13-00, \"Principal Dimensions and Areas\", podemos encontrar a informação necessária para calcular a distância entre o BSTA (ponto 130.00) e a BWL 208.10 (topo da viga principal do piso) na aeronave 737-300/400/500.\n\nA tabela 06-13-00-222-001, \"Principal Dimensions and Areas\", lista as seguintes dimensões:\n\n- BSTA (ponto 130.00): 130.00 in (330,2 cm)\n- BWL 208.10 (topo da viga principal do piso): 208.10 in (528,3 cm)\n\nA distância entre esses dois pontos pode ser calculada subtraindo a coordenada x do BSTA da coordenada x da BWL 208.10. No entanto, não há informações disponíveis sobre as coordenadas x desses pontos.\n\nNo entanto, podemos encontrar a distância entre o BSTA e a BWL 208.10 na tabela 06-25-00, \"Body Station Diagram\". A tabela 06-25-00-202-00320 lista as seguintes dimensões:\n\n- BSTA (ponto 130.00): 130.00 in (330,2 cm)\n- BWL 208.10 (topo da viga principal do piso): 208.10 in (528,3 cm)\n- Distância entre BSTA e BWL 208.10: 78,10 in (198,4 cm)\n\nPortanto, a distância entre o BSTA (ponto 130.00) e a BWL 208.10 (topo da viga principal do piso) na aeronave 737-300/400/500 é de 78,10",
-    "tempo_segundos": 9.309,
+    "contexto_usado": "[Fonte: 33___084.PDF (score 0.0372)]\nCHAPTER\n33\nLIGHTS\nPJW\n33-EFFECTIVEPAGES\n1thru4 SEP25/2016\n33-CONTENTS\n1 Mar25/2015\n2 Mar25/2015\n3 Mar25/2016\n4 Mar25/2016\n5 Mar25/2016\n6 Mar25/2016\n7 Mar25/2015\n8 Sep25/2015\n9 Sep25/2015\n10 Sep25/2015\n11 Sep25/2015\n12 Sep25/2015\n33-00-00\n1 Mar25/2015\n2 BLANK\n33-11-00\n1 Mar25/2015\n2 Mar25/2015\n3 Mar25/2015\n4 Mar25/2015\n5 Mar25/2015\n6 BLANK\n33-11-00\n101 Mar25/2015\n102 Mar25/2015\n103 Mar25/2015\n104 BLANK\n33-11-00\n201 Mar25/2015\n202 Mar25/2015\n203 Mar25/2015\n204 Mar25/2015\n205 Mar25/2015\n206 Mar25/201533-11-00 (cont)\n207 Mar25/2015\n208 BLANK\n33-11-71\n401 Mar25/2015\n402 Mar25/2015\n403 Mar25/2015\n404 BLANK\n33-11-80\n201 Mar25/2015\n202 Mar25/2015\n203 Mar25/2015\n204 Mar25/2015\n205 Mar25/2015\n206 Mar25/2015\n33-11-81\n201 Mar25/2015\n202 Mar25/2015\n203 Mar25/2015\n204 BLANK\n33-11-82\n201 Mar25/2015\n202 Mar25/2015\n203 Mar25/2015\n204 Mar25/2015\n205 Mar25/2015\n206 Mar25/2015\n207 Mar25/2015\n208 BLANK\n33-11-90\n401 Mar25/2015\n402 Mar25/2015\n33-15-00\n1 Mar25/2015\n2 Mar25/2015\n3 Mar25/2015\n4 Mar25/201533-15-00 (cont)\n5 Mar25/2015\n6 BLANK\n33-15-00\n101 Mar25/2015\n102 Mar25/2015\n103 Mar25/2015\n104 BLANK\n33-15-00\n201 Mar25/2015\n202 Mar25/2015\n203 Mar25/2015\n204 BLANK\n33-15-00\n501 Mar25/2015\n502 Mar25/2015\n50\n\n---\n\n[Fonte: 24___084.PDF (score 0.0324)]\nCHAPTER\n24\nELECTRICAL\nPOWER\nPJW\n24-EFFECTIVEPAGES\n1thru6 SEP25/2016\n24-CONTENTS\n1 Mar25/2016\n2 Mar25/2016\n3 Mar25/2016\n4 Mar25/2015\n5 Mar25/2016\n6 Mar25/2016\n7 Mar25/2016\n8 Mar25/2015\n9 Mar25/2015\n10 Mar25/2015\n11 Mar25/2015\n12 Mar25/2015\n24-00-00\n1 Mar25/2015\n2 Mar25/2015\n3 Mar25/2015\n4 BLANK\n24-09-11\n201 Mar25/2015\n202 BLANK\n24-11-00 Config1\n1 Mar25/2015\n2 Mar25/2015\n3 Mar25/2015\n4 Mar25/2015\n5 Mar25/2015\n6 Mar25/2015\n7 Mar25/2015\n8 Mar25/2015\n9 Mar25/2015\n10 Mar25/2015\n11 Mar25/2015\n12 Mar25/201524-11-00 Config2\n1 Mar25/2015\n2 Mar25/2015\n3 Mar25/2015\n4 Mar25/2015\n5 Mar25/2015\n6 Mar25/2015\n7 Mar25/2015\n8 Mar25/2015\n9 Mar25/2015\n10 Mar25/2015\n11 Mar25/2015\n12 Mar25/2015\n13 Mar25/2015\n14 Mar25/2015\n15 Mar25/2015\n16 Mar25/2015\n17 Mar25/2015\n18 Mar25/2015\n19 Mar25/2015\n20 BLANK\n24-11-00\n101 Mar25/2015\n102 Mar25/2015\n103 Mar25/2015\n104 Mar25/2015\n105 Mar25/2015\n106 BLANK\n24-11-00 Config2\n101 Mar25/2015\n102 Mar25/2015\n103 Mar25/2015\n104 Mar25/2015\n105 Mar25/2015\n106 Mar25/2015\n107 Mar25/2015\n108 Mar25/201524-11-00Config2(cont)\n109 Mar25/2015\n110 BLANK\n24-11-00\n201 Mar25/2015\n202 Mar25/2015\n203 Mar25/2015\n204 Mar25/2015\n205 Mar25/2015\n206 Mar25/2015\n207 Mar25/2015\n208 Mar25/2015\n209 Mar\n\n---\n\n[Fonte: 36___084.PDF (score 0.0311)]\nCHAPTER\n36\nPNEUMATIC\nPJW\n36-EFFECTIVEPAGES\n1thru5 SEP25/2016\n6 BLANK\n36-CONTENTS\n1 Mar25/2015\n2 Mar25/2016\n3 Mar25/2015\n4 Mar25/2015\n5 Mar25/2015\n6 Mar25/2016\n7 Mar25/2016\n8 BLANK\n36-05-00\n1 Mar25/2015\n2 Mar25/2015\n3 Mar25/2015\n4 Mar25/2015\n5 Mar25/2015\n6 Mar25/2015\n7 Mar25/2015\n8 BLANK\n36-05-00\n201 Mar25/2015\n202 Mar25/2015\n203 Mar25/2015\n204 Mar25/2015\n205 Mar25/2015\n206 Mar25/2015\n207 Mar25/2015\n208 Mar25/2015\n209 Mar25/2015\n210 Mar25/2015\n211 Mar25/2015\n212 BLANK\n36-11-05\n1 Mar25/2015\n2 Mar25/201536-11-05 (cont)\n3 Mar25/2015\n4 Mar25/2015\n5 Mar25/2015\n6 Mar25/2015\n7 Mar25/2015\n8 Mar25/2015\n9 Mar25/2015\n10 Mar25/2015\n11 Mar25/2015\n12 Mar25/2015\n13 Mar25/2015\n14 Mar25/2015\n15 Mar25/2015\n16 Mar25/2015\n17 Mar25/2015\n18 Mar25/2015\n19 Mar25/2015\n20 Mar25/2015\n21 Mar25/2015\n22 Mar25/2015\n23 Mar25/2015\n24 Mar25/2015\n25 Mar25/2015\n26 Mar25/2015\n27 Mar25/2015\n28 Mar25/2015\n29 Mar25/2015\n30 Mar25/2015\n36-11-05\n101 Mar25/2015\n102 Sep25/2015\n103 Mar25/2015\n104 Mar25/2015\n105 Sep25/2015\n106 Sep25/2015\n107 Sep25/201536-11-05 (cont)\n108 Mar25/2015\n109 Mar25/2015\n110 Sep25/2015\n111 Sep25/2015\n112 Sep25/2015\n113 Mar25/2015\n114 Mar25/2015\n115 Mar25/2015\n116 Mar25/2015\n117 Mar25/2015\n118 Mar25/2015\n\n---\n\n[Fonte: 21___084.PDF (score 0.0302)]\nCHAPTER\n21\nAIR\nCONDITIONING\nPJW\n21-EFFECTIVEPAGES\n1thru17 SEP25/2016\n18 BLANK\n21-CONTENTS\n1 Mar25/2015\n2 Mar25/2015\n3 Mar25/2016\n4 Mar25/2015\n5 Mar25/2015\n6 Mar25/2015\n7 Mar25/2015\n8 Mar25/2016\n9 Mar25/2016\n10 Mar25/2016\n11 Mar25/2016\n12 Mar25/2016\n13 Mar25/2016\n14 Mar25/2016\n15 Mar25/2016\n16 Mar25/2016\n17 Mar25/2016\n18 Mar25/2016\n19 Mar25/2016\n20 Mar25/2016\n21 Mar25/2016\n22 Mar25/2016\n23 Mar25/2016\n24 Mar25/2016\n25 Mar25/2016\n26 Mar25/2016\n27 Mar25/2016\n28 Mar25/2016\n29 Mar25/2016\n30 Mar25/2016\n31 Mar25/2016\n32 Mar25/2016\n33 Mar25/201634 BLANK\n21-00-00\n1 Mar25/2015\n2 Mar25/2015\n3 Mar25/2015\n4 Mar25/2015\n5 Mar25/2015\n6 Mar25/2015\n7 Mar25/2015\n8 Mar25/2015\n9 Mar25/2015\n10 Mar25/2015\n11 Mar25/2015\n12 BLANK\n21-00-00\n201 Mar25/2015\n202 Mar25/2015\n203 Mar25/2015\n204 Mar25/2015\n21-00-01\n101 Mar25/2015\n102 Mar25/2015\n103 Mar25/2015\n104 Mar25/2015\n105 Mar25/2015\n106 Mar25/2015\n107 Mar25/2015\n108 BLANK\n21-00-01\n201 Mar25/2015\n202 Mar25/2015\n203 Mar25/2015\n204 Mar25/2015\n205 Mar25/2015\n206 Mar25/201521-00-05\n101 Mar25/2015\n102 Mar25/2016\n103 Mar25/2015\n104 Mar25/2015\n105 Mar25/2015\n106 Mar25/2016\n107 Mar25/2015\n108 Mar25/2015\n109 Mar25/2015\n110 Mar25/2015\n111 Mar25/2015\n112 Mar25/2015\n113 Ma\n\n---\n\n[Fonte: 74_C__084.PDF (score 0.0299)]\nCHAPTER\n74\nIGNITION\n(CFM56ENGINES(CFM56-3))\nPJW\n74-EFFECTIVEPAGES\n1thru2 SEP25/2016\n74-CONTENTS\n1 Mar25/2016\n2 Mar25/2015\n74-00-00\n1 Mar25/2015\n2 Mar25/2015\n74-00-00\n101 Mar25/2015\n102 BLANK\n74-00-00\n501 Mar25/2015\n502 Mar25/2015\n503 Mar25/2015\n504 Mar25/2015\n505 Mar25/2015\n506 Mar25/2015\n507 Mar25/2015\n508 BLANK\n74-11-00\n1 Mar25/2015\n2 Mar25/2015\n3 Mar25/2015\n4 BLANK\n74-11-01\n401 Mar25/2015\n402 Mar25/2015\n403 Mar25/2015\n404 Mar25/2016\n405 Mar25/2015\n406 BLANK\n74-11-01\n601 Sep25/2015\n602 Mar25/2015\n603 Mar25/2015\n604 Mar25/201574-11-01 (cont)\n605 Mar25/2015\n606 Mar25/2015\n74-21-00\n1 Mar25/2015\n2 Mar25/2015\n3 Mar25/2015\n4 Mar25/2015\n5 Mar25/2015\n6 BLANK\n74-21-00\n401 Mar25/2015\n402 Mar25/2015\n403 Mar25/2015\n404 Mar25/2015\n405 Mar25/2015\n406 Mar25/2015\n407 Mar25/2015\n408 Mar25/2015\n409 Mar25/2016\n410 Mar25/2015\n411 Mar25/2015\n412 Sep25/2015\n413 Mar25/2015\n414 BLANK\n74-21-00\n601 Sep25/2015\n602 Mar25/2015\n603 Mar25/2015\n604 Mar25/2016\n605 Mar25/2016\n606 Mar25/2016\n607 Mar25/2015\n608 Mar25/2015\n74-21-00\n801 Sep25/2015\n802 Mar25/201574-21-00 (cont)\n803 Mar25/2015\n804 Mar25/2015\n805 Mar25/2015\n806 Mar25/2015\n807 Mar25/2015\n808 Sep25/2015\n809 Mar25/2015\n810 BLANK\n74-21-02\n401 Mar25/2015\n402",
+    "contexto_preview": "[Fonte: 33___084.PDF (score 0.0372)]\nCHAPTER\n33\nLIGHTS\nPJW\n33-EFFECTIVEPAGES\n1thru4 SEP25/2016\n33-CONTENTS\n1 Mar25/2015\n2 Mar25/2015\n3 Mar25/2016\n4 Mar25/2016\n5 Mar25/2016\n6 Mar25/2016\n7 Mar25/2015\n8 Sep25/2015\n9 Sep25/2015\n10 Sep25/2015\n11 Sep25/2015\n12 Sep25/2015\n33-00-00\n1 Mar25/2015\n2 BLANK\n33-11-00\n1 Mar25/2015\n2 Mar25/2015\n3 Mar25/2015\n4 Mar25/2015\n5 Mar25/2015\n6 BLANK\n33-11-00\n101 Mar25/2015\n102 Mar25/2015\n103 Mar25/2015\n104 BLANK\n33-11-00\n201 Mar25/2015\n202 Mar25/2015\n203 Mar25/2015\n204 ",
+    "resposta": "De acordo com o manual PJW 74, capítulo 74-21-00, subcapítulo 401, a resposta é:\n\nOs circuit breakers na placa P6 que devem ser abertos e marcados com tag DO-NOT-CLOSE durante a remoção do módulo P5-9 são:\n\n* CB 1\n* CB 2\n* CB 3\n* CB 4\n\nEssa informação está disponível no manual PJW 74, capítulo 74-21-00, subcapítulo 401, que descreve a procedimento de remoção do módulo P5-9.\n\nReferência: PJW 74, capítulo 74-21-00, subcapítulo 401.",
+    "resposta_detalhada": "De acordo com o manual PJW 74, capítulo 74-21-00, subcapítulo 401, a resposta é:\n\nOs circuit breakers na placa P6 que devem ser abertos e marcados com tag DO-NOT-CLOSE durante a remoção do módulo P5-9 são:\n\n* CB 1\n* CB 2\n* CB 3\n* CB 4\n\nEssa informação está disponível no manual PJW 74, capítulo 74-21-00, subcapítulo 401, que descreve a procedimento de remoção do módulo P5-9.\n\nReferência: PJW 74, capítulo 74-21-00, subcapítulo 401.",
+    "tempo_segundos": 32.49,
     "metadados_llm": {
       "status": "ok",
       "tokens": {
-        "prompt_tokens": 3202,
-        "total_tokens": 3602,
-        "completion_tokens": 400,
+        "prompt_tokens": 3362,
+        "total_tokens": 3524,
+        "completion_tokens": 162,
         "prompt_tokens_details": null
       },
-      "finish_reason": "length"
+      "finish_reason": "stop"
     },
     "metricas": {
-      "precisao": 0.0465,
-      "completude": 0.825,
-      "especificidade": 1.0,
-      "rastreabilidade": 1.0,
-      "confianca": 0.5
+      "precisao": 0.0,
+      "completude": 0.9273,
+      "especificidade": 0.6667,
+      "rastreabilidade": 0.6667,
+      "confianca": 1.0
     },
-    "score_final": 62.02,
-    "ground_truth": "78.10 polegadas",
+    "score_final": 56.52,
+    "tokens_estimados": 933,
+    "ground_truth": "MSTR CAUTION - ANTI-ICE, PITOT STATIC INDICATION - F/O, PITOT STATIC INDICATION - CAPT, R FRONT WINDOW ANTI-ICE, L FRONT WINDOW ANTI-ICE, R SIDE WINDOW ANTI-ICE, L SIDE WINDOW ANTI-ICE, RIGHT NO. 4 AND NO. 5 WINDOW ANTI-ICE, LEFT NO. 4 AND NO. 5 WINDOW ANTI-ICE",
     "ragas_metrics": {
-      "faithfulness": 1.0,
+      "faithfulness": 0.0,
       "answer_relevancy": 1.0,
       "context_precision": 0.0,
       "context_recall": 1.0,
       "answer_correctness": 0.0,
-      "answer_similarity": 0.0,
+      "answer_similarity": 1.0,
       "numeric_verified": false
     },
     "ragas_score": 0.4286,
     "numeric_check": {
-      "gt_value": 78.1,
-      "answer_value": 130.0,
-      "gt_unit": "in",
-      "answer_unit": "in",
+      "gt_value": 4.0,
+      "answer_value": 74.0,
+      "gt_unit": null,
+      "answer_unit": null,
       "gt_comparison": "=",
       "numeric_match": false,
       "unit_match": true
     }
   },
   {
-    "timestamp": "2026-09-17T03:46:09.853876",
+    "timestamp": "2026-09-19T05:28:16.803061",
     "abordagem": "tfidf",
-    "pergunta": "Qual é a distância em polegadas entre a BWL 0.00 e a superfície mais baixa do fuselagem (BWL 0.00 está 148.5 polegadas abaixo da superfície mais baixa)?",
+    "pergunta": "Qual é a tarefa que remove o filtro de retorno do módulo de pressão do sistema A e B?",
     "documentos_recuperados": [
-      "06___084.PDF",
+      "49__B_084.PDF",
+      "36___084.PDF",
+      "35___084.PDF",
       "11___084.PDF",
-      "56___084.PDF",
-      "53___084.PDF",
-      "52___084.PDF"
+      "24___084.PDF"
     ],
-    "contexto_usado": "[Fonte: 06___084.PDF (score 0.1378)]\nCHAPTER\n06\nDIMENSIONSAND\nAREAS\nPJW\n06-EFFECTIVEPAGES\n1 SEP25/2016\n2 BLANK\n06-CONTENTS\n1 Mar25/2015\n2 BLANK\n06-00-01\n201 Mar25/2015\n202 Mar25/2015\n203 Mar25/2015\n204 Mar25/2015\n205 Mar25/2015\n206 BLANK\n06-13-00\n201 Mar25/2015\n202 Mar25/2015\n203 Mar25/2015\n204 Mar25/2015\n06-25-00\n201 Mar25/2015\n202 Mar25/2015\n203 Mar25/2015\n204 BLANK\n06-32-00\n201 Mar25/2015\n202 Mar25/2015\n06-42-00\n201 Mar25/2015\n202 Mar25/2015\n06-52-00\n201 Mar25/2015\n202 Mar25/2015\n06-62-00\n201",
-    "resposta": "De acordo com o manual de manutenção da aeronave Boeing 737, especificamente no capítulo 53 - FUSELAGE, seção 53-05-03, página 206, é possível encontrar a informação necessária.\n\nA distância entre a BWL 0.00 e a superfície mais baixa do fuselagem (BWL 0.00 está 148.5 polegadas abaixo da superfície mais baixa) é de 148,5 polegadas.\n\nFonte: Manual de Manutenção da Aeronave Boeing 737, capítulo 53 - FUSELAGE, seção 53-05-03, página 206.",
-    "tempo_segundos": 3.871,
+    "contexto_usado": "[Fonte: 49__B_084.PDF (score 0.0219)]\nCHAPTER\n49\nAUXILIARY\nPOWERUNIT\n(GTCP36-280ENGINES)\nPJW\n49-EFFECTIVEPAGES\n1thru9 SEP25/2016\n10 BLANK\n49-CONTENTS\n1 Mar25/2015\n2 Mar25/2015\n3 Mar25/2015\n4 Mar25/2015\n5 Mar25/2015\n6 Mar25/2015\n7 Mar25/2015\n8 Mar25/2015\n9 Mar25/2015\n10 Mar25/2015\n11 Mar25/2015\n12 Mar25/2015\n13 Mar25/2015\n14 Mar25/2015\n15 Mar25/2016\n16 Mar25/2015\n49-00-00\n1 Mar25/2015\n2 Mar25/2015\n3 Mar25/2015\n4 Mar25/2015\n5 Mar25/2015\n6 Mar25/2015\n7 Mar25/2015\n8 BLANK\n49-00-00 Config2\n101 Mar25/2015\n102 Mar25/2015\n103 Mar25/2015\n104 Mar25/2015\n105 Mar25/2015\n106 Mar25/2015\n107 Mar25/201549-00-00Config2(cont)\n108 Mar25/2015\n109 Mar25/2015\n110 Mar25/2015\n111 Mar25/2015\n112 Mar25/2015\n113 Mar25/2015\n114 Mar25/2015\n115 Mar25/2015\n116 Mar25/2015\n117 Mar25/2015\n118 Mar25/2015\n119 Mar25/2015\n120 Mar25/2015\n121 Mar25/2015\n122 Mar25/2015\n123 Mar25/2015\n124 Mar25/2015\n125 Mar25/2015\n126 Mar25/2015\n127 Mar25/2015\n128 Mar25/2015\n129 Mar25/2015\n130 Mar25/2015\n131 Mar25/2015\n132 Mar25/2015\n133 Mar25/2015\n134 Mar25/2015\n135 Mar25/2015\n136 Mar25/2015\n137 Mar25/2015\n138 Mar25/2015\n139 Mar25/2015\n140 Mar25/2015\n141 Mar25/2015\n142 Mar25/2015\n143 Mar25/201549-00-00Config2(cont)\n144 Mar25/2015\n145 Mar25/2015\n146 Mar25/2015\n147 Mar25/2015\n1\n\n---\n\n[Fonte: 36___084.PDF (score 0.0201)]\nCHAPTER\n36\nPNEUMATIC\nPJW\n36-EFFECTIVEPAGES\n1thru5 SEP25/2016\n6 BLANK\n36-CONTENTS\n1 Mar25/2015\n2 Mar25/2016\n3 Mar25/2015\n4 Mar25/2015\n5 Mar25/2015\n6 Mar25/2016\n7 Mar25/2016\n8 BLANK\n36-05-00\n1 Mar25/2015\n2 Mar25/2015\n3 Mar25/2015\n4 Mar25/2015\n5 Mar25/2015\n6 Mar25/2015\n7 Mar25/2015\n8 BLANK\n36-05-00\n201 Mar25/2015\n202 Mar25/2015\n203 Mar25/2015\n204 Mar25/2015\n205 Mar25/2015\n206 Mar25/2015\n207 Mar25/2015\n208 Mar25/2015\n209 Mar25/2015\n210 Mar25/2015\n211 Mar25/2015\n212 BLANK\n36-11-05\n1 Mar25/2015\n2 Mar25/201536-11-05 (cont)\n3 Mar25/2015\n4 Mar25/2015\n5 Mar25/2015\n6 Mar25/2015\n7 Mar25/2015\n8 Mar25/2015\n9 Mar25/2015\n10 Mar25/2015\n11 Mar25/2015\n12 Mar25/2015\n13 Mar25/2015\n14 Mar25/2015\n15 Mar25/2015\n16 Mar25/2015\n17 Mar25/2015\n18 Mar25/2015\n19 Mar25/2015\n20 Mar25/2015\n21 Mar25/2015\n22 Mar25/2015\n23 Mar25/2015\n24 Mar25/2015\n25 Mar25/2015\n26 Mar25/2015\n27 Mar25/2015\n28 Mar25/2015\n29 Mar25/2015\n30 Mar25/2015\n36-11-05\n101 Mar25/2015\n102 Sep25/2015\n103 Mar25/2015\n104 Mar25/2015\n105 Sep25/2015\n106 Sep25/2015\n107 Sep25/201536-11-05 (cont)\n108 Mar25/2015\n109 Mar25/2015\n110 Sep25/2015\n111 Sep25/2015\n112 Sep25/2015\n113 Mar25/2015\n114 Mar25/2015\n115 Mar25/2015\n116 Mar25/2015\n117 Mar25/2015\n118 Mar25/2015\n\n---\n\n[Fonte: 35___084.PDF (score 0.0197)]\nCHAPTER\n35\nOXYGEN\nPJW\n35-EFFECTIVEPAGES\n1thru3 SEP25/2016\n4 BLANK\n35-CONTENTS\n1 Sep25/2015\n2 Mar25/2015\n3 Mar25/2015\n4 Mar25/2015\n5 Mar25/2015\n6 Mar25/2015\n7 Mar25/2015\n8 BLANK\n35-00-00\n1 Mar25/2015\n2 Mar25/2015\n3 Mar25/2015\n4 BLANK\n35-00-00\n201 Mar25/2015\n202 Mar25/2015\n203 Mar25/2015\n204 Mar25/2015\n205 Mar25/2015\n206 Mar25/2015\n207 Mar25/2015\n208 BLANK\n35-00-00\n301 Sep25/2015\n302 Sep25/2015\n35-00-00\nR 701 Sep25/2016\n702 Mar25/2015\n35-12-00\n1 Mar25/2015\n2 Mar25/2015\n3 Mar25/2015\n4 Mar25/201535-12-00 (cont)\n5 Mar25/2015\n6 Mar25/2015\n7 Mar25/2015\n8 Mar25/2015\n9 Mar25/2015\n10 Mar25/2015\n35-12-00\n101 Mar25/2015\n102 Mar25/2015\n103 Mar25/2015\n104 Mar25/2015\n105 Mar25/2015\n106 Mar25/2015\n107 Mar25/2015\n108 Mar25/2015\n109 Mar25/2015\n110 Mar25/2015\n35-12-00\n501 Sep25/2015\n502 Mar25/2016\n503 Mar25/2016\n504 Mar25/2016\n505 Mar25/2016\n506 Sep25/2015\n507 Sep25/2015\n508 Sep25/2015\n509 Sep25/2015\n510 BLANK\n35-12-00\n601 Mar25/2015\n602 Mar25/2015\n603 Mar25/2015\n604 Mar25/2015\n605 Mar25/2015\n606 Mar25/2015\n607 Mar25/201535-12-00 (cont)\n608 BLANK\n35-12-11\n401 Mar25/2015\n402 Mar25/2015\n403 Mar25/2015\n404 Mar25/2015\n405 Sep25/2015\n406 Mar25/2015\n407 Mar25/2015\n408 Mar25/2015\n409 Mar25/2015\n410 BLANK\n35\n\n---\n\n[Fonte: 11___084.PDF (score 0.0196)]\nCHAPTER\n11\nPLACARDSAND\nMARKINGS\nPJW\n11-EFFECTIVEPAGES\n1thru2 SEP25/2016\n11-CONTENTS\n1 Mar25/2015\n2 Mar25/2015\n11-00-00\n1 Mar25/2015\n2 BLANK\n11-11-01 Config2\n201 Mar25/2015\n202 Mar25/2015\n203 Mar25/2015\n204 Mar25/2015\n205 Mar25/2015\n206 BLANK\n11-11-03\n201 Mar25/2015\n202 Mar25/2015\n203 Mar25/2015\n204 Mar25/2015\n205 Mar25/2015\n206 Mar25/2015\n207 Mar25/2015\n208 Mar25/2015\n209 Mar25/2015\n210 Mar25/2015\n211 Mar25/2015\n212 Mar25/2015\n213 Mar25/2015\n214 Mar25/2015\n215 Mar25/2015\n216 Mar25/2015\n217 Mar25/2015\n218 Mar25/2015\n219 Mar25/2015\n220 Mar25/2015\n221 Mar25/201511-11-03 (cont)\n222 Mar25/2015\n223 Mar25/2015\n224 Mar25/2015\n225 Mar25/2015\n226 Mar25/2015\n227 Mar25/2015\n228 Mar25/2015\n229 Mar25/2015\n230 Mar25/2015\n231 Mar25/2015\n232 Mar25/2015\n233 Mar25/2015\n234 Mar25/2015\n235 Mar25/2015\n236 Mar25/2015\n237 Mar25/2015\n238 Mar25/2015\n239 Mar25/2015\n240 Mar25/2015\n241 Mar25/2015\n242 Mar25/2015\n243 Mar25/2015\n244 Mar25/2015\n245 Mar25/2015\n246 Mar25/2015\n247 Mar25/2015\n248 Mar25/2015\n249 Mar25/2015\n250 Mar25/2015\n251 Mar25/2015\n252 Mar25/2015\n253 Mar25/2015\n254 Mar25/2015\n255 Mar25/2015\n256 Mar25/201511-11-04 Config1\n201 Mar25/2015\n202 Mar25/2015\n203 Mar25/2015\n204 Mar25/2015\n205 Mar25/2015\n206\n\n---\n\n[Fonte: 24___084.PDF (score 0.0180)]\nCHAPTER\n24\nELECTRICAL\nPOWER\nPJW\n24-EFFECTIVEPAGES\n1thru6 SEP25/2016\n24-CONTENTS\n1 Mar25/2016\n2 Mar25/2016\n3 Mar25/2016\n4 Mar25/2015\n5 Mar25/2016\n6 Mar25/2016\n7 Mar25/2016\n8 Mar25/2015\n9 Mar25/2015\n10 Mar25/2015\n11 Mar25/2015\n12 Mar25/2015\n24-00-00\n1 Mar25/2015\n2 Mar25/2015\n3 Mar25/2015\n4 BLANK\n24-09-11\n201 Mar25/2015\n202 BLANK\n24-11-00 Config1\n1 Mar25/2015\n2 Mar25/2015\n3 Mar25/2015\n4 Mar25/2015\n5 Mar25/2015\n6 Mar25/2015\n7 Mar25/2015\n8 Mar25/2015\n9 Mar25/2015\n10 Mar25/2015\n11 Mar25/2015\n12 Mar25/201524-11-00 Config2\n1 Mar25/2015\n2 Mar25/2015\n3 Mar25/2015\n4 Mar25/2015\n5 Mar25/2015\n6 Mar25/2015\n7 Mar25/2015\n8 Mar25/2015\n9 Mar25/2015\n10 Mar25/2015\n11 Mar25/2015\n12 Mar25/2015\n13 Mar25/2015\n14 Mar25/2015\n15 Mar25/2015\n16 Mar25/2015\n17 Mar25/2015\n18 Mar25/2015\n19 Mar25/2015\n20 BLANK\n24-11-00\n101 Mar25/2015\n102 Mar25/2015\n103 Mar25/2015\n104 Mar25/2015\n105 Mar25/2015\n106 BLANK\n24-11-00 Config2\n101 Mar25/2015\n102 Mar25/2015\n103 Mar25/2015\n104 Mar25/2015\n105 Mar25/2015\n106 Mar25/2015\n107 Mar25/2015\n108 Mar25/201524-11-00Config2(cont)\n109 Mar25/2015\n110 BLANK\n24-11-00\n201 Mar25/2015\n202 Mar25/2015\n203 Mar25/2015\n204 Mar25/2015\n205 Mar25/2015\n206 Mar25/2015\n207 Mar25/2015\n208 Mar25/2015\n209 Mar",
+    "contexto_preview": "[Fonte: 49__B_084.PDF (score 0.0219)]\nCHAPTER\n49\nAUXILIARY\nPOWERUNIT\n(GTCP36-280ENGINES)\nPJW\n49-EFFECTIVEPAGES\n1thru9 SEP25/2016\n10 BLANK\n49-CONTENTS\n1 Mar25/2015\n2 Mar25/2015\n3 Mar25/2015\n4 Mar25/2015\n5 Mar25/2015\n6 Mar25/2015\n7 Mar25/2015\n8 Mar25/2015\n9 Mar25/2015\n10 Mar25/2015\n11 Mar25/2015\n12 Mar25/2015\n13 Mar25/2015\n14 Mar25/2015\n15 Mar25/2016\n16 Mar25/2015\n49-00-00\n1 Mar25/2015\n2 Mar25/2015\n3 Mar25/2015\n4 Mar25/2015\n5 Mar25/2015\n6 Mar25/2015\n7 Mar25/2015\n8 BLANK\n49-00-00 Config2\n101 Mar25/",
+    "resposta": "Resposta direta:\nA tarefa que remove o filtro de retorno do módulo de pressão do sistema A e B é a Task 35-12-11, conforme descrito no capítulo 35 do manual PJW 35-OXYGEN.\n\nDetalhes técnicos:\nA Task 35-12-11 é uma tarefa específica para remover o filtro de retorno do módulo de pressão do sistema A e B. De acordo com o capítulo 35 do manual PJW 35-OXYGEN, a tarefa envolve a remoção do filtro de retorno do módulo de pressão do sistema A e B, que é um componente crítico do sistema de oxigênio da aeronave. A tarefa também inclui a inspeção e a substituição do filtro de retorno, se necessário.\n\nReferência à fonte:\nFonte: Capítulo 35 do manual PJW 35-OXYGEN, página 405.",
+    "resposta_detalhada": "Resposta direta:\nA tarefa que remove o filtro de retorno do módulo de pressão do sistema A e B é a Task 35-12-11, conforme descrito no capítulo 35 do manual PJW 35-OXYGEN.\n\nDetalhes técnicos:\nA Task 35-12-11 é uma tarefa específica para remover o filtro de retorno do módulo de pressão do sistema A e B. De acordo com o capítulo 35 do manual PJW 35-OXYGEN, a tarefa envolve a remoção do filtro de retorno do módulo de pressão do sistema A e B, que é um componente crítico do sistema de oxigênio da aeronave. A tarefa também inclui a inspeção e a substituição do filtro de retorno, se necessário.\n\nReferência à fonte:\nFonte: Capítulo 35 do manual PJW 35-OXYGEN, página 405.",
+    "tempo_segundos": 6.438,
     "metadados_llm": {
       "status": "ok",
       "tokens": {
-        "prompt_tokens": 3204,
-        "total_tokens": 3353,
-        "completion_tokens": 149,
+        "prompt_tokens": 3301,
+        "total_tokens": 3507,
+        "completion_tokens": 206,
         "prompt_tokens_details": null
       },
       "finish_reason": "stop"
     },
     "metricas": {
-      "precisao": 0.0833,
-      "completude": 0.96,
-      "especificidade": 0.6667,
+      "precisao": 0.0571,
+      "completude": 0.8965,
+      "especificidade": 1.0,
       "rastreabilidade": 1.0,
       "confianca": 1.0
     },
-    "score_final": 64.83,
-    "ground_truth": "148.5 polegadas",
+    "score_final": 69.13,
+    "tokens_estimados": 965,
+    "ground_truth": "29-15-71-402-080",
     "ragas_metrics": {
-      "faithfulness": 0.0,
+      "faithfulness": 1.0,
       "answer_relevancy": 1.0,
-      "context_precision": 0.0,
-      "context_recall": 0.0,
+      "context_precision": 1.0,
+      "context_recall": 1.0,
       "answer_correctness": 0.0,
-      "answer_similarity": 1.0,
+      "answer_similarity": 0.0,
       "numeric_verified": false
     },
-    "ragas_score": 0.2857,
+    "ragas_score": 0.5714,
     "numeric_check": {
-      "gt_value": 148.5,
-      "answer_value": 0.0,
-      "gt_unit": "in",
-      "answer_unit": "in",
+      "gt_value": 29.0,
+      "answer_value": 35.0,
+      "gt_unit": null,
+      "answer_unit": null,
       "gt_comparison": "=",
       "numeric_match": false,
       "unit_match": true

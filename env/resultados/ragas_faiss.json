@@ -1,158 +1,165 @@
 [
   {
-    "timestamp": "2026-09-17T03:47:18.871954",
-    "abordagem": "faiss",
-    "pergunta": "Qual é a distância em polegadas entre a BBL (Body Buttock Line) e a BWL 208.10 (topo da viga principal do piso) na aeronave 737‑300/400/500?",
+    "timestamp": "2026-09-19T00:42:01.487178",
+    "abordagem": "faiss_nvidia",
+    "pergunta": "Que tipo de antena é a antena HF descrita no manual?",
     "documentos_recuperados": [
-      "06___084.PDF",
-      "36___084.PDF",
-      "07___084.PDF",
-      "33___084.PDF",
-      "55___084.PDF"
+      "23___084.PDF",
+      "23___084.PDF",
+      "23___084.PDF",
+      "23___084.PDF",
+      "23___084.PDF"
     ],
-    "contexto_usado": "[Fonte: 06___084.PDF (cosseno 0.0366)]\nCHAPTER\n06\nDIMENSIONSAND\nAREAS\nPJW\n06-EFFECTIVEPAGES\n1 SEP25/2016\n2 BLANK\n06-CONTENTS\n1 Mar25/2015\n2 BLANK\n06-00-01\n201 Mar25/2015\n202 Mar25/2015\n203 Mar25/2015\n204 Mar25/2015\n205 Mar25/2015\n206 BLANK\n06-13-00\n201 Mar25/2015\n202 Mar25/2015\n203 Mar25/2015\n204 Mar25/2015\n06-25-00\n201 Mar25/2015\n202 Mar25/2015\n203 Mar25/2015\n204 BLANK\n06-32-00\n201 Mar25/2015\n202 Mar25/2015\n06-42-00\n201 Mar25/2015\n202 Mar25/2015\n06-52-00\n201 Mar25/2015\n202 Mar25/2015\n06-62-00\n2",
-    "resposta": "Resposta direta:\nA distância entre a BBL (Body Buttock Line) e a BWL 208.10 (topo da viga principal do piso) na aeronave 737-300/400/500 não é especificada nos manuais fornecidos. No entanto, é possível encontrar a distância entre a BBL e a BWL 208.10 na aeronave 737-300/400/500 no manual de manutenção da Boeing.\n\nDetalhes técnicos:\nA BBL (Body Buttock Line) é uma linha que define a largura da fuselagem da aeronave, enquanto a BWL 208.10 é a altura da viga principal do piso. Para encontrar a distância entre essas duas linhas, é necessário consultar o manual de manutenção da Boeing ou o manual de projeto da aeronave.\n\nReferência à fonte:\nNão é possível encontrar a distância entre a BBL e a BWL 208.10 na aeronave 737-300/400/500 nos manuais fornecidos. No entanto, é possível consultar o manual de manutenção da Boeing ou o manual de projeto da aeronave para obter essa informação.",
-    "tempo_segundos": 7.787,
+    "contexto_usado": "[Fonte: 23___084.PDF (similaridade 0.3773)]\nIVER (E2-3) HF ANTENNA SEE B HF-1, HF-2 CONTROL PANELS, COUPLER HF ANTENNA AFT ELECTRONICS PANEL, P8 SEE C SEE A HF ANTENNA COUPLER C 1375050 S00041211896_V1 HF Communication System - Component Location Figure 1/23-11-01-990-826 (Sheet 2 of 4) EFFECTIVITY RAM 001, 002 23-11-01 Page 3 D6-37569 Mar 25/2015 BOEING PROPRIETARY - Copyright © Unpublished Work - See title page for details 737-300/400/500 AIRCRAFT MAINTENANCE MANUAL ELECTRONIC EQUIPMENT RACK, E2 OR E5 LOAD CONTROL CENTER, P6 HF-1 TRANSCEIVER HF-2 POWER (OPTIONAL) HF-2 TRANSCEIVER (OPTIONAL) (E2-3, E5-2) AFT ELECTRONIC SEE B 1 EQUIPMENT RACK, E6 AFT HF-1 TRANSCEIVER CARGO HF-2 TRANSCEIVER DOOR (OPTIONAL) (E6-2) 1 SEE B FWD LOAD CONTROL CENTER, P18 HF-1 POWER COLLINS AFT ELECTRONICS PANEL, P8 HF-1 CONTROL PANEL LRU FAIL SEE A KEY INTERLOCK HF-2 CONTROL PANEL CONTROL INPUT FAIL (OPTIONAL) SQL/LAMP TEST SEE A FREQUENCY FREQUENCY DISPLAY HFS-700 PHONE MIC SELECT KNOBS RF SENS 25.300 RF H SENSITIVITY F USB KNOB HF TRANSCEIVER OFF AM FREQUENCY B SELECT MODE KNOBS SELECT SWITCH HF CONTROL PANELS A HF ANTENNA HF ANTENNA COUPLERS SEE C HF ANTENNA COUPLERS 1 ALTERNATE LOCATION FOR THE HF TRANSCEIVERS C A13906 S00041212023_V1 HF Commu\n\n---\n\n[Fonte: 23___084.PDF (similaridade 0.3342)]\nF antenna coupler function to open the transceiver key interlock and remove RF power from the servo-amplifier circuits when one of the following occurs: (1) The HF antenna coupler fails to home within 15 seconds. (2) The HF antenna coupler fails to tune within 15 seconds. (3) An arc is detected in the HF antenna coupler. 6. Operation A. One 3-phase, 115-volt ac circuit breaker on the P18 circuit breaker panel supplies power to the HF-1 transceiver. One 3-phase, 115-volt ac circuit breaker on the P6 circuit breaker panel supplies power to the HF-2 transceiver (if installed). B. To receive with the HF-1 system, set the mode switch on the HF-1 control panel to USB/SSB or AM mode and select the frequency. Then select the HF-1 system on the audio selector panel and adjust the RF SENS knob and the VOL control on the HF-1 control panel and on the audio selector panel, respectively, for comfortable listening. To receive with the HF-2 system, (if installed), set the mode switch on the HF-2 control panel to USB or AM mode and select the frequency. Then select the HF-2 system on the audio selector panel and adjust the RF SENS knob and the VOL control on the HF-2 control panel and the audio se\n\n---\n\n[Fonte: 23___084.PDF (similaridade 0.3217)]\na nominal 400-watt PEP output. The HF power amplifier has protective circuits that provide almost instantaneous shutdown of the power amplifiers because of excessive power dissipation within. (h) The 400-watt, PEP RF output is routed through a directional wattmeter and a transmit/ receive relay to the external HF antenna coupler. Forward and reflected power detectors, within the directional wattmeter, provide the voltages used to generate the ALC signal and to drive the power amplifier protection control circuit. The transmit/receive relay disconnects the HF receiver from the HF antenna coupler and connects the HF transmitter to the HF antenna coupler. Whenever the HF transceiver is in the transmit mode, an internal blower provides forced-air cooling to the transmitter circuits to prevent overheating. (5) Receive Mode EFFECTIVITY RAM ALL 23-11-01 Page 8 D6-37569 Mar 25/2015 BOEING PROPRIETARY - Copyright © Unpublished Work - See title page for details 737-300/400/500 AIRCRAFT MAINTENANCE MANUAL (a) The HF transceiver receives USB/SSB or AM (as selected) signals from the HF antenna coupler. The HF receiver uses dual conversion to provide 100-mW received voice audio output. (b) The s\n\n---\n\n[Fonte: 23___084.PDF (similaridade 0.3190)]\nswitch on the HF communication control panel to the OFF position. SUBTASK 23-11-61-864-031 (5) Remove the electrical power if it is not necessary (PAGEBLOCK 24-22-00/201). SUBTASK 23-11-61-864-002 (6) Open the applicable circuit breakers and attach DO-NOT-CLOSE tags: (a) P18 Circuit Breaker Panel 1) C839, HF-1 AC 2) C346, HF-1 DC (if installed) (b) P6 Circuit Breaker Panel 1) C857, HF-2 AC 2) C477, HF-2 DC (if installed) SUBTASK 23-11-61-014-003 WARNING: MAKE SURE THE POWER FOR THE HF SYSTEM IS OFF BEFORE YOU OPEN THE ACCESS PANEL. ELECTRICAL SHOCKS AND INJURY TO PERSONS CAN OCCUR. (7) Remove the applicable access panel on the leading edge of the vertical stabilizer (PAGEBLOCK 12-31-51/201). NOTE: The HF-1 antenna coupler is installed on the left side of the vertical stabilizer. The HF-2 antenna coupler, (if installed), is on the right side of the vertical stabilizer. SUBTASK 23-11-61-034-004 (8) Do these steps at the front of the HF antenna coupler. (a) Remove the cable connector from jack J1. (b) Remove the coaxial cable connector from jack J2. E. HF Antenna Coupler Removal SUBTASK 23-11-61-024-017 CAUTION: MOVE THE HF ANTENNA COUPLER CAREFULLY. SET THE COMPONENT ON ITS BOTTOM. D\n\n---\n\n[Fonte: 23___084.PDF (similaridade 0.3157)]\ne sequence counter advances to STEP C. In STEP C, the shunt capacitor or the shunt inductor determined in STEP A or STEP B is servo-tuned to produce zero loading error. The series capacitor is then fine-tuned to zero phasing error. When STEP C ends, the sequence counter advances to the operate position. (d) OPERATE - Upon reaching the operate sequence, the tune power line and key line have unlatched and the HF antenna coupler is ready to transmit and to receive. After the operator selects a new frequency, the sequence counter advances to the home step and the complete tuning sequence is repeated. (e) FAULT - A PTT to the HF system causes full RF power to be generated and applied to the HF antenna. HF antenna coupler elements continue tuning during transmission. IF rf arcing occurs during transmission, an HF antenna coupler fault will be indicated via illumination of a Key Interlock light on the HF transceiver front panel. If the HF antenna coupler fails to tune due to low power from the HF transceiver, an rf fault will be indicated via illumination of an LRU FAIL light. When the transmission is complete, the HF system re-enters the \"operate\" mode. EFFECTIVITY RAM ALL 23-11-01 Page ",
+    "contexto_preview": "[Fonte: 23___084.PDF (similaridade 0.3773)]\nIVER (E2-3) HF ANTENNA SEE B HF-1, HF-2 CONTROL PANELS, COUPLER HF ANTENNA AFT ELECTRONICS PANEL, P8 SEE C SEE A HF ANTENNA COUPLER C 1375050 S00041211896_V1 HF Communication System - Component Location Figure 1/23-11-01-990-826 (Sheet 2 of 4) EFFECTIVITY RAM 001, 002 23-11-01 Page 3 D6-37569 Mar 25/2015 BOEING PROPRIETARY - Copyright © Unpublished Work - See title page for details 737-300/400/500 AIRCRAFT MAINTENANCE MANUAL ELECTRONIC EQUIPMENT RACK, ",
+    "resposta": "A antena HF descrita no manual é uma antena HF (High Frequency) utilizada para comunicação de alta frequência. Não há informações específicas sobre o tipo de antena (parabólica, direcional, omnidirecional, etc.) no contexto fornecido.\n\nDetalhes técnicos:\n\n* A antena HF é conectada ao HF antenna coupler (coupelador de antena HF), que é responsável por controlar a frequência e a potência da antena.\n* A antena HF é utilizada para transmitir e receber sinais de alta frequência, com uma potência de saída de 400 watts PEP (Peak Envelope Power).\n* A antena HF é equipada com um sistema de resfriamento forçado para evitar sobreaquecimento dos circuitos durante a transmissão.\n\nReferência à fonte:\n\n* De acordo com o manual ATA 29 (ou 23___084.PDF), a antena HF é descrita como uma antena de alta frequência utilizada para comunicação de alta frequência.\n* Conforme o capítulo 32 do AMM (Aircraft Maintenance Manual), a antena HF é equipada com um sistema de resfriamento forçado para evitar sobreaquecimento dos circuitos durante a transmissão.",
+    "resposta_detalhada": "A antena HF descrita no manual é uma antena HF (High Frequency) utilizada para comunicação de alta frequência. Não há informações específicas sobre o tipo de antena (parabólica, direcional, omnidirecional, etc.) no contexto fornecido.\n\nDetalhes técnicos:\n\n* A antena HF é conectada ao HF antenna coupler (coupelador de antena HF), que é responsável por controlar a frequência e a potência da antena.\n* A antena HF é utilizada para transmitir e receber sinais de alta frequência, com uma potência de saída de 400 watts PEP (Peak Envelope Power).\n* A antena HF é equipada com um sistema de resfriamento forçado para evitar sobreaquecimento dos circuitos durante a transmissão.\n\nReferência à fonte:\n\n* De acordo com o manual ATA 29 (ou 23___084.PDF), a antena HF é descrita como uma antena de alta frequência utilizada para comunicação de alta frequência.\n* Conforme o capítulo 32 do AMM (Aircraft Maintenance Manual), a antena HF é equipada com um sistema de resfriamento forçado para evitar sobreaquecimento dos circuitos durante a transmissão.",
+    "tempo_segundos": 11.528,
     "metadados_llm": {
       "status": "ok",
       "tokens": {
-        "prompt_tokens": 3216,
-        "total_tokens": 3481,
-        "completion_tokens": 265,
+        "prompt_tokens": 1987,
+        "total_tokens": 2271,
+        "completion_tokens": 284,
         "prompt_tokens_details": null
       },
       "finish_reason": "stop"
     },
     "metricas": {
-      "precisao": 0.0244,
-      "completude": 0.8359,
+      "precisao": 0.1667,
+      "completude": 0.9945,
       "especificidade": 1.0,
-      "rastreabilidade": 0.6667,
-      "confianca": 0.5
-    },
-    "score_final": 56.63,
-    "ground_truth": "208.10 polegadas",
-    "ragas_metrics": {
-      "faithfulness": 0.0,
-      "answer_relevancy": 0.0,
-      "context_precision": 0.0,
-      "context_recall": 0.0,
-      "answer_correctness": 1.0,
-      "answer_similarity": 0.5,
-      "numeric_verified": true
-    },
-    "ragas_score": 0.3571,
-    "numeric_check": {
-      "gt_value": 208.1,
-      "answer_value": 208.1,
-      "gt_unit": "in",
-      "answer_unit": null,
-      "gt_comparison": "=",
-      "numeric_match": true,
-      "unit_match": true
-    }
-  },
-  {
-    "timestamp": "2026-09-17T03:47:26.346906",
-    "abordagem": "faiss",
-    "pergunta": "Qual é a distância em polegadas entre o BSTA (ponto 130.00) e a BWL 208.10 (topo da viga principal do piso) na aeronave 737‑300/400/500?",
-    "documentos_recuperados": [
-      "33___084.PDF",
-      "71_C__084.PDF",
-      "06___084.PDF",
-      "09___084.PDF",
-      "10___084.PDF"
-    ],
-    "contexto_usado": "[Fonte: 33___084.PDF (cosseno 0.0122)]\nCHAPTER\n33\nLIGHTS\nPJW\n33-EFFECTIVEPAGES\n1thru4 SEP25/2016\n33-CONTENTS\n1 Mar25/2015\n2 Mar25/2015\n3 Mar25/2016\n4 Mar25/2016\n5 Mar25/2016\n6 Mar25/2016\n7 Mar25/2015\n8 Sep25/2015\n9 Sep25/2015\n10 Sep25/2015\n11 Sep25/2015\n12 Sep25/2015\n33-00-00\n1 Mar25/2015\n2 BLANK\n33-11-00\n1 Mar25/2015\n2 Mar25/2015\n3 Mar25/2015\n4 Mar25/2015\n5 Mar25/2015\n6 BLANK\n33-11-00\n101 Mar25/2015\n102 Mar25/2015\n103 Mar25/2015\n104 BLANK\n33-11-00\n201 Mar25/2015\n202 Mar25/2015\n203 Mar25/2015\n20",
-    "resposta": "De acordo com o manual de manutenção da aeronave Boeing 737-300/400/500, especificamente no capítulo 06 - DIMENSÕES E ÁREAS, a distância entre o BSTA (ponto 130.00) e a BWL 208.10 (topo da viga principal do piso) pode ser encontrada na tabela de dimensões da aeronave.\n\nNo capítulo 06, na seção 06-13-00 - PRINCIPAL DIMENSÕES E ÁREAS, há uma tabela que lista as dimensões da aeronave, incluindo a distância entre o BSTA e a BWL 208.10.\n\nSegundo a tabela, a distância entre o BSTA (ponto 130.00) e a BWL 208.10 (topo da viga principal do piso) é de 72,5 polegadas.\n\nReferência: \n- Manual de manutenção da aeronave Boeing 737-300/400/500, capítulo 06 - DIMENSÕES E ÁREAS, seção 06-13-00 - PRINCIPAL DIMENSÕES E ÁREAS.",
-    "tempo_segundos": 7.468,
-    "metadados_llm": {
-      "status": "ok",
-      "tokens": {
-        "prompt_tokens": 3117,
-        "total_tokens": 3377,
-        "completion_tokens": 260,
-        "prompt_tokens_details": null
-      },
-      "finish_reason": "stop"
-    },
-    "metricas": {
-      "precisao": 0.0385,
-      "completude": 0.8742,
-      "especificidade": 1.0,
-      "rastreabilidade": 0.6667,
+      "rastreabilidade": 1.0,
       "confianca": 1.0
     },
-    "score_final": 63.01,
-    "ground_truth": "78.10 polegadas",
+    "score_final": 74.86,
+    "tokens_estimados": 1176,
+    "ground_truth": "A antena HF é uma antena de slot flush‑mounted que faz parte da borda de frente do estabilizador vertical.",
     "ragas_metrics": {
-      "faithfulness": 0.0,
+      "faithfulness": 1.0,
       "answer_relevancy": 1.0,
-      "context_precision": 0.0,
-      "context_recall": 0.0,
-      "answer_correctness": 0.0,
-      "answer_similarity": 0.2,
-      "numeric_verified": false
+      "context_precision": 1.0,
+      "context_recall": 1.0,
+      "answer_correctness": 1.0,
+      "answer_similarity": 1.0
     },
-    "ragas_score": 0.1714,
+    "ragas_score": 1.0,
     "numeric_check": {
-      "gt_value": 78.1,
-      "answer_value": 130.0,
-      "gt_unit": "in",
-      "answer_unit": "in",
+      "gt_value": null,
+      "answer_value": 400.0,
+      "gt_unit": null,
+      "answer_unit": null,
       "gt_comparison": "=",
-      "numeric_match": false,
-      "unit_match": true
+      "numeric_match": null,
+      "unit_match": null
     }
   },
   {
-    "timestamp": "2026-09-17T03:47:34.434258",
-    "abordagem": "faiss",
-    "pergunta": "Qual é a distância em polegadas entre a BWL 0.00 e a superfície mais baixa do fuselagem (BWL 0.00 está 148.5 polegadas abaixo da superfície mais baixa)?",
+    "timestamp": "2026-09-19T00:42:10.499088",
+    "abordagem": "faiss_nvidia",
+    "pergunta": "Qual é a função do aquecedor de combustível servo dentro do sistema de controle de combustível, e por que manter a temperatura do combustível alta é importante?",
     "documentos_recuperados": [
-      "33___084.PDF",
-      "71_C__084.PDF",
-      "10___084.PDF",
-      "21___084.PDF",
-      "38___084.PDF"
+      "49__D_084.PDF",
+      "73_C__084.PDF",
+      "73_C__084.PDF",
+      "49__D_084.PDF",
+      "21___084.PDF"
     ],
-    "contexto_usado": "[Fonte: 33___084.PDF (cosseno 0.0103)]\nCHAPTER\n33\nLIGHTS\nPJW\n33-EFFECTIVEPAGES\n1thru4 SEP25/2016\n33-CONTENTS\n1 Mar25/2015\n2 Mar25/2015\n3 Mar25/2016\n4 Mar25/2016\n5 Mar25/2016\n6 Mar25/2016\n7 Mar25/2015\n8 Sep25/2015\n9 Sep25/2015\n10 Sep25/2015\n11 Sep25/2015\n12 Sep25/2015\n33-00-00\n1 Mar25/2015\n2 BLANK\n33-11-00\n1 Mar25/2015\n2 Mar25/2015\n3 Mar25/2015\n4 Mar25/2015\n5 Mar25/2015\n6 BLANK\n33-11-00\n101 Mar25/2015\n102 Mar25/2015\n103 Mar25/2015\n104 BLANK\n33-11-00\n201 Mar25/2015\n202 Mar25/2015\n203 Mar25/2015\n20",
-    "resposta": "Resposta direta:\nA distância entre a BWL 0.00 e a superfície mais baixa do fuselagem (BWL 0.00 está 148.5 polegadas abaixo da superfície mais baixa) não está disponível nos manuais fornecidos.\n\nDetalhes técnicos:\nOs manuais fornecidos não contêm informações sobre a distância entre a BWL 0.00 e a superfície mais baixa do fuselagem. No entanto, é possível que essa informação esteja disponível em outros manuais ou fontes de dados.\n\nReferência à fonte:\nNenhum manual fornecido contém a informação solicitada.",
-    "tempo_segundos": 8.082,
+    "contexto_usado": "[Fonte: 49__D_084.PDF (similaridade 0.3728)]\nm of the fuel heater. The main check valve keeps the fuel in the fuel pump. To start the APU, a positive fuel pressure is kept by the main check valve. B. The check valve for the flow control valve is installed in the fuel heating system. The check valve for the flow control valve closes when fuel heating is not necessary and keeps the fuel out of the bleed air duct. An air regulator valve that monitors the fuel temperature makes the fuel heating system operate automatically. When the fuel temperature in the air regulator valve falls to a specified value, the air regulator valve will open. When the air regulator valve opens, hot air from the APU bleed port goes into the fuel heater. 9. Operation (Figure 2 ) A. All of the components of the APU fuel system are automatically controlled. When the APU master switch is moved to the START position, the APU fuel valve opens. This permits the fuel from the No. 1 fuel tank to flow to the fuel control unit. The fuel control unit is full of fuel at all times. The fuel pump supplies a high-pressure fuel to the fuel solenoid valve when the APU engine turns. When the oil pressure increases to approximately 4.0 psig (27.6 kPa), the sequencing swit\n\n---\n\n[Fonte: 73_C__084.PDF (similaridade 0.3700)]\nve for deceleration versus acceleration. The deceleration fuel flow schedule is established at a rate which would prevent the engine from incurring a flame-out due to too much reduction in fuel flow relative to the air supplied by the compressor. g) Surge Limit <1> The jump rate limiter valve is incorporated between the governor pilot valve and the governor servo piston to prevent unwanted fuel flow transients. h) Fuel Metering <1> The MEC meters fuel by varying the area of the fuel metering valve orifice while maintaining a constant pressure drop across the metering valve orifice. The bypass valve maintains the constant pressure drop by varying the quantity of excess fuel (bypass) returned to the fuel pump. The bypass pressure, PB, is used as a reference pressure in the control servo mechanisms. i) Fuel Metering Valve Operation EFFECTIVITY RAM ALL 73-21-00 Page 21 D6-37569 Mar 25/2015 BOEING PROPRIETARY - Copyright © Unpublished Work - See title page for details CFM56 ENGINES (CFM56-3) 737-300/400/500 AIRCRAFT MAINTENANCE MANUAL <1> The fuel metering valve is actuated by the governor servo piston on command from the governor pilot valve or limit pilot valve during acceleration or \n\n---\n\n[Fonte: 73_C__084.PDF (similaridade 0.3618)]\nMITTER SERVO FUEL HEATER OIL/FUEL HEAT EXCHANGER ACCESSORY GEARBOX FUEL INLET FWD B PB LINE MAIN ENGINE CONTROL FUEL PUMP FUEL FILTER LUBRICATION UNIT A 1378930 S00041251241_V1 Fuel Distribution System Component Location Figure 1/73-11-00-990-801-C00 (Sheet 3 of 4) EFFECTIVITY RAM ALL 73-11-00 Page 4 D6-37569 Mar 25/2015 BOEING PROPRIETARY - Copyright © Unpublished Work - See title page for details CFM56 ENGINES (CFM56-3) 737-300/400/500 AIRCRAFT MAINTENANCE MANUAL SEE A SEE B HORIZONTAL FUEL FLOW DRIVE SHAFT TRANSMITTER SERVO FUEL HEATER OIL/FUEL HEAT EXCHANGER ACCESSORY GEARBOX FUEL INLET FWD B MAIN ENGINE CONTROL FUEL PUMP FUEL FILTER LUBRICATION UNIT A 1379076 S00041251243_V1 Fuel Distribution System Component Location Figure 1/73-11-00-990-801-C00 (Sheet 4 of 4) EFFECTIVITY RAM ALL 73-11-00 Page 5 D6-37569 Mar 25/2015 BOEING PROPRIETARY - Copyright © Unpublished Work - See title page for details CFM56 ENGINES (CFM56-3) 737-300/400/500 AIRCRAFT MAINTENANCE MANUAL 2. Fuel Pump (Figure 1) A. The fuel pump is located on the accessory gearbox (AGB) aft face between the horizontal drive shaft housing and the lubrication unit at the 8 o'clock position. The fuel pump pressurizes and s\n\n---\n\n[Fonte: 49__D_084.PDF (similaridade 0.3614)]\n00/500 AIRCRAFT MAINTENANCE MANUAL SEE A CHECK VALVE FOR THE FUEL HEATER LOW-PRESSURE FUEL HEATER FUEL LINE LOW-PRESSURE FUEL FILTER FUEL HIGH-PRESSURE CONTROL FUEL FILTER UNIT HIGH-PRESSURE FUEL FUEL LINE SOLENOID VALVE FWD A 386023 S00041242902_V1 APU Fuel System Component Location Figure 1/49-31-00-990-801-D00 EFFECTIVITY RAM 003-006, 501-999; APU WITH TAFCU 49-31-00 Page 2 D6-37569 Mar 25/2015 BOEING PROPRIETARY - Copyright © Unpublished Work - See title page for details GTCP85-129 SERIES ENGINES 737-300/400/500 AIRCRAFT MAINTENANCE MANUAL SEE A UPPER SHROUD EXHAUST PORT FUEL DRAIN HOUSING DRAIN REDUCER DRAIN LINE FWD A 386096 S00041242904_V1 Fuel Drain, APU Fuel System Component Location - APU Compartment Figure 2/49-31-00-990-802-D00 EFFECTIVITY RAM 003-006, 501-999; APU WITH ELECTRONIC 49-31-00 TEMPERATURE CONTROL (ETC) AND APU WITH FUEL DRAIN HOUSING Page 3 D6-37569 Mar 25/2015 BOEING PROPRIETARY - Copyright © Unpublished Work - See title page for details GTCP85-129 SERIES ENGINES 737-300/400/500 AIRCRAFT MAINTENANCE MANUAL 4. Fuel Control Unit (Figure 1) A. The fuel control unit supplies the pressurized fuel to the combustion chamber. The fuel control unit has a fuel pump,\n\n---\n\n[Fonte: 21___084.PDF (similaridade 0.3523)]\nd to a desired value by the PILOT PRESSURE REGULATOR. As the air pressure increases and overcomes the actuator spring force, the valve opens. The valve opening allows flow to the venturi sense port and dowstream sense port. E. Venturi throat pressure is sensed by the venturi sensing port and is ducted to chamber B of the high flow servo assembly. Increasing airflow through the venturi body assembly results in decreasing pressure in chamber B. F. The downstream sensing port senses total pressure which is ducted to chambers C and D of the high flow servo assembly. Increasing airflow through the venturi results in an increasing total pressure. G. The servo valve is spring loaded closed. As airflow increases, chamber B pressure decreases and chamber C pressure increases until, at a calibrated airflow through the venturi, the differential pressure of chambers B and C overcome the spring force and open the servo valve. H. Opening the servo valve bleeds air pressure from chamber A, and spring force moves the butterfly towards the closed position, decreasing airflow. As airflow decreases, chamber B pressure rises and chamber C pressure drops. The resultant decrease in differential pressure",
+    "contexto_preview": "[Fonte: 49__D_084.PDF (similaridade 0.3728)]\nm of the fuel heater. The main check valve keeps the fuel in the fuel pump. To start the APU, a positive fuel pressure is kept by the main check valve. B. The check valve for the flow control valve is installed in the fuel heating system. The check valve for the flow control valve closes when fuel heating is not necessary and keeps the fuel out of the bleed air duct. An air regulator valve that monitors the fuel temperature makes the fuel heating syst",
+    "resposta": "A função do aquecedor de combustível servo (Fuel Heater Servo) dentro do sistema de controle de combustível é manter a temperatura do combustível dentro de um intervalo adequado para garantir a operação correta do motor. De acordo com o manual ATA 29, o aquecedor de combustível servo é responsável por fornecer calor ao combustível para manter sua temperatura acima de um valor mínimo, geralmente em torno de 38°C (100°F).\n\nManter a temperatura do combustível alta é importante porque:\n\n* Evita a formação de condensado no combustível, o que pode causar problemas de fluxo e reduzir a eficiência do motor.\n* Ajuda a manter a viscosidade do combustível dentro de um intervalo adequado, o que é importante para a operação correta do motor.\n* Reduz a probabilidade de queimada de combustível, o que pode causar danos ao motor.\n\nAlém disso, a temperatura do combustível também afeta a performance do motor. Uma temperatura do combustível muito baixa pode reduzir a potência do motor, enquanto uma temperatura muito alta pode causar sobreaquecimento e danos ao motor.\n\nReferência:\n* Manual ATA 29, \"Fuel System\"\n* Manual 49__D_084.PDF, \"APU Fuel System Component Location\"\n* Manual 73_C__084.PDF, \"Fuel Metering Valve Operation\"",
+    "resposta_detalhada": "A função do aquecedor de combustível servo (Fuel Heater Servo) dentro do sistema de controle de combustível é manter a temperatura do combustível dentro de um intervalo adequado para garantir a operação correta do motor. De acordo com o manual ATA 29, o aquecedor de combustível servo é responsável por fornecer calor ao combustível para manter sua temperatura acima de um valor mínimo, geralmente em torno de 38°C (100°F).\n\nManter a temperatura do combustível alta é importante porque:\n\n* Evita a formação de condensado no combustível, o que pode causar problemas de fluxo e reduzir a eficiência do motor.\n* Ajuda a manter a viscosidade do combustível dentro de um intervalo adequado, o que é importante para a operação correta do motor.\n* Reduz a probabilidade de queimada de combustível, o que pode causar danos ao motor.\n\nAlém disso, a temperatura do combustível também afeta a performance do motor. Uma temperatura do combustível muito baixa pode reduzir a potência do motor, enquanto uma temperatura muito alta pode causar sobreaquecimento e danos ao motor.\n\nReferência:\n* Manual ATA 29, \"Fuel System\"\n* Manual 49__D_084.PDF, \"APU Fuel System Component Location\"\n* Manual 73_C__084.PDF, \"Fuel Metering Valve Operation\"",
+    "tempo_segundos": 8.258,
     "metadados_llm": {
       "status": "ok",
       "tokens": {
-        "prompt_tokens": 3336,
-        "total_tokens": 3486,
-        "completion_tokens": 150,
+        "prompt_tokens": 1949,
+        "total_tokens": 2260,
+        "completion_tokens": 311,
         "prompt_tokens_details": null
       },
       "finish_reason": "stop"
     },
     "metricas": {
-      "precisao": 0.0303,
-      "completude": 0.96,
-      "especificidade": 0.3333,
-      "rastreabilidade": 0.6667,
-      "confianca": 0.5
+      "precisao": 0.1818,
+      "completude": 0.9337,
+      "especificidade": 0.6667,
+      "rastreabilidade": 1.0,
+      "confianca": 1.0
     },
-    "score_final": 46.58,
-    "ground_truth": "148.5 polegadas",
+    "score_final": 67.13,
+    "tokens_estimados": 1178,
+    "ground_truth": "O aquecedor de combustível servo mantém a temperatura do combustível suficientemente alta para impedir a formação de gelo que poderia entrar e danificar os servos do MEC.",
     "ragas_metrics": {
       "faithfulness": 1.0,
-      "answer_relevancy": 0.0,
-      "context_precision": 0.0,
-      "context_recall": 0.0,
+      "answer_relevancy": 1.0,
+      "context_precision": 1.0,
+      "context_recall": 1.0,
+      "answer_correctness": 1.0,
+      "answer_similarity": 1.0
+    },
+    "ragas_score": 1.0,
+    "numeric_check": {
+      "gt_value": null,
+      "answer_value": 29.0,
+      "gt_unit": null,
+      "answer_unit": "deg",
+      "gt_comparison": "=",
+      "numeric_match": null,
+      "unit_match": null
+    }
+  },
+  {
+    "timestamp": "2026-09-19T00:42:20.532576",
+    "abordagem": "faiss_nvidia",
+    "pergunta": "Qual é o tempo máximo que o freio de estacionamento pode permanecer engajado antes de ser necessário re-pressurizar o sistema B?",
+    "documentos_recuperados": [
+      "31___084.PDF",
+      "32___084.PDF",
+      "29___084.PDF",
+      "29___084.PDF",
+      "27___084.PDF"
+    ],
+    "contexto_usado": "[Fonte: 31___084.PDF (similaridade 0.2871)]\nALLONS (1675 LBS/760 KG) OF FUEL. YOU MUST LET THE RESERVOIR TEMPERATURE DECREASE TO AMBIENT TEMPERATURE BEFORE YOU OPERATE THE PUMP AGAIN. DAMAGE TO THE EQUIPMENT CAN OCCUR. (a) Supply hydraulic pressure for system B. To supply hydraulic pressure for system B, do this task: Pressurize the A, B, or Standby Hydraulic System, TASK 29-15-00-862-001. EFFECTIVITY RAM 003-006, 501-999 31-24-61 Page 410 D6-37569 Mar 25/2015 BOEING PROPRIETARY - Copyright © Unpublished Work - See title page for details 737-300/400/500 AIRCRAFT MAINTENANCE MANUAL 1) Make sure system A does not have hydraulic pressure. If system A has hydraulic pressure, do this task: Remove Power from the A, B, or Standby Hydraulic System, TASK 29-15-00-862-038. 2) Make sure the standby hydraulic system does not have hydraulic pressure. If the standby hydraulic system has pressure, do this task: Remove Power from the A, B, or Standby Hydraulic System, TASK 29-15-00-862-038. (b) For T492, left main brake pressure transmitter, do these steps: 1) Set the portable tester to subframe 0, word 47. 2) Push and hold the captain's left brake pedal fully against the stop. (c) For T493, right main brake pressure transmitter, do these s\n\n---\n\n[Fonte: 32___084.PDF (similaridade 0.2855)]\nSUBTASK 32-44-00-845-016 (7) Pressurize the hydraulic System B for a minimum of 10 minutes to let accumulator temperature stabilize (PAGEBLOCK 29-15-00/201). E. Parking Brake System Accumulator Bleed Down Test - Parking Brake Set SUBTASK 32-44-00-845-017 (1) Push the brake pedals, lift the parking brake lever and release the pedals to set the parking brake. (a) Make sure the parking brake light on the captain's control stand comes on. (b) Make sure the pressure on the brake pressure gage in the cockpit or the brake accumulator gage in the wheel well is 3000 ±100 psi. SUBTASK 32-44-00-845-018 (2) Push the brake pedals fully and release them. (a) Make sure the parking brake releases and the pawls are clear of the lockwire on the brake cable turnbuckle. (b) Make sure the parking brake light is off. SUBTASK 32-44-00-845-019 (3) Set the parking brake and remove the pressure from hydraulic System B (PAGEBLOCK 29-15-00/201) NOTE: This step keeps the brake system pressurized with the accumulator. SUBTASK 32-44-00-725-020 (4) Make sure the parking brake light on the captain's control stand comes on. SUBTASK 32-44-00-725-021 (5) Do a check of brake pressure at the end of any of the time peri\n\n---\n\n[Fonte: 29___084.PDF (similaridade 0.2825)]\nh to the pressure line of the system B EDP. SUBTASK 29-00-00-862-154 WARNING: KEEP PERSONS AND EQUIPMENT AWAY FROM ALL CONTROL SURFACES AND THE NOSE GEAR WHEN HYDRAULIC POWER IS SUPPLIED. THE AILERONS, ELEVATORS, RUDDER, FLAPS, SLATS, SPOILERS, STABILIZER , AND THE NOSE GEAR ARE SUPPLIED WITH POWER BY THE HYDRAULIC SYSTEMS. INJURIES TO PERSONS OR DAMAGE TO EQUIPMENT CAN OCCUR WHEN HYDRAULIC POWER IS SUPPLIED. (2) Operate the test bench to pressurize system B to 3000 psi. SUBTASK 29-00-00-862-043 (3) Push down and hold the TRANSFER VALVE TEST 1 or TRANSFER VALVE TEST 2 switch on the E11 shelf. SUBTASK 29-00-00-862-044 (4) Retract and extend the main and nose landing gear through one full cycle (PAGEBLOCK 32-32-00/501 and PAGEBLOCK 32-33-00/501). Do these at the same time. SUBTASK 29-00-00-862-045 (5) Release the TRANSFER VALVE TEST switch. SUBTASK 29-00-00-862-047 (6) Operate the nose wheel steering through two full cycles (PAGEBLOCK 32-51-00/501). SUBTASK 29-00-00-862-048 (7) Release the pressure from the test bench. SUBTASK 29-00-00-862-134 (8) Open these circuit breakers and attach a DO-NOT-CLOSE tag: (a) P6 panel, 1) LG SYS XFR VALVE PRI CONT 2) LG SYS XFR VALVE SEC CONT SUBTASK\n\n---\n\n[Fonte: 29___084.PDF (similaridade 0.2799)]\nY EXTENDED, FLUID FLOW WILL BE DECREASED OR STOPPED. THIS CAN CAUSE DAMAGE TO THE RESERVOIR OR THE PUMP. (7) Connect the supply line for the standby EMDP to the quick-disconnect fitting on the bottom of the standby reservoir. SUBTASK 29-15-00-485-120 (8) Use a T-fitting to connect a pressure gage to the pressure line from the standby EMDP. SUBTASK 29-15-00-485-121 (9) Connect the pressure line from the standby EMDP to the pressure line on the airplane at the self-seal disconnect. SUBTASK 29-15-00-435-122 (10) Connect the electrical connector to the standby EMDP. SUBTASK 29-15-00-735-123 WARNING: MAKE SURE THAT PERSONS AND EQUIPMENT ARE CLEAR OF THE RUDDER, THRUST REVERSERS, AND LEADING EDGE SLATS. THEY CAN MOVE QUICKLY WHEN YOU SUPPLY STANDBY HYDRAULIC POWER. (11) Put the FLT CONTROL A switch (on the P5 panel) in the STDBY RUD position. (a) Make sure the pressure becomes stable at 2800-3200 psig. SUBTASK 29-15-00-735-124 (12) Put the FLT CONTROL A switch in the OFF position. (a) Make sure the standby EMDP stops. SUBTASK 29-15-00-735-125 (13) Put the FLT CONTROL B switch in the STDBY RUD position. (a) Make sure the standby EMDP operates. SUBTASK 29-15-00-735-126 (14) Put the FLT CON\n\n---\n\n[Fonte: 27___084.PDF (similaridade 0.2754)]\nposition. 1) Make sure the speed of the TE flap drive torque tube decreases during the leading edge flap extension. 2) Make sure that system B pressure does not show less than 2325 psi for more than 1 second during the TE flaps extension. 3) Make sure the speed of the TE flap drive torque tube increases when the leading edge flaps and slats are fully extended. 4) Make sure the system B pressure stays between 2325 and 2800 psi while the TE flaps extend to the 5-unit position. (c) Put the flap control lever in the UP detent. 1) Make sure the speed of the TE torque tube decreases during the leading edge flap and slat retraction. 2) Make sure the system B pressure does not show less than 2325 psi for more than 1 second during the TE flaps retraction. 3) Make sure the speed of the TE torque tubes increases when the leading edge flaps and slats are retracted. 4) Make sure the system B pressure stays between 2325 and 2800 psi while the TE flaps retract to the 0-degree position. SUBTASK 27-51-84-864-016 (11) Do this task: \"Hydraulic System B Depressurization\" (PAGEBLOCK 29-15-00/201). END OF TASK EFFECTIVITY RAM ALL 27-51-84 Page 405 D6-37569 Mar 25/2015 BOEING PROPRIETARY - Copyright © Un",
+    "contexto_preview": "[Fonte: 31___084.PDF (similaridade 0.2871)]\nALLONS (1675 LBS/760 KG) OF FUEL. YOU MUST LET THE RESERVOIR TEMPERATURE DECREASE TO AMBIENT TEMPERATURE BEFORE YOU OPERATE THE PUMP AGAIN. DAMAGE TO THE EQUIPMENT CAN OCCUR. (a) Supply hydraulic pressure for system B. To supply hydraulic pressure for system B, do this task: Pressurize the A, B, or Standby Hydraulic System, TASK 29-15-00-862-001. EFFECTIVITY RAM 003-006, 501-999 31-24-61 Page 410 D6-37569 Mar 25/2015 BOEING PROPRIETARY - Copyright © Un",
+    "resposta": "De acordo com o manual ATA 29, especificamente na página 410, o tempo máximo que o freio de estacionamento pode permanecer engajado antes de ser necessário re-pressurizar o sistema B não é explicitamente mencionado. No entanto, é mencionado que o sistema B deve ser re-pressurizado após o freio de estacionamento ser desengajado, conforme descrito no SUBTASK 32-44-00-845-019 (3) do manual.\n\nNo entanto, é possível encontrar uma referência relacionada no manual ATA 29, na página 405, que menciona que o tempo máximo que o freio de estacionamento pode permanecer engajado antes de ser necessário re-pressurizar o sistema B não é explicitamente mencionado, mas é recomendado que o sistema B seja re-pressurizado após o freio de estacionamento ser desengajado.\n\nReferência:\n- Manual ATA 29, página 410.\n- Manual ATA 29, página 405.\n- SUBTASK 32-44-00-845-019 (3) do manual.",
+    "resposta_detalhada": "De acordo com o manual ATA 29, especificamente na página 410, o tempo máximo que o freio de estacionamento pode permanecer engajado antes de ser necessário re-pressurizar o sistema B não é explicitamente mencionado. No entanto, é mencionado que o sistema B deve ser re-pressurizado após o freio de estacionamento ser desengajado, conforme descrito no SUBTASK 32-44-00-845-019 (3) do manual.\n\nNo entanto, é possível encontrar uma referência relacionada no manual ATA 29, na página 405, que menciona que o tempo máximo que o freio de estacionamento pode permanecer engajado antes de ser necessário re-pressurizar o sistema B não é explicitamente mencionado, mas é recomendado que o sistema B seja re-pressurizado após o freio de estacionamento ser desengajado.\n\nReferência:\n- Manual ATA 29, página 410.\n- Manual ATA 29, página 405.\n- SUBTASK 32-44-00-845-019 (3) do manual.",
+    "tempo_segundos": 9.248,
+    "metadados_llm": {
+      "status": "ok",
+      "tokens": {
+        "prompt_tokens": 2154,
+        "total_tokens": 2397,
+        "completion_tokens": 243,
+        "prompt_tokens_details": null
+      },
+      "finish_reason": "stop"
+    },
+    "metricas": {
+      "precisao": 0.0625,
+      "completude": 0.8984,
+      "especificidade": 1.0,
+      "rastreabilidade": 1.0,
+      "confianca": 0.5
+    },
+    "score_final": 64.33,
+    "tokens_estimados": 1147,
+    "ground_truth": "8 horas.",
+    "ragas_metrics": {
+      "faithfulness": 1.0,
+      "answer_relevancy": 1.0,
+      "context_precision": 1.0,
+      "context_recall": 1.0,
       "answer_correctness": 0.0,
       "answer_similarity": 1.0,
       "numeric_verified": false
     },
-    "ragas_score": 0.2857,
+    "ragas_score": 0.7143,
     "numeric_check": {
-      "gt_value": 148.5,
-      "answer_value": 0.0,
-      "gt_unit": "in",
-      "answer_unit": "in",
+      "gt_value": 8.0,
+      "answer_value": 29.0,
+      "gt_unit": null,
+      "answer_unit": null,
       "gt_comparison": "=",
       "numeric_match": false,
       "unit_match": true
